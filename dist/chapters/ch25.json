@@ -1,0 +1,331 @@
+{
+  "chapter": 25,
+  "title": "お客さまがきた",
+  "arc": "C",
+  "arcPosition": "7/9",
+  "arcLabel": "Arc C — Strange Shadows",
+  "grammarStep": 18,
+  "grammarName": "Polite forms: ます / です (narration-home)",
+  "grammarPatterns": [
+    "V-ます / V-ません / V-ました / V-ませんでした",
+    "N です / N ではありません / でした",
+    "Adj-い です / Adj-な です",
+    "つもり / 考える (intention / thinking)"
+  ],
+  "lengthTarget": [
+    660,
+    990
+  ],
+  "register": "N4",
+  "plotSummary": "A guest arrives at the Moomin house. It is the Hemulen, bumbling, apologetic — he dropped something on the way, he heard something strange in the storm, he intends to come back tomorrow. Moominmamma receives him with complete ます/です politeness. This is the chapter where polite narration becomes formally available: the register that one uses with a feared or unfamiliar guest. The Groke (モラン) is mentioned but does not arrive — she is who the Hemulen thought he saw.",
+  "proper_nouns": [
+    "ムーミン",
+    "ママ",
+    "ヘムレン",
+    "パパ",
+    "モラン"
+  ],
+  "scene": {
+    "location": "ムーミンやしきの玄関",
+    "beat": "A guest arrives. The Hemulen at the door. Polite ます/です takes its home step — because you meet the feared guest politely.",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "ママ",
+      "ヘムレン",
+      "パパ"
+    ],
+    "mentioned": [
+      "モラン"
+    ],
+    "motifs": [
+      "家",
+      "玄関"
+    ]
+  },
+  "continuity": {
+    "from": "ch24 (tent night)",
+    "to": "ch26 (the flower meadow, the stolen handbag)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "narration",
+      "speaker": null,
+      "text": "嵐のあとの夕方、ムーミンの家の玄関で、だれかがドアをたたいた。ムーミンが出てみると、そこにいたのはヘムレンだった。手には大きな袋と、ぬれた帽子を持っている。",
+      "html": "<span class=\"word\" data-lemma=\"嵐\" data-surface=\"嵐\" data-reading=\"あらし\">嵐</span>のあとの<span class=\"word\" data-lemma=\"夕方\" data-surface=\"夕方\" data-reading=\"ゆうがた\">夕方</span>、ムーミンの<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<ruby data-lemma=\"玄関\" data-surface=\"玄関\">玄関<rt>げんかん</rt></ruby>で、だれかがドアをたたいた。ムーミンが<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>てみると、そこにいたのはヘムレンだった。<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>には<span class=\"word\" data-lemma=\"大きな\" data-surface=\"大きな\" data-reading=\"おおきな\">大きな</span><ruby data-lemma=\"袋\" data-surface=\"袋\">袋<rt>ふくろ</rt></ruby>と、ぬれた<span class=\"word\" data-lemma=\"帽子\" data-surface=\"帽子\" data-reading=\"ぼうし\">帽子</span>を<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>ている。",
+      "htmlFull": "<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>のあとの<ruby data-lemma=\"夕方\" data-surface=\"夕方\">夕方<rt>ゆうがた</rt></ruby>、ムーミンの<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"玄関\" data-surface=\"玄関\">玄関<rt>げんかん</rt></ruby>で、だれかがドアをたたいた。ムーミンが<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>てみると、そこにいたのはヘムレンだった。<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>には<ruby data-lemma=\"大きな\" data-surface=\"大きな\">大<rt>おお</rt></ruby>きな<ruby data-lemma=\"袋\" data-surface=\"袋\">袋<rt>ふくろ</rt></ruby>と、ぬれた<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>を<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>っている。"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "ヘムレン",
+      "text": "ああ、ムーミンさん、本当に悪いですね。こんな時間にお邪魔して。",
+      "html": "ああ、ムーミンさん、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に<span class=\"word\" data-lemma=\"悪い\" data-surface=\"悪い\" data-reading=\"わるい\">悪い</span>ですね。こんな<span class=\"word\" data-lemma=\"時間\" data-surface=\"時間\" data-reading=\"じかん\">時間</span>にお<ruby data-lemma=\"邪魔\" data-surface=\"邪魔\">邪魔<rt>じゃま</rt></ruby>して。",
+      "htmlFull": "ああ、ムーミンさん、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に<ruby data-lemma=\"悪い\" data-surface=\"悪い\">悪<rt>わる</rt></ruby>いですね。こんな<ruby data-lemma=\"時間\" data-surface=\"時間\">時間<rt>じかん</rt></ruby>にお<ruby data-lemma=\"邪魔\" data-surface=\"邪魔\">邪魔<rt>じゃま</rt></ruby>して。"
+    },
+    {
+      "id": "p03",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "悪くないよ、ヘムレンさん。中へどうぞ。嵐のなか、大変だったね。",
+      "html": "<span class=\"word\" data-lemma=\"悪い\" data-surface=\"悪く\" data-reading=\"わるく\">悪く</span>ないよ、ヘムレンさん。<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>へどうぞ。<span class=\"word\" data-lemma=\"嵐\" data-surface=\"嵐\" data-reading=\"あらし\">嵐</span>のなか、<span class=\"word\" data-lemma=\"大変\" data-surface=\"大変\" data-reading=\"たいへん\">大変</span>だったね。",
+      "htmlFull": "<ruby data-lemma=\"悪い\" data-surface=\"悪く\">悪<rt>わる</rt></ruby>くないよ、ヘムレンさん。<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>へどうぞ。<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>のなか、<ruby data-lemma=\"大変\" data-surface=\"大変\">大変<rt>たいへん</rt></ruby>だったね。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "ヘムレン",
+      "text": "実は、さっき、下のほうになにかを落としてしまったんです。それを、考えていまして。",
+      "html": "<span class=\"word\" data-lemma=\"実\" data-surface=\"実\" data-reading=\"じつ\">実</span>は、さっき、<span class=\"word\" data-lemma=\"下\" data-surface=\"下\" data-reading=\"した\">下</span>のほうになにかを<span class=\"word\" data-lemma=\"落とす\" data-surface=\"落とし\" data-reading=\"おとし\">落とし</span>てしまったんです。それを、<span class=\"word\" data-lemma=\"考える\" data-surface=\"考え\" data-reading=\"かんがえ\">考え</span>ていまして。",
+      "htmlFull": "<ruby data-lemma=\"実\" data-surface=\"実\">実<rt>じつ</rt></ruby>は、さっき、<ruby data-lemma=\"下\" data-surface=\"下\">下<rt>した</rt></ruby>のほうになにかを<ruby data-lemma=\"落とす\" data-surface=\"落とし\">落<rt>お</rt></ruby>としてしまったんです。それを、<ruby data-lemma=\"考える\" data-surface=\"考え\">考<rt>かんが</rt></ruby>えていまして。"
+    },
+    {
+      "id": "p05",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "まあ、ヘムレンさん、中に入ってください。あとで、みんなでさがしましょう。",
+      "html": "まあ、ヘムレンさん、<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>に<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>てください。あとで、みんなでさがしましょう。",
+      "htmlFull": "まあ、ヘムレンさん、<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>に<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>ってください。あとで、みんなでさがしましょう。"
+    },
+    {
+      "id": "p06",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ヘムレンは玄関の下を、ゆっくり見ていた。ムーミンも、いっしょに下のほうを見て考えた。",
+      "html": "ヘムレンは<ruby data-lemma=\"玄関\" data-surface=\"玄関\">玄関<rt>げんかん</rt></ruby>の<span class=\"word\" data-lemma=\"下\" data-surface=\"下\" data-reading=\"した\">下</span>を、ゆっくり<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ていた。ムーミンも、いっしょに<span class=\"word\" data-lemma=\"下\" data-surface=\"下\" data-reading=\"した\">下</span>のほうを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>て<span class=\"word\" data-lemma=\"考える\" data-surface=\"考え\" data-reading=\"かんがえ\">考え</span>た。",
+      "htmlFull": "ヘムレンは<ruby data-lemma=\"玄関\" data-surface=\"玄関\">玄関<rt>げんかん</rt></ruby>の<ruby data-lemma=\"下\" data-surface=\"下\">下<rt>した</rt></ruby>を、ゆっくり<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ていた。ムーミンも、いっしょに<ruby data-lemma=\"下\" data-surface=\"下\">下<rt>した</rt></ruby>のほうを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>て<ruby data-lemma=\"考える\" data-surface=\"考え\">考<rt>かんが</rt></ruby>えた。"
+    },
+    {
+      "id": "p07",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ぼくも、下に何か落ちていないか、考えてみるよ。",
+      "html": "ぼくも、<span class=\"word\" data-lemma=\"下\" data-surface=\"下\" data-reading=\"した\">下</span>に<span class=\"word\" data-lemma=\"何\" data-surface=\"何\" data-reading=\"なん\">何</span>か<span class=\"word\" data-lemma=\"落ちる\" data-surface=\"落ち\" data-reading=\"おち\">落ち</span>ていないか、<span class=\"word\" data-lemma=\"考える\" data-surface=\"考え\" data-reading=\"かんがえ\">考え</span>てみるよ。",
+      "htmlFull": "ぼくも、<ruby data-lemma=\"下\" data-surface=\"下\">下<rt>した</rt></ruby>に<ruby data-lemma=\"何\" data-surface=\"何\">何<rt>なん</rt></ruby>か<ruby data-lemma=\"落ちる\" data-surface=\"落ち\">落<rt>お</rt></ruby>ちていないか、<ruby data-lemma=\"考える\" data-surface=\"考え\">考<rt>かんが</rt></ruby>えてみるよ。"
+    },
+    {
+      "id": "p08",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "ヘムレンさん、さっきの嵐のときは、すごかったですね。風で、色々なものが飛びました。",
+      "html": "ヘムレンさん、さっきの<span class=\"word\" data-lemma=\"嵐\" data-surface=\"嵐\" data-reading=\"あらし\">嵐</span>のときは、すごかったですね。<span class=\"word\" data-lemma=\"風\" data-surface=\"風\" data-reading=\"ふう\">風</span>で、<span class=\"word\" data-lemma=\"色々\" data-surface=\"色々\" data-reading=\"いろいろ\">色々</span>なものが<span class=\"word\" data-lemma=\"飛ぶ\" data-surface=\"飛び\" data-reading=\"とび\">飛び</span>ました。",
+      "htmlFull": "ヘムレンさん、さっきの<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>のときは、すごかったですね。<ruby data-lemma=\"風\" data-surface=\"風\">風<rt>ふう</rt></ruby>で、<ruby data-lemma=\"色々\" data-surface=\"色々\">色々<rt>いろいろ</rt></ruby>なものが<ruby data-lemma=\"飛ぶ\" data-surface=\"飛び\">飛<rt>と</rt></ruby>びました。"
+    },
+    {
+      "id": "p09",
+      "kind": "dialogue",
+      "speaker": "ヘムレン",
+      "text": "はい、あのときに、なにか聞こえました。モランの声みたいな、変な声が…。",
+      "html": "はい、あのときに、なにか<span class=\"word\" data-lemma=\"聞こえる\" data-surface=\"聞こえ\" data-reading=\"きこえ\">聞こえ</span>ました。モランの<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>みたいな、<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>な<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>が…。",
+      "htmlFull": "はい、あのときに、なにか<ruby data-lemma=\"聞こえる\" data-surface=\"聞こえ\">聞<rt>き</rt></ruby>こえました。モランの<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>みたいな、<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>な<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>が…。"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "モラン？本当に？ちょっと、こわいね。",
+      "html": "モラン？<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に？ちょっと、こわいね。",
+      "htmlFull": "モラン？<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に？ちょっと、こわいね。"
+    },
+    {
+      "id": "p11",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "まあ、大丈夫ですよ。さあ、あたたかいお茶をどうぞ。いいときに来てくださいましたね。",
+      "html": "まあ、<span class=\"word\" data-lemma=\"大丈夫\" data-surface=\"大丈夫\" data-reading=\"だいじょうぶ\">大丈夫</span>ですよ。さあ、あたたかいお<span class=\"word\" data-lemma=\"茶\" data-surface=\"茶\" data-reading=\"ちゃ\">茶</span>をどうぞ。いいときに<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>てくださいましたね。",
+      "htmlFull": "まあ、<ruby data-lemma=\"大丈夫\" data-surface=\"大丈夫\">大丈夫<rt>だいじょうぶ</rt></ruby>ですよ。さあ、あたたかいお<ruby data-lemma=\"茶\" data-surface=\"茶\">茶<rt>ちゃ</rt></ruby>をどうぞ。いいときに<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>てくださいましたね。"
+    },
+    {
+      "id": "p12",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ママは、ていねいにお茶を入れた。ヘムレンは、ゆっくりお茶を飲みながら、何度も「本当に悪いです」とくりかえした。",
+      "html": "ママは、ていねいにお<span class=\"word\" data-lemma=\"茶\" data-surface=\"茶\" data-reading=\"ちゃ\">茶</span>を<span class=\"word\" data-lemma=\"入れる\" data-surface=\"入れ\" data-reading=\"いれ\">入れ</span>た。ヘムレンは、ゆっくりお<span class=\"word\" data-lemma=\"茶\" data-surface=\"茶\" data-reading=\"ちゃ\">茶</span>を<span class=\"word\" data-lemma=\"飲む\" data-surface=\"飲み\" data-reading=\"のみ\">飲み</span>ながら、<span class=\"word\" data-lemma=\"何\" data-surface=\"何\" data-reading=\"なん\">何</span><span class=\"word\" data-lemma=\"度\" data-surface=\"度\" data-reading=\"ど\">度</span>も「<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に<span class=\"word\" data-lemma=\"悪い\" data-surface=\"悪い\" data-reading=\"わるい\">悪い</span>です」とくりかえした。",
+      "htmlFull": "ママは、ていねいにお<ruby data-lemma=\"茶\" data-surface=\"茶\">茶<rt>ちゃ</rt></ruby>を<ruby data-lemma=\"入れる\" data-surface=\"入れ\">入<rt>い</rt></ruby>れた。ヘムレンは、ゆっくりお<ruby data-lemma=\"茶\" data-surface=\"茶\">茶<rt>ちゃ</rt></ruby>を<ruby data-lemma=\"飲む\" data-surface=\"飲み\">飲<rt>の</rt></ruby>みながら、<ruby data-lemma=\"何\" data-surface=\"何\">何<rt>なん</rt></ruby><ruby data-lemma=\"度\" data-surface=\"度\">度<rt>ど</rt></ruby>も「<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に<ruby data-lemma=\"悪い\" data-surface=\"悪い\">悪<rt>わる</rt></ruby>いです」とくりかえした。"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "ヘムレン",
+      "text": "あした、また来るつもりです。下に落としたものを、ちゃんとさがすつもりです。",
+      "html": "あした、また<span class=\"word\" data-lemma=\"来る\" data-surface=\"来る\" data-reading=\"くる\">来る</span>つもりです。<span class=\"word\" data-lemma=\"下\" data-surface=\"下\" data-reading=\"した\">下</span>に<span class=\"word\" data-lemma=\"落とす\" data-surface=\"落とし\" data-reading=\"おとし\">落とし</span>たものを、ちゃんとさがすつもりです。",
+      "htmlFull": "あした、また<ruby data-lemma=\"来る\" data-surface=\"来る\">来<rt>く</rt></ruby>るつもりです。<ruby data-lemma=\"下\" data-surface=\"下\">下<rt>した</rt></ruby>に<ruby data-lemma=\"落とす\" data-surface=\"落とし\">落<rt>お</rt></ruby>としたものを、ちゃんとさがすつもりです。"
+    },
+    {
+      "id": "p14",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ぼくも、あしたいっしょに行くつもりだよ。下のほうを、みんなで考えよう。",
+      "html": "ぼくも、あしたいっしょに<span class=\"word\" data-lemma=\"行く\" data-surface=\"行く\" data-reading=\"いく\">行く</span>つもりだよ。<span class=\"word\" data-lemma=\"下\" data-surface=\"下\" data-reading=\"した\">下</span>のほうを、みんなで<span class=\"word\" data-lemma=\"考える\" data-surface=\"考えよう\" data-reading=\"かんがえよう\">考えよう</span>。",
+      "htmlFull": "ぼくも、あしたいっしょに<ruby data-lemma=\"行く\" data-surface=\"行く\">行<rt>い</rt></ruby>くつもりだよ。<ruby data-lemma=\"下\" data-surface=\"下\">下<rt>した</rt></ruby>のほうを、みんなで<ruby data-lemma=\"考える\" data-surface=\"考えよう\">考<rt>かんが</rt></ruby>えよう。"
+    },
+    {
+      "id": "p15",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "モランのことは、本当に見たのかね？嵐のときは、色々なものが見えるからな。",
+      "html": "モランのことは、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>たのかね？<span class=\"word\" data-lemma=\"嵐\" data-surface=\"嵐\" data-reading=\"あらし\">嵐</span>のときは、<span class=\"word\" data-lemma=\"色々\" data-surface=\"色々\" data-reading=\"いろいろ\">色々</span>なものが<span class=\"word\" data-lemma=\"見える\" data-surface=\"見える\" data-reading=\"みえる\">見える</span>からな。",
+      "htmlFull": "モランのことは、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>たのかね？<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>のときは、<ruby data-lemma=\"色々\" data-surface=\"色々\">色々<rt>いろいろ</rt></ruby>なものが<ruby data-lemma=\"見える\" data-surface=\"見える\">見<rt>み</rt></ruby>えるからな。"
+    },
+    {
+      "id": "p16",
+      "kind": "dialogue",
+      "speaker": "ヘムレン",
+      "text": "そう言われると、自信がありません…。でも、あのとき、たしかに声がしたんです。",
+      "html": "そう<span class=\"word\" data-lemma=\"言う\" data-surface=\"言わ\" data-reading=\"いわ\">言わ</span>れると、<span class=\"word\" data-lemma=\"自信\" data-surface=\"自信\" data-reading=\"じしん\">自信</span>がありません…。でも、あのとき、たしかに<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>がしたんです。",
+      "htmlFull": "そう<ruby data-lemma=\"言う\" data-surface=\"言わ\">言<rt>い</rt></ruby>われると、<ruby data-lemma=\"自信\" data-surface=\"自信\">自信<rt>じしん</rt></ruby>がありません…。でも、あのとき、たしかに<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>がしたんです。"
+    },
+    {
+      "id": "p17",
+      "kind": "narration",
+      "speaker": null,
+      "text": "玄関の時計が、ゆっくり動いていた。ヘムレンの声はていねいで、少し小さい。ママのです／ますは、お客さまに対して、きちんとならんでいた。",
+      "html": "<ruby data-lemma=\"玄関\" data-surface=\"玄関\">玄関<rt>げんかん</rt></ruby>の<span class=\"word\" data-lemma=\"時計\" data-surface=\"時計\" data-reading=\"とけい\">時計</span>が、ゆっくり<span class=\"word\" data-lemma=\"動く\" data-surface=\"動い\" data-reading=\"うごい\">動い</span>ていた。ヘムレンの<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>はていねいで、<span class=\"word\" data-lemma=\"少し\" data-surface=\"少し\" data-reading=\"すこし\">少し</span><span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>。ママのです／ますは、お<span class=\"word\" data-lemma=\"客\" data-surface=\"客\" data-reading=\"きゃく\">客</span>さまに<span class=\"word\" data-lemma=\"対する\" data-surface=\"対し\" data-reading=\"たいし\">対し</span>て、きちんとならんでいた。",
+      "htmlFull": "<ruby data-lemma=\"玄関\" data-surface=\"玄関\">玄関<rt>げんかん</rt></ruby>の<ruby data-lemma=\"時計\" data-surface=\"時計\">時計<rt>とけい</rt></ruby>が、ゆっくり<ruby data-lemma=\"動く\" data-surface=\"動い\">動<rt>うご</rt></ruby>いていた。ヘムレンの<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>はていねいで、<ruby data-lemma=\"少し\" data-surface=\"少し\">少<rt>すこ</rt></ruby>し<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい。ママのです／ますは、お<ruby data-lemma=\"客\" data-surface=\"客\">客<rt>きゃく</rt></ruby>さまに<ruby data-lemma=\"対する\" data-surface=\"対し\">対<rt>たい</rt></ruby>して、きちんとならんでいた。"
+    },
+    {
+      "id": "p18",
+      "kind": "dialogue",
+      "speaker": "ヘムレン",
+      "text": "では、そろそろ帰ります。本当に、ありがとうございました。",
+      "html": "では、そろそろ<span class=\"word\" data-lemma=\"返る\" data-surface=\"帰り\" data-reading=\"かえり\">帰り</span>ます。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に、ありがとうございました。",
+      "htmlFull": "では、そろそろ<ruby data-lemma=\"返る\" data-surface=\"帰り\">帰<rt>かえ</rt></ruby>ります。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に、ありがとうございました。"
+    },
+    {
+      "id": "p19",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "気をつけて、お帰りください。あしたまた、お待ちしています。",
+      "html": "<span class=\"word\" data-lemma=\"気\" data-surface=\"気\" data-reading=\"き\">気</span>をつけて、お<span class=\"word\" data-lemma=\"返る\" data-surface=\"帰り\" data-reading=\"かえり\">帰り</span>ください。あしたまた、お<span class=\"word\" data-lemma=\"待つ\" data-surface=\"待ち\" data-reading=\"まち\">待ち</span>しています。",
+      "htmlFull": "<ruby data-lemma=\"気\" data-surface=\"気\">気<rt>き</rt></ruby>をつけて、お<ruby data-lemma=\"返る\" data-surface=\"帰り\">帰<rt>かえ</rt></ruby>りください。あしたまた、お<ruby data-lemma=\"待つ\" data-surface=\"待ち\">待<rt>ま</rt></ruby>ちしています。"
+    },
+    {
+      "id": "p20",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ヘムレンは、玄関でまた帽子を落とした。ムーミンはそれをひろって、戻した。ヘムレンはもう一度、おじぎをして、「ありがとうございます」と言った。",
+      "html": "ヘムレンは、<ruby data-lemma=\"玄関\" data-surface=\"玄関\">玄関<rt>げんかん</rt></ruby>でまた<span class=\"word\" data-lemma=\"帽子\" data-surface=\"帽子\" data-reading=\"ぼうし\">帽子</span>を<span class=\"word\" data-lemma=\"落とす\" data-surface=\"落とし\" data-reading=\"おとし\">落とし</span>た。ムーミンはそれをひろって、<span class=\"word\" data-lemma=\"戻す\" data-surface=\"戻し\" data-reading=\"もどし\">戻し</span>た。ヘムレンはもう<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いち\">一</span><span class=\"word\" data-lemma=\"度\" data-surface=\"度\" data-reading=\"ど\">度</span>、おじぎをして、「ありがとうございます」と<span class=\"word\" data-lemma=\"言う\" data-surface=\"言っ\" data-reading=\"いっ\">言っ</span>た。",
+      "htmlFull": "ヘムレンは、<ruby data-lemma=\"玄関\" data-surface=\"玄関\">玄関<rt>げんかん</rt></ruby>でまた<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>を<ruby data-lemma=\"落とす\" data-surface=\"落とし\">落<rt>お</rt></ruby>とした。ムーミンはそれをひろって、<ruby data-lemma=\"戻す\" data-surface=\"戻し\">戻<rt>もど</rt></ruby>した。ヘムレンはもう<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いち</rt></ruby><ruby data-lemma=\"度\" data-surface=\"度\">度<rt>ど</rt></ruby>、おじぎをして、「ありがとうございます」と<ruby data-lemma=\"言う\" data-surface=\"言っ\">言<rt>い</rt></ruby>った。"
+    },
+    {
+      "id": "p21",
+      "kind": "narration",
+      "speaker": null,
+      "text": "お客さまは、家の中で、しずかな時間をすごしました。ヘムレンは小さい帽子と大きい袋を持って、ゆっくり外へ出て行きました。",
+      "html": "お<span class=\"word\" data-lemma=\"客\" data-surface=\"客\" data-reading=\"きゃく\">客</span>さまは、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で、しずかな<span class=\"word\" data-lemma=\"時間\" data-surface=\"時間\" data-reading=\"じかん\">時間</span>をすごしました。ヘムレンは<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"帽子\" data-surface=\"帽子\" data-reading=\"ぼうし\">帽子</span>と<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><ruby data-lemma=\"袋\" data-surface=\"袋\">袋<rt>ふくろ</rt></ruby>を<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>て、ゆっくり<span class=\"word\" data-lemma=\"外\" data-surface=\"外\" data-reading=\"そと\">外</span>へ<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>て<span class=\"word\" data-lemma=\"行く\" data-surface=\"行き\" data-reading=\"いき\">行き</span>ました。",
+      "htmlFull": "お<ruby data-lemma=\"客\" data-surface=\"客\">客<rt>きゃく</rt></ruby>さまは、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で、しずかな<ruby data-lemma=\"時間\" data-surface=\"時間\">時間<rt>じかん</rt></ruby>をすごしました。ヘムレンは<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>と<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"袋\" data-surface=\"袋\">袋<rt>ふくろ</rt></ruby>を<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>って、ゆっくり<ruby data-lemma=\"外\" data-surface=\"外\">外<rt>そと</rt></ruby>へ<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>て<ruby data-lemma=\"行く\" data-surface=\"行き\">行<rt>い</rt></ruby>きました。"
+    },
+    {
+      "id": "p22",
+      "kind": "narration",
+      "speaker": null,
+      "text": "あしたまた、来るつもりだ。下に落としたかもしれないものを、さがすつもりだ。",
+      "html": "あしたまた、<span class=\"word\" data-lemma=\"来る\" data-surface=\"来る\" data-reading=\"くる\">来る</span>つもりだ。<span class=\"word\" data-lemma=\"下\" data-surface=\"下\" data-reading=\"した\">下</span>に<span class=\"word\" data-lemma=\"落とす\" data-surface=\"落とし\" data-reading=\"おとし\">落とし</span>たかもしれないものを、さがすつもりだ。",
+      "htmlFull": "あしたまた、<ruby data-lemma=\"来る\" data-surface=\"来る\">来<rt>く</rt></ruby>るつもりだ。<ruby data-lemma=\"下\" data-surface=\"下\">下<rt>した</rt></ruby>に<ruby data-lemma=\"落とす\" data-surface=\"落とし\">落<rt>お</rt></ruby>としたかもしれないものを、さがすつもりだ。"
+    },
+    {
+      "id": "p23",
+      "kind": "narration",
+      "speaker": null,
+      "text": "モランは、本当にそこにいたのか、いなかったのか。嵐のときのことは、もう、だれにもわからない。",
+      "html": "モランは、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にそこにいたのか、いなかったのか。<span class=\"word\" data-lemma=\"嵐\" data-surface=\"嵐\" data-reading=\"あらし\">嵐</span>のときのことは、もう、だれにもわからない。",
+      "htmlFull": "モランは、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にそこにいたのか、いなかったのか。<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>のときのことは、もう、だれにもわからない。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "悪い",
+      "reading": "わるい",
+      "gloss": "bad; I'm sorry (as an apology — '[I'm] bad')",
+      "tier": "focus"
+    },
+    {
+      "lemma": "下",
+      "reading": "した",
+      "gloss": "down, below (spatial)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "つもり",
+      "reading": "つもり",
+      "gloss": "intention; plan to (used as in V-dict + つもり)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "考える",
+      "reading": "かんがえる",
+      "gloss": "to think, to consider",
+      "tier": "focus"
+    },
+    {
+      "lemma": "とき",
+      "reading": "とき",
+      "gloss": "time, occasion, moment (UniDic 時)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "落とす",
+      "reading": "おとす",
+      "gloss": "to drop (transitive)",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [],
+  "glossary": [
+    {
+      "lemma": "悪い",
+      "reading": "わるい",
+      "gloss": "bad; (as apology) I'm sorry",
+      "tier": "focus",
+      "first": "ch25"
+    },
+    {
+      "lemma": "下",
+      "reading": "した",
+      "gloss": "down, below",
+      "tier": "focus",
+      "first": "ch25"
+    },
+    {
+      "lemma": "つもり",
+      "reading": "つもり",
+      "gloss": "intention; plan to (V-dict + つもり = 'intend to V')",
+      "tier": "focus",
+      "first": "ch25"
+    },
+    {
+      "lemma": "考える",
+      "reading": "かんがえる",
+      "gloss": "to think, to consider",
+      "tier": "focus",
+      "first": "ch25"
+    },
+    {
+      "lemma": "とき",
+      "reading": "とき",
+      "gloss": "time, occasion",
+      "tier": "focus",
+      "first": "ch25"
+    },
+    {
+      "lemma": "落とす",
+      "reading": "おとす",
+      "gloss": "to drop (transitive)",
+      "tier": "focus",
+      "first": "ch25"
+    }
+  ],
+  "grammarNotes": [
+    "V-ます — the polite-present form. 考えます = \"[I] think (politely)\"; 落としました = \"[I] dropped (polite past).\" The Hemulen's whole register is polite.",
+    "N + です / でした — the polite copula. ここです = \"[it] is here\"; 悪いです = \"[it] is bad / I'm sorry.\"",
+    "V-dict + つもり — \"intend to V.\" 戻るつもりです = \"[I] intend to return\"; いくつもりだ = \"[I] intend to go.\"",
+    "At this chapter, ます/です is available in narration too — not only in dialogue. The chapter's narration (p24–p25) uses a polite register for the first time: おとしました, のみました.",
+    "The contrast with dialogue: the Hemulen uses keigo-style politeness; Moomintroll's dialogue stays casual (つもりだ, 考える). This is normal in Japanese — register shifts by speaker and listener."
+  ],
+  "illustration": {
+    "scene_note": "The Moomin house front entrance. Rain still falling outside. The Hemulen (tall, earnest creature with a fringed hair and round pince-nez) stands in the doorway with a damp hat and a large bag. Moominmamma greets him with a warm bow. Moomintroll and Moominpappa stand behind her.",
+    "panel_count": 4,
+    "image_prompt": "Medium shot of the Moomin house front entrance at dusk, rain slanting through the open doorway. A tall figure in soaked clothes — ヘムレン — stands on the threshold from outside, a damp hat in one hand and a large carpet-bag in the other. ママ stands inside at left, one hand extended in welcome, warm golden lamp light behind her. ムーミン stands just behind her, wide-eyed. パパ visible deeper inside the hall. Wet gray exterior outside; warm amber interior. Tove Jansson hand-drawn Moomin illustration style, 16:9, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

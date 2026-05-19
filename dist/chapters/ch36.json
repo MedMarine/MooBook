@@ -1,0 +1,311 @@
+{
+  "chapter": 36,
+  "title": "気持ちの話",
+  "arc": "D",
+  "arcPosition": "9/9",
+  "arcLabel": "Arc D — Quiet Rooms",
+  "grammarStep": 22,
+  "grammarName": "Purpose + conditional reprise",
+  "grammarPatterns": [
+    "V-dict + ために / V-neg + ように",
+    "V-ば / V-なら",
+    "話す / きく / 気持ちを〜",
+    "X の気持ち / みんなの気持ち"
+  ],
+  "lengthTarget": [
+    880,
+    1320
+  ],
+  "register": "N4",
+  "plotSummary": "Evening, the Moomin living room. Moominmamma and Moominpappa sit with Moomintroll and talk about the summer — what's been felt, what's been hidden, what the children have been carrying. Moominpappa describes his own boyhood for the first time; Moominmamma gently asks Moomintroll what has been on his mind. The chapter closes Arc D with a quiet register of feelings. Purpose and conditional are reprised — 〜ために / 〜ば / 〜なら — in service of the gentler verb 話す (to talk, to tell).",
+  "proper_nouns": [
+    "ムーミン",
+    "ママ",
+    "パパ"
+  ],
+  "scene": {
+    "location": "ムーミンやしきの居間",
+    "beat": "The living room. Moominmamma and Moominpappa talk about feelings. Emotional vocabulary lands. Purpose + conditional recycled in quieter register.",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "ママ",
+      "パパ"
+    ],
+    "mentioned": [
+      "スニフ",
+      "スナフキン"
+    ],
+    "motifs": [
+      "家",
+      "居間"
+    ]
+  },
+  "continuity": {
+    "from": "ch35 (the cave, Ninny's voice)",
+    "to": "ch37 (Arc E opens — small waves)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "narration",
+      "speaker": null,
+      "text": "夕方。ムーミンやしきの居間にあたたかい灯がともっていた。パパはいすにすわっている。ママはとなりにすわっている。ムーミン夫婦のしずかな時間だ。",
+      "html": "<span class=\"word\" data-lemma=\"夕方\" data-surface=\"夕方\" data-reading=\"ゆうがた\">夕方</span>。ムーミンやしきの<ruby data-lemma=\"居間\" data-surface=\"居間\">居間<rt>いま</rt></ruby>にあたたかい<ruby data-lemma=\"明かり\" data-surface=\"灯\">灯<rt>あかり</rt></ruby>がともっていた。パパはいすにすわっている。ママはとなりにすわっている。ムーミン<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>のしずかな<span class=\"word\" data-lemma=\"時間\" data-surface=\"時間\" data-reading=\"じかん\">時間</span>だ。",
+      "htmlFull": "<ruby data-lemma=\"夕方\" data-surface=\"夕方\">夕方<rt>ゆうがた</rt></ruby>。ムーミンやしきの<ruby data-lemma=\"居間\" data-surface=\"居間\">居間<rt>いま</rt></ruby>にあたたかい<ruby data-lemma=\"明かり\" data-surface=\"灯\">灯<rt>あかり</rt></ruby>がともっていた。パパはいすにすわっている。ママはとなりにすわっている。ムーミン<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>のしずかな<ruby data-lemma=\"時間\" data-surface=\"時間\">時間<rt>じかん</rt></ruby>だ。"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "ムーミン、こっちへいらっしゃい。",
+      "html": "ムーミン、こっちへいらっしゃい。",
+      "htmlFull": "ムーミン、こっちへいらっしゃい。"
+    },
+    {
+      "id": "p03",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンがママのとなりにすわった。ママはやさしい目でムーミンを見た。",
+      "html": "ムーミンがママのとなりにすわった。ママはやさしい<span class=\"word\" data-lemma=\"目\" data-surface=\"目\" data-reading=\"め\">目</span>でムーミンを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。",
+      "htmlFull": "ムーミンがママのとなりにすわった。ママはやさしい<ruby data-lemma=\"目\" data-surface=\"目\">目<rt>め</rt></ruby>でムーミンを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "この夏、いろいろあったわね。あなたの気持ちがちょっと気になるの。",
+      "html": "この<span class=\"word\" data-lemma=\"夏\" data-surface=\"夏\" data-reading=\"なつ\">夏</span>、いろいろあったわね。あなたの<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>がちょっと<span class=\"word\" data-lemma=\"気\" data-surface=\"気\" data-reading=\"き\">気</span>になるの。",
+      "htmlFull": "この<ruby data-lemma=\"夏\" data-surface=\"夏\">夏<rt>なつ</rt></ruby>、いろいろあったわね。あなたの<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちがちょっと<ruby data-lemma=\"気\" data-surface=\"気\">気<rt>き</rt></ruby>になるの。"
+    },
+    {
+      "id": "p05",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "えーと、ぼくの気持ち？",
+      "html": "えーと、ぼくの<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>？",
+      "htmlFull": "えーと、ぼくの<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ち？"
+    },
+    {
+      "id": "p06",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "ええ。話したいことがあるなら、きくわよ。話さないなら、それでもいいのよ。",
+      "html": "ええ。<span class=\"word\" data-lemma=\"話す\" data-surface=\"話し\" data-reading=\"はなし\">話し</span>たいことがあるなら、きくわよ。<span class=\"word\" data-lemma=\"話す\" data-surface=\"話さ\" data-reading=\"はなさ\">話さ</span>ないなら、それでもいいのよ。",
+      "htmlFull": "ええ。<ruby data-lemma=\"話す\" data-surface=\"話し\">話<rt>はな</rt></ruby>したいことがあるなら、きくわよ。<ruby data-lemma=\"話す\" data-surface=\"話さ\">話<rt>はな</rt></ruby>さないなら、それでもいいのよ。"
+    },
+    {
+      "id": "p07",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンはちょっと考えた。気持ちをことばにするのはむずかしい。",
+      "html": "ムーミンはちょっと<span class=\"word\" data-lemma=\"考える\" data-surface=\"考え\" data-reading=\"かんがえ\">考え</span>た。<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>をことばにするのはむずかしい。",
+      "htmlFull": "ムーミンはちょっと<ruby data-lemma=\"考える\" data-surface=\"考え\">考<rt>かんが</rt></ruby>えた。<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちをことばにするのはむずかしい。"
+    },
+    {
+      "id": "p08",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ぼくね、この夏、こわいことがあった。ニンニが見えなかったり、化け物がいたり、タールがあったり。",
+      "html": "ぼくね、この<span class=\"word\" data-lemma=\"夏\" data-surface=\"夏\" data-reading=\"なつ\">夏</span>、こわいことがあった。ニンニが<span class=\"word\" data-lemma=\"見える\" data-surface=\"見え\" data-reading=\"みえ\">見え</span>なかったり、<span class=\"word\" data-lemma=\"化け物\" data-surface=\"化け物\" data-reading=\"ばけもの\">化け物</span>がいたり、タールがあったり。",
+      "htmlFull": "ぼくね、この<ruby data-lemma=\"夏\" data-surface=\"夏\">夏<rt>なつ</rt></ruby>、こわいことがあった。ニンニが<ruby data-lemma=\"見える\" data-surface=\"見え\">見<rt>み</rt></ruby>えなかったり、<ruby data-lemma=\"化け物\" data-surface=\"化け物\">化け物<rt>ばけもの</rt></ruby>がいたり、タールがあったり。"
+    },
+    {
+      "id": "p09",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "わしも子どものときは、こわいことがいっぱいあったんだ。でも、気持ちをだれかに話せば、ちょっと軽くなる。",
+      "html": "わしも<span class=\"word\" data-lemma=\"子供\" data-surface=\"子ども\" data-reading=\"こども\">子ども</span>のときは、こわいことがいっぱいあったんだ。でも、<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>をだれかに<span class=\"word\" data-lemma=\"話す\" data-surface=\"話せ\" data-reading=\"はなせ\">話せ</span>ば、ちょっと<span class=\"word\" data-lemma=\"軽い\" data-surface=\"軽く\" data-reading=\"かるく\">軽く</span>なる。",
+      "htmlFull": "わしも<ruby data-lemma=\"子供\" data-surface=\"子ども\">子<rt>こ</rt></ruby>どものときは、こわいことがいっぱいあったんだ。でも、<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちをだれかに<ruby data-lemma=\"話す\" data-surface=\"話せ\">話<rt>はな</rt></ruby>せば、ちょっと<ruby data-lemma=\"軽い\" data-surface=\"軽く\">軽<rt>かる</rt></ruby>くなる。"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "そうね。聞き出すんじゃない。あなたが話したいときだけ、話せばいいのよ。",
+      "html": "そうね。<span class=\"word\" data-lemma=\"聞き出す\" data-surface=\"聞き出す\" data-reading=\"ききだす\">聞き出す</span>んじゃない。あなたが<span class=\"word\" data-lemma=\"話す\" data-surface=\"話し\" data-reading=\"はなし\">話し</span>たいときだけ、<span class=\"word\" data-lemma=\"話す\" data-surface=\"話せ\" data-reading=\"はなせ\">話せ</span>ばいいのよ。",
+      "htmlFull": "そうね。<ruby data-lemma=\"聞き出す\" data-surface=\"聞き出す\">聞き出<rt>ききだ</rt></ruby>すんじゃない。あなたが<ruby data-lemma=\"話す\" data-surface=\"話し\">話<rt>はな</rt></ruby>したいときだけ、<ruby data-lemma=\"話す\" data-surface=\"話せ\">話<rt>はな</rt></ruby>せばいいのよ。"
+    },
+    {
+      "id": "p11",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ぼく、みんなをまもるために、こわい気持ちをかくしていた。スニフが泣かないように、ぼくは笑っていた。",
+      "html": "ぼく、みんなをまもるために、こわい<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>をかくしていた。スニフが<span class=\"word\" data-lemma=\"泣く\" data-surface=\"泣か\" data-reading=\"なか\">泣か</span>ないように、ぼくは<ruby data-lemma=\"笑う\" data-surface=\"笑っ\">笑<rt>わら</rt></ruby>っていた。",
+      "htmlFull": "ぼく、みんなをまもるために、こわい<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちをかくしていた。スニフが<ruby data-lemma=\"泣く\" data-surface=\"泣か\">泣<rt>な</rt></ruby>かないように、ぼくは<ruby data-lemma=\"笑う\" data-surface=\"笑っ\">笑<rt>わら</rt></ruby>っていた。"
+    },
+    {
+      "id": "p12",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ママがゆっくりうなずいた。パパはパイプを手に持って、しずかに聞いている。",
+      "html": "ママがゆっくりうなずいた。パパはパイプを<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>に<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>て、しずかに<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>ている。",
+      "htmlFull": "ママがゆっくりうなずいた。パパはパイプを<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>に<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>って、しずかに<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いている。"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "かくしていたのね。気持ちの中身を、あなた一人で持っていたの。",
+      "html": "かくしていたのね。<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>の<span class=\"word\" data-lemma=\"中身\" data-surface=\"中身\" data-reading=\"なかみ\">中身</span>を、あなた<span class=\"word\" data-lemma=\"一人\" data-surface=\"一人\" data-reading=\"ひとり\">一人</span>で<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>ていたの。",
+      "htmlFull": "かくしていたのね。<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちの<ruby data-lemma=\"中身\" data-surface=\"中身\">中身<rt>なかみ</rt></ruby>を、あなた<ruby data-lemma=\"一人\" data-surface=\"一人\">一人<rt>ひとり</rt></ruby>で<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>っていたの。"
+    },
+    {
+      "id": "p14",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "うん。でも、もう持てない。ここにおくね。",
+      "html": "うん。でも、もう<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持て\" data-reading=\"もて\">持て</span>ない。ここにおくね。",
+      "htmlFull": "うん。でも、もう<ruby data-lemma=\"持つ\" data-surface=\"持て\">持<rt>も</rt></ruby>てない。ここにおくね。"
+    },
+    {
+      "id": "p15",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンは自分の気持ちをことばにして、ゆっくり話した。洞穴のこと、タールのこと、ミイの花のこと、ニンニの声のこと。ママはだまって聞いていた。パパもだまって聞いていた。夫婦はムーミンの話をじゃましないで、さいごまで聞いた。",
+      "html": "ムーミンは<span class=\"word\" data-lemma=\"自分\" data-surface=\"自分\" data-reading=\"じぶん\">自分</span>の<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>をことばにして、ゆっくり<span class=\"word\" data-lemma=\"話す\" data-surface=\"話し\" data-reading=\"はなし\">話し</span>た。<span class=\"word\" data-lemma=\"洞穴\" data-surface=\"洞穴\" data-reading=\"ほらあな\">洞穴</span>のこと、タールのこと、ミイの<span class=\"word\" data-lemma=\"花\" data-surface=\"花\" data-reading=\"はな\">花</span>のこと、ニンニの<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>のこと。ママはだまって<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>ていた。パパもだまって<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>ていた。<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>はムーミンの<span class=\"word\" data-lemma=\"話\" data-surface=\"話\" data-reading=\"はなし\">話</span>をじゃましないで、さいごまで<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>た。",
+      "htmlFull": "ムーミンは<ruby data-lemma=\"自分\" data-surface=\"自分\">自分<rt>じぶん</rt></ruby>の<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちをことばにして、ゆっくり<ruby data-lemma=\"話す\" data-surface=\"話し\">話<rt>はな</rt></ruby>した。<ruby data-lemma=\"洞穴\" data-surface=\"洞穴\">洞穴<rt>ほらあな</rt></ruby>のこと、タールのこと、ミイの<ruby data-lemma=\"花\" data-surface=\"花\">花<rt>はな</rt></ruby>のこと、ニンニの<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>のこと。ママはだまって<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いていた。パパもだまって<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いていた。<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>はムーミンの<ruby data-lemma=\"話\" data-surface=\"話\">話<rt>はなし</rt></ruby>をじゃましないで、さいごまで<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いた。"
+    },
+    {
+      "id": "p16",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "よく話したね、ムーミン。気持ちは持つためにあるんじゃない。話すためにあるんだ。",
+      "html": "よく<span class=\"word\" data-lemma=\"話す\" data-surface=\"話し\" data-reading=\"はなし\">話し</span>たね、ムーミン。<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>は<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持つ\" data-reading=\"もつ\">持つ</span>ためにあるんじゃない。<span class=\"word\" data-lemma=\"話す\" data-surface=\"話す\" data-reading=\"はなす\">話す</span>ためにあるんだ。",
+      "htmlFull": "よく<ruby data-lemma=\"話す\" data-surface=\"話し\">話<rt>はな</rt></ruby>したね、ムーミン。<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちは<ruby data-lemma=\"持つ\" data-surface=\"持つ\">持<rt>も</rt></ruby>つためにあるんじゃない。<ruby data-lemma=\"話す\" data-surface=\"話す\">話<rt>はな</rt></ruby>すためにあるんだ。"
+    },
+    {
+      "id": "p17",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "あなたが気持ちを話してくれたから、ママもうれしいの。気持ちの中身は、みんなで持つと軽くなるのよ。",
+      "html": "あなたが<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>を<span class=\"word\" data-lemma=\"話す\" data-surface=\"話し\" data-reading=\"はなし\">話し</span>てくれたから、ママもうれしいの。<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>の<span class=\"word\" data-lemma=\"中身\" data-surface=\"中身\" data-reading=\"なかみ\">中身</span>は、みんなで<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持つ\" data-reading=\"もつ\">持つ</span>と<span class=\"word\" data-lemma=\"軽い\" data-surface=\"軽く\" data-reading=\"かるく\">軽く</span>なるのよ。",
+      "htmlFull": "あなたが<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちを<ruby data-lemma=\"話す\" data-surface=\"話し\">話<rt>はな</rt></ruby>してくれたから、ママもうれしいの。<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちの<ruby data-lemma=\"中身\" data-surface=\"中身\">中身<rt>なかみ</rt></ruby>は、みんなで<ruby data-lemma=\"持つ\" data-surface=\"持つ\">持<rt>も</rt></ruby>つと<ruby data-lemma=\"軽い\" data-surface=\"軽く\">軽<rt>かる</rt></ruby>くなるのよ。"
+    },
+    {
+      "id": "p18",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンはちょっとうれしくて、ちょっとはずかしかった。でも、心の中の大きい重いものがすこし小さくなった。ママのやさしい手がムーミンの頭にのった。「よくがんばったね」とママは言った。外はもう夜。でも、居間はあたたかい。ムーミン夫婦とムーミン子。三人のしずかな気持ちの夕方だった。",
+      "html": "ムーミンはちょっとうれしくて、ちょっとはずかしかった。でも、<span class=\"word\" data-lemma=\"心\" data-surface=\"心\" data-reading=\"こころ\">心</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>の<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"重い\" data-surface=\"重い\" data-reading=\"おもい\">重い</span>ものがすこし<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さく\" data-reading=\"ちいさく\">小さく</span>なった。ママのやさしい<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>がムーミンの<span class=\"word\" data-lemma=\"頭\" data-surface=\"頭\" data-reading=\"あたま\">頭</span>にのった。「よくがんばったね」とママは<span class=\"word\" data-lemma=\"言う\" data-surface=\"言っ\" data-reading=\"いっ\">言っ</span>た。<span class=\"word\" data-lemma=\"外\" data-surface=\"外\" data-reading=\"そと\">外</span>はもう<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>。でも、<ruby data-lemma=\"居間\" data-surface=\"居間\">居間<rt>いま</rt></ruby>はあたたかい。ムーミン<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>とムーミン<span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>。<span class=\"word\" data-lemma=\"三\" data-surface=\"三\" data-reading=\"さん\">三</span><span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"にん\">人</span>のしずかな<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>の<span class=\"word\" data-lemma=\"夕方\" data-surface=\"夕方\" data-reading=\"ゆうがた\">夕方</span>だった。",
+      "htmlFull": "ムーミンはちょっとうれしくて、ちょっとはずかしかった。でも、<ruby data-lemma=\"心\" data-surface=\"心\">心<rt>こころ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>の<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"重い\" data-surface=\"重い\">重<rt>おも</rt></ruby>いものがすこし<ruby data-lemma=\"小さい\" data-surface=\"小さく\">小<rt>ちい</rt></ruby>さくなった。ママのやさしい<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>がムーミンの<ruby data-lemma=\"頭\" data-surface=\"頭\">頭<rt>あたま</rt></ruby>にのった。「よくがんばったね」とママは<ruby data-lemma=\"言う\" data-surface=\"言っ\">言<rt>い</rt></ruby>った。<ruby data-lemma=\"外\" data-surface=\"外\">外<rt>そと</rt></ruby>はもう<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>。でも、<ruby data-lemma=\"居間\" data-surface=\"居間\">居間<rt>いま</rt></ruby>はあたたかい。ムーミン<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>とムーミン<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>。<ruby data-lemma=\"三\" data-surface=\"三\">三<rt>さん</rt></ruby><ruby data-lemma=\"人\" data-surface=\"人\">人<rt>にん</rt></ruby>のしずかな<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちの<ruby data-lemma=\"夕方\" data-surface=\"夕方\">夕方<rt>ゆうがた</rt></ruby>だった。"
+    },
+    {
+      "id": "p19",
+      "kind": "narration",
+      "speaker": null,
+      "text": "この夜、ムーミンはながいあいだママのとなりでじっとすわっていた。話したことが新しい気持ちを作っていた。「あした、ニンニにありがとうって言おう」と、ムーミンは心の中できめた。ムーミンの夏はゆっくりと秋へむかっている。でも、今夜はまだあたたかい。やさしい夜だ。",
+      "html": "この<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>、ムーミンはながいあいだママのとなりでじっとすわっていた。<span class=\"word\" data-lemma=\"話す\" data-surface=\"話し\" data-reading=\"はなし\">話し</span>たことが<span class=\"word\" data-lemma=\"新しい\" data-surface=\"新しい\" data-reading=\"あたらしい\">新しい</span><span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>を<span class=\"word\" data-lemma=\"作る\" data-surface=\"作っ\" data-reading=\"つくっ\">作っ</span>ていた。「あした、ニンニにありがとうって<span class=\"word\" data-lemma=\"言う\" data-surface=\"言おう\" data-reading=\"いおう\">言おう</span>」と、ムーミンは<span class=\"word\" data-lemma=\"心\" data-surface=\"心\" data-reading=\"こころ\">心</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>できめた。ムーミンの<span class=\"word\" data-lemma=\"夏\" data-surface=\"夏\" data-reading=\"なつ\">夏</span>はゆっくりと<span class=\"word\" data-lemma=\"秋\" data-surface=\"秋\" data-reading=\"あき\">秋</span>へむかっている。でも、<span class=\"word\" data-lemma=\"今夜\" data-surface=\"今夜\" data-reading=\"こんや\">今夜</span>はまだあたたかい。やさしい<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>だ。",
+      "htmlFull": "この<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>、ムーミンはながいあいだママのとなりでじっとすわっていた。<ruby data-lemma=\"話す\" data-surface=\"話し\">話<rt>はな</rt></ruby>したことが<ruby data-lemma=\"新しい\" data-surface=\"新しい\">新<rt>あたら</rt></ruby>しい<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちを<ruby data-lemma=\"作る\" data-surface=\"作っ\">作<rt>つく</rt></ruby>っていた。「あした、ニンニにありがとうって<ruby data-lemma=\"言う\" data-surface=\"言おう\">言<rt>い</rt></ruby>おう」と、ムーミンは<ruby data-lemma=\"心\" data-surface=\"心\">心<rt>こころ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>できめた。ムーミンの<ruby data-lemma=\"夏\" data-surface=\"夏\">夏<rt>なつ</rt></ruby>はゆっくりと<ruby data-lemma=\"秋\" data-surface=\"秋\">秋<rt>あき</rt></ruby>へむかっている。でも、<ruby data-lemma=\"今夜\" data-surface=\"今夜\">今夜<rt>こんや</rt></ruby>はまだあたたかい。やさしい<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>だ。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "気持ち",
+      "reading": "きもち",
+      "gloss": "feeling, mood",
+      "tier": "focus"
+    },
+    {
+      "lemma": "夫婦",
+      "reading": "ふうふ",
+      "gloss": "a married couple; husband and wife",
+      "tier": "focus"
+    },
+    {
+      "lemma": "話す",
+      "reading": "はなす",
+      "gloss": "to talk, to tell",
+      "tier": "focus"
+    },
+    {
+      "lemma": "やさしい",
+      "reading": "やさしい",
+      "gloss": "kind, gentle",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [
+    {
+      "lemma": "中身",
+      "reading": "なかみ",
+      "gloss": "contents",
+      "tier": "stretch"
+    },
+    {
+      "lemma": "邪魔",
+      "reading": "じゃま",
+      "gloss": "nuisance",
+      "tier": "stretch"
+    },
+    {
+      "lemma": "聞き出す",
+      "reading": "ききだす",
+      "gloss": "to draw out (a story)",
+      "tier": "stretch"
+    }
+  ],
+  "glossary": [
+    {
+      "lemma": "気持ち",
+      "reading": "きもち",
+      "gloss": "feeling, mood",
+      "tier": "focus",
+      "first": "ch36"
+    },
+    {
+      "lemma": "夫婦",
+      "reading": "ふうふ",
+      "gloss": "married couple",
+      "tier": "focus",
+      "first": "ch36"
+    },
+    {
+      "lemma": "話す",
+      "reading": "はなす",
+      "gloss": "to talk, to tell",
+      "tier": "focus",
+      "first": "ch36"
+    },
+    {
+      "lemma": "やさしい",
+      "reading": "やさしい",
+      "gloss": "kind, gentle",
+      "tier": "focus",
+      "first": "ch36"
+    },
+    {
+      "lemma": "中身",
+      "reading": "なかみ",
+      "gloss": "contents",
+      "tier": "stretch",
+      "first": "ch36"
+    },
+    {
+      "lemma": "邪魔",
+      "reading": "じゃま",
+      "gloss": "nuisance",
+      "tier": "stretch",
+      "first": "ch36"
+    },
+    {
+      "lemma": "聞き出す",
+      "reading": "ききだす",
+      "gloss": "to draw out (a story)",
+      "tier": "stretch",
+      "first": "ch36"
+    }
+  ],
+  "grammarNotes": [
+    "Purpose reprise: \"ぼくを、まもるために、かくしていた\" = \"[I] was hiding [it] in order to protect everyone\"; \"スニフが、泣かないように\" = \"so that Sniff would not cry.\" ために for positive-purpose, ように for negative / non-volitional-purpose.",
+    "Conditional reprise: \"話したいときだけ、話せば、いいのよ\" = \"you only have to talk when you want to talk\"; \"話したいことが、あるなら、きくわよ\" = \"if there are things you want to say, I'll listen.\"",
+    "V-たり, V-たり — listing examples. \"見えなかったり、いたり、あったり\" = \"sometimes [she] wasn't visible, sometimes [they] were there, sometimes [it] was [there].\" N5-N4 listing structure; not a home grammar but contextually natural.",
+    "Moominmamma's register is fully committed here — ですわ/わよ/のよ/のね — warm, adult-female Tokyo vernacular. Moominpappa uses わし (old-man I) and 〜んだ. Moomintroll stays in ぼく + 〜ね.",
+    "えーと — fillers. Moomintroll uses it when he doesn't know how to start."
+  ],
+  "illustration": {
+    "scene_note": "Moomin house living room, evening. A warm lamp on a side table. Moominpappa sits in an armchair with his pipe; Moominmamma sits on a sofa next to Moomintroll, her hand on his shoulder. A window shows dusk outside. A slow, warm, intimate conversation.",
+    "panel_count": 4,
+    "image_prompt": "Medium shot of the Moomin living room in evening lamp light. A rounded sofa and an armchair face each other across a small side table with a single lamp. パパ sits in the armchair at left, pipe resting in his hand. ママ sits on the sofa at right with knitting in her lap, one paw open toward ムーミン, who leans against her side. A window behind them shows dusk settling over the valley outside. Warm amber interior glow, cool blue exterior. Tove Jansson hand-drawn Moomin illustration style, 16:9, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

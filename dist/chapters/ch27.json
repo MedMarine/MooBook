@@ -1,0 +1,345 @@
+{
+  "chapter": 27,
+  "title": "夜の空",
+  "arc": "C",
+  "arcPosition": "9/9",
+  "arcLabel": "Arc C — Strange Shadows",
+  "grammarStep": 19,
+  "grammarName": "Nominalizers reprise + introspective register",
+  "grammarPatterns": [
+    "V-dict + の / こと (reprise)",
+    "V-dict + ことを教える",
+    "Xのが好き / 楽しい / きれい",
+    "しっかり V / ちゃんと V (quality adverbs)"
+  ],
+  "lengthTarget": [
+    700,
+    1050
+  ],
+  "register": "N4",
+  "plotSummary": "A quiet evening on the Moominhouse veranda. Moominmamma and Moomintroll look at the stars; Snufkin joins them with a cup of juice; Moomintroll's head fills with small questions about the stars he sees. Moominmamma teaches him to look, not merely to see. The chapter closes Arc C — the strange-shadows arc — with a register of calm introspection: nominalizers again (教えること, みるのが楽しい), and a first glimpse of the deep N3 motif of arc E.",
+  "proper_nouns": [
+    "ムーミン",
+    "スナフキン",
+    "ママ"
+  ],
+  "scene": {
+    "location": "ムーミンやしきのベランダ（夜）",
+    "beat": "The veranda at night. Mama teaches Moomintroll about the night sky. こと reprise — quieter, more introspective.",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "スナフキン",
+      "ママ"
+    ],
+    "mentioned": [],
+    "motifs": [
+      "夜",
+      "空",
+      "星"
+    ]
+  },
+  "continuity": {
+    "from": "ch26 (the flower meadow)",
+    "to": "ch28 (the kitchen — Arc D begins)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "narration",
+      "speaker": null,
+      "text": "夜になった。ムーミンとママは、家のベランダで、しずかな夜の空を見ていた。やがて、スナフキンもジュースのコップを持って、そっとやって来た。",
+      "html": "<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>になった。ムーミンとママは、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>のベランダで、しずかな<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>の<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ていた。やがて、スナフキンもジュースのコップを<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>て、そっとやって<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。",
+      "htmlFull": "<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>になった。ムーミンとママは、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>のベランダで、しずかな<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>の<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ていた。やがて、スナフキンもジュースのコップを<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>って、そっとやって<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ママ、見て。夜の空、きれいだね。星がたくさん出てるよ。",
+      "html": "ママ、<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>て。<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>の<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>、きれいだね。<span class=\"word\" data-lemma=\"星\" data-surface=\"星\" data-reading=\"ほし\">星</span>がたくさん<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>てるよ。",
+      "htmlFull": "ママ、<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>て。<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>の<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>、きれいだね。<ruby data-lemma=\"星\" data-surface=\"星\">星<rt>ほし</rt></ruby>がたくさん<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>てるよ。"
+    },
+    {
+      "id": "p03",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "ほんとうね。ムーミン、夜の空をちゃんと見るのは、大事なことよ。",
+      "html": "ほんとうね。ムーミン、<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>の<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>をちゃんと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>のは、<span class=\"word\" data-lemma=\"大事\" data-surface=\"大事\" data-reading=\"だいじ\">大事</span>なことよ。",
+      "htmlFull": "ほんとうね。ムーミン、<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>の<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>をちゃんと<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>るのは、<ruby data-lemma=\"大事\" data-surface=\"大事\">大事<rt>だいじ</rt></ruby>なことよ。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ちゃんと見るって、どんなふうに？ぼくにも、教えてよ。",
+      "html": "ちゃんと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>って、どんなふうに？ぼくにも、<span class=\"word\" data-lemma=\"教える\" data-surface=\"教え\" data-reading=\"おしえ\">教え</span>てよ。",
+      "htmlFull": "ちゃんと<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>るって、どんなふうに？ぼくにも、<ruby data-lemma=\"教える\" data-surface=\"教え\">教<rt>おし</rt></ruby>えてよ。"
+    },
+    {
+      "id": "p05",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "速く見るんじゃなくて、ゆっくり、じっと見るの。空にある小さい星も、ちゃんと見つけられるようにね。",
+      "html": "<span class=\"word\" data-lemma=\"早い\" data-surface=\"速く\" data-reading=\"はやく\">速く</span><span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>んじゃなくて、ゆっくり、じっと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>の。<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>にある<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"星\" data-surface=\"星\" data-reading=\"ほし\">星</span>も、ちゃんと<span class=\"word\" data-lemma=\"見付ける\" data-surface=\"見つけ\" data-reading=\"みつけ\">見つけ</span>られるようにね。",
+      "htmlFull": "<ruby data-lemma=\"早い\" data-surface=\"速く\">速<rt>はや</rt></ruby>く<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>るんじゃなくて、ゆっくり、じっと<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>るの。<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>にある<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"星\" data-surface=\"星\">星<rt>ほし</rt></ruby>も、ちゃんと<ruby data-lemma=\"見付ける\" data-surface=\"見つけ\">見<rt>み</rt></ruby>つけられるようにね。"
+    },
+    {
+      "id": "p06",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "そうだよ、ムーミン。空を見るのは、ぼくもとても好きだ。見ていると、頭の中がしずかになる。",
+      "html": "そうだよ、ムーミン。<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>のは、ぼくもとても<ruby data-lemma=\"好き\" data-surface=\"好き\">好<rt>す</rt></ruby>きだ。<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ていると、<span class=\"word\" data-lemma=\"頭\" data-surface=\"頭\" data-reading=\"あたま\">頭</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>がしずかになる。",
+      "htmlFull": "そうだよ、ムーミン。<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>るのは、ぼくもとても<ruby data-lemma=\"好き\" data-surface=\"好き\">好<rt>す</rt></ruby>きだ。<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ていると、<ruby data-lemma=\"頭\" data-surface=\"頭\">頭<rt>あたま</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>がしずかになる。"
+    },
+    {
+      "id": "p07",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンはジュースをゆっくり飲みながら、空をじっと見た。つめたくてすっぱいジュースが、夜の空にとてもいい。",
+      "html": "ムーミンはジュースをゆっくり<span class=\"word\" data-lemma=\"飲む\" data-surface=\"飲み\" data-reading=\"のみ\">飲み</span>ながら、<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>をじっと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。つめたくてすっぱいジュースが、<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>の<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>にとてもいい。",
+      "htmlFull": "ムーミンはジュースをゆっくり<ruby data-lemma=\"飲む\" data-surface=\"飲み\">飲<rt>の</rt></ruby>みながら、<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>をじっと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。つめたくてすっぱいジュースが、<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>の<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>にとてもいい。"
+    },
+    {
+      "id": "p08",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ママ、ぼくの頭の中、いっぱい考えが出てくるよ。夜の空を見るのは、ちゃんと考えることでもあるんだね。",
+      "html": "ママ、ぼくの<span class=\"word\" data-lemma=\"頭\" data-surface=\"頭\" data-reading=\"あたま\">頭</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>、いっぱい<span class=\"word\" data-lemma=\"考え\" data-surface=\"考え\" data-reading=\"かんがえ\">考え</span>が<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>てくるよ。<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>の<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>のは、ちゃんと<span class=\"word\" data-lemma=\"考える\" data-surface=\"考える\" data-reading=\"かんがえる\">考える</span>ことでもあるんだね。",
+      "htmlFull": "ママ、ぼくの<ruby data-lemma=\"頭\" data-surface=\"頭\">頭<rt>あたま</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>、いっぱい<ruby data-lemma=\"考え\" data-surface=\"考え\">考<rt>かんが</rt></ruby>えが<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>てくるよ。<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>の<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>るのは、ちゃんと<ruby data-lemma=\"考える\" data-surface=\"考える\">考<rt>かんが</rt></ruby>えることでもあるんだね。"
+    },
+    {
+      "id": "p09",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "そうね。子供のうちから、夜の空をちゃんと見ることを、わすれないでね。",
+      "html": "そうね。<ruby data-lemma=\"子供\" data-surface=\"子供\">子供<rt>こども</rt></ruby>のうちから、<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>の<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>をちゃんと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>ことを、わすれないでね。",
+      "htmlFull": "そうね。<ruby data-lemma=\"子供\" data-surface=\"子供\">子供<rt>こども</rt></ruby>のうちから、<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>の<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>をちゃんと<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>ることを、わすれないでね。"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "星は、夜にしか見えないからね。ぼくは、星を見るのが、いちばん楽しい。",
+      "html": "<span class=\"word\" data-lemma=\"星\" data-surface=\"星\" data-reading=\"ほし\">星</span>は、<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>にしか<span class=\"word\" data-lemma=\"見える\" data-surface=\"見え\" data-reading=\"みえ\">見え</span>ないからね。ぼくは、<span class=\"word\" data-lemma=\"星\" data-surface=\"星\" data-reading=\"ほし\">星</span>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>のが、いちばん<span class=\"word\" data-lemma=\"楽しい\" data-surface=\"楽しい\" data-reading=\"たのしい\">楽しい</span>。",
+      "htmlFull": "<ruby data-lemma=\"星\" data-surface=\"星\">星<rt>ほし</rt></ruby>は、<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>にしか<ruby data-lemma=\"見える\" data-surface=\"見え\">見<rt>み</rt></ruby>えないからね。ぼくは、<ruby data-lemma=\"星\" data-surface=\"星\">星<rt>ほし</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>るのが、いちばん<ruby data-lemma=\"楽しい\" data-surface=\"楽しい\">楽<rt>たの</rt></ruby>しい。"
+    },
+    {
+      "id": "p11",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "うん、見るのが楽しいね。教えてもらうのも、楽しい。",
+      "html": "うん、<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>のが<span class=\"word\" data-lemma=\"楽しい\" data-surface=\"楽しい\" data-reading=\"たのしい\">楽しい</span>ね。<span class=\"word\" data-lemma=\"教える\" data-surface=\"教え\" data-reading=\"おしえ\">教え</span>てもらうのも、<span class=\"word\" data-lemma=\"楽しい\" data-surface=\"楽しい\" data-reading=\"たのしい\">楽しい</span>。",
+      "htmlFull": "うん、<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>るのが<ruby data-lemma=\"楽しい\" data-surface=\"楽しい\">楽<rt>たの</rt></ruby>しいね。<ruby data-lemma=\"教える\" data-surface=\"教え\">教<rt>おし</rt></ruby>えてもらうのも、<ruby data-lemma=\"楽しい\" data-surface=\"楽しい\">楽<rt>たの</rt></ruby>しい。"
+    },
+    {
+      "id": "p12",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンは頭をあげて、もう一度、空の星をかぞえようとした。でも、星はたくさんあって、かぞえるのはむずかしかった。",
+      "html": "ムーミンは<span class=\"word\" data-lemma=\"頭\" data-surface=\"頭\" data-reading=\"あたま\">頭</span>をあげて、もう<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いち\">一</span><span class=\"word\" data-lemma=\"度\" data-surface=\"度\" data-reading=\"ど\">度</span>、<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>の<span class=\"word\" data-lemma=\"星\" data-surface=\"星\" data-reading=\"ほし\">星</span>をかぞえようとした。でも、<span class=\"word\" data-lemma=\"星\" data-surface=\"星\" data-reading=\"ほし\">星</span>はたくさんあって、かぞえるのはむずかしかった。",
+      "htmlFull": "ムーミンは<ruby data-lemma=\"頭\" data-surface=\"頭\">頭<rt>あたま</rt></ruby>をあげて、もう<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いち</rt></ruby><ruby data-lemma=\"度\" data-surface=\"度\">度<rt>ど</rt></ruby>、<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>の<ruby data-lemma=\"星\" data-surface=\"星\">星<rt>ほし</rt></ruby>をかぞえようとした。でも、<ruby data-lemma=\"星\" data-surface=\"星\">星<rt>ほし</rt></ruby>はたくさんあって、かぞえるのはむずかしかった。"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "かぞえるのは、むずかしいね。でも、見るだけでも、楽しいよ。",
+      "html": "かぞえるのは、むずかしいね。でも、<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>だけでも、<span class=\"word\" data-lemma=\"楽しい\" data-surface=\"楽しい\" data-reading=\"たのしい\">楽しい</span>よ。",
+      "htmlFull": "かぞえるのは、むずかしいね。でも、<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>るだけでも、<ruby data-lemma=\"楽しい\" data-surface=\"楽しい\">楽<rt>たの</rt></ruby>しいよ。"
+    },
+    {
+      "id": "p14",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "そう、かぞえることよりも、見ることのほうが、ずっと大事なんだ。",
+      "html": "そう、かぞえることよりも、<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>ことのほうが、ずっと<span class=\"word\" data-lemma=\"大事\" data-surface=\"大事\" data-reading=\"だいじ\">大事</span>なんだ。",
+      "htmlFull": "そう、かぞえることよりも、<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>ることのほうが、ずっと<ruby data-lemma=\"大事\" data-surface=\"大事\">大事<rt>だいじ</rt></ruby>なんだ。"
+    },
+    {
+      "id": "p15",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "次回の夜も、次回のその次も、ちゃんと見たい。ママ、また、いっしょに見てくれる？",
+      "html": "<span class=\"word\" data-lemma=\"次回\" data-surface=\"次回\" data-reading=\"じかい\">次回</span>の<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>も、<span class=\"word\" data-lemma=\"次回\" data-surface=\"次回\" data-reading=\"じかい\">次回</span>のその<span class=\"word\" data-lemma=\"次\" data-surface=\"次\" data-reading=\"つぎ\">次</span>も、ちゃんと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>たい。ママ、また、いっしょに<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>てくれる？",
+      "htmlFull": "<ruby data-lemma=\"次回\" data-surface=\"次回\">次回<rt>じかい</rt></ruby>の<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>も、<ruby data-lemma=\"次回\" data-surface=\"次回\">次回<rt>じかい</rt></ruby>のその<ruby data-lemma=\"次\" data-surface=\"次\">次<rt>つぎ</rt></ruby>も、ちゃんと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>たい。ママ、また、いっしょに<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>てくれる？"
+    },
+    {
+      "id": "p16",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "もちろん、あしたの夜も、その次の夜も、いっしょに見ましょうね。",
+      "html": "もちろん、あしたの<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>も、その<span class=\"word\" data-lemma=\"次\" data-surface=\"次\" data-reading=\"つぎ\">次</span>の<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>も、いっしょに<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ましょうね。",
+      "htmlFull": "もちろん、あしたの<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>も、その<ruby data-lemma=\"次\" data-surface=\"次\">次<rt>つぎ</rt></ruby>の<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>も、いっしょに<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ましょうね。"
+    },
+    {
+      "id": "p17",
+      "kind": "narration",
+      "speaker": null,
+      "text": "やがて、スナフキンはジュースを飲み終わって、自分のテントへしずかに戻って行った。ベランダには、ママとムーミンだけがのこった。",
+      "html": "やがて、スナフキンはジュースを<span class=\"word\" data-lemma=\"飲む\" data-surface=\"飲み\" data-reading=\"のみ\">飲み</span><span class=\"word\" data-lemma=\"終わる\" data-surface=\"終わっ\" data-reading=\"おわっ\">終わっ</span>て、<span class=\"word\" data-lemma=\"自分\" data-surface=\"自分\" data-reading=\"じぶん\">自分</span>のテントへしずかに<span class=\"word\" data-lemma=\"戻る\" data-surface=\"戻っ\" data-reading=\"もどっ\">戻っ</span>て<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>た。ベランダには、ママとムーミンだけがのこった。",
+      "htmlFull": "やがて、スナフキンはジュースを<ruby data-lemma=\"飲む\" data-surface=\"飲み\">飲<rt>の</rt></ruby>み<ruby data-lemma=\"終わる\" data-surface=\"終わっ\">終<rt>お</rt></ruby>わって、<ruby data-lemma=\"自分\" data-surface=\"自分\">自分<rt>じぶん</rt></ruby>のテントへしずかに<ruby data-lemma=\"戻る\" data-surface=\"戻っ\">戻<rt>もど</rt></ruby>って<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>った。ベランダには、ママとムーミンだけがのこった。"
+    },
+    {
+      "id": "p18",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ママ、ぼく、夜の空を見るのが、もっと好きになったよ。ちゃんと見ることを、教えてくれてありがとう。",
+      "html": "ママ、ぼく、<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>の<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>のが、もっと<ruby data-lemma=\"好き\" data-surface=\"好き\">好<rt>す</rt></ruby>きになったよ。ちゃんと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>ことを、<span class=\"word\" data-lemma=\"教える\" data-surface=\"教え\" data-reading=\"おしえ\">教え</span>てくれてありがとう。",
+      "htmlFull": "ママ、ぼく、<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>の<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>るのが、もっと<ruby data-lemma=\"好き\" data-surface=\"好き\">好<rt>す</rt></ruby>きになったよ。ちゃんと<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>ることを、<ruby data-lemma=\"教える\" data-surface=\"教え\">教<rt>おし</rt></ruby>えてくれてありがとう。"
+    },
+    {
+      "id": "p19",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "ムーミンがちゃんと見ているのが、ママもうれしいわ。小さい子供だったのに、もう、ちゃんと考えられるのね。",
+      "html": "ムーミンがちゃんと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ているのが、ママもうれしいわ。<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><ruby data-lemma=\"子供\" data-surface=\"子供\">子供<rt>こども</rt></ruby>だったのに、もう、ちゃんと<span class=\"word\" data-lemma=\"考える\" data-surface=\"考え\" data-reading=\"かんがえ\">考え</span>られるのね。",
+      "htmlFull": "ムーミンがちゃんと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ているのが、ママもうれしいわ。<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"子供\" data-surface=\"子供\">子供<rt>こども</rt></ruby>だったのに、もう、ちゃんと<ruby data-lemma=\"考える\" data-surface=\"考え\">考<rt>かんが</rt></ruby>えられるのね。"
+    },
+    {
+      "id": "p20",
+      "kind": "narration",
+      "speaker": null,
+      "text": "夜の空は深い。小さい子供の頭の、ずっと上にある。ムーミンは、空を見ることも、ママが教えてくれたことも、わすれない。",
+      "html": "<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>の<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>は<span class=\"word\" data-lemma=\"深い\" data-surface=\"深い\" data-reading=\"ぶかい\">深い</span>。<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><ruby data-lemma=\"子供\" data-surface=\"子供\">子供<rt>こども</rt></ruby>の<span class=\"word\" data-lemma=\"頭\" data-surface=\"頭\" data-reading=\"あたま\">頭</span>の、ずっと<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>にある。ムーミンは、<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>ことも、ママが<span class=\"word\" data-lemma=\"教える\" data-surface=\"教え\" data-reading=\"おしえ\">教え</span>てくれたことも、わすれない。",
+      "htmlFull": "<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>の<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>は<ruby data-lemma=\"深い\" data-surface=\"深い\">深<rt>ぶか</rt></ruby>い。<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"子供\" data-surface=\"子供\">子供<rt>こども</rt></ruby>の<ruby data-lemma=\"頭\" data-surface=\"頭\">頭<rt>あたま</rt></ruby>の、ずっと<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>にある。ムーミンは、<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>ることも、ママが<ruby data-lemma=\"教える\" data-surface=\"教え\">教<rt>おし</rt></ruby>えてくれたことも、わすれない。"
+    },
+    {
+      "id": "p21",
+      "kind": "narration",
+      "speaker": null,
+      "text": "夜の空、夜の星、夜のジュース。見るのが楽しい。考えるのも楽しい。子供の夜、いい夜。ちゃんと見た、いい夜。",
+      "html": "<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>の<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>、<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>の<span class=\"word\" data-lemma=\"星\" data-surface=\"星\" data-reading=\"ほし\">星</span>、<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>のジュース。<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>のが<span class=\"word\" data-lemma=\"楽しい\" data-surface=\"楽しい\" data-reading=\"たのしい\">楽しい</span>。<span class=\"word\" data-lemma=\"考える\" data-surface=\"考える\" data-reading=\"かんがえる\">考える</span>のも<span class=\"word\" data-lemma=\"楽しい\" data-surface=\"楽しい\" data-reading=\"たのしい\">楽しい</span>。<ruby data-lemma=\"子供\" data-surface=\"子供\">子供<rt>こども</rt></ruby>の<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>、いい<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>。ちゃんと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た、いい<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>。",
+      "htmlFull": "<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>の<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>、<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>の<ruby data-lemma=\"星\" data-surface=\"星\">星<rt>ほし</rt></ruby>、<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>のジュース。<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>るのが<ruby data-lemma=\"楽しい\" data-surface=\"楽しい\">楽<rt>たの</rt></ruby>しい。<ruby data-lemma=\"考える\" data-surface=\"考える\">考<rt>かんが</rt></ruby>えるのも<ruby data-lemma=\"楽しい\" data-surface=\"楽しい\">楽<rt>たの</rt></ruby>しい。<ruby data-lemma=\"子供\" data-surface=\"子供\">子供<rt>こども</rt></ruby>の<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>、いい<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>。ちゃんと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た、いい<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>。"
+    },
+    {
+      "id": "p22",
+      "kind": "narration",
+      "speaker": null,
+      "text": "夜の空をちゃんと見るのが、ムーミンの次回からの楽しみになった。ベランダの小さいランプが消えたあとで、夜のムーミン谷は、ずっとしずかだった。",
+      "html": "<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>の<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>をちゃんと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>のが、ムーミンの<span class=\"word\" data-lemma=\"次回\" data-surface=\"次回\" data-reading=\"じかい\">次回</span>からの<span class=\"word\" data-lemma=\"楽しみ\" data-surface=\"楽しみ\" data-reading=\"たのしみ\">楽しみ</span>になった。ベランダの<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>ランプが<span class=\"word\" data-lemma=\"消える\" data-surface=\"消え\" data-reading=\"きえ\">消え</span>たあとで、<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>のムーミン<span class=\"word\" data-lemma=\"谷\" data-surface=\"谷\" data-reading=\"たに\">谷</span>は、ずっとしずかだった。",
+      "htmlFull": "<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>の<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>をちゃんと<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>るのが、ムーミンの<ruby data-lemma=\"次回\" data-surface=\"次回\">次回<rt>じかい</rt></ruby>からの<ruby data-lemma=\"楽しみ\" data-surface=\"楽しみ\">楽<rt>たの</rt></ruby>しみになった。ベランダの<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいランプが<ruby data-lemma=\"消える\" data-surface=\"消え\">消<rt>き</rt></ruby>えたあとで、<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>のムーミン<ruby data-lemma=\"谷\" data-surface=\"谷\">谷<rt>たに</rt></ruby>は、ずっとしずかだった。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "次回",
+      "reading": "じかい",
+      "gloss": "next time, the next installment",
+      "tier": "focus"
+    },
+    {
+      "lemma": "ジュース",
+      "reading": "ジュース",
+      "gloss": "juice",
+      "tier": "focus"
+    },
+    {
+      "lemma": "ちゃんと",
+      "reading": "ちゃんと",
+      "gloss": "properly, correctly (adverb)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "教える",
+      "reading": "おしえる",
+      "gloss": "to teach, to show (how)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "頭",
+      "reading": "あたま",
+      "gloss": "head",
+      "tier": "focus"
+    },
+    {
+      "lemma": "夜",
+      "reading": "よる",
+      "gloss": "night",
+      "tier": "focus"
+    },
+    {
+      "lemma": "空",
+      "reading": "そら",
+      "gloss": "sky",
+      "tier": "focus"
+    },
+    {
+      "lemma": "子供",
+      "reading": "こども",
+      "gloss": "child",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [],
+  "glossary": [
+    {
+      "lemma": "次回",
+      "reading": "じかい",
+      "gloss": "next time, next installment",
+      "tier": "focus",
+      "first": "ch27"
+    },
+    {
+      "lemma": "ジュース",
+      "reading": "ジュース",
+      "gloss": "juice",
+      "tier": "focus",
+      "first": "ch27"
+    },
+    {
+      "lemma": "ちゃんと",
+      "reading": "ちゃんと",
+      "gloss": "properly, correctly",
+      "tier": "focus",
+      "first": "ch27"
+    },
+    {
+      "lemma": "教える",
+      "reading": "おしえる",
+      "gloss": "to teach, to show how",
+      "tier": "focus",
+      "first": "ch27"
+    },
+    {
+      "lemma": "頭",
+      "reading": "あたま",
+      "gloss": "head",
+      "tier": "focus",
+      "first": "ch27"
+    },
+    {
+      "lemma": "夜",
+      "reading": "よる",
+      "gloss": "night",
+      "tier": "focus",
+      "first": "ch27"
+    },
+    {
+      "lemma": "空",
+      "reading": "そら",
+      "gloss": "sky",
+      "tier": "focus",
+      "first": "ch27"
+    },
+    {
+      "lemma": "子供",
+      "reading": "こども",
+      "gloss": "child",
+      "tier": "focus",
+      "first": "ch27"
+    }
+  ],
+  "grammarNotes": [
+    "V-dict + ことを + V — \"V the act of V-ing.\" 空をみることを教えた = \"[I] taught the-act-of-looking-at-the-sky.\" こと nominalizes the action into an object of the main verb.",
+    "V-dict + のが + Adj — \"V-ing is [Adj].\" 教えるのがいい = \"teaching is good\"; みるのが楽しい = \"looking is fun.\" の nominalizes for perception / emotion verbs.",
+    "ちゃんと — adverb meaning \"properly / correctly.\" Contrasts with just みる (\"look\") — ちゃんとみる = \"look carefully / properly.\" A motherly register Moominmamma uses.",
+    "N + の + N stacks — 子供の頭の上 = \"above the child's head\"; 次回のたのしみ = \"next time's enjoyment.\"",
+    "Arc C closes on the register of teaching — 教える / みる / 考える recurring. The grammar has taken a shape; the remaining arcs will fold emotion back into it."
+  ],
+  "illustration": {
+    "scene_note": "The Moomin house's wide veranda at night. A small lamp; Moominmamma seated with Moomintroll on her knee; Snufkin standing at the railing looking up at the stars. Tea or juice on a small table. The whole Moomin valley visible below in moonlight.",
+    "panel_count": 4,
+    "image_prompt": "Medium shot of the Moomin house veranda at night. A small oil lamp on a side table casts warm amber light. ママ sits in a wicker chair at center, and ムーミン leans against her knee, both looking up. スナフキン stands a little apart at the veranda railing, also looking up. A small wooden table between them holds two juice cups. The sky above the railing is deep blue-black, full of scattered stars. The valley below in silver moonlight. Tove Jansson hand-drawn Moomin illustration style, 16:9, warm amber against deep blue palette, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

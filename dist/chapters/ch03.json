@@ -1,0 +1,209 @@
+{
+  "chapter": 3,
+  "title": "二人",
+  "arc": "A",
+  "arcPosition": "3/9",
+  "arcLabel": "Arc A — Spring Valley",
+  "grammarStep": 2,
+  "grammarName": "Topic + Copula: は / だ",
+  "grammarPatterns": [
+    "AはBだ",
+    "XはYにいる",
+    "どこにいる？ / あの人はだれ？"
+  ],
+  "lengthTarget": [
+    220,
+    340
+  ],
+  "register": "N5",
+  "plotSummary": "A walk through the valley. Moomintroll, out on his own, stops by a big tree and meets the Snork Maiden (フローレン) for the first time. One becomes two. The chapter introduces the topic particle は and the copula だ — \"A は B だ\". Demonstratives その and あの land for the things that aren't here or there.",
+  "proper_nouns": [
+    "ムーミン",
+    "フローレン",
+    "ママ",
+    "パパ"
+  ],
+  "scene": {
+    "location": "ムーミン谷（散歩）",
+    "beat": "A walk in the valley. Moomintroll stops by a big tree and meets the Snork Maiden (フローレン).",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "フローレン"
+    ],
+    "mentioned": [
+      "ママ"
+    ],
+    "motifs": [
+      "山"
+    ]
+  },
+  "continuity": {
+    "from": "ch02 (the small island)",
+    "to": "ch04 (inside Moominhouse, meeting Ninny)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "narration",
+      "speaker": null,
+      "text": "朝、ムーミンは谷を歩いていた。前のほうに、大きな山が見えた。",
+      "html": "<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>、ムーミンは<span class=\"word\" data-lemma=\"谷\" data-surface=\"谷\" data-reading=\"たに\">谷</span>を<span class=\"word\" data-lemma=\"歩く\" data-surface=\"歩い\" data-reading=\"あるい\">歩い</span>ていた。<span class=\"word\" data-lemma=\"前\" data-surface=\"前\" data-reading=\"まえ\">前</span>のほうに、<span class=\"word\" data-lemma=\"大きな\" data-surface=\"大きな\" data-reading=\"おおきな\">大きな</span><span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>が<span class=\"word\" data-lemma=\"見える\" data-surface=\"見え\" data-reading=\"みえ\">見え</span>た。",
+      "htmlFull": "<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>、ムーミンは<ruby data-lemma=\"谷\" data-surface=\"谷\">谷<rt>たに</rt></ruby>を<ruby data-lemma=\"歩く\" data-surface=\"歩い\">歩<rt>ある</rt></ruby>いていた。<ruby data-lemma=\"前\" data-surface=\"前\">前<rt>まえ</rt></ruby>のほうに、<ruby data-lemma=\"大きな\" data-surface=\"大きな\">大<rt>おお</rt></ruby>きな<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>が<ruby data-lemma=\"見える\" data-surface=\"見え\">見<rt>み</rt></ruby>えた。"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "あの山、きれいだね。大きくて、いい山だ。",
+      "html": "あの<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>、きれいだね。<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きく\" data-reading=\"おおきく\">大きく</span>て、いい<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>だ。",
+      "htmlFull": "あの<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>、きれいだね。<ruby data-lemma=\"大きい\" data-surface=\"大きく\">大<rt>おお</rt></ruby>きくて、いい<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>だ。"
+    },
+    {
+      "id": "p03",
+      "kind": "narration",
+      "speaker": null,
+      "text": "山のそばには、大きな木が立っていた。そして、その木のかげに、だれかがいた。",
+      "html": "<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>のそばには、<span class=\"word\" data-lemma=\"大きな\" data-surface=\"大きな\" data-reading=\"おおきな\">大きな</span><span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>が<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>ていた。そして、その<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>のかげに、だれかがいた。",
+      "htmlFull": "<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>のそばには、<ruby data-lemma=\"大きな\" data-surface=\"大きな\">大<rt>おお</rt></ruby>きな<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>が<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>っていた。そして、その<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>のかげに、だれかがいた。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "あそこにいるのは、だれ？",
+      "html": "あそこにいるのは、だれ？",
+      "htmlFull": "あそこにいるのは、だれ？"
+    },
+    {
+      "id": "p05",
+      "kind": "dialogue",
+      "speaker": "フローレン",
+      "text": "わたしはフローレン。はじめまして。",
+      "html": "わたしはフローレン。はじめまして。",
+      "htmlFull": "わたしはフローレン。はじめまして。"
+    },
+    {
+      "id": "p06",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ぼくはムーミン。よろしくね。",
+      "html": "ぼくはムーミン。よろしくね。",
+      "htmlFull": "ぼくはムーミン。よろしくね。"
+    },
+    {
+      "id": "p07",
+      "kind": "dialogue",
+      "speaker": "フローレン",
+      "text": "あの大きい山は、ムーミンの山なの？",
+      "html": "あの<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>は、ムーミンの<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>なの？",
+      "htmlFull": "あの<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>は、ムーミンの<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>なの？"
+    },
+    {
+      "id": "p08",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ぼくだけの山じゃないよ。みんなの山だ。",
+      "html": "ぼくだけの<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>じゃないよ。みんなの<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>だ。",
+      "htmlFull": "ぼくだけの<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>じゃないよ。みんなの<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>だ。"
+    },
+    {
+      "id": "p09",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンとフローレンの二人は、木のそばで、いっしょに山をながめていた。",
+      "html": "ムーミンとフローレンの<span class=\"word\" data-lemma=\"二人\" data-surface=\"二人\" data-reading=\"ふたり\">二人</span>は、<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>のそばで、いっしょに<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>をながめていた。",
+      "htmlFull": "ムーミンとフローレンの<ruby data-lemma=\"二人\" data-surface=\"二人\">二人<rt>ふたり</rt></ruby>は、<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>のそばで、いっしょに<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>をながめていた。"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "フローレン",
+      "text": "山も木も、本当にきれいね。",
+      "html": "<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>も<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>も、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にきれいね。",
+      "htmlFull": "<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>も<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>も、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にきれいね。"
+    },
+    {
+      "id": "p11",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "うん。ぼくの谷は、ここが一番好きな場所なんだ。",
+      "html": "うん。ぼくの<span class=\"word\" data-lemma=\"谷\" data-surface=\"谷\" data-reading=\"たに\">谷</span>は、ここが<span class=\"word\" data-lemma=\"一番\" data-surface=\"一番\" data-reading=\"いちばん\">一番</span><ruby data-lemma=\"好き\" data-surface=\"好き\">好<rt>す</rt></ruby>きな<span class=\"word\" data-lemma=\"場所\" data-surface=\"場所\" data-reading=\"ばしょ\">場所</span>なんだ。",
+      "htmlFull": "うん。ぼくの<ruby data-lemma=\"谷\" data-surface=\"谷\">谷<rt>たに</rt></ruby>は、ここが<ruby data-lemma=\"一番\" data-surface=\"一番\">一番<rt>いちばん</rt></ruby><ruby data-lemma=\"好き\" data-surface=\"好き\">好<rt>す</rt></ruby>きな<ruby data-lemma=\"場所\" data-surface=\"場所\">場所<rt>ばしょ</rt></ruby>なんだ。"
+    },
+    {
+      "id": "p12",
+      "kind": "dialogue",
+      "speaker": "フローレン",
+      "text": "ムーミンの家は、どこにあるの？",
+      "html": "ムーミンの<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>は、どこにあるの？",
+      "htmlFull": "ムーミンの<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>は、どこにあるの？"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "川のそばにあるんだ。ママもパパも、今、家にいるよ。",
+      "html": "<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>のそばにあるんだ。ママもパパも、<span class=\"word\" data-lemma=\"今\" data-surface=\"今\" data-reading=\"いま\">今</span>、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>にいるよ。",
+      "htmlFull": "<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>のそばにあるんだ。ママもパパも、<ruby data-lemma=\"今\" data-surface=\"今\">今<rt>いま</rt></ruby>、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>にいるよ。"
+    },
+    {
+      "id": "p14",
+      "kind": "dialogue",
+      "speaker": "フローレン",
+      "text": "そう、いい家だね。また二人で、ここに来ましょう。",
+      "html": "そう、いい<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>だね。また<span class=\"word\" data-lemma=\"二人\" data-surface=\"二人\" data-reading=\"ふたり\">二人</span>で、ここに<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>ましょう。",
+      "htmlFull": "そう、いい<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>だね。また<ruby data-lemma=\"二人\" data-surface=\"二人\">二人<rt>ふたり</rt></ruby>で、ここに<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>ましょう。"
+    },
+    {
+      "id": "p15",
+      "kind": "narration",
+      "speaker": null,
+      "text": "山のそばに木があって、その木のそばに、ムーミンとフローレンが立っていた。二人にとって、いい朝だった。",
+      "html": "<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>のそばに<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>があって、その<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>のそばに、ムーミンとフローレンが<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>ていた。<span class=\"word\" data-lemma=\"二人\" data-surface=\"二人\" data-reading=\"ふたり\">二人</span>にとって、いい<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>だった。",
+      "htmlFull": "<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>のそばに<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>があって、その<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>のそばに、ムーミンとフローレンが<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>っていた。<ruby data-lemma=\"二人\" data-surface=\"二人\">二人<rt>ふたり</rt></ruby>にとって、いい<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>だった。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "山",
+      "reading": "やま",
+      "gloss": "mountain",
+      "tier": "focus"
+    },
+    {
+      "lemma": "二人",
+      "reading": "ふたり",
+      "gloss": "two people",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [],
+  "glossary": [
+    {
+      "lemma": "山",
+      "reading": "やま",
+      "gloss": "mountain",
+      "tier": "focus",
+      "first": "ch03"
+    },
+    {
+      "lemma": "二人",
+      "reading": "ふたり",
+      "gloss": "two people",
+      "tier": "focus",
+      "first": "ch03"
+    }
+  ],
+  "grammarNotes": [
+    "A は B だ — the topic-copula backbone of Japanese. は marks the thing we're talking about; だ asserts the predicate. \"わたしは、フローレン\" = \"I am Florence\"; \"ぼくは、ムーミン\" = \"I am Moomin.\"",
+    "A は B じゃない — negated copula. \"ぼくの山じゃない\" = \"[it] isn't my mountain.\" じゃない is the casual negation of だ; the polite form is ではありません.",
+    "あの N / その N — the non-proximate demonstratives. あの = that (far from both speaker and listener); その = that (near the listener).",
+    "どこ — \"where\". The question word takes the particle for the answer context: どこ？ for a bare location (\"where?\"), どこにいる？ for existence (\"where [is X]?\").",
+    "Xと Y listing: \"ムーミンと フローレン\". と links items in a list."
+  ],
+  "illustration": {
+    "scene_note": "A valley path winding between hills, morning. Moomintroll stops beside a big tree at the foot of a mountain; Snork Maiden (フローレン) steps out from the other side of the tree. Warm green summer light.",
+    "image_prompt": "Medium shot in a sunny valley. A large tree stands on a grassy rise; behind it a tall mountain rises softly against a pale sky. ムーミン stands on the grass at left, body turned toward the tree. フローレン steps into frame from behind the tree at right, one paw on the trunk, looking toward ムーミン. Warm morning light, scattered wildflowers at their feet. Tove Jansson hand-drawn Moomin illustration style, 16:9, warm green-and-gold palette, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

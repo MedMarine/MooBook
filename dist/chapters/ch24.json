@@ -1,0 +1,353 @@
+{
+  "chapter": 24,
+  "title": "テントの夜",
+  "arc": "C",
+  "arcPosition": "6/9",
+  "arcLabel": "Arc C — Strange Shadows",
+  "grammarStep": 17,
+  "grammarName": "Relative clauses reprise + complex modifiers",
+  "grammarPatterns": [
+    "V-た + N (past relative)",
+    "N + の + N (nested possession)",
+    "V-ない + N (negative relative)",
+    "〜かもしれない (sentence-final speculation)"
+  ],
+  "lengthTarget": [
+    640,
+    960
+  ],
+  "register": "N4",
+  "plotSummary": "After the storm, Moomintroll, Moominpappa and Snufkin camp in a tent near the forest. Moomintroll has hurt his foot; Snufkin quietly produces medicine from his pack. Moominpappa decides not to go home yet. Snufkin has a secret — something he's found — and won't say what it is. The chapter reprises relative clauses V+N with more complex modifiers (知れないもの, 捨てたもの, 秘密の時間).",
+  "proper_nouns": [
+    "ムーミン",
+    "スナフキン",
+    "パパ"
+  ],
+  "scene": {
+    "location": "森のそばのキャンプ",
+    "beat": "Tent in the night. Snufkin has a secret. Time takes shape. Relative clauses reprised through 'the person who…'.",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "スナフキン",
+      "パパ"
+    ],
+    "mentioned": [],
+    "motifs": [
+      "森",
+      "夜",
+      "テント"
+    ]
+  },
+  "continuity": {
+    "from": "ch23 (the storm)",
+    "to": "ch25 (a feared guest at the door)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "narration",
+      "speaker": null,
+      "text": "嵐がやんだあと、ムーミンとパパとスナフキンは、家に戻らずに、森のそばのテントで夜をすごすことにした。テントの中は、ランプの明かりであたたかい。外は、しずかな夜だった。",
+      "html": "<span class=\"word\" data-lemma=\"嵐\" data-surface=\"嵐\" data-reading=\"あらし\">嵐</span>がやんだあと、ムーミンとパパとスナフキンは、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>に<ruby data-lemma=\"戻る\" data-surface=\"戻ら\">戻<rt>もど</rt></ruby>らずに、<span class=\"word\" data-lemma=\"森\" data-surface=\"森\" data-reading=\"もり\">森</span>のそばのテントで<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>をすごすことにした。テントの<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>は、ランプの<span class=\"word\" data-lemma=\"明かり\" data-surface=\"明かり\" data-reading=\"あかり\">明かり</span>であたたかい。<span class=\"word\" data-lemma=\"外\" data-surface=\"外\" data-reading=\"そと\">外</span>は、しずかな<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>だった。",
+      "htmlFull": "<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>がやんだあと、ムーミンとパパとスナフキンは、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>に<ruby data-lemma=\"戻る\" data-surface=\"戻ら\">戻<rt>もど</rt></ruby>らずに、<ruby data-lemma=\"森\" data-surface=\"森\">森<rt>もり</rt></ruby>のそばのテントで<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>をすごすことにした。テントの<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>は、ランプの<ruby data-lemma=\"明かり\" data-surface=\"明かり\">明<rt>あ</rt></ruby>かりであたたかい。<ruby data-lemma=\"外\" data-surface=\"外\">外<rt>そと</rt></ruby>は、しずかな<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>だった。"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "あいたた、足がいたい！さっきの嵐で、石にぶつけちゃった足、ずっといたいんだ。",
+      "html": "あいたた、<span class=\"word\" data-lemma=\"足\" data-surface=\"足\" data-reading=\"あし\">足</span>がいたい！さっきの<span class=\"word\" data-lemma=\"嵐\" data-surface=\"嵐\" data-reading=\"あらし\">嵐</span>で、<span class=\"word\" data-lemma=\"石\" data-surface=\"石\" data-reading=\"いし\">石</span>にぶつけちゃった<span class=\"word\" data-lemma=\"足\" data-surface=\"足\" data-reading=\"あし\">足</span>、ずっといたいんだ。",
+      "htmlFull": "あいたた、<ruby data-lemma=\"足\" data-surface=\"足\">足<rt>あし</rt></ruby>がいたい！さっきの<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>で、<ruby data-lemma=\"石\" data-surface=\"石\">石<rt>いし</rt></ruby>にぶつけちゃった<ruby data-lemma=\"足\" data-surface=\"足\">足<rt>あし</rt></ruby>、ずっといたいんだ。"
+    },
+    {
+      "id": "p03",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "ムーミン、その足、ちょっと見せて。薬が必要かもしれない。",
+      "html": "ムーミン、その<span class=\"word\" data-lemma=\"足\" data-surface=\"足\" data-reading=\"あし\">足</span>、ちょっと<span class=\"word\" data-lemma=\"見せる\" data-surface=\"見せ\" data-reading=\"みせ\">見せ</span>て。<span class=\"word\" data-lemma=\"薬\" data-surface=\"薬\" data-reading=\"くすり\">薬</span>が<span class=\"word\" data-lemma=\"必要\" data-surface=\"必要\" data-reading=\"ひつよう\">必要</span>かもしれない。",
+      "htmlFull": "ムーミン、その<ruby data-lemma=\"足\" data-surface=\"足\">足<rt>あし</rt></ruby>、ちょっと<ruby data-lemma=\"見せる\" data-surface=\"見せ\">見<rt>み</rt></ruby>せて。<ruby data-lemma=\"薬\" data-surface=\"薬\">薬<rt>くすり</rt></ruby>が<ruby data-lemma=\"必要\" data-surface=\"必要\">必要<rt>ひつよう</rt></ruby>かもしれない。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "スナフキン、薬なんて、もってるの？",
+      "html": "スナフキン、<span class=\"word\" data-lemma=\"薬\" data-surface=\"薬\" data-reading=\"くすり\">薬</span>なんて、もってるの？",
+      "htmlFull": "スナフキン、<ruby data-lemma=\"薬\" data-surface=\"薬\">薬<rt>くすり</rt></ruby>なんて、もってるの？"
+    },
+    {
+      "id": "p05",
+      "kind": "narration",
+      "speaker": null,
+      "text": "スナフキンは自分の袋から、小さいびんに入った薬を出した。それを、ムーミンの足にそっとつけた。ひんやりとした薬で、足のいたみが少し楽になった。",
+      "html": "スナフキンは<span class=\"word\" data-lemma=\"自分\" data-surface=\"自分\" data-reading=\"じぶん\">自分</span>の<ruby data-lemma=\"袋\" data-surface=\"袋\">袋<rt>ふくろ</rt></ruby>から、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>びんに<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>た<span class=\"word\" data-lemma=\"薬\" data-surface=\"薬\" data-reading=\"くすり\">薬</span>を<span class=\"word\" data-lemma=\"出す\" data-surface=\"出し\" data-reading=\"だし\">出し</span>た。それを、ムーミンの<span class=\"word\" data-lemma=\"足\" data-surface=\"足\" data-reading=\"あし\">足</span>にそっとつけた。ひんやりとした<span class=\"word\" data-lemma=\"薬\" data-surface=\"薬\" data-reading=\"くすり\">薬</span>で、<span class=\"word\" data-lemma=\"足\" data-surface=\"足\" data-reading=\"あし\">足</span>のいたみが<span class=\"word\" data-lemma=\"少し\" data-surface=\"少し\" data-reading=\"すこし\">少し</span><span class=\"word\" data-lemma=\"楽\" data-surface=\"楽\" data-reading=\"らく\">楽</span>になった。",
+      "htmlFull": "スナフキンは<ruby data-lemma=\"自分\" data-surface=\"自分\">自分<rt>じぶん</rt></ruby>の<ruby data-lemma=\"袋\" data-surface=\"袋\">袋<rt>ふくろ</rt></ruby>から、<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいびんに<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>った<ruby data-lemma=\"薬\" data-surface=\"薬\">薬<rt>くすり</rt></ruby>を<ruby data-lemma=\"出す\" data-surface=\"出し\">出<rt>だ</rt></ruby>した。それを、ムーミンの<ruby data-lemma=\"足\" data-surface=\"足\">足<rt>あし</rt></ruby>にそっとつけた。ひんやりとした<ruby data-lemma=\"薬\" data-surface=\"薬\">薬<rt>くすり</rt></ruby>で、<ruby data-lemma=\"足\" data-surface=\"足\">足<rt>あし</rt></ruby>のいたみが<ruby data-lemma=\"少し\" data-surface=\"少し\">少<rt>すこ</rt></ruby>し<ruby data-lemma=\"楽\" data-surface=\"楽\">楽<rt>らく</rt></ruby>になった。"
+    },
+    {
+      "id": "p06",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "つめたいけど、気持ちいいよ。ありがとう、スナフキン。",
+      "html": "つめたいけど、<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>いいよ。ありがとう、スナフキン。",
+      "htmlFull": "つめたいけど、<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちいいよ。ありがとう、スナフキン。"
+    },
+    {
+      "id": "p07",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "もう嵐は戻って来ないかもしれん。家に戻るか、それとも、今夜もここで寝るか。",
+      "html": "もう<span class=\"word\" data-lemma=\"嵐\" data-surface=\"嵐\" data-reading=\"あらし\">嵐</span>は<ruby data-lemma=\"戻る\" data-surface=\"戻っ\">戻<rt>もど</rt></ruby>って<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"こ\">来</span>ないかもしれん。<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>に<ruby data-lemma=\"戻る\" data-surface=\"戻る\">戻<rt>もど</rt></ruby>るか、それとも、<span class=\"word\" data-lemma=\"今夜\" data-surface=\"今夜\" data-reading=\"こんや\">今夜</span>もここで<span class=\"word\" data-lemma=\"寝る\" data-surface=\"寝る\" data-reading=\"ねる\">寝る</span>か。",
+      "htmlFull": "もう<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>は<ruby data-lemma=\"戻る\" data-surface=\"戻っ\">戻<rt>もど</rt></ruby>って<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>こ</rt></ruby>ないかもしれん。<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>に<ruby data-lemma=\"戻る\" data-surface=\"戻る\">戻<rt>もど</rt></ruby>るか、それとも、<ruby data-lemma=\"今夜\" data-surface=\"今夜\">今夜<rt>こんや</rt></ruby>もここで<ruby data-lemma=\"寝る\" data-surface=\"寝る\">寝<rt>ね</rt></ruby>るか。"
+    },
+    {
+      "id": "p08",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "まだ戻らないほうがいいよ。嵐が、もう一度戻ってくるかもしれないからね。",
+      "html": "まだ<ruby data-lemma=\"戻る\" data-surface=\"戻ら\">戻<rt>もど</rt></ruby>らないほうがいいよ。<span class=\"word\" data-lemma=\"嵐\" data-surface=\"嵐\" data-reading=\"あらし\">嵐</span>が、もう<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いち\">一</span><span class=\"word\" data-lemma=\"度\" data-surface=\"度\" data-reading=\"ど\">度</span><ruby data-lemma=\"戻る\" data-surface=\"戻っ\">戻<rt>もど</rt></ruby>ってくるかもしれないからね。",
+      "htmlFull": "まだ<ruby data-lemma=\"戻る\" data-surface=\"戻ら\">戻<rt>もど</rt></ruby>らないほうがいいよ。<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>が、もう<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いち</rt></ruby><ruby data-lemma=\"度\" data-surface=\"度\">度<rt>ど</rt></ruby><ruby data-lemma=\"戻る\" data-surface=\"戻っ\">戻<rt>もど</rt></ruby>ってくるかもしれないからね。"
+    },
+    {
+      "id": "p09",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "うん、ぼくも足がいたいから、今夜はテントで寝る。みんなと、いっしょのテントで寝るのは、楽しみだな。",
+      "html": "うん、ぼくも<span class=\"word\" data-lemma=\"足\" data-surface=\"足\" data-reading=\"あし\">足</span>がいたいから、<span class=\"word\" data-lemma=\"今夜\" data-surface=\"今夜\" data-reading=\"こんや\">今夜</span>はテントで<span class=\"word\" data-lemma=\"寝る\" data-surface=\"寝る\" data-reading=\"ねる\">寝る</span>。みんなと、いっしょのテントで<span class=\"word\" data-lemma=\"寝る\" data-surface=\"寝る\" data-reading=\"ねる\">寝る</span>のは、<span class=\"word\" data-lemma=\"楽しみ\" data-surface=\"楽しみ\" data-reading=\"たのしみ\">楽しみ</span>だな。",
+      "htmlFull": "うん、ぼくも<ruby data-lemma=\"足\" data-surface=\"足\">足<rt>あし</rt></ruby>がいたいから、<ruby data-lemma=\"今夜\" data-surface=\"今夜\">今夜<rt>こんや</rt></ruby>はテントで<ruby data-lemma=\"寝る\" data-surface=\"寝る\">寝<rt>ね</rt></ruby>る。みんなと、いっしょのテントで<ruby data-lemma=\"寝る\" data-surface=\"寝る\">寝<rt>ね</rt></ruby>るのは、<ruby data-lemma=\"楽しみ\" data-surface=\"楽しみ\">楽<rt>たの</rt></ruby>しみだな。"
+    },
+    {
+      "id": "p10",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンは、スナフキンの袋の中を、じっと見ていた。さっき薬を出したとき、袋の中になにか別のものが見えた。",
+      "html": "ムーミンは、スナフキンの<ruby data-lemma=\"袋\" data-surface=\"袋\">袋<rt>ふくろ</rt></ruby>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>を、じっと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ていた。さっき<span class=\"word\" data-lemma=\"薬\" data-surface=\"薬\" data-reading=\"くすり\">薬</span>を<span class=\"word\" data-lemma=\"出す\" data-surface=\"出し\" data-reading=\"だし\">出し</span>たとき、<ruby data-lemma=\"袋\" data-surface=\"袋\">袋<rt>ふくろ</rt></ruby>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>になにか<ruby data-lemma=\"別\" data-surface=\"別\">別<rt>べつ</rt></ruby>のものが<span class=\"word\" data-lemma=\"見える\" data-surface=\"見え\" data-reading=\"みえ\">見え</span>た。",
+      "htmlFull": "ムーミンは、スナフキンの<ruby data-lemma=\"袋\" data-surface=\"袋\">袋<rt>ふくろ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>を、じっと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ていた。さっき<ruby data-lemma=\"薬\" data-surface=\"薬\">薬<rt>くすり</rt></ruby>を<ruby data-lemma=\"出す\" data-surface=\"出し\">出<rt>だ</rt></ruby>したとき、<ruby data-lemma=\"袋\" data-surface=\"袋\">袋<rt>ふくろ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>になにか<ruby data-lemma=\"別\" data-surface=\"別\">別<rt>べつ</rt></ruby>のものが<ruby data-lemma=\"見える\" data-surface=\"見え\">見<rt>み</rt></ruby>えた。"
+    },
+    {
+      "id": "p11",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ねえ、スナフキン。その袋の中、なに？何か秘密のもの、もってるの？",
+      "html": "ねえ、スナフキン。その<ruby data-lemma=\"袋\" data-surface=\"袋\">袋<rt>ふくろ</rt></ruby>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>、なに？<span class=\"word\" data-lemma=\"何\" data-surface=\"何\" data-reading=\"なん\">何</span>か<ruby data-lemma=\"秘密\" data-surface=\"秘密\">秘密<rt>ひみつ</rt></ruby>のもの、もってるの？",
+      "htmlFull": "ねえ、スナフキン。その<ruby data-lemma=\"袋\" data-surface=\"袋\">袋<rt>ふくろ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>、なに？<ruby data-lemma=\"何\" data-surface=\"何\">何<rt>なん</rt></ruby>か<ruby data-lemma=\"秘密\" data-surface=\"秘密\">秘密<rt>ひみつ</rt></ruby>のもの、もってるの？"
+    },
+    {
+      "id": "p12",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "うん、さっきの嵐のあとに、みつけたんだ。でも、まだ秘密にしておきたい。",
+      "html": "うん、さっきの<span class=\"word\" data-lemma=\"嵐\" data-surface=\"嵐\" data-reading=\"あらし\">嵐</span>のあとに、みつけたんだ。でも、まだ<ruby data-lemma=\"秘密\" data-surface=\"秘密\">秘密<rt>ひみつ</rt></ruby>にしておきたい。",
+      "htmlFull": "うん、さっきの<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>のあとに、みつけたんだ。でも、まだ<ruby data-lemma=\"秘密\" data-surface=\"秘密\">秘密<rt>ひみつ</rt></ruby>にしておきたい。"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "えっ、ぼくにも、見せてよ。ぼくは友だちだよ、スナフキン！",
+      "html": "えっ、ぼくにも、<span class=\"word\" data-lemma=\"見せる\" data-surface=\"見せ\" data-reading=\"みせ\">見せ</span>てよ。ぼくは<span class=\"word\" data-lemma=\"友達\" data-surface=\"友だち\" data-reading=\"ともだち\">友だち</span>だよ、スナフキン！",
+      "htmlFull": "えっ、ぼくにも、<ruby data-lemma=\"見せる\" data-surface=\"見せ\">見<rt>み</rt></ruby>せてよ。ぼくは<ruby data-lemma=\"友達\" data-surface=\"友だち\">友<rt>とも</rt></ruby>だちだよ、スナフキン！"
+    },
+    {
+      "id": "p14",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "ごめんね、ムーミン。まだ、時間が来てないから。時間が来たら、ちゃんと見せるよ。",
+      "html": "ごめんね、ムーミン。まだ、<span class=\"word\" data-lemma=\"時間\" data-surface=\"時間\" data-reading=\"じかん\">時間</span>が<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>てないから。<span class=\"word\" data-lemma=\"時間\" data-surface=\"時間\" data-reading=\"じかん\">時間</span>が<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たら、ちゃんと<span class=\"word\" data-lemma=\"見せる\" data-surface=\"見せる\" data-reading=\"みせる\">見せる</span>よ。",
+      "htmlFull": "ごめんね、ムーミン。まだ、<ruby data-lemma=\"時間\" data-surface=\"時間\">時間<rt>じかん</rt></ruby>が<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>てないから。<ruby data-lemma=\"時間\" data-surface=\"時間\">時間<rt>じかん</rt></ruby>が<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たら、ちゃんと<ruby data-lemma=\"見せる\" data-surface=\"見せる\">見<rt>み</rt></ruby>せるよ。"
+    },
+    {
+      "id": "p15",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "スナフキン、それは、だれかが捨てたものかね？",
+      "html": "スナフキン、それは、だれかが<ruby data-lemma=\"捨てる\" data-surface=\"捨て\">捨<rt>す</rt></ruby>てたものかね？",
+      "htmlFull": "スナフキン、それは、だれかが<ruby data-lemma=\"捨てる\" data-surface=\"捨て\">捨<rt>す</rt></ruby>てたものかね？"
+    },
+    {
+      "id": "p16",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "いや、捨てたものじゃないよ。だれかが、捨てたのかもしれないけど、ぼくにはわからない。",
+      "html": "いや、<ruby data-lemma=\"捨てる\" data-surface=\"捨て\">捨<rt>す</rt></ruby>てたものじゃないよ。だれかが、<ruby data-lemma=\"捨てる\" data-surface=\"捨て\">捨<rt>す</rt></ruby>てたのかもしれないけど、ぼくにはわからない。",
+      "htmlFull": "いや、<ruby data-lemma=\"捨てる\" data-surface=\"捨て\">捨<rt>す</rt></ruby>てたものじゃないよ。だれかが、<ruby data-lemma=\"捨てる\" data-surface=\"捨て\">捨<rt>す</rt></ruby>てたのかもしれないけど、ぼくにはわからない。"
+    },
+    {
+      "id": "p17",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "うん、わかった。スナフキンの秘密なんだね。時間が来たら、教えてくれる？",
+      "html": "うん、わかった。スナフキンの<ruby data-lemma=\"秘密\" data-surface=\"秘密\">秘密<rt>ひみつ</rt></ruby>なんだね。<span class=\"word\" data-lemma=\"時間\" data-surface=\"時間\" data-reading=\"じかん\">時間</span>が<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たら、<span class=\"word\" data-lemma=\"教える\" data-surface=\"教え\" data-reading=\"おしえ\">教え</span>てくれる？",
+      "htmlFull": "うん、わかった。スナフキンの<ruby data-lemma=\"秘密\" data-surface=\"秘密\">秘密<rt>ひみつ</rt></ruby>なんだね。<ruby data-lemma=\"時間\" data-surface=\"時間\">時間<rt>じかん</rt></ruby>が<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たら、<ruby data-lemma=\"教える\" data-surface=\"教え\">教<rt>おし</rt></ruby>えてくれる？"
+    },
+    {
+      "id": "p18",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "うん、きっと教える。だから、今はもう、ゆっくり寝よう。",
+      "html": "うん、きっと<span class=\"word\" data-lemma=\"教える\" data-surface=\"教える\" data-reading=\"おしえる\">教える</span>。だから、<span class=\"word\" data-lemma=\"今\" data-surface=\"今\" data-reading=\"いま\">今</span>はもう、ゆっくり<span class=\"word\" data-lemma=\"寝る\" data-surface=\"寝よう\" data-reading=\"ねよう\">寝よう</span>。",
+      "htmlFull": "うん、きっと<ruby data-lemma=\"教える\" data-surface=\"教える\">教<rt>おし</rt></ruby>える。だから、<ruby data-lemma=\"今\" data-surface=\"今\">今<rt>いま</rt></ruby>はもう、ゆっくり<ruby data-lemma=\"寝る\" data-surface=\"寝よう\">寝<rt>ね</rt></ruby>よう。"
+    },
+    {
+      "id": "p19",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "そうだな。時間があったら、また、みんなで海岸に行こう。今夜は、ゆっくり寝るとしよう。",
+      "html": "そうだな。<span class=\"word\" data-lemma=\"時間\" data-surface=\"時間\" data-reading=\"じかん\">時間</span>があったら、また、みんなで<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>に<span class=\"word\" data-lemma=\"行く\" data-surface=\"行こう\" data-reading=\"いこう\">行こう</span>。<span class=\"word\" data-lemma=\"今夜\" data-surface=\"今夜\" data-reading=\"こんや\">今夜</span>は、ゆっくり<span class=\"word\" data-lemma=\"寝る\" data-surface=\"寝る\" data-reading=\"ねる\">寝る</span>としよう。",
+      "htmlFull": "そうだな。<ruby data-lemma=\"時間\" data-surface=\"時間\">時間<rt>じかん</rt></ruby>があったら、また、みんなで<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>に<ruby data-lemma=\"行く\" data-surface=\"行こう\">行<rt>い</rt></ruby>こう。<ruby data-lemma=\"今夜\" data-surface=\"今夜\">今夜<rt>こんや</rt></ruby>は、ゆっくり<ruby data-lemma=\"寝る\" data-surface=\"寝る\">寝<rt>ね</rt></ruby>るとしよう。"
+    },
+    {
+      "id": "p20",
+      "kind": "narration",
+      "speaker": null,
+      "text": "森のそばの、しずかなテントの夜。薬のにおいと、風のおとだけが、テントの中にある。スナフキンの秘密は、まだ袋の中にねむっている。",
+      "html": "<span class=\"word\" data-lemma=\"森\" data-surface=\"森\" data-reading=\"もり\">森</span>のそばの、しずかなテントの<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>。<span class=\"word\" data-lemma=\"薬\" data-surface=\"薬\" data-reading=\"くすり\">薬</span>のにおいと、<span class=\"word\" data-lemma=\"風\" data-surface=\"風\" data-reading=\"かぜ\">風</span>のおとだけが、テントの<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>にある。スナフキンの<ruby data-lemma=\"秘密\" data-surface=\"秘密\">秘密<rt>ひみつ</rt></ruby>は、まだ<ruby data-lemma=\"袋\" data-surface=\"袋\">袋<rt>ふくろ</rt></ruby>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>にねむっている。",
+      "htmlFull": "<ruby data-lemma=\"森\" data-surface=\"森\">森<rt>もり</rt></ruby>のそばの、しずかなテントの<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>。<ruby data-lemma=\"薬\" data-surface=\"薬\">薬<rt>くすり</rt></ruby>のにおいと、<ruby data-lemma=\"風\" data-surface=\"風\">風<rt>かぜ</rt></ruby>のおとだけが、テントの<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>にある。スナフキンの<ruby data-lemma=\"秘密\" data-surface=\"秘密\">秘密<rt>ひみつ</rt></ruby>は、まだ<ruby data-lemma=\"袋\" data-surface=\"袋\">袋<rt>ふくろ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>にねむっている。"
+    },
+    {
+      "id": "p21",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンは、足に薬をつけたあとで、ゆっくり寝た。パパもゆっくり寝た。スナフキンだけが、まだ目をあけて、袋の中の秘密のものを、じっと見ていた。",
+      "html": "ムーミンは、<span class=\"word\" data-lemma=\"足\" data-surface=\"足\" data-reading=\"あし\">足</span>に<span class=\"word\" data-lemma=\"薬\" data-surface=\"薬\" data-reading=\"くすり\">薬</span>をつけたあとで、ゆっくり<span class=\"word\" data-lemma=\"寝る\" data-surface=\"寝\" data-reading=\"ね\">寝</span>た。パパもゆっくり<span class=\"word\" data-lemma=\"寝る\" data-surface=\"寝\" data-reading=\"ね\">寝</span>た。スナフキンだけが、まだ<span class=\"word\" data-lemma=\"目\" data-surface=\"目\" data-reading=\"め\">目</span>をあけて、<ruby data-lemma=\"袋\" data-surface=\"袋\">袋<rt>ふくろ</rt></ruby>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>の<ruby data-lemma=\"秘密\" data-surface=\"秘密\">秘密<rt>ひみつ</rt></ruby>のものを、じっと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ていた。",
+      "htmlFull": "ムーミンは、<ruby data-lemma=\"足\" data-surface=\"足\">足<rt>あし</rt></ruby>に<ruby data-lemma=\"薬\" data-surface=\"薬\">薬<rt>くすり</rt></ruby>をつけたあとで、ゆっくり<ruby data-lemma=\"寝る\" data-surface=\"寝\">寝<rt>ね</rt></ruby>た。パパもゆっくり<ruby data-lemma=\"寝る\" data-surface=\"寝\">寝<rt>ね</rt></ruby>た。スナフキンだけが、まだ<ruby data-lemma=\"目\" data-surface=\"目\">目<rt>め</rt></ruby>をあけて、<ruby data-lemma=\"袋\" data-surface=\"袋\">袋<rt>ふくろ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>の<ruby data-lemma=\"秘密\" data-surface=\"秘密\">秘密<rt>ひみつ</rt></ruby>のものを、じっと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ていた。"
+    },
+    {
+      "id": "p22",
+      "kind": "narration",
+      "speaker": null,
+      "text": "テントの中の時間は、ゆっくりながれていく。夜は長い。嵐が戻るかもしれない、戻らないかもしれない。でも、今はしずかだ。",
+      "html": "テントの<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>の<span class=\"word\" data-lemma=\"時間\" data-surface=\"時間\" data-reading=\"じかん\">時間</span>は、ゆっくりながれていく。<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>は<span class=\"word\" data-lemma=\"長い\" data-surface=\"長い\" data-reading=\"ながい\">長い</span>。<span class=\"word\" data-lemma=\"嵐\" data-surface=\"嵐\" data-reading=\"あらし\">嵐</span>が<ruby data-lemma=\"戻る\" data-surface=\"戻る\">戻<rt>もど</rt></ruby>るかもしれない、<ruby data-lemma=\"戻る\" data-surface=\"戻ら\">戻<rt>もど</rt></ruby>らないかもしれない。でも、<span class=\"word\" data-lemma=\"今\" data-surface=\"今\" data-reading=\"いま\">今</span>はしずかだ。",
+      "htmlFull": "テントの<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>の<ruby data-lemma=\"時間\" data-surface=\"時間\">時間<rt>じかん</rt></ruby>は、ゆっくりながれていく。<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>は<ruby data-lemma=\"長い\" data-surface=\"長い\">長<rt>なが</rt></ruby>い。<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>が<ruby data-lemma=\"戻る\" data-surface=\"戻る\">戻<rt>もど</rt></ruby>るかもしれない、<ruby data-lemma=\"戻る\" data-surface=\"戻ら\">戻<rt>もど</rt></ruby>らないかもしれない。でも、<ruby data-lemma=\"今\" data-surface=\"今\">今<rt>いま</rt></ruby>はしずかだ。"
+    },
+    {
+      "id": "p23",
+      "kind": "narration",
+      "speaker": null,
+      "text": "あしたは、家へ戻るかもしれない。また海岸に行くかもしれない。でも今夜は、テントで、ゆっくりと時間をすごす。",
+      "html": "あしたは、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>へ<ruby data-lemma=\"戻る\" data-surface=\"戻る\">戻<rt>もど</rt></ruby>るかもしれない。また<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>に<span class=\"word\" data-lemma=\"行く\" data-surface=\"行く\" data-reading=\"いく\">行く</span>かもしれない。でも<span class=\"word\" data-lemma=\"今夜\" data-surface=\"今夜\" data-reading=\"こんや\">今夜</span>は、テントで、ゆっくりと<span class=\"word\" data-lemma=\"時間\" data-surface=\"時間\" data-reading=\"じかん\">時間</span>をすごす。",
+      "htmlFull": "あしたは、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>へ<ruby data-lemma=\"戻る\" data-surface=\"戻る\">戻<rt>もど</rt></ruby>るかもしれない。また<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>に<ruby data-lemma=\"行く\" data-surface=\"行く\">行<rt>い</rt></ruby>くかもしれない。でも<ruby data-lemma=\"今夜\" data-surface=\"今夜\">今夜<rt>こんや</rt></ruby>は、テントで、ゆっくりと<ruby data-lemma=\"時間\" data-surface=\"時間\">時間<rt>じかん</rt></ruby>をすごす。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "戻る",
+      "reading": "もどる",
+      "gloss": "to return, to go back",
+      "tier": "focus"
+    },
+    {
+      "lemma": "秘密",
+      "reading": "ひみつ",
+      "gloss": "secret",
+      "tier": "focus"
+    },
+    {
+      "lemma": "知れる",
+      "reading": "しれる",
+      "gloss": "to become known (used in 〜かもしれない)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "時間",
+      "reading": "じかん",
+      "gloss": "time",
+      "tier": "focus"
+    },
+    {
+      "lemma": "薬",
+      "reading": "くすり",
+      "gloss": "medicine",
+      "tier": "focus"
+    },
+    {
+      "lemma": "捨てる",
+      "reading": "すてる",
+      "gloss": "to throw away",
+      "tier": "focus"
+    },
+    {
+      "lemma": "テント",
+      "reading": "テント",
+      "gloss": "tent",
+      "tier": "focus"
+    },
+    {
+      "lemma": "足",
+      "reading": "あし",
+      "gloss": "foot, leg",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [],
+  "glossary": [
+    {
+      "lemma": "戻る",
+      "reading": "もどる",
+      "gloss": "to return, to go back",
+      "tier": "focus",
+      "first": "ch24"
+    },
+    {
+      "lemma": "秘密",
+      "reading": "ひみつ",
+      "gloss": "secret",
+      "tier": "focus",
+      "first": "ch24"
+    },
+    {
+      "lemma": "知れる",
+      "reading": "しれる",
+      "gloss": "to become known (mainly in 〜かもしれない)",
+      "tier": "focus",
+      "first": "ch24"
+    },
+    {
+      "lemma": "時間",
+      "reading": "じかん",
+      "gloss": "time",
+      "tier": "focus",
+      "first": "ch24"
+    },
+    {
+      "lemma": "薬",
+      "reading": "くすり",
+      "gloss": "medicine",
+      "tier": "focus",
+      "first": "ch24"
+    },
+    {
+      "lemma": "捨てる",
+      "reading": "すてる",
+      "gloss": "to throw away",
+      "tier": "focus",
+      "first": "ch24"
+    },
+    {
+      "lemma": "テント",
+      "reading": "テント",
+      "gloss": "tent",
+      "tier": "focus",
+      "first": "ch24"
+    },
+    {
+      "lemma": "足",
+      "reading": "あし",
+      "gloss": "foot, leg",
+      "tier": "focus",
+      "first": "ch24"
+    }
+  ],
+  "grammarNotes": [
+    "V-た + N reprise. 捨てたもの = \"the thing [I] threw away\"; 捨てないもの = \"the thing [I] didn't throw away\"; スナフキンがみつけた秘密のもの = \"the secret thing Snufkin found.\"",
+    "V-ない + N — negative relative clause. 戻らないもの = \"the thing [that] doesn't come back\"; 知れないもの = \"the unknowable thing.\"",
+    "〜かもしれない — sentence-final \"might / perhaps.\" 戻るかもしれない = \"might come back\"; 秘密かもしれない = \"might be a secret.\" Formed from 知れる (\"to become known\") + negative. Moominpappa and Snufkin use it; children echo it.",
+    "N の N の N (nested possession). 足の薬 = \"the foot's medicine\" (medicine for the foot); スナフキンの秘密のもの = \"Snufkin's secret thing.\"",
+    "Moomintroll's 「これは、秘密だ」 uses the simplest structure — copula だ. The chapter layers quiet sentences on top of each other rather than long relative clauses, matching the still register of a night in a tent."
+  ],
+  "illustration": {
+    "scene_note": "A canvas tent at the edge of a dark forest. A small lantern inside casts yellow light. Moominpappa sits with his pipe; Moomintroll has his injured foot propped on a folded blanket; Snufkin applies a tiny bottle of medicine. A distant storm-glow remains on the horizon.",
+    "panel_count": 4,
+    "image_prompt": "Medium shot of a canvas tent at the dark forest's edge at night. A small oil lantern inside casts warm amber light, spilling out through the open flap. パパ sits cross-legged just inside with his pipe. ムーミン sits at left with his injured foot propped on a folded blanket. スナフキン kneels in front of him with a tiny bottle, gently applying a drop of medicine to the foot. On the horizon beyond the trees, the last pale glow of the departing storm. Deep blue-black outside, warm amber inside. Tove Jansson hand-drawn Moomin illustration style, 16:9, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

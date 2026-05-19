@@ -1,0 +1,302 @@
+{
+  "chapter": 7,
+  "title": "みつけた",
+  "arc": "A",
+  "arcPosition": "7/9",
+  "arcLabel": "Arc A — Spring Valley",
+  "grammarStep": 4,
+  "grammarName": "は vs が reprise + perception verbs (みつける/思う/探す)",
+  "grammarPatterns": [
+    "Xがみつけた (finding)",
+    "ぼくが探す / きみも探す",
+    "そう思う",
+    "Xをおく"
+  ],
+  "lengthTarget": [
+    380,
+    580
+  ],
+  "register": "N5",
+  "plotSummary": "Moominpappa's hat is missing again. Everyone searches. Who put it where? Who's looking? Sniff finds it. The chapter reprises は vs が, introduces the first perception verbs (みつける、思う、探す), and teaches the numeral 一 (one).",
+  "proper_nouns": [
+    "ムーミン",
+    "スニフ",
+    "フローレン",
+    "ママ",
+    "パパ"
+  ],
+  "scene": {
+    "location": "ムーミンやしきと庭",
+    "beat": "Back at the house. They were looking for something; they found it.",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "スニフ",
+      "フローレン",
+      "ママ",
+      "パパ"
+    ],
+    "mentioned": [],
+    "motifs": [
+      "帽子",
+      "庭"
+    ]
+  },
+  "continuity": {
+    "from": "ch06 (seaside, shells)",
+    "to": "ch08 (the bridge, going to the sea)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンの家の庭。朝、パパが家から出て来た。",
+      "html": "ムーミンの<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"庭\" data-surface=\"庭\" data-reading=\"にわ\">庭</span>。<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>、パパが<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>から<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。",
+      "htmlFull": "ムーミンの<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"庭\" data-surface=\"庭\">庭<rt>にわ</rt></ruby>。<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>、パパが<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>から<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>て<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "わしの帽子がないぞ！どこに行ったんだ？",
+      "html": "わしの<span class=\"word\" data-lemma=\"帽子\" data-surface=\"帽子\" data-reading=\"ぼうし\">帽子</span>がないぞ！どこに<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>たんだ？",
+      "htmlFull": "わしの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>がないぞ！どこに<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>ったんだ？"
+    },
+    {
+      "id": "p03",
+      "kind": "narration",
+      "speaker": null,
+      "text": "パパは、あちこちで帽子を探したが、どこにもなかった。",
+      "html": "パパは、あちこちで<span class=\"word\" data-lemma=\"帽子\" data-surface=\"帽子\" data-reading=\"ぼうし\">帽子</span>を<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>したが、どこにもなかった。",
+      "htmlFull": "パパは、あちこちで<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>を<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>したが、どこにもなかった。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "あなた、さっきはどこに置いたの？",
+      "html": "あなた、さっきはどこに<ruby data-lemma=\"置く\" data-surface=\"置い\">置<rt>お</rt></ruby>いたの？",
+      "htmlFull": "あなた、さっきはどこに<ruby data-lemma=\"置く\" data-surface=\"置い\">置<rt>お</rt></ruby>いたの？"
+    },
+    {
+      "id": "p05",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "あそこに置いたんだ。でも、今は、もうない。",
+      "html": "あそこに<ruby data-lemma=\"置く\" data-surface=\"置い\">置<rt>お</rt></ruby>いたんだ。でも、<span class=\"word\" data-lemma=\"今\" data-surface=\"今\" data-reading=\"いま\">今</span>は、もうない。",
+      "htmlFull": "あそこに<ruby data-lemma=\"置く\" data-surface=\"置い\">置<rt>お</rt></ruby>いたんだ。でも、<ruby data-lemma=\"今\" data-surface=\"今\">今<rt>いま</rt></ruby>は、もうない。"
+    },
+    {
+      "id": "p06",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ぼくも探すよ、パパ。みんなで探そう。",
+      "html": "ぼくも<ruby data-lemma=\"探す\" data-surface=\"探す\">探<rt>さが</rt></ruby>すよ、パパ。みんなで<ruby data-lemma=\"探す\" data-surface=\"探そう\">探<rt>さが</rt></ruby>そう。",
+      "htmlFull": "ぼくも<ruby data-lemma=\"探す\" data-surface=\"探す\">探<rt>さが</rt></ruby>すよ、パパ。みんなで<ruby data-lemma=\"探す\" data-surface=\"探そう\">探<rt>さが</rt></ruby>そう。"
+    },
+    {
+      "id": "p07",
+      "kind": "dialogue",
+      "speaker": "フローレン",
+      "text": "わたしも手伝うわ。",
+      "html": "わたしも<ruby data-lemma=\"手伝う\" data-surface=\"手伝う\">手伝<rt>てつだ</rt></ruby>うわ。",
+      "htmlFull": "わたしも<ruby data-lemma=\"手伝う\" data-surface=\"手伝う\">手伝<rt>てつだ</rt></ruby>うわ。"
+    },
+    {
+      "id": "p08",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "ぼくも！",
+      "html": "ぼくも！",
+      "htmlFull": "ぼくも！"
+    },
+    {
+      "id": "p09",
+      "kind": "narration",
+      "speaker": null,
+      "text": "みんなは庭に出て、いっしょに帽子を探しはじめた。パパは大きい木のそばを、ムーミンは船のそばを、フローレンは家のそばを、それぞれ見てまわった。でも、帽子はどこにも見つからない。",
+      "html": "みんなは<span class=\"word\" data-lemma=\"庭\" data-surface=\"庭\" data-reading=\"にわ\">庭</span>に<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>て、いっしょに<span class=\"word\" data-lemma=\"帽子\" data-surface=\"帽子\" data-reading=\"ぼうし\">帽子</span>を<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>しはじめた。パパは<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>のそばを、ムーミンは<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>のそばを、フローレンは<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>のそばを、それぞれ<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>てまわった。でも、<span class=\"word\" data-lemma=\"帽子\" data-surface=\"帽子\" data-reading=\"ぼうし\">帽子</span>はどこにも<span class=\"word\" data-lemma=\"見付かる\" data-surface=\"見つから\" data-reading=\"みつから\">見つから</span>ない。",
+      "htmlFull": "みんなは<ruby data-lemma=\"庭\" data-surface=\"庭\">庭<rt>にわ</rt></ruby>に<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>て、いっしょに<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>を<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>しはじめた。パパは<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>のそばを、ムーミンは<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>のそばを、フローレンは<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>のそばを、それぞれ<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>てまわった。でも、<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>はどこにも<ruby data-lemma=\"見付かる\" data-surface=\"見つから\">見<rt>み</rt></ruby>つからない。"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ここにはないよ。パパの帽子、どこに行ったんだろう。",
+      "html": "ここにはないよ。パパの<span class=\"word\" data-lemma=\"帽子\" data-surface=\"帽子\" data-reading=\"ぼうし\">帽子</span>、どこに<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>たんだろう。",
+      "htmlFull": "ここにはないよ。パパの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>、どこに<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>ったんだろう。"
+    },
+    {
+      "id": "p11",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "わしの帽子、どこだ！",
+      "html": "わしの<span class=\"word\" data-lemma=\"帽子\" data-surface=\"帽子\" data-reading=\"ぼうし\">帽子</span>、どこだ！",
+      "htmlFull": "わしの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>、どこだ！"
+    },
+    {
+      "id": "p12",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "あっ、みつけた！みんな、こっち来て！",
+      "html": "あっ、みつけた！みんな、こっち<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>て！",
+      "htmlFull": "あっ、みつけた！みんな、こっち<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>て！"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "スニフ、本当にみつけたの？",
+      "html": "スニフ、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にみつけたの？",
+      "htmlFull": "スニフ、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にみつけたの？"
+    },
+    {
+      "id": "p14",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "ほら、見て！大きい木のそばに、かくれていたんだ。",
+      "html": "ほら、<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>て！<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>のそばに、かくれていたんだ。",
+      "htmlFull": "ほら、<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>て！<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>のそばに、かくれていたんだ。"
+    },
+    {
+      "id": "p15",
+      "kind": "narration",
+      "speaker": null,
+      "text": "スニフが、パパの帽子を見つけたのだった。",
+      "html": "スニフが、パパの<span class=\"word\" data-lemma=\"帽子\" data-surface=\"帽子\" data-reading=\"ぼうし\">帽子</span>を<span class=\"word\" data-lemma=\"見付ける\" data-surface=\"見つけ\" data-reading=\"みつけ\">見つけ</span>たのだった。",
+      "htmlFull": "スニフが、パパの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>を<ruby data-lemma=\"見付ける\" data-surface=\"見つけ\">見<rt>み</rt></ruby>つけたのだった。"
+    },
+    {
+      "id": "p16",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "おお、スニフ！本当にいい子だ！",
+      "html": "おお、スニフ！<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にいい<span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>だ！",
+      "htmlFull": "おお、スニフ！<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にいい<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>だ！"
+    },
+    {
+      "id": "p17",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "スニフがみつけてくれて、よかったね。",
+      "html": "スニフがみつけてくれて、よかったね。",
+      "htmlFull": "スニフがみつけてくれて、よかったね。"
+    },
+    {
+      "id": "p18",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "よし、今度はちゃんとここに置くぞ。",
+      "html": "よし、<span class=\"word\" data-lemma=\"今度\" data-surface=\"今度\" data-reading=\"こんど\">今度</span>はちゃんとここに<ruby data-lemma=\"置く\" data-surface=\"置く\">置<rt>お</rt></ruby>くぞ。",
+      "htmlFull": "よし、<ruby data-lemma=\"今度\" data-surface=\"今度\">今度<rt>こんど</rt></ruby>はちゃんとここに<ruby data-lemma=\"置く\" data-surface=\"置く\">置<rt>お</rt></ruby>くぞ。"
+    },
+    {
+      "id": "p19",
+      "kind": "narration",
+      "speaker": null,
+      "text": "パパは、帽子を元のところに、しっかり置きなおした。",
+      "html": "パパは、<span class=\"word\" data-lemma=\"帽子\" data-surface=\"帽子\" data-reading=\"ぼうし\">帽子</span>を<span class=\"word\" data-lemma=\"元\" data-surface=\"元\" data-reading=\"もと\">元</span>のところに、しっかり<ruby data-lemma=\"置く\" data-surface=\"置き\">置<rt>お</rt></ruby>きなおした。",
+      "htmlFull": "パパは、<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>を<ruby data-lemma=\"元\" data-surface=\"元\">元<rt>もと</rt></ruby>のところに、しっかり<ruby data-lemma=\"置く\" data-surface=\"置き\">置<rt>お</rt></ruby>きなおした。"
+    },
+    {
+      "id": "p20",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "よかったわね、あなた。みんな、いい子たちね。",
+      "html": "よかったわね、あなた。みんな、いい<span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>たちね。",
+      "htmlFull": "よかったわね、あなた。みんな、いい<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>たちね。"
+    },
+    {
+      "id": "p21",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "わしもそう思うよ。スニフは本当にえらい。",
+      "html": "わしもそう<span class=\"word\" data-lemma=\"思う\" data-surface=\"思う\" data-reading=\"おもう\">思う</span>よ。スニフは<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にえらい。",
+      "htmlFull": "わしもそう<ruby data-lemma=\"思う\" data-surface=\"思う\">思<rt>おも</rt></ruby>うよ。スニフは<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にえらい。"
+    },
+    {
+      "id": "p22",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ぼくもそう思う。スニフが見つけてくれて、本当によかった。",
+      "html": "ぼくもそう<span class=\"word\" data-lemma=\"思う\" data-surface=\"思う\" data-reading=\"おもう\">思う</span>。スニフが<span class=\"word\" data-lemma=\"見付ける\" data-surface=\"見つけ\" data-reading=\"みつけ\">見つけ</span>てくれて、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>によかった。",
+      "htmlFull": "ぼくもそう<ruby data-lemma=\"思う\" data-surface=\"思う\">思<rt>おも</rt></ruby>う。スニフが<ruby data-lemma=\"見付ける\" data-surface=\"見つけ\">見<rt>み</rt></ruby>つけてくれて、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>によかった。"
+    },
+    {
+      "id": "p23",
+      "kind": "narration",
+      "speaker": null,
+      "text": "みんなが、そう思う朝だった。パパの帽子は元のところにあって、家の庭は、すこしうれしそうだった。",
+      "html": "みんなが、そう<span class=\"word\" data-lemma=\"思う\" data-surface=\"思う\" data-reading=\"おもう\">思う</span><span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>だった。パパの<span class=\"word\" data-lemma=\"帽子\" data-surface=\"帽子\" data-reading=\"ぼうし\">帽子</span>は<span class=\"word\" data-lemma=\"元\" data-surface=\"元\" data-reading=\"もと\">元</span>のところにあって、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"庭\" data-surface=\"庭\" data-reading=\"にわ\">庭</span>は、すこしうれしそうだった。",
+      "htmlFull": "みんなが、そう<ruby data-lemma=\"思う\" data-surface=\"思う\">思<rt>おも</rt></ruby>う<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>だった。パパの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>は<ruby data-lemma=\"元\" data-surface=\"元\">元<rt>もと</rt></ruby>のところにあって、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"庭\" data-surface=\"庭\">庭<rt>にわ</rt></ruby>は、すこしうれしそうだった。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "探す",
+      "reading": "さがす",
+      "gloss": "to look for, to search",
+      "tier": "focus"
+    },
+    {
+      "lemma": "みつける",
+      "reading": "みつける",
+      "gloss": "to find",
+      "tier": "focus"
+    },
+    {
+      "lemma": "思う",
+      "reading": "おもう",
+      "gloss": "to think",
+      "tier": "focus"
+    },
+    {
+      "lemma": "おく",
+      "reading": "おく",
+      "gloss": "to put, to place",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [],
+  "glossary": [
+    {
+      "lemma": "探す",
+      "reading": "さがす",
+      "gloss": "to look for, to search (UniDic 探す)",
+      "tier": "focus",
+      "first": "ch07"
+    },
+    {
+      "lemma": "みつける",
+      "reading": "みつける",
+      "gloss": "to find (UniDic 見付ける)",
+      "tier": "focus",
+      "first": "ch07"
+    },
+    {
+      "lemma": "思う",
+      "reading": "おもう",
+      "gloss": "to think",
+      "tier": "focus",
+      "first": "ch07"
+    },
+    {
+      "lemma": "おく",
+      "reading": "おく",
+      "gloss": "to put, to place (UniDic 置く)",
+      "tier": "focus",
+      "first": "ch07"
+    }
+  ],
+  "grammarNotes": [
+    "は vs が reprise — \"帽子がない！\" (new fact, が) → \"帽子は、いいところにあった\" (now topic, は). The particle move marks the shift from discovery to observation.",
+    "そう思う — \"I think so\". The quotative と is not yet taught; for now, そう思う is a set phrase.",
+    "きみ is a casual second-person, used here by Moomintroll and Moominpappa to each other. In characters.yaml Moominpappa's dialogue uses わし more formally; here he speaks casually with his family.",
+    "V + N prenominal (\"いいところ\") — simple adjective-noun modification; verb-plus-noun modification (a \"relative clause\" proper) lands in ch17."
+  ],
+  "illustration": {
+    "scene_note": "Moomin garden and the house entrance. Moominpappa is frantic; Moominmamma is patient. Children search behind bushes. Sniff emerges holding the hat triumphantly.",
+    "image_prompt": "Medium-wide shot of the Moomin garden in morning light. A large tree stands at left; at its base, tucked partly behind the trunk, sits a black top hat. スニフ crouches near the tree, one paw pointing to the hat, body turned in surprise toward the others. パパ approaches from mid-frame, mid-stride, face lit with relief. ムーミン stands in the background with フローレン, both turning toward スニフ. ママ just visible on the porch steps at far right. Warm morning light, soft green lawn. Tove Jansson hand-drawn Moomin illustration style, 16:9, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

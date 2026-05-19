@@ -1,0 +1,336 @@
+{
+  "chapter": 21,
+  "title": "海岸にあったもの",
+  "arc": "C",
+  "arcPosition": "3/9",
+  "arcLabel": "Arc C — Strange Shadows",
+  "grammarStep": 15,
+  "grammarName": "Quotation: という / とおもう + nominalizer の",
+  "grammarPatterns": [
+    "「…」と言う / 言った",
+    "XはYと言う",
+    "V-dict / Adj + と思う",
+    "V-dict + の (nominalizer)"
+  ],
+  "lengthTarget": [
+    580,
+    870
+  ],
+  "register": "N4",
+  "plotSummary": "Moomintroll finds something strange on the beach. He doesn't know what it is or how long it's been there. He calls everyone; they all come; they carry it back to the house and put it in a room to study. The quotative と takes its home step here — Moomintroll says X to someone, someone says Y to Moomintroll, and the structure 「…」と言った becomes the organizing move of the scene.",
+  "proper_nouns": [
+    "ムーミン",
+    "スニフ",
+    "フローレン",
+    "ママ",
+    "パパ"
+  ],
+  "scene": {
+    "location": "海のそば",
+    "beat": "The beach. They tell each other what they found. という / とおもう. The nominalizer の starts to appear in casual speech.",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "スニフ",
+      "フローレン"
+    ],
+    "mentioned": [
+      "ママ",
+      "パパ"
+    ],
+    "motifs": [
+      "海",
+      "海岸"
+    ]
+  },
+  "continuity": {
+    "from": "ch20 (morning hide-and-seek)",
+    "to": "ch22 (in the kitchen — planning a trip)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンは一人で海岸へ行った。朝の海は、波がしずかに動いていた。",
+      "html": "ムーミンは<span class=\"word\" data-lemma=\"一人\" data-surface=\"一人\" data-reading=\"ひとり\">一人</span>で<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>へ<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>た。<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>の<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>は、<span class=\"word\" data-lemma=\"波\" data-surface=\"波\" data-reading=\"なみ\">波</span>がしずかに<span class=\"word\" data-lemma=\"動く\" data-surface=\"動い\" data-reading=\"うごい\">動い</span>ていた。",
+      "htmlFull": "ムーミンは<ruby data-lemma=\"一人\" data-surface=\"一人\">一人<rt>ひとり</rt></ruby>で<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>へ<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>った。<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>の<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>は、<ruby data-lemma=\"波\" data-surface=\"波\">波<rt>なみ</rt></ruby>がしずかに<ruby data-lemma=\"動く\" data-surface=\"動い\">動<rt>うご</rt></ruby>いていた。"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "あっ、あそこに、変なものがある！いつから、ここにあるんだろう？",
+      "html": "あっ、あそこに、<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>なものがある！いつから、ここにあるんだろう？",
+      "htmlFull": "あっ、あそこに、<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>なものがある！いつから、ここにあるんだろう？"
+    },
+    {
+      "id": "p03",
+      "kind": "narration",
+      "speaker": null,
+      "text": "海岸の砂の上に、見たことのない変なものがあった。ムーミンは、じっと見つめて、しばらく考えた。",
+      "html": "<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>の<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>に、<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>たことのない<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>なものがあった。ムーミンは、じっと<span class=\"word\" data-lemma=\"見詰める\" data-surface=\"見つめ\" data-reading=\"みつめ\">見つめ</span>て、しばらく<span class=\"word\" data-lemma=\"考える\" data-surface=\"考え\" data-reading=\"かんがえ\">考え</span>た。",
+      "htmlFull": "<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>の<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>に、<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>たことのない<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>なものがあった。ムーミンは、じっと<ruby data-lemma=\"見詰める\" data-surface=\"見つめ\">見<rt>み</rt></ruby>つめて、しばらく<ruby data-lemma=\"考える\" data-surface=\"考え\">考<rt>かんが</rt></ruby>えた。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "これ、本当に変だな。みんなに、見せたい！早く呼んでこよう。",
+      "html": "これ、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>だな。みんなに、<span class=\"word\" data-lemma=\"見せる\" data-surface=\"見せ\" data-reading=\"みせ\">見せ</span>たい！<span class=\"word\" data-lemma=\"早い\" data-surface=\"早く\" data-reading=\"はやく\">早く</span><ruby data-lemma=\"呼ぶ\" data-surface=\"呼ん\">呼<rt>よ</rt></ruby>んでこよう。",
+      "htmlFull": "これ、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>だな。みんなに、<ruby data-lemma=\"見せる\" data-surface=\"見せ\">見<rt>み</rt></ruby>せたい！<ruby data-lemma=\"早い\" data-surface=\"早く\">早<rt>はや</rt></ruby>く<ruby data-lemma=\"呼ぶ\" data-surface=\"呼ん\">呼<rt>よ</rt></ruby>んでこよう。"
+    },
+    {
+      "id": "p05",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンは急いで家へ帰って、スニフとフローレンとパパを呼んだ。",
+      "html": "ムーミンは<span class=\"word\" data-lemma=\"急ぐ\" data-surface=\"急い\" data-reading=\"いそい\">急い</span>で<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>へ<span class=\"word\" data-lemma=\"返る\" data-surface=\"帰っ\" data-reading=\"かえっ\">帰っ</span>て、スニフとフローレンとパパを<ruby data-lemma=\"呼ぶ\" data-surface=\"呼ん\">呼<rt>よ</rt></ruby>んだ。",
+      "htmlFull": "ムーミンは<ruby data-lemma=\"急ぐ\" data-surface=\"急い\">急<rt>いそ</rt></ruby>いで<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>へ<ruby data-lemma=\"返る\" data-surface=\"帰っ\">帰<rt>かえ</rt></ruby>って、スニフとフローレンとパパを<ruby data-lemma=\"呼ぶ\" data-surface=\"呼ん\">呼<rt>よ</rt></ruby>んだ。"
+    },
+    {
+      "id": "p06",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "海岸に、変なものがあるんだ。みんな、見に来て！",
+      "html": "<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>に、<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>なものがあるんだ。みんな、<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>に<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>て！",
+      "htmlFull": "<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>に、<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>なものがあるんだ。みんな、<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>に<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>て！"
+    },
+    {
+      "id": "p07",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "えっ、変なものって、どんなもの？ぼくにも見せて！",
+      "html": "えっ、<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>なものって、どんなもの？ぼくにも<span class=\"word\" data-lemma=\"見せる\" data-surface=\"見せ\" data-reading=\"みせ\">見せ</span>て！",
+      "htmlFull": "えっ、<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>なものって、どんなもの？ぼくにも<ruby data-lemma=\"見せる\" data-surface=\"見せ\">見<rt>み</rt></ruby>せて！"
+    },
+    {
+      "id": "p08",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンは、みんなを海岸へ連れて行った。パパは海のほうをじっと見て、「これはたしかに変だ」と言った。",
+      "html": "ムーミンは、みんなを<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>へ<ruby data-lemma=\"連れる\" data-surface=\"連れ\">連<rt>つ</rt></ruby>れて<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>た。パパは<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>のほうをじっと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>て、「これはたしかに<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>だ」と<span class=\"word\" data-lemma=\"言う\" data-surface=\"言っ\" data-reading=\"いっ\">言っ</span>た。",
+      "htmlFull": "ムーミンは、みんなを<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>へ<ruby data-lemma=\"連れる\" data-surface=\"連れ\">連<rt>つ</rt></ruby>れて<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>った。パパは<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>のほうをじっと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>て、「これはたしかに<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>だ」と<ruby data-lemma=\"言う\" data-surface=\"言っ\">言<rt>い</rt></ruby>った。"
+    },
+    {
+      "id": "p09",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "これは、いつからここにあるのか、だれにもわからんな。",
+      "html": "これは、いつからここにあるのか、だれにもわからんな。",
+      "htmlFull": "これは、いつからここにあるのか、だれにもわからんな。"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "あら、ほんとうに変ですね。でも、ここに置いておくのはよくないと思いますよ。",
+      "html": "あら、ほんとうに<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>ですね。でも、ここに<ruby data-lemma=\"置く\" data-surface=\"置い\">置<rt>お</rt></ruby>いておくのはよくないと<span class=\"word\" data-lemma=\"思う\" data-surface=\"思い\" data-reading=\"おもい\">思い</span>ますよ。",
+      "htmlFull": "あら、ほんとうに<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>ですね。でも、ここに<ruby data-lemma=\"置く\" data-surface=\"置い\">置<rt>お</rt></ruby>いておくのはよくないと<ruby data-lemma=\"思う\" data-surface=\"思い\">思<rt>おも</rt></ruby>いますよ。"
+    },
+    {
+      "id": "p11",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "じゃあ、家に持って帰ろう。ぼくの部屋に入れて、ちゃんと見てみるよ。",
+      "html": "じゃあ、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>に<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>て<span class=\"word\" data-lemma=\"返る\" data-surface=\"帰ろう\" data-reading=\"かえろう\">帰ろう</span>。ぼくの<span class=\"word\" data-lemma=\"部屋\" data-surface=\"部屋\" data-reading=\"へや\">部屋</span>に<span class=\"word\" data-lemma=\"入れる\" data-surface=\"入れ\" data-reading=\"いれ\">入れ</span>て、ちゃんと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>てみるよ。",
+      "htmlFull": "じゃあ、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>に<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>って<ruby data-lemma=\"返る\" data-surface=\"帰ろう\">帰<rt>かえ</rt></ruby>ろう。ぼくの<ruby data-lemma=\"部屋\" data-surface=\"部屋\">部屋<rt>へや</rt></ruby>に<ruby data-lemma=\"入れる\" data-surface=\"入れ\">入<rt>い</rt></ruby>れて、ちゃんと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>てみるよ。"
+    },
+    {
+      "id": "p12",
+      "kind": "narration",
+      "speaker": null,
+      "text": "みんなでその変なものを家の中に入れて、ムーミンの部屋のテーブルの上に入れておいた。そうして、みんなでよく見ることにした。",
+      "html": "みんなでその<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>なものを<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>に<span class=\"word\" data-lemma=\"入れる\" data-surface=\"入れ\" data-reading=\"いれ\">入れ</span>て、ムーミンの<span class=\"word\" data-lemma=\"部屋\" data-surface=\"部屋\" data-reading=\"へや\">部屋</span>のテーブルの<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>に<span class=\"word\" data-lemma=\"入れる\" data-surface=\"入れ\" data-reading=\"いれ\">入れ</span>ておいた。そうして、みんなでよく<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>ことにした。",
+      "htmlFull": "みんなでその<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>なものを<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>に<ruby data-lemma=\"入れる\" data-surface=\"入れ\">入<rt>い</rt></ruby>れて、ムーミンの<ruby data-lemma=\"部屋\" data-surface=\"部屋\">部屋<rt>へや</rt></ruby>のテーブルの<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>に<ruby data-lemma=\"入れる\" data-surface=\"入れ\">入<rt>い</rt></ruby>れておいた。そうして、みんなでよく<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>ることにした。"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "フローレン",
+      "text": "部屋で見ても、やっぱり変だね。何だと思う、ムーミン？",
+      "html": "<span class=\"word\" data-lemma=\"部屋\" data-surface=\"部屋\" data-reading=\"へや\">部屋</span>で<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ても、やっぱり<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>だね。<span class=\"word\" data-lemma=\"何\" data-surface=\"何\" data-reading=\"なん\">何</span>だと<span class=\"word\" data-lemma=\"思う\" data-surface=\"思う\" data-reading=\"おもう\">思う</span>、ムーミン？",
+      "htmlFull": "<ruby data-lemma=\"部屋\" data-surface=\"部屋\">部屋<rt>へや</rt></ruby>で<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ても、やっぱり<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>だね。<ruby data-lemma=\"何\" data-surface=\"何\">何<rt>なん</rt></ruby>だと<ruby data-lemma=\"思う\" data-surface=\"思う\">思<rt>おも</rt></ruby>う、ムーミン？"
+    },
+    {
+      "id": "p14",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "うん、ぼくも変だと思う。でも、いつかわかるんじゃないかな。",
+      "html": "うん、ぼくも<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>だと<span class=\"word\" data-lemma=\"思う\" data-surface=\"思う\" data-reading=\"おもう\">思う</span>。でも、いつかわかるんじゃないかな。",
+      "htmlFull": "うん、ぼくも<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>だと<ruby data-lemma=\"思う\" data-surface=\"思う\">思<rt>おも</rt></ruby>う。でも、いつかわかるんじゃないかな。"
+    },
+    {
+      "id": "p15",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "海岸に、またあるかもしれないよ。ぼくも、見せてほしいな。",
+      "html": "<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>に、またあるかもしれないよ。ぼくも、<span class=\"word\" data-lemma=\"見せる\" data-surface=\"見せ\" data-reading=\"みせ\">見せ</span>てほしいな。",
+      "htmlFull": "<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>に、またあるかもしれないよ。ぼくも、<ruby data-lemma=\"見せる\" data-surface=\"見せ\">見<rt>み</rt></ruby>せてほしいな。"
+    },
+    {
+      "id": "p16",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "うん、明日また海岸に行って、みんなに見せてあげるよ。",
+      "html": "うん、<span class=\"word\" data-lemma=\"明日\" data-surface=\"明日\" data-reading=\"あす\">明日</span>また<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>に<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>て、みんなに<span class=\"word\" data-lemma=\"見せる\" data-surface=\"見せ\" data-reading=\"みせ\">見せ</span>てあげるよ。",
+      "htmlFull": "うん、<ruby data-lemma=\"明日\" data-surface=\"明日\">明日<rt>あす</rt></ruby>また<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>に<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>って、みんなに<ruby data-lemma=\"見せる\" data-surface=\"見せ\">見<rt>み</rt></ruby>せてあげるよ。"
+    },
+    {
+      "id": "p17",
+      "kind": "narration",
+      "speaker": null,
+      "text": "パパはもう一度部屋に来て、しずかに変なものを見た。「これは、いつかわかる」と、パパは言った。ムーミンも、そう思った。",
+      "html": "パパはもう<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いち\">一</span><span class=\"word\" data-lemma=\"度\" data-surface=\"度\" data-reading=\"ど\">度</span><span class=\"word\" data-lemma=\"部屋\" data-surface=\"部屋\" data-reading=\"へや\">部屋</span>に<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>て、しずかに<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>なものを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。「これは、いつかわかる」と、パパは<span class=\"word\" data-lemma=\"言う\" data-surface=\"言っ\" data-reading=\"いっ\">言っ</span>た。ムーミンも、そう<span class=\"word\" data-lemma=\"思う\" data-surface=\"思っ\" data-reading=\"おもっ\">思っ</span>た。",
+      "htmlFull": "パパはもう<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いち</rt></ruby><ruby data-lemma=\"度\" data-surface=\"度\">度<rt>ど</rt></ruby><ruby data-lemma=\"部屋\" data-surface=\"部屋\">部屋<rt>へや</rt></ruby>に<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>て、しずかに<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>なものを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。「これは、いつかわかる」と、パパは<ruby data-lemma=\"言う\" data-surface=\"言っ\">言<rt>い</rt></ruby>った。ムーミンも、そう<ruby data-lemma=\"思う\" data-surface=\"思っ\">思<rt>おも</rt></ruby>った。"
+    },
+    {
+      "id": "p18",
+      "kind": "dialogue",
+      "speaker": "フローレン",
+      "text": "明日も、また、見せてね、ムーミン。",
+      "html": "<span class=\"word\" data-lemma=\"明日\" data-surface=\"明日\" data-reading=\"あす\">明日</span>も、また、<span class=\"word\" data-lemma=\"見せる\" data-surface=\"見せ\" data-reading=\"みせ\">見せ</span>てね、ムーミン。",
+      "htmlFull": "<ruby data-lemma=\"明日\" data-surface=\"明日\">明日<rt>あす</rt></ruby>も、また、<ruby data-lemma=\"見せる\" data-surface=\"見せ\">見<rt>み</rt></ruby>せてね、ムーミン。"
+    },
+    {
+      "id": "p19",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "うん、いいよ。みんなに、ちゃんと見せるね。",
+      "html": "うん、いいよ。みんなに、ちゃんと<span class=\"word\" data-lemma=\"見せる\" data-surface=\"見せる\" data-reading=\"みせる\">見せる</span>ね。",
+      "htmlFull": "うん、いいよ。みんなに、ちゃんと<ruby data-lemma=\"見せる\" data-surface=\"見せる\">見<rt>み</rt></ruby>せるね。"
+    },
+    {
+      "id": "p20",
+      "kind": "narration",
+      "speaker": null,
+      "text": "海岸でみつけた変なものは、しずかに、ムーミンの部屋のテーブルの上にあった。いつ海岸に来たのか、海のどこから来たのか、だれも知らない。",
+      "html": "<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>でみつけた<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>なものは、しずかに、ムーミンの<span class=\"word\" data-lemma=\"部屋\" data-surface=\"部屋\" data-reading=\"へや\">部屋</span>のテーブルの<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>にあった。いつ<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>に<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たのか、<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>のどこから<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たのか、だれも<span class=\"word\" data-lemma=\"知る\" data-surface=\"知ら\" data-reading=\"しら\">知ら</span>ない。",
+      "htmlFull": "<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>でみつけた<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>なものは、しずかに、ムーミンの<ruby data-lemma=\"部屋\" data-surface=\"部屋\">部屋<rt>へや</rt></ruby>のテーブルの<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>にあった。いつ<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>に<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たのか、<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>のどこから<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たのか、だれも<ruby data-lemma=\"知る\" data-surface=\"知ら\">知<rt>し</rt></ruby>らない。"
+    },
+    {
+      "id": "p21",
+      "kind": "narration",
+      "speaker": null,
+      "text": "でも、ムーミンはパパを呼んでよかったと思った。みんなが部屋にいて、いっしょに変なものを見るのが、やっぱりいちばんいい。",
+      "html": "でも、ムーミンはパパを<ruby data-lemma=\"呼ぶ\" data-surface=\"呼ん\">呼<rt>よ</rt></ruby>んでよかったと<span class=\"word\" data-lemma=\"思う\" data-surface=\"思っ\" data-reading=\"おもっ\">思っ</span>た。みんなが<span class=\"word\" data-lemma=\"部屋\" data-surface=\"部屋\" data-reading=\"へや\">部屋</span>にいて、いっしょに<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>なものを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>のが、やっぱりいちばんいい。",
+      "htmlFull": "でも、ムーミンはパパを<ruby data-lemma=\"呼ぶ\" data-surface=\"呼ん\">呼<rt>よ</rt></ruby>んでよかったと<ruby data-lemma=\"思う\" data-surface=\"思っ\">思<rt>おも</rt></ruby>った。みんなが<ruby data-lemma=\"部屋\" data-surface=\"部屋\">部屋<rt>へや</rt></ruby>にいて、いっしょに<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>なものを<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>るのが、やっぱりいちばんいい。"
+    },
+    {
+      "id": "p22",
+      "kind": "narration",
+      "speaker": null,
+      "text": "夜になってもスニフは、もう一度部屋の中へ入って来た。「本当に、変なものだね」と、スニフもしずかに言った。海岸から来た変なものは、その夜もテーブルの上で、じっと、そこにあった。",
+      "html": "<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>になってもスニフは、もう<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いち\">一</span><span class=\"word\" data-lemma=\"度\" data-surface=\"度\" data-reading=\"ど\">度</span><span class=\"word\" data-lemma=\"部屋\" data-surface=\"部屋\" data-reading=\"へや\">部屋</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>へ<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。「<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に、<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>なものだね」と、スニフもしずかに<span class=\"word\" data-lemma=\"言う\" data-surface=\"言っ\" data-reading=\"いっ\">言っ</span>た。<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>から<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>なものは、その<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>もテーブルの<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>で、じっと、そこにあった。",
+      "htmlFull": "<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>になってもスニフは、もう<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いち</rt></ruby><ruby data-lemma=\"度\" data-surface=\"度\">度<rt>ど</rt></ruby><ruby data-lemma=\"部屋\" data-surface=\"部屋\">部屋<rt>へや</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>へ<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>って<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。「<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に、<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>なものだね」と、スニフもしずかに<ruby data-lemma=\"言う\" data-surface=\"言っ\">言<rt>い</rt></ruby>った。<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>から<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>なものは、その<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>もテーブルの<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>で、じっと、そこにあった。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "いう",
+      "reading": "いう",
+      "gloss": "to say (UniDic 言う; Moomin register uses hiragana いう)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "入れる",
+      "reading": "いれる",
+      "gloss": "to put in, to insert",
+      "tier": "focus"
+    },
+    {
+      "lemma": "部屋",
+      "reading": "へや",
+      "gloss": "room",
+      "tier": "focus"
+    },
+    {
+      "lemma": "見せる",
+      "reading": "みせる",
+      "gloss": "to show (something to someone)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "呼ぶ",
+      "reading": "よぶ",
+      "gloss": "to call (for someone)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "海岸",
+      "reading": "かいがん",
+      "gloss": "seashore, beach",
+      "tier": "focus"
+    },
+    {
+      "lemma": "変",
+      "reading": "へん",
+      "gloss": "strange, odd (na-adjective)",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [],
+  "glossary": [
+    {
+      "lemma": "いう",
+      "reading": "いう",
+      "gloss": "to say (UniDic 言う → hiragana いう)",
+      "tier": "focus",
+      "first": "ch21"
+    },
+    {
+      "lemma": "入れる",
+      "reading": "いれる",
+      "gloss": "to put in, to insert",
+      "tier": "focus",
+      "first": "ch21"
+    },
+    {
+      "lemma": "部屋",
+      "reading": "へや",
+      "gloss": "room",
+      "tier": "focus",
+      "first": "ch21"
+    },
+    {
+      "lemma": "見せる",
+      "reading": "みせる",
+      "gloss": "to show (something to someone)",
+      "tier": "focus",
+      "first": "ch21"
+    },
+    {
+      "lemma": "呼ぶ",
+      "reading": "よぶ",
+      "gloss": "to call, to summon",
+      "tier": "focus",
+      "first": "ch21"
+    },
+    {
+      "lemma": "海岸",
+      "reading": "かいがん",
+      "gloss": "seashore",
+      "tier": "focus",
+      "first": "ch21"
+    },
+    {
+      "lemma": "変",
+      "reading": "へん",
+      "gloss": "strange, odd (na-adjective)",
+      "tier": "focus",
+      "first": "ch21"
+    }
+  ],
+  "grammarNotes": [
+    "「…」と + 言う / 言った — direct quotation. The quoted words go inside 「」; と marks the quote; 言う (or いう in Moomin register) is the reporting verb.",
+    "XはYと思う — indirect quote / thought. 変だと思う = \"[I] think [it's] strange.\" The clause before と can be a sentence, a dict-form verb, or an adjective.",
+    "V-dict + の — nominalizer. みつけたの = \"the (act of) having found [it].\" Converts a verb or verb-phrase into a noun. \"さっき、みつけたの\" = \"I just found it\" (emphasis / explanation).",
+    "V-てみる — \"to try V-ing.\" 入れてみた = \"tried putting it in.\" The aux-verb みる here is \"try\" (not \"look\"); same structure as ch25 but already surfacing here naturally.",
+    "いつ as interrogative — \"when?\" With もの or こと it asks for a specific time. いつのもの = \"[a thing] from when?\""
+  ],
+  "illustration": {
+    "scene_note": "Rocky beach with a strange lumpy object half-buried in sand — a thing with unusual texture, not obviously a shell or a driftwood. Moomintroll squats beside it pointing; Sniff and Snork Maiden behind, curious. Second panel: same object on a small table in a Moomin-house room, everyone gathered round peering at it.",
+    "panel_count": 5,
+    "image_prompt": "Medium shot of a rocky beach with a strange lumpy object half-buried in sand at center — an ambiguous shape with an unusual texture, not obviously a shell or driftwood. ムーミン crouches beside it at left, one paw pointing to it, body leaned forward with intense curiosity. No other figures in frame. Calm sea behind, pale early sky, scattered smaller shells and pebbles around his feet. Tove Jansson hand-drawn Moomin illustration style, 16:9, cool coastal gray-blue palette, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

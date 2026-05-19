@@ -1,0 +1,330 @@
+{
+  "chapter": 18,
+  "title": "川のそば",
+  "arc": "B",
+  "arcPosition": "9/9",
+  "arcLabel": "Arc B — Companions",
+  "grammarStep": 12,
+  "grammarName": "ている foregrounded + と-consequence",
+  "grammarPatterns": [
+    "V-ている (ongoing / resultative state)",
+    "V-た + ている (V-ている past = had been V-ing)",
+    "と + consequence clause (automatic outcome)",
+    "確か / 面白い (evidential and reactional adjectives)"
+  ],
+  "lengthTarget": [
+    520,
+    780
+  ],
+  "register": "N4",
+  "plotSummary": "Moomintroll, Snufkin and Moominpappa stand by the river. Something in the undergrowth is moving — a plant or a mushroom, they can't tell. It shifts. They watch. Moominpappa is fascinated; Sniff is uneasy; Snufkin is calm. The chapter foregrounds the V-ている progressive — the plant 動いている, the mushroom 落ちている, and the whole scene 変わっている. Arc B closes here; a storm is about to come in Arc C.",
+  "proper_nouns": [
+    "ムーミン",
+    "スナフキン",
+    "パパ",
+    "スニフ",
+    "スラン"
+  ],
+  "scene": {
+    "location": "かわのそば",
+    "beat": "By the river. Something is moving — a mushroom? a plant? 〜ている foregrounded: ongoing state, resultative, habitual.",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "スナフキン",
+      "パパ"
+    ],
+    "mentioned": [
+      "スラン",
+      "スニフ"
+    ],
+    "motifs": [
+      "川"
+    ]
+  },
+  "continuity": {
+    "from": "ch17 (the clearing — voices)",
+    "to": "ch19 (rainy day inside — Arc C begins)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "やっと、川のそばまで来たよ。",
+      "html": "やっと、<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>のそばまで<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たよ。",
+      "htmlFull": "やっと、<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>のそばまで<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たよ。"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "あ、あそこにいるのはスランだ！たしかに、スランだね。",
+      "html": "あ、あそこにいるのはスランだ！たしかに、スランだね。",
+      "htmlFull": "あ、あそこにいるのはスランだ！たしかに、スランだね。"
+    },
+    {
+      "id": "p03",
+      "kind": "dialogue",
+      "speaker": "スラン",
+      "text": "ほら、ここに、きのこがあるよ。",
+      "html": "ほら、ここに、きのこがあるよ。",
+      "htmlFull": "ほら、ここに、きのこがあるよ。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "わあ、この植物、ずいぶん大きいね。なんだか、面白い植物だなあ。",
+      "html": "わあ、この<span class=\"word\" data-lemma=\"植物\" data-surface=\"植物\" data-reading=\"しょくぶつ\">植物</span>、ずいぶん<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span>ね。なんだか、<span class=\"word\" data-lemma=\"面白い\" data-surface=\"面白い\" data-reading=\"おもしろい\">面白い</span><span class=\"word\" data-lemma=\"植物\" data-surface=\"植物\" data-reading=\"しょくぶつ\">植物</span>だなあ。",
+      "htmlFull": "わあ、この<ruby data-lemma=\"植物\" data-surface=\"植物\">植物<rt>しょくぶつ</rt></ruby>、ずいぶん<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きいね。なんだか、<ruby data-lemma=\"面白い\" data-surface=\"面白い\">面白<rt>おもしろ</rt></ruby>い<ruby data-lemma=\"植物\" data-surface=\"植物\">植物<rt>しょくぶつ</rt></ruby>だなあ。"
+    },
+    {
+      "id": "p05",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "えっ、動いた！この植物、いま動いてるよ！",
+      "html": "えっ、<span class=\"word\" data-lemma=\"動く\" data-surface=\"動い\" data-reading=\"うごい\">動い</span>た！この<span class=\"word\" data-lemma=\"植物\" data-surface=\"植物\" data-reading=\"しょくぶつ\">植物</span>、いま<span class=\"word\" data-lemma=\"動く\" data-surface=\"動い\" data-reading=\"うごい\">動い</span>てるよ！",
+      "htmlFull": "えっ、<ruby data-lemma=\"動く\" data-surface=\"動い\">動<rt>うご</rt></ruby>いた！この<ruby data-lemma=\"植物\" data-surface=\"植物\">植物<rt>しょくぶつ</rt></ruby>、いま<ruby data-lemma=\"動く\" data-surface=\"動い\">動<rt>うご</rt></ruby>いてるよ！"
+    },
+    {
+      "id": "p06",
+      "kind": "narration",
+      "speaker": null,
+      "text": "スランもムーミンも、じっとその植物を見つめていた。植物はたしかに、ゆっくりと動いている。",
+      "html": "スランもムーミンも、じっとその<span class=\"word\" data-lemma=\"植物\" data-surface=\"植物\" data-reading=\"しょくぶつ\">植物</span>を<span class=\"word\" data-lemma=\"見詰める\" data-surface=\"見つめ\" data-reading=\"みつめ\">見つめ</span>ていた。<span class=\"word\" data-lemma=\"植物\" data-surface=\"植物\" data-reading=\"しょくぶつ\">植物</span>はたしかに、ゆっくりと<span class=\"word\" data-lemma=\"動く\" data-surface=\"動い\" data-reading=\"うごい\">動い</span>ている。",
+      "htmlFull": "スランもムーミンも、じっとその<ruby data-lemma=\"植物\" data-surface=\"植物\">植物<rt>しょくぶつ</rt></ruby>を<ruby data-lemma=\"見詰める\" data-surface=\"見つめ\">見<rt>み</rt></ruby>つめていた。<ruby data-lemma=\"植物\" data-surface=\"植物\">植物<rt>しょくぶつ</rt></ruby>はたしかに、ゆっくりと<ruby data-lemma=\"動く\" data-surface=\"動い\">動<rt>うご</rt></ruby>いている。"
+    },
+    {
+      "id": "p07",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "みんな、すぐこっちへ来て、見てみて！",
+      "html": "みんな、すぐこっちへ<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>て、<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>てみて！",
+      "htmlFull": "みんな、すぐこっちへ<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>て、<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>てみて！"
+    },
+    {
+      "id": "p08",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "ほんとうだ、面白いことだね。",
+      "html": "ほんとうだ、<span class=\"word\" data-lemma=\"面白い\" data-surface=\"面白い\" data-reading=\"おもしろい\">面白い</span>ことだね。",
+      "htmlFull": "ほんとうだ、<ruby data-lemma=\"面白い\" data-surface=\"面白い\">面白<rt>おもしろ</rt></ruby>いことだね。"
+    },
+    {
+      "id": "p09",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "うん、えっ、あのきのこも、動いてる？",
+      "html": "うん、えっ、あのきのこも、<span class=\"word\" data-lemma=\"動く\" data-surface=\"動い\" data-reading=\"うごい\">動い</span>てる？",
+      "htmlFull": "うん、えっ、あのきのこも、<ruby data-lemma=\"動く\" data-surface=\"動い\">動<rt>うご</rt></ruby>いてる？"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ほら、あそこにきのこが落ちてるよ。",
+      "html": "ほら、あそこにきのこが<span class=\"word\" data-lemma=\"落ちる\" data-surface=\"落ち\" data-reading=\"おち\">落ち</span>てるよ。",
+      "htmlFull": "ほら、あそこにきのこが<ruby data-lemma=\"落ちる\" data-surface=\"落ち\">落<rt>お</rt></ruby>ちてるよ。"
+    },
+    {
+      "id": "p11",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "この川のそば、なんだかちょっと、変わってるね。",
+      "html": "この<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>のそば、なんだかちょっと、<span class=\"word\" data-lemma=\"変わる\" data-surface=\"変わっ\" data-reading=\"かわっ\">変わっ</span>てるね。",
+      "htmlFull": "この<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>のそば、なんだかちょっと、<ruby data-lemma=\"変わる\" data-surface=\"変わっ\">変<rt>か</rt></ruby>わってるね。"
+    },
+    {
+      "id": "p12",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "たしか、昨日はこんなじゃなかったよ。",
+      "html": "たしか、<span class=\"word\" data-lemma=\"昨日\" data-surface=\"昨日\" data-reading=\"きのう\">昨日</span>はこんなじゃなかったよ。",
+      "htmlFull": "たしか、<ruby data-lemma=\"昨日\" data-surface=\"昨日\">昨日<rt>きのう</rt></ruby>はこんなじゃなかったよ。"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ねえ、きのこのほうも、もしかして動いてる？",
+      "html": "ねえ、きのこのほうも、もしかして<span class=\"word\" data-lemma=\"動く\" data-surface=\"動い\" data-reading=\"うごい\">動い</span>てる？",
+      "htmlFull": "ねえ、きのこのほうも、もしかして<ruby data-lemma=\"動く\" data-surface=\"動い\">動<rt>うご</rt></ruby>いてる？"
+    },
+    {
+      "id": "p14",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "ほら、さわると、すぐ動き出すよ。",
+      "html": "ほら、さわると、すぐ<span class=\"word\" data-lemma=\"動く\" data-surface=\"動き\" data-reading=\"うごき\">動き</span><span class=\"word\" data-lemma=\"出す\" data-surface=\"出す\" data-reading=\"だす\">出す</span>よ。",
+      "htmlFull": "ほら、さわると、すぐ<ruby data-lemma=\"動く\" data-surface=\"動き\">動<rt>うご</rt></ruby>き<ruby data-lemma=\"出す\" data-surface=\"出す\">出<rt>だ</rt></ruby>すよ。"
+    },
+    {
+      "id": "p15",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "わあ、とっても面白い！",
+      "html": "わあ、とっても<span class=\"word\" data-lemma=\"面白い\" data-surface=\"面白い\" data-reading=\"おもしろい\">面白い</span>！",
+      "htmlFull": "わあ、とっても<ruby data-lemma=\"面白い\" data-surface=\"面白い\">面白<rt>おもしろ</rt></ruby>い！"
+    },
+    {
+      "id": "p16",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "スランのきのこ、大きいね。たしかに、よく動くよ。",
+      "html": "スランのきのこ、<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span>ね。たしかに、よく<span class=\"word\" data-lemma=\"動く\" data-surface=\"動く\" data-reading=\"うごく\">動く</span>よ。",
+      "htmlFull": "スランのきのこ、<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きいね。たしかに、よく<ruby data-lemma=\"動く\" data-surface=\"動く\">動<rt>うご</rt></ruby>くよ。"
+    },
+    {
+      "id": "p17",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "また見に来るよ！今日はそろそろ、帰ろう。",
+      "html": "また<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>に<span class=\"word\" data-lemma=\"来る\" data-surface=\"来る\" data-reading=\"くる\">来る</span>よ！<span class=\"word\" data-lemma=\"今日\" data-surface=\"今日\" data-reading=\"きょう\">今日</span>はそろそろ、<span class=\"word\" data-lemma=\"返る\" data-surface=\"帰ろう\" data-reading=\"かえろう\">帰ろう</span>。",
+      "htmlFull": "また<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>に<ruby data-lemma=\"来る\" data-surface=\"来る\">来<rt>く</rt></ruby>るよ！<ruby data-lemma=\"今日\" data-surface=\"今日\">今日<rt>きょう</rt></ruby>はそろそろ、<ruby data-lemma=\"返る\" data-surface=\"帰ろう\">帰<rt>かえ</rt></ruby>ろう。"
+    },
+    {
+      "id": "p18",
+      "kind": "dialogue",
+      "speaker": "スラン",
+      "text": "えっ、もう帰るの？",
+      "html": "えっ、もう<span class=\"word\" data-lemma=\"返る\" data-surface=\"帰る\" data-reading=\"かえる\">帰る</span>の？",
+      "htmlFull": "えっ、もう<ruby data-lemma=\"返る\" data-surface=\"帰る\">帰<rt>かえ</rt></ruby>るの？"
+    },
+    {
+      "id": "p19",
+      "kind": "narration",
+      "speaker": null,
+      "text": "川のそばで、スランとムーミンとスナフキンが、じっと植物を見ていた。植物もきのこも、ゆっくりと動いている。スランは、大きなきのこを手に持っている。",
+      "html": "<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>のそばで、スランとムーミンとスナフキンが、じっと<span class=\"word\" data-lemma=\"植物\" data-surface=\"植物\" data-reading=\"しょくぶつ\">植物</span>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ていた。<span class=\"word\" data-lemma=\"植物\" data-surface=\"植物\" data-reading=\"しょくぶつ\">植物</span>もきのこも、ゆっくりと<span class=\"word\" data-lemma=\"動く\" data-surface=\"動い\" data-reading=\"うごい\">動い</span>ている。スランは、<span class=\"word\" data-lemma=\"大きな\" data-surface=\"大きな\" data-reading=\"おおきな\">大きな</span>きのこを<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>に<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>ている。",
+      "htmlFull": "<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>のそばで、スランとムーミンとスナフキンが、じっと<ruby data-lemma=\"植物\" data-surface=\"植物\">植物<rt>しょくぶつ</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ていた。<ruby data-lemma=\"植物\" data-surface=\"植物\">植物<rt>しょくぶつ</rt></ruby>もきのこも、ゆっくりと<ruby data-lemma=\"動く\" data-surface=\"動い\">動<rt>うご</rt></ruby>いている。スランは、<ruby data-lemma=\"大きな\" data-surface=\"大きな\">大<rt>おお</rt></ruby>きなきのこを<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>に<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>っている。"
+    },
+    {
+      "id": "p20",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンが植物にそっとさわると、植物はもっと動き出した。さわると動く、ということが、ムーミンにもわかった。たしかに、昨日とは何かが違っている。",
+      "html": "ムーミンが<span class=\"word\" data-lemma=\"植物\" data-surface=\"植物\" data-reading=\"しょくぶつ\">植物</span>にそっとさわると、<span class=\"word\" data-lemma=\"植物\" data-surface=\"植物\" data-reading=\"しょくぶつ\">植物</span>はもっと<span class=\"word\" data-lemma=\"動く\" data-surface=\"動き\" data-reading=\"うごき\">動き</span><span class=\"word\" data-lemma=\"出す\" data-surface=\"出し\" data-reading=\"だし\">出し</span>た。さわると<span class=\"word\" data-lemma=\"動く\" data-surface=\"動く\" data-reading=\"うごく\">動く</span>、ということが、ムーミンにもわかった。たしかに、<span class=\"word\" data-lemma=\"昨日\" data-surface=\"昨日\" data-reading=\"きのう\">昨日</span>とは<span class=\"word\" data-lemma=\"何\" data-surface=\"何\" data-reading=\"なん\">何</span>かが<span class=\"word\" data-lemma=\"違う\" data-surface=\"違っ\" data-reading=\"ちがっ\">違っ</span>ている。",
+      "htmlFull": "ムーミンが<ruby data-lemma=\"植物\" data-surface=\"植物\">植物<rt>しょくぶつ</rt></ruby>にそっとさわると、<ruby data-lemma=\"植物\" data-surface=\"植物\">植物<rt>しょくぶつ</rt></ruby>はもっと<ruby data-lemma=\"動く\" data-surface=\"動き\">動<rt>うご</rt></ruby>き<ruby data-lemma=\"出す\" data-surface=\"出し\">出<rt>だ</rt></ruby>した。さわると<ruby data-lemma=\"動く\" data-surface=\"動く\">動<rt>うご</rt></ruby>く、ということが、ムーミンにもわかった。たしかに、<ruby data-lemma=\"昨日\" data-surface=\"昨日\">昨日<rt>きのう</rt></ruby>とは<ruby data-lemma=\"何\" data-surface=\"何\">何<rt>なん</rt></ruby>かが<ruby data-lemma=\"違う\" data-surface=\"違っ\">違<rt>ちが</rt></ruby>っている。"
+    },
+    {
+      "id": "p21",
+      "kind": "narration",
+      "speaker": null,
+      "text": "パパも、植物のそばに立って「面白い植物だな」とうなずいていた。やがて、みんなで家へ帰ることになった。きのこと植物は、そのまま川のそばにのこしておいた。動く植物、動くきのこ。たしかに、面白い一日だった。",
+      "html": "パパも、<span class=\"word\" data-lemma=\"植物\" data-surface=\"植物\" data-reading=\"しょくぶつ\">植物</span>のそばに<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>て「<span class=\"word\" data-lemma=\"面白い\" data-surface=\"面白い\" data-reading=\"おもしろい\">面白い</span><span class=\"word\" data-lemma=\"植物\" data-surface=\"植物\" data-reading=\"しょくぶつ\">植物</span>だな」とうなずいていた。やがて、みんなで<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>へ<span class=\"word\" data-lemma=\"返る\" data-surface=\"帰る\" data-reading=\"かえる\">帰る</span>ことになった。きのこと<span class=\"word\" data-lemma=\"植物\" data-surface=\"植物\" data-reading=\"しょくぶつ\">植物</span>は、そのまま<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>のそばにのこしておいた。<span class=\"word\" data-lemma=\"動く\" data-surface=\"動く\" data-reading=\"うごく\">動く</span><span class=\"word\" data-lemma=\"植物\" data-surface=\"植物\" data-reading=\"しょくぶつ\">植物</span>、<span class=\"word\" data-lemma=\"動く\" data-surface=\"動く\" data-reading=\"うごく\">動く</span>きのこ。たしかに、<span class=\"word\" data-lemma=\"面白い\" data-surface=\"面白い\" data-reading=\"おもしろい\">面白い</span><span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いち\">一</span><span class=\"word\" data-lemma=\"日\" data-surface=\"日\" data-reading=\"にち\">日</span>だった。",
+      "htmlFull": "パパも、<ruby data-lemma=\"植物\" data-surface=\"植物\">植物<rt>しょくぶつ</rt></ruby>のそばに<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>って「<ruby data-lemma=\"面白い\" data-surface=\"面白い\">面白<rt>おもしろ</rt></ruby>い<ruby data-lemma=\"植物\" data-surface=\"植物\">植物<rt>しょくぶつ</rt></ruby>だな」とうなずいていた。やがて、みんなで<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>へ<ruby data-lemma=\"返る\" data-surface=\"帰る\">帰<rt>かえ</rt></ruby>ることになった。きのこと<ruby data-lemma=\"植物\" data-surface=\"植物\">植物<rt>しょくぶつ</rt></ruby>は、そのまま<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>のそばにのこしておいた。<ruby data-lemma=\"動く\" data-surface=\"動く\">動<rt>うご</rt></ruby>く<ruby data-lemma=\"植物\" data-surface=\"植物\">植物<rt>しょくぶつ</rt></ruby>、<ruby data-lemma=\"動く\" data-surface=\"動く\">動<rt>うご</rt></ruby>くきのこ。たしかに、<ruby data-lemma=\"面白い\" data-surface=\"面白い\">面白<rt>おもしろ</rt></ruby>い<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いち</rt></ruby><ruby data-lemma=\"日\" data-surface=\"日\">日<rt>にち</rt></ruby>だった。"
+    },
+    {
+      "id": "p22",
+      "kind": "narration",
+      "speaker": null,
+      "text": "スナフキンは、帰りぎわにもう一度、きのこをふり返って見ていた。ムーミンも、きのこのそばで、しばらくゆっくり立っていた。今日は、たしかにいい日だった。",
+      "html": "スナフキンは、<span class=\"word\" data-lemma=\"帰り際\" data-surface=\"帰りぎわ\" data-reading=\"かえりぎわ\">帰りぎわ</span>にもう<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いち\">一</span><span class=\"word\" data-lemma=\"度\" data-surface=\"度\" data-reading=\"ど\">度</span>、きのこを<span class=\"word\" data-lemma=\"振り返る\" data-surface=\"ふり返っ\" data-reading=\"ふりかえっ\">ふり返っ</span>て<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ていた。ムーミンも、きのこのそばで、しばらくゆっくり<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>ていた。<span class=\"word\" data-lemma=\"今日\" data-surface=\"今日\" data-reading=\"きょう\">今日</span>は、たしかにいい<span class=\"word\" data-lemma=\"日\" data-surface=\"日\" data-reading=\"ひ\">日</span>だった。",
+      "htmlFull": "スナフキンは、<ruby data-lemma=\"帰り際\" data-surface=\"帰りぎわ\">帰<rt>かえ</rt></ruby>りぎわにもう<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いち</rt></ruby><ruby data-lemma=\"度\" data-surface=\"度\">度<rt>ど</rt></ruby>、きのこをふり<ruby data-lemma=\"振り返る\" data-surface=\"ふり返っ\">返<rt>かえ</rt></ruby>って<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ていた。ムーミンも、きのこのそばで、しばらくゆっくり<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>っていた。<ruby data-lemma=\"今日\" data-surface=\"今日\">今日<rt>きょう</rt></ruby>は、たしかにいい<ruby data-lemma=\"日\" data-surface=\"日\">日<rt>ひ</rt></ruby>だった。"
+    },
+    {
+      "id": "p23",
+      "kind": "narration",
+      "speaker": null,
+      "text": "スランは大きなきのこを持って、自分の家へ帰って行った。ムーミンとパパも、そろって家へ帰った。みんなで家へ帰る、いい日だった。",
+      "html": "スランは<span class=\"word\" data-lemma=\"大きな\" data-surface=\"大きな\" data-reading=\"おおきな\">大きな</span>きのこを<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>て、<span class=\"word\" data-lemma=\"自分\" data-surface=\"自分\" data-reading=\"じぶん\">自分</span>の<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>へ<span class=\"word\" data-lemma=\"返る\" data-surface=\"帰っ\" data-reading=\"かえっ\">帰っ</span>て<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>た。ムーミンとパパも、そろって<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>へ<span class=\"word\" data-lemma=\"返る\" data-surface=\"帰っ\" data-reading=\"かえっ\">帰っ</span>た。みんなで<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>へ<span class=\"word\" data-lemma=\"返る\" data-surface=\"帰る\" data-reading=\"かえる\">帰る</span>、いい<span class=\"word\" data-lemma=\"日\" data-surface=\"日\" data-reading=\"ひ\">日</span>だった。",
+      "htmlFull": "スランは<ruby data-lemma=\"大きな\" data-surface=\"大きな\">大<rt>おお</rt></ruby>きなきのこを<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>って、<ruby data-lemma=\"自分\" data-surface=\"自分\">自分<rt>じぶん</rt></ruby>の<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>へ<ruby data-lemma=\"返る\" data-surface=\"帰っ\">帰<rt>かえ</rt></ruby>って<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>った。ムーミンとパパも、そろって<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>へ<ruby data-lemma=\"返る\" data-surface=\"帰っ\">帰<rt>かえ</rt></ruby>った。みんなで<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>へ<ruby data-lemma=\"返る\" data-surface=\"帰る\">帰<rt>かえ</rt></ruby>る、いい<ruby data-lemma=\"日\" data-surface=\"日\">日<rt>ひ</rt></ruby>だった。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "動く",
+      "reading": "うごく",
+      "gloss": "to move",
+      "tier": "focus"
+    },
+    {
+      "lemma": "えっ",
+      "reading": "えっ",
+      "gloss": "eh?! (startled interjection)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "きのこ",
+      "reading": "きのこ",
+      "gloss": "mushroom (UniDic きのこ → learner hiragana きのこ)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "面白い",
+      "reading": "おもしろい",
+      "gloss": "interesting, fascinating",
+      "tier": "focus"
+    },
+    {
+      "lemma": "確か",
+      "reading": "たしか",
+      "gloss": "certain, definite (na-adj); for sure (adverb)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "植物",
+      "reading": "しょくぶつ",
+      "gloss": "plant (general)",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [],
+  "glossary": [
+    {
+      "lemma": "動く",
+      "reading": "うごく",
+      "gloss": "to move (intransitive)",
+      "tier": "focus",
+      "first": "ch18"
+    },
+    {
+      "lemma": "えっ",
+      "reading": "えっ",
+      "gloss": "eh?! (startled interjection)",
+      "tier": "focus",
+      "first": "ch18"
+    },
+    {
+      "lemma": "きのこ",
+      "reading": "きのこ",
+      "gloss": "mushroom (UniDic きのこ → learner hiragana きのこ)",
+      "tier": "focus",
+      "first": "ch18"
+    },
+    {
+      "lemma": "面白い",
+      "reading": "おもしろい",
+      "gloss": "interesting, fascinating",
+      "tier": "focus",
+      "first": "ch18"
+    },
+    {
+      "lemma": "確か",
+      "reading": "たしか",
+      "gloss": "certain, definite (na-adj); for sure (adverb)",
+      "tier": "focus",
+      "first": "ch18"
+    },
+    {
+      "lemma": "植物",
+      "reading": "しょくぶつ",
+      "gloss": "plant (general)",
+      "tier": "focus",
+      "first": "ch18"
+    }
+  ],
+  "grammarNotes": [
+    "V-ている — foregrounded at last. Ongoing action: 動いている = \"is moving\"; resultative state: 落ちている = \"has fallen [and remains fallen]\". The て-form from ch11/16 combined with いる.",
+    "V-dict + と — \"whenever / if / when X, then Y\" (automatic consequence). さわると動く = \"if you touch it, it moves\" (automatic every time). Distinct from the quotative と.",
+    "Negation in ている: V-ていない = \"not V-ing / hasn't V-ed.\" Doesn't appear in this chapter but worth noting.",
+    "面白い — \"interesting / fascinating.\" The core N5 word for novel observation.",
+    "確か — can be a na-adj (\"確かなこと\" = \"a certain thing\") or an adverb (\"確かに\" = \"certainly / for sure\"). 確か, 昨日は違った = \"I'm pretty sure yesterday was different.\""
+  ],
+  "illustration": {
+    "scene_note": "Muddy riverbank with ferns and moss. A strange mushroom-topped plant with a visible stem is gently leaning / twitching. Moomintroll crouches close watching; Moominpappa stands back fascinated, hands behind his back; Snufkin smokes his pipe calmly. Sran is visible further up the bank holding an oversized mushroom.",
+    "panel_count": 4,
+    "image_prompt": "Medium shot of a muddy riverbank with ferns and moss. A strange tall mushroom-capped plant with a visible stem leans gently at center, slightly mid-movement. ムーミン crouches close at left watching it with wide eyes, paw extended. スナフキン stands at right, pipe in hand, calm. パパ stands a step further back, hands clasped behind him, fascinated. Up the bank at far right, スラン holds an oversized mushroom cap. Cool damp green palette, soft grey sky. Tove Jansson hand-drawn Moomin illustration style, 16:9, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

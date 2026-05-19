@@ -1,0 +1,294 @@
+{
+  "chapter": 28,
+  "title": "珍しい切手",
+  "arc": "D",
+  "arcPosition": "1/9",
+  "arcLabel": "Arc D — Quiet Rooms",
+  "grammarStep": 20,
+  "grammarName": "Potential: 〜える / 〜られる / できる",
+  "grammarPatterns": [
+    "V → V-可能 (できる / 食べられる / 見られる)",
+    "X を V-える (X can be V-ed)",
+    "X が わかる / みえる / きこえる (potential-like verbs)",
+    "〜が好き (preference)"
+  ],
+  "lengthTarget": [
+    720,
+    1080
+  ],
+  "register": "N4",
+  "plotSummary": "A summer afternoon in the Moomin kitchen. The Hobgoblin (the \"飛行鬼\" — Hobgoblin is the Moomin-world sorcerer who collects rare things) drops by with a rare stamp to show Moominmamma. She makes pancakes. A little ant creature runs past with the Hobgoblin at its heels. The chapter teaches the POTENTIAL — the things you can do, can take, can collect: できる / とれる / 集められる.",
+  "proper_nouns": [
+    "ムーミン",
+    "ママ",
+    "飛行鬼",
+    "スニフ",
+    "パパ"
+  ],
+  "scene": {
+    "location": "ムーミンやしきのだいどころ",
+    "beat": "The kitchen. Moominmamma has a rare stamp; pancakes; an ant runs by with the Hobgoblin following. Potential takes its home step.",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "ママ",
+      "飛行鬼"
+    ],
+    "mentioned": [
+      "スニフ",
+      "パパ"
+    ],
+    "motifs": [
+      "台所",
+      "家"
+    ]
+  },
+  "continuity": {
+    "from": "ch27 (Arc C closes — night sky)",
+    "to": "ch29 (the river road)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "narration",
+      "speaker": null,
+      "text": "夏の午後、ムーミンの家の台所で、ママがパンケーキをたくさん作っていた。甘いにおいが家じゅうに広がっている。",
+      "html": "<span class=\"word\" data-lemma=\"夏\" data-surface=\"夏\" data-reading=\"なつ\">夏</span>の<span class=\"word\" data-lemma=\"午後\" data-surface=\"午後\" data-reading=\"ごご\">午後</span>、ムーミンの<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"台所\" data-surface=\"台所\" data-reading=\"だいどころ\">台所</span>で、ママがパンケーキをたくさん<span class=\"word\" data-lemma=\"作る\" data-surface=\"作っ\" data-reading=\"つくっ\">作っ</span>ていた。<ruby data-lemma=\"甘い\" data-surface=\"甘い\">甘<rt>あま</rt></ruby>いにおいが<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>じゅうに<span class=\"word\" data-lemma=\"広がる\" data-surface=\"広がっ\" data-reading=\"ひろがっ\">広がっ</span>ている。",
+      "htmlFull": "<ruby data-lemma=\"夏\" data-surface=\"夏\">夏<rt>なつ</rt></ruby>の<ruby data-lemma=\"午後\" data-surface=\"午後\">午後<rt>ごご</rt></ruby>、ムーミンの<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"台所\" data-surface=\"台所\">台所<rt>だいどころ</rt></ruby>で、ママがパンケーキをたくさん<ruby data-lemma=\"作る\" data-surface=\"作っ\">作<rt>つく</rt></ruby>っていた。<ruby data-lemma=\"甘い\" data-surface=\"甘い\">甘<rt>あま</rt></ruby>いにおいが<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>じゅうに<ruby data-lemma=\"広がる\" data-surface=\"広がっ\">広<rt>ひろ</rt></ruby>がっている。"
+    },
+    {
+      "id": "p02",
+      "kind": "narration",
+      "speaker": null,
+      "text": "そのとき、玄関のドアがあいて、飛行鬼がしずかに入って来た。手には、小さい本のようなものを持っている。",
+      "html": "そのとき、<ruby data-lemma=\"玄関\" data-surface=\"玄関\">玄関<rt>げんかん</rt></ruby>のドアがあいて、<span class=\"word\" data-lemma=\"飛行\" data-surface=\"飛行\" data-reading=\"ひこう\">飛行</span><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>がしずかに<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>には、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"本\" data-surface=\"本\" data-reading=\"ほん\">本</span>のようなものを<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>ている。",
+      "htmlFull": "そのとき、<ruby data-lemma=\"玄関\" data-surface=\"玄関\">玄関<rt>げんかん</rt></ruby>のドアがあいて、<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>がしずかに<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>って<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>には、<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"本\" data-surface=\"本\">本<rt>ほん</rt></ruby>のようなものを<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>っている。"
+    },
+    {
+      "id": "p03",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "あっ、飛行鬼が来たよ！ママ、パンケーキ、ちょうどできたね。",
+      "html": "あっ、<span class=\"word\" data-lemma=\"飛行\" data-surface=\"飛行\" data-reading=\"ひこう\">飛行</span><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>が<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たよ！ママ、パンケーキ、ちょうどできたね。",
+      "htmlFull": "あっ、<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>が<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たよ！ママ、パンケーキ、ちょうどできたね。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "まあ、飛行鬼さん、いらっしゃい。パンケーキ、いかがですか？",
+      "html": "まあ、<span class=\"word\" data-lemma=\"飛行\" data-surface=\"飛行\" data-reading=\"ひこう\">飛行</span><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>さん、いらっしゃい。パンケーキ、いかがですか？",
+      "htmlFull": "まあ、<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>さん、いらっしゃい。パンケーキ、いかがですか？"
+    },
+    {
+      "id": "p05",
+      "kind": "dialogue",
+      "speaker": "飛行鬼",
+      "text": "ありがとうございます。食べられたら、うれしいです。それに、みなさんに珍しい切手を見せに来ました。",
+      "html": "ありがとうございます。<span class=\"word\" data-lemma=\"食べる\" data-surface=\"食べ\" data-reading=\"たべ\">食べ</span>られたら、うれしいです。それに、みなさんに<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しい<span class=\"word\" data-lemma=\"切手\" data-surface=\"切手\" data-reading=\"きって\">切手</span>を<span class=\"word\" data-lemma=\"見せる\" data-surface=\"見せ\" data-reading=\"みせ\">見せ</span>に<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>ました。",
+      "htmlFull": "ありがとうございます。<ruby data-lemma=\"食べる\" data-surface=\"食べ\">食<rt>た</rt></ruby>べられたら、うれしいです。それに、みなさんに<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しい<ruby data-lemma=\"切手\" data-surface=\"切手\">切手<rt>きって</rt></ruby>を<ruby data-lemma=\"見せる\" data-surface=\"見せ\">見<rt>み</rt></ruby>せに<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>ました。"
+    },
+    {
+      "id": "p06",
+      "kind": "narration",
+      "speaker": null,
+      "text": "飛行鬼は、自分の本を開いた。中には、色々な国の切手がならんでいた。ムーミンは、それをじっと見た。",
+      "html": "<span class=\"word\" data-lemma=\"飛行\" data-surface=\"飛行\" data-reading=\"ひこう\">飛行</span><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>は、<span class=\"word\" data-lemma=\"自分\" data-surface=\"自分\" data-reading=\"じぶん\">自分</span>の<span class=\"word\" data-lemma=\"本\" data-surface=\"本\" data-reading=\"ほん\">本</span>を<span class=\"word\" data-lemma=\"開く\" data-surface=\"開い\" data-reading=\"ひらい\">開い</span>た。<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>には、<span class=\"word\" data-lemma=\"色々\" data-surface=\"色々\" data-reading=\"いろいろ\">色々</span>な<span class=\"word\" data-lemma=\"国\" data-surface=\"国\" data-reading=\"くに\">国</span>の<span class=\"word\" data-lemma=\"切手\" data-surface=\"切手\" data-reading=\"きって\">切手</span>がならんでいた。ムーミンは、それをじっと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。",
+      "htmlFull": "<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>は、<ruby data-lemma=\"自分\" data-surface=\"自分\">自分<rt>じぶん</rt></ruby>の<ruby data-lemma=\"本\" data-surface=\"本\">本<rt>ほん</rt></ruby>を<ruby data-lemma=\"開く\" data-surface=\"開い\">開<rt>ひら</rt></ruby>いた。<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>には、<ruby data-lemma=\"色々\" data-surface=\"色々\">色々<rt>いろいろ</rt></ruby>な<ruby data-lemma=\"国\" data-surface=\"国\">国<rt>くに</rt></ruby>の<ruby data-lemma=\"切手\" data-surface=\"切手\">切手<rt>きって</rt></ruby>がならんでいた。ムーミンは、それをじっと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。"
+    },
+    {
+      "id": "p07",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "わあ、珍しい切手ばかりだね。こんなにたくさん、集められるんだ！",
+      "html": "わあ、<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しい<span class=\"word\" data-lemma=\"切手\" data-surface=\"切手\" data-reading=\"きって\">切手</span>ばかりだね。こんなにたくさん、<span class=\"word\" data-lemma=\"集める\" data-surface=\"集め\" data-reading=\"あつめ\">集め</span>られるんだ！",
+      "htmlFull": "わあ、<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しい<ruby data-lemma=\"切手\" data-surface=\"切手\">切手<rt>きって</rt></ruby>ばかりだね。こんなにたくさん、<ruby data-lemma=\"集める\" data-surface=\"集め\">集<rt>あつ</rt></ruby>められるんだ！"
+    },
+    {
+      "id": "p08",
+      "kind": "dialogue",
+      "speaker": "飛行鬼",
+      "text": "世界じゅうを回って、少しずつ集めています。珍しいものを集めるのが、いちばん楽しいんです。",
+      "html": "<span class=\"word\" data-lemma=\"世界\" data-surface=\"世界\" data-reading=\"せかい\">世界</span>じゅうを<span class=\"word\" data-lemma=\"回る\" data-surface=\"回っ\" data-reading=\"まわっ\">回っ</span>て、<span class=\"word\" data-lemma=\"少し\" data-surface=\"少し\" data-reading=\"すこし\">少し</span>ずつ<span class=\"word\" data-lemma=\"集める\" data-surface=\"集め\" data-reading=\"あつめ\">集め</span>ています。<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しいものを<span class=\"word\" data-lemma=\"集める\" data-surface=\"集める\" data-reading=\"あつめる\">集める</span>のが、いちばん<span class=\"word\" data-lemma=\"楽しい\" data-surface=\"楽しい\" data-reading=\"たのしい\">楽しい</span>んです。",
+      "htmlFull": "<ruby data-lemma=\"世界\" data-surface=\"世界\">世界<rt>せかい</rt></ruby>じゅうを<ruby data-lemma=\"回る\" data-surface=\"回っ\">回<rt>まわ</rt></ruby>って、<ruby data-lemma=\"少し\" data-surface=\"少し\">少<rt>すこ</rt></ruby>しずつ<ruby data-lemma=\"集める\" data-surface=\"集め\">集<rt>あつ</rt></ruby>めています。<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しいものを<ruby data-lemma=\"集める\" data-surface=\"集める\">集<rt>あつ</rt></ruby>めるのが、いちばん<ruby data-lemma=\"楽しい\" data-surface=\"楽しい\">楽<rt>たの</rt></ruby>しいんです。"
+    },
+    {
+      "id": "p09",
+      "kind": "narration",
+      "speaker": null,
+      "text": "そのとき、台所のすみから、小さいアリが走って来た。ムーミンはびっくりして、立ち上がった。",
+      "html": "そのとき、<span class=\"word\" data-lemma=\"台所\" data-surface=\"台所\" data-reading=\"だいどころ\">台所</span>のすみから、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>アリが<span class=\"word\" data-lemma=\"走る\" data-surface=\"走っ\" data-reading=\"はしっ\">走っ</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。ムーミンはびっくりして、<span class=\"word\" data-lemma=\"立ち上がる\" data-surface=\"立ち上がっ\" data-reading=\"たちあがっ\">立ち上がっ</span>た。",
+      "htmlFull": "そのとき、<ruby data-lemma=\"台所\" data-surface=\"台所\">台所<rt>だいどころ</rt></ruby>のすみから、<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいアリが<ruby data-lemma=\"走る\" data-surface=\"走っ\">走<rt>はし</rt></ruby>って<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。ムーミンはびっくりして、<ruby data-lemma=\"立ち上がる\" data-surface=\"立ち上がっ\">立ち上<rt>たちあ</rt></ruby>がった。"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "あ、小さいアリ！どこから来たんだろう？",
+      "html": "あ、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>アリ！どこから<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たんだろう？",
+      "htmlFull": "あ、<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいアリ！どこから<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たんだろう？"
+    },
+    {
+      "id": "p11",
+      "kind": "dialogue",
+      "speaker": "飛行鬼",
+      "text": "とても速いアリですね。ちょっと、つかまえてみましょうか。",
+      "html": "とても<span class=\"word\" data-lemma=\"早い\" data-surface=\"速い\" data-reading=\"はやい\">速い</span>アリですね。ちょっと、つかまえてみましょうか。",
+      "htmlFull": "とても<ruby data-lemma=\"早い\" data-surface=\"速い\">速<rt>はや</rt></ruby>いアリですね。ちょっと、つかまえてみましょうか。"
+    },
+    {
+      "id": "p12",
+      "kind": "narration",
+      "speaker": null,
+      "text": "飛行鬼は、手をのばしてアリを追ったが、アリはあまりに速くて、つかまえられなかった。",
+      "html": "<span class=\"word\" data-lemma=\"飛行\" data-surface=\"飛行\" data-reading=\"ひこう\">飛行</span><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>は、<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>をのばしてアリを<span class=\"word\" data-lemma=\"追う\" data-surface=\"追っ\" data-reading=\"おっ\">追っ</span>たが、アリはあまりに<span class=\"word\" data-lemma=\"早い\" data-surface=\"速く\" data-reading=\"はやく\">速く</span>て、つかまえられなかった。",
+      "htmlFull": "<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>は、<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>をのばしてアリを<ruby data-lemma=\"追う\" data-surface=\"追っ\">追<rt>お</rt></ruby>ったが、アリはあまりに<ruby data-lemma=\"早い\" data-surface=\"速く\">速<rt>はや</rt></ruby>くて、つかまえられなかった。"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "飛行鬼",
+      "text": "ああ、つかまえられない！本当に、珍しいほど速いアリだ。",
+      "html": "ああ、つかまえられない！<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に、<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しいほど<span class=\"word\" data-lemma=\"早い\" data-surface=\"速い\" data-reading=\"はやい\">速い</span>アリだ。",
+      "htmlFull": "ああ、つかまえられない！<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に、<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しいほど<ruby data-lemma=\"早い\" data-surface=\"速い\">速<rt>はや</rt></ruby>いアリだ。"
+    },
+    {
+      "id": "p14",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "このテーブルも、こわれているな。わしが、ちょっと修理しよう。",
+      "html": "このテーブルも、こわれているな。わしが、ちょっと<ruby data-lemma=\"修理\" data-surface=\"修理\">修理<rt>しゅうり</rt></ruby>しよう。",
+      "htmlFull": "このテーブルも、こわれているな。わしが、ちょっと<ruby data-lemma=\"修理\" data-surface=\"修理\">修理<rt>しゅうり</rt></ruby>しよう。"
+    },
+    {
+      "id": "p15",
+      "kind": "narration",
+      "speaker": null,
+      "text": "パパは台所のテーブルのこわれたところを見て、ていねいに修理した。パパは、修理がとても上手なのだ。",
+      "html": "パパは<span class=\"word\" data-lemma=\"台所\" data-surface=\"台所\" data-reading=\"だいどころ\">台所</span>のテーブルのこわれたところを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>て、ていねいに<ruby data-lemma=\"修理\" data-surface=\"修理\">修理<rt>しゅうり</rt></ruby>した。パパは、<ruby data-lemma=\"修理\" data-surface=\"修理\">修理<rt>しゅうり</rt></ruby>がとても<span class=\"word\" data-lemma=\"上手\" data-surface=\"上手\" data-reading=\"じょうず\">上手</span>なのだ。",
+      "htmlFull": "パパは<ruby data-lemma=\"台所\" data-surface=\"台所\">台所<rt>だいどころ</rt></ruby>のテーブルのこわれたところを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>て、ていねいに<ruby data-lemma=\"修理\" data-surface=\"修理\">修理<rt>しゅうり</rt></ruby>した。パパは、<ruby data-lemma=\"修理\" data-surface=\"修理\">修理<rt>しゅうり</rt></ruby>がとても<ruby data-lemma=\"上手\" data-surface=\"上手\">上手<rt>じょうず</rt></ruby>なのだ。"
+    },
+    {
+      "id": "p16",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "飛行鬼さん、もっと切手を見せてもらえますか？ぼくも、切手を集めてみたいな。",
+      "html": "<span class=\"word\" data-lemma=\"飛行\" data-surface=\"飛行\" data-reading=\"ひこう\">飛行</span><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>さん、もっと<span class=\"word\" data-lemma=\"切手\" data-surface=\"切手\" data-reading=\"きって\">切手</span>を<span class=\"word\" data-lemma=\"見せる\" data-surface=\"見せ\" data-reading=\"みせ\">見せ</span>てもらえますか？ぼくも、<span class=\"word\" data-lemma=\"切手\" data-surface=\"切手\" data-reading=\"きって\">切手</span>を<span class=\"word\" data-lemma=\"集める\" data-surface=\"集め\" data-reading=\"あつめ\">集め</span>てみたいな。",
+      "htmlFull": "<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>さん、もっと<ruby data-lemma=\"切手\" data-surface=\"切手\">切手<rt>きって</rt></ruby>を<ruby data-lemma=\"見せる\" data-surface=\"見せ\">見<rt>み</rt></ruby>せてもらえますか？ぼくも、<ruby data-lemma=\"切手\" data-surface=\"切手\">切手<rt>きって</rt></ruby>を<ruby data-lemma=\"集める\" data-surface=\"集め\">集<rt>あつ</rt></ruby>めてみたいな。"
+    },
+    {
+      "id": "p17",
+      "kind": "dialogue",
+      "speaker": "飛行鬼",
+      "text": "もちろん、見せてあげますよ。ムーミンなら、きっとちゃんと集められますよ。",
+      "html": "もちろん、<span class=\"word\" data-lemma=\"見せる\" data-surface=\"見せ\" data-reading=\"みせ\">見せ</span>てあげますよ。ムーミンなら、きっとちゃんと<span class=\"word\" data-lemma=\"集める\" data-surface=\"集め\" data-reading=\"あつめ\">集め</span>られますよ。",
+      "htmlFull": "もちろん、<ruby data-lemma=\"見せる\" data-surface=\"見せ\">見<rt>み</rt></ruby>せてあげますよ。ムーミンなら、きっとちゃんと<ruby data-lemma=\"集める\" data-surface=\"集め\">集<rt>あつ</rt></ruby>められますよ。"
+    },
+    {
+      "id": "p18",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンは小さい切手を手に持った。切手の上に、大きい青い鳥がかかれていた。とても珍しい、きれいな切手だった。",
+      "html": "ムーミンは<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"切手\" data-surface=\"切手\" data-reading=\"きって\">切手</span>を<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>に<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>た。<span class=\"word\" data-lemma=\"切手\" data-surface=\"切手\" data-reading=\"きって\">切手</span>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>に、<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"青い\" data-surface=\"青い\" data-reading=\"あおい\">青い</span><span class=\"word\" data-lemma=\"鳥\" data-surface=\"鳥\" data-reading=\"とり\">鳥</span>がかかれていた。とても<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しい、きれいな<span class=\"word\" data-lemma=\"切手\" data-surface=\"切手\" data-reading=\"きって\">切手</span>だった。",
+      "htmlFull": "ムーミンは<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"切手\" data-surface=\"切手\">切手<rt>きって</rt></ruby>を<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>に<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>った。<ruby data-lemma=\"切手\" data-surface=\"切手\">切手<rt>きって</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>に、<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"青い\" data-surface=\"青い\">青<rt>あお</rt></ruby>い<ruby data-lemma=\"鳥\" data-surface=\"鳥\">鳥<rt>とり</rt></ruby>がかかれていた。とても<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しい、きれいな<ruby data-lemma=\"切手\" data-surface=\"切手\">切手<rt>きって</rt></ruby>だった。"
+    },
+    {
+      "id": "p19",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "こういう珍しい切手、ぼくにも集められるかな。ちゃんと集められたら、うれしいな。",
+      "html": "こういう<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しい<span class=\"word\" data-lemma=\"切手\" data-surface=\"切手\" data-reading=\"きって\">切手</span>、ぼくにも<span class=\"word\" data-lemma=\"集める\" data-surface=\"集め\" data-reading=\"あつめ\">集め</span>られるかな。ちゃんと<span class=\"word\" data-lemma=\"集める\" data-surface=\"集め\" data-reading=\"あつめ\">集め</span>られたら、うれしいな。",
+      "htmlFull": "こういう<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しい<ruby data-lemma=\"切手\" data-surface=\"切手\">切手<rt>きって</rt></ruby>、ぼくにも<ruby data-lemma=\"集める\" data-surface=\"集め\">集<rt>あつ</rt></ruby>められるかな。ちゃんと<ruby data-lemma=\"集める\" data-surface=\"集め\">集<rt>あつ</rt></ruby>められたら、うれしいな。"
+    },
+    {
+      "id": "p20",
+      "kind": "narration",
+      "speaker": null,
+      "text": "やがて飛行鬼はおじぎをして、台所から出て行った。アリも、もうどこかへ行ってしまった。台所にはパンケーキのあたたかいにおいと、珍しい切手のことだけがのこった。ムーミンは、いつか、自分でも珍しいものを集められるだろうと思った。パパはテーブルの修理ができたし、ママはたくさんパンケーキを作ってくれた。珍しい切手、珍しい午後。ムーミンの家で、たくさんの珍しいことが起きた、いい夏の一日だった。",
+      "html": "やがて<span class=\"word\" data-lemma=\"飛行\" data-surface=\"飛行\" data-reading=\"ひこう\">飛行</span><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>はおじぎをして、<span class=\"word\" data-lemma=\"台所\" data-surface=\"台所\" data-reading=\"だいどころ\">台所</span>から<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>て<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>た。アリも、もうどこかへ<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>てしまった。<span class=\"word\" data-lemma=\"台所\" data-surface=\"台所\" data-reading=\"だいどころ\">台所</span>にはパンケーキのあたたかいにおいと、<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しい<span class=\"word\" data-lemma=\"切手\" data-surface=\"切手\" data-reading=\"きって\">切手</span>のことだけがのこった。ムーミンは、いつか、<span class=\"word\" data-lemma=\"自分\" data-surface=\"自分\" data-reading=\"じぶん\">自分</span>でも<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しいものを<span class=\"word\" data-lemma=\"集める\" data-surface=\"集め\" data-reading=\"あつめ\">集め</span>られるだろうと<span class=\"word\" data-lemma=\"思う\" data-surface=\"思っ\" data-reading=\"おもっ\">思っ</span>た。パパはテーブルの<ruby data-lemma=\"修理\" data-surface=\"修理\">修理<rt>しゅうり</rt></ruby>ができたし、ママはたくさんパンケーキを<span class=\"word\" data-lemma=\"作る\" data-surface=\"作っ\" data-reading=\"つくっ\">作っ</span>てくれた。<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しい<span class=\"word\" data-lemma=\"切手\" data-surface=\"切手\" data-reading=\"きって\">切手</span>、<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しい<span class=\"word\" data-lemma=\"午後\" data-surface=\"午後\" data-reading=\"ごご\">午後</span>。ムーミンの<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>で、たくさんの<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しいことが<span class=\"word\" data-lemma=\"起きる\" data-surface=\"起き\" data-reading=\"おき\">起き</span>た、いい<span class=\"word\" data-lemma=\"夏\" data-surface=\"夏\" data-reading=\"なつ\">夏</span>の<span class=\"word\" data-lemma=\"一日\" data-surface=\"一日\" data-reading=\"ついたち\">一日</span>だった。",
+      "htmlFull": "やがて<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>はおじぎをして、<ruby data-lemma=\"台所\" data-surface=\"台所\">台所<rt>だいどころ</rt></ruby>から<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>て<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>った。アリも、もうどこかへ<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>ってしまった。<ruby data-lemma=\"台所\" data-surface=\"台所\">台所<rt>だいどころ</rt></ruby>にはパンケーキのあたたかいにおいと、<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しい<ruby data-lemma=\"切手\" data-surface=\"切手\">切手<rt>きって</rt></ruby>のことだけがのこった。ムーミンは、いつか、<ruby data-lemma=\"自分\" data-surface=\"自分\">自分<rt>じぶん</rt></ruby>でも<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しいものを<ruby data-lemma=\"集める\" data-surface=\"集め\">集<rt>あつ</rt></ruby>められるだろうと<ruby data-lemma=\"思う\" data-surface=\"思っ\">思<rt>おも</rt></ruby>った。パパはテーブルの<ruby data-lemma=\"修理\" data-surface=\"修理\">修理<rt>しゅうり</rt></ruby>ができたし、ママはたくさんパンケーキを<ruby data-lemma=\"作る\" data-surface=\"作っ\">作<rt>つく</rt></ruby>ってくれた。<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しい<ruby data-lemma=\"切手\" data-surface=\"切手\">切手<rt>きって</rt></ruby>、<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しい<ruby data-lemma=\"午後\" data-surface=\"午後\">午後<rt>ごご</rt></ruby>。ムーミンの<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>で、たくさんの<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しいことが<ruby data-lemma=\"起きる\" data-surface=\"起き\">起<rt>お</rt></ruby>きた、いい<ruby data-lemma=\"夏\" data-surface=\"夏\">夏<rt>なつ</rt></ruby>の<ruby data-lemma=\"一日\" data-surface=\"一日\">一日<rt>ついたち</rt></ruby>だった。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "修理",
+      "reading": "しゅうり",
+      "gloss": "repair, fixing",
+      "tier": "focus"
+    },
+    {
+      "lemma": "パンケーキ",
+      "reading": "パンケーキ",
+      "gloss": "pancake",
+      "tier": "focus"
+    },
+    {
+      "lemma": "集める",
+      "reading": "あつめる",
+      "gloss": "to collect (transitive)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "切手",
+      "reading": "きって",
+      "gloss": "postage stamp",
+      "tier": "focus"
+    },
+    {
+      "lemma": "珍しい",
+      "reading": "めずらしい",
+      "gloss": "rare, unusual",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [],
+  "glossary": [
+    {
+      "lemma": "修理",
+      "reading": "しゅうり",
+      "gloss": "repair, fixing",
+      "tier": "focus",
+      "first": "ch28"
+    },
+    {
+      "lemma": "パンケーキ",
+      "reading": "パンケーキ",
+      "gloss": "pancake",
+      "tier": "focus",
+      "first": "ch28"
+    },
+    {
+      "lemma": "集める",
+      "reading": "あつめる",
+      "gloss": "to collect (transitive)",
+      "tier": "focus",
+      "first": "ch28"
+    },
+    {
+      "lemma": "切手",
+      "reading": "きって",
+      "gloss": "postage stamp",
+      "tier": "focus",
+      "first": "ch28"
+    },
+    {
+      "lemma": "珍しい",
+      "reading": "めずらしい",
+      "gloss": "rare, unusual",
+      "tier": "focus",
+      "first": "ch28"
+    }
+  ],
+  "grammarNotes": [
+    "Potential form. V (ichidan) → V-られる (食べる → 食べられる \"can eat\"); V (godan) → V-える (のむ → のめる \"can drink\"). できる is the irregular potential of する.",
+    "Xが + Vできる / Vられる — \"X can V\" with the object marked by が (not を). パンケーキが、食べられる = \"[I] can eat pancakes.\"",
+    "みえる / きこえる / わかる are \"potential-like\" N5 verbs. They look potential but are really just verbs of perception and cognition.",
+    "好き (suki) — na-adjective, \"to like.\" Xが好き = \"[X] is liked [by the speaker].\" Note the が — it marks what is liked, not the liker.",
+    "The 飛行鬼 (Hobgoblin / hikō-oni) is a Moomin-world sorcerer-collector. Read his name with the kana reading for now; the kanji is a compound (fly + go + demon)."
+  ],
+  "illustration": {
+    "scene_note": "The Moomin kitchen, mid-afternoon. A stack of pancakes on a plate; Moominmamma turning one in a pan; the Hobgoblin (飛行鬼 — a wiry, elegant, slightly dangerous-looking creature with a long coat) sitting at the table with a stamp album open. An ant-like creature dashes across the floor. Pots and a teapot in the background.",
+    "panel_count": 5,
+    "image_prompt": "Medium shot of the Moomin kitchen in warm afternoon light. A stack of pancakes sits on a plate at the center of a wooden table. 飛行鬼 sits at the table, a small leather-bound book open before him, long fingers hovering over a page of colorful rectangles arranged in a neat grid (like stamps, but blank — no readable text). ムーミン stands close at his elbow, peering at the book with wide eyes. ママ tends the stove at left, spatula in hand, turned slightly toward the table. A small ant-like creature dashes across the floorboards at bottom right. Warm amber kitchen light, copper kettle on the stove. Tove Jansson hand-drawn Moomin illustration style, 16:9, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

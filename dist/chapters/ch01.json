@@ -1,0 +1,232 @@
+{
+  "chapter": 1,
+  "title": "船",
+  "arc": "A",
+  "arcPosition": "1/9",
+  "arcLabel": "Arc A — Spring Valley",
+  "grammarStep": 0,
+  "grammarName": "Foundation: names and pointing",
+  "grammarPatterns": [
+    "NはNだ (identification)",
+    "これ/それ/あれはN (demonstrative + N)",
+    "NにNがある / N のN (location existence, possession)",
+    "わたし、N / ぼく、N (self-introduction, casual)"
+  ],
+  "lengthTarget": [
+    120,
+    260
+  ],
+  "register": "N5",
+  "plotSummary": "The Moomin family arrives at the mouth of a river. A wooden boat is moored there — Moominpappa's boat, the one he's fond of. Moomintroll has never been here before. A gust of wind catches Moominpappa's top hat and sends it into a nearby tree; Moomintroll points and laughs. The chapter opens the book on four foundational things: a boat, a tree, a hat, and four voices naming each other. The prose stays close to things the reader can point at — nouns, labels, simple descriptive sentences — but uses natural grammar throughout (に for location, を for objects, です for Moominmamma's voice).",
+  "proper_nouns": [
+    "ムーミン",
+    "ママ",
+    "パパ"
+  ],
+  "scene": {
+    "location": "川の河口（朝）",
+    "beat": "A boat. A river mouth at dawn. The Moomin family arrives and everything is being named.",
+    "pov": "narrator",
+    "characters": [
+      "ムーミン",
+      "パパ",
+      "ママ"
+    ],
+    "mentioned": [],
+    "motifs": [
+      "船",
+      "帽子",
+      "木"
+    ]
+  },
+  "continuity": {
+    "from": "opening — no prior context",
+    "to": "ch2 (a small island, meeting Snufkin)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "narration",
+      "speaker": null,
+      "text": "朝の川のそばに、古い木の船があった。",
+      "html": "<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>の<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>のそばに、<span class=\"word\" data-lemma=\"古い\" data-surface=\"古い\" data-reading=\"ふるい\">古い</span><span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>の<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>があった。",
+      "htmlFull": "<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>の<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>のそばに、<ruby data-lemma=\"古い\" data-surface=\"古い\">古<rt>ふる</rt></ruby>い<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>の<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>があった。"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "あれ、なに？",
+      "html": "あれ、なに？",
+      "htmlFull": "あれ、なに？"
+    },
+    {
+      "id": "p03",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "あれは船だよ。わしの船だ。",
+      "html": "あれは<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>だよ。わしの<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>だ。",
+      "htmlFull": "あれは<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>だよ。わしの<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>だ。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "船か！いい船だね！",
+      "html": "<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>か！いい<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>だね！",
+      "htmlFull": "<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>か！いい<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>だね！"
+    },
+    {
+      "id": "p05",
+      "kind": "narration",
+      "speaker": null,
+      "text": "船のそばには、大きい木も立っていた。",
+      "html": "<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>のそばには、<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>も<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>ていた。",
+      "htmlFull": "<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>のそばには、<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>も<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>っていた。"
+    },
+    {
+      "id": "p06",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "パパ、あの木、大きいね！",
+      "html": "パパ、あの<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>、<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span>ね！",
+      "htmlFull": "パパ、あの<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>、<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きいね！"
+    },
+    {
+      "id": "p07",
+      "kind": "narration",
+      "speaker": null,
+      "text": "パパは黒い大きい帽子をかぶっていた。",
+      "html": "パパは<span class=\"word\" data-lemma=\"黒い\" data-surface=\"黒い\" data-reading=\"くろい\">黒い</span><span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>をかぶっていた。",
+      "htmlFull": "パパは<ruby data-lemma=\"黒い\" data-surface=\"黒い\">黒<rt>くろ</rt></ruby>い<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>をかぶっていた。"
+    },
+    {
+      "id": "p08",
+      "kind": "narration",
+      "speaker": null,
+      "text": "その時、強い風が来て、パパの帽子が飛んだ。\n\nそして帽子は、大きい木の上に乗ってしまった。",
+      "html": "その<span class=\"word\" data-lemma=\"時\" data-surface=\"時\" data-reading=\"とき\">時</span>、<span class=\"word\" data-lemma=\"強い\" data-surface=\"強い\" data-reading=\"つよい\">強い</span><span class=\"word\" data-lemma=\"風\" data-surface=\"風\" data-reading=\"かぜ\">風</span>が<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>て、パパの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>が<ruby data-lemma=\"飛ぶ\" data-surface=\"飛ん\">飛<rt>と</rt></ruby>んだ。\n\nそして<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>は、<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>に<span class=\"word\" data-lemma=\"乗る\" data-surface=\"乗っ\" data-reading=\"のっ\">乗っ</span>てしまった。",
+      "htmlFull": "その<ruby data-lemma=\"時\" data-surface=\"時\">時<rt>とき</rt></ruby>、<ruby data-lemma=\"強い\" data-surface=\"強い\">強<rt>つよ</rt></ruby>い<ruby data-lemma=\"風\" data-surface=\"風\">風<rt>かぜ</rt></ruby>が<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>て、パパの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>が<ruby data-lemma=\"飛ぶ\" data-surface=\"飛ん\">飛<rt>と</rt></ruby>んだ。\n\nそして<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>は、<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>に<ruby data-lemma=\"乗る\" data-surface=\"乗っ\">乗<rt>の</rt></ruby>ってしまった。"
+    },
+    {
+      "id": "p09",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "あっ、パパ！帽子が木の上にあるよ！",
+      "html": "あっ、パパ！<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>が<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>にあるよ！",
+      "htmlFull": "あっ、パパ！<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>が<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>にあるよ！"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "わしの帽子だ！あの木から取るぞ！",
+      "html": "わしの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>だ！あの<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>から<span class=\"word\" data-lemma=\"取る\" data-surface=\"取る\" data-reading=\"とる\">取る</span>ぞ！",
+      "htmlFull": "わしの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>だ！あの<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>から<ruby data-lemma=\"取る\" data-surface=\"取る\">取<rt>と</rt></ruby>るぞ！"
+    },
+    {
+      "id": "p11",
+      "kind": "narration",
+      "speaker": null,
+      "text": "そこへママが来た。",
+      "html": "そこへママが<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。",
+      "htmlFull": "そこへママが<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。"
+    },
+    {
+      "id": "p12",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "あらあら、パパの帽子ですね。",
+      "html": "あらあら、パパの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>ですね。",
+      "htmlFull": "あらあら、パパの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>ですね。"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ぼく、ムーミン。\n\nこれはぼくのパパで、これはぼくのママだよ。",
+      "html": "ぼく、ムーミン。\n\nこれはぼくのパパで、これはぼくのママだよ。",
+      "htmlFull": "ぼく、ムーミン。\n\nこれはぼくのパパで、これはぼくのママだよ。"
+    },
+    {
+      "id": "p14",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "そう、わしはムーミンのパパだ。",
+      "html": "そう、わしはムーミンのパパだ。",
+      "htmlFull": "そう、わしはムーミンのパパだ。"
+    },
+    {
+      "id": "p15",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "わたしはムーミンのママですよ。",
+      "html": "わたしはムーミンのママですよ。",
+      "htmlFull": "わたしはムーミンのママですよ。"
+    },
+    {
+      "id": "p16",
+      "kind": "narration",
+      "speaker": null,
+      "text": "川のそばには、ムーミンの家があった。\n\n家のそばには船があって、船のそばには大きい木が立っていた。そして木の上には、パパの帽子があった。\n\nムーミンの初めての朝だった。",
+      "html": "<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>のそばには、ムーミンの<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>があった。\n\n<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>のそばには<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>があって、<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>のそばには<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>が<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>ていた。そして<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>には、パパの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>があった。\n\nムーミンの<ruby data-lemma=\"初めて\" data-surface=\"初めて\">初<rt>はじ</rt></ruby>めての<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>だった。",
+      "htmlFull": "<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>のそばには、ムーミンの<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>があった。\n\n<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>のそばには<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>があって、<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>のそばには<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>が<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>っていた。そして<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>には、パパの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>があった。\n\nムーミンの<ruby data-lemma=\"初めて\" data-surface=\"初めて\">初<rt>はじ</rt></ruby>めての<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>だった。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "船",
+      "reading": "ふね",
+      "gloss": "boat, ship",
+      "tier": "focus"
+    },
+    {
+      "lemma": "帽子",
+      "reading": "ぼうし",
+      "gloss": "hat",
+      "tier": "focus"
+    },
+    {
+      "lemma": "木",
+      "reading": "き",
+      "gloss": "tree",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [],
+  "glossary": [
+    {
+      "lemma": "船",
+      "reading": "ふね",
+      "gloss": "boat, ship",
+      "tier": "focus",
+      "first": "ch01"
+    },
+    {
+      "lemma": "帽子",
+      "reading": "ぼうし",
+      "gloss": "hat",
+      "tier": "focus",
+      "first": "ch01"
+    },
+    {
+      "lemma": "木",
+      "reading": "き",
+      "gloss": "tree",
+      "tier": "focus",
+      "first": "ch01"
+    }
+  ],
+  "grammarNotes": [
+    "NはNだ — the topic-copula backbone. \"これはぼくのパパ\" = \"This is my father.\" は marks the thing being talked about; だ is the plain copula.",
+    "NのN — the の-possessive. \"パパの船\" = \"Papa's boat\"; \"ムーミンのパパ\" = \"Moomintroll's father.\" の links two nouns as modifier + head.",
+    "NにNがある — location-existence. \"川のそばに、船がある\" = \"Next to the river, there is a boat\"; \"木に、帽子がある\" = \"[There] is a hat in the tree.\" に marks the place where the thing exists.",
+    "です — Moominmamma's polite copula. She uses です/ます throughout (see characters.yaml). Moomintroll and Moominpappa use the plain だ.",
+    "あらあら — Moominmamma's soft reaction marker. Cognate with English \"oh dear\" but warm rather than concerned."
+  ],
+  "illustration": {
+    "scene_note": "Early morning at the river mouth. The wooden boat is pulled up at the bank; Moominpappa watches his hat sail off into the branches of a nearby tree; Moomintroll points and laughs. Moominmamma arrives from the right with her handbag. A fresh dawn light, water reflecting pink.",
+    "panel_count": 5,
+    "image_prompt": "Wide establishing shot, early dawn light. A weathered wooden boat is moored along the grassy bank of a broad river mouth, water lapping softly. A tall birch tree stands just behind the boat; caught high in its upper branches sits a single black top hat. ムーミン stands on the grass in the foreground, head tilted back, one paw raised toward the tree. パパ is a few steps behind him, also looking up. ママ walks into frame from the right along a narrow path. Soft pink-and-gold sky, warm morning light reflecting pale pink on the water. Tove Jansson hand-drawn Moomin illustration style, 16:9, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

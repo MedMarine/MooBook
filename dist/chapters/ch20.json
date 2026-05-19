@@ -1,0 +1,347 @@
+{
+  "chapter": 20,
+  "title": "朝のかくれんぼ",
+  "arc": "C",
+  "arcPosition": "2/9",
+  "arcLabel": "Arc C — Strange Shadows",
+  "grammarStep": 14,
+  "grammarName": "Giving / receiving: あげる / もらう / くれる",
+  "grammarPatterns": [
+    "XはYに〜てあげる (X does V for Y — outward)",
+    "XはYに〜てもらう (X has Y do V for X — inward)",
+    "YはXに〜てくれる (Y does V for X, inward to speaker)",
+    "Nに〜を書く (dative + direct object)"
+  ],
+  "lengthTarget": [
+    560,
+    840
+  ],
+  "register": "N4",
+  "plotSummary": "The morning after the rain. The air pressure is odd; Moominpappa notices it first. The children are playing hide-and-seek on the shore. Little My's older sister (Mymble — ミムラ) is visiting. There's a small exchange of written notes between Moomintroll and the sister — one writes, one gives, one receives. The chapter teaches the giving/receiving triad あげる / もらう / くれる through these small passes.",
+  "proper_nouns": [
+    "ムーミン",
+    "ミムラ",
+    "スニフ",
+    "パパ"
+  ],
+  "scene": {
+    "location": "海岸のそば",
+    "beat": "The shore in the morning. Hide-and-seek. Giving and receiving through small exchanges of notes.",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "ミムラ",
+      "スニフ",
+      "パパ"
+    ],
+    "mentioned": [],
+    "motifs": [
+      "海",
+      "朝"
+    ]
+  },
+  "continuity": {
+    "from": "ch19 (the leak and the rescue)",
+    "to": "ch21 (the beach — a strange found thing)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "narration",
+      "speaker": null,
+      "text": "雨がやんだ次の朝、ムーミンはいつもより早く起きた。起きて外を見ると、空がもう明るくなっていた。",
+      "html": "<span class=\"word\" data-lemma=\"雨\" data-surface=\"雨\" data-reading=\"あめ\">雨</span>がやんだ<span class=\"word\" data-lemma=\"次\" data-surface=\"次\" data-reading=\"つぎ\">次</span>の<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>、ムーミンはいつもより<span class=\"word\" data-lemma=\"早い\" data-surface=\"早く\" data-reading=\"はやく\">早く</span><span class=\"word\" data-lemma=\"起きる\" data-surface=\"起き\" data-reading=\"おき\">起き</span>た。<span class=\"word\" data-lemma=\"起きる\" data-surface=\"起き\" data-reading=\"おき\">起き</span>て<span class=\"word\" data-lemma=\"外\" data-surface=\"外\" data-reading=\"そと\">外</span>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見る\" data-reading=\"みる\">見る</span>と、<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>がもう<span class=\"word\" data-lemma=\"明るい\" data-surface=\"明るく\" data-reading=\"あかるく\">明るく</span>なっていた。",
+      "htmlFull": "<ruby data-lemma=\"雨\" data-surface=\"雨\">雨<rt>あめ</rt></ruby>がやんだ<ruby data-lemma=\"次\" data-surface=\"次\">次<rt>つぎ</rt></ruby>の<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>、ムーミンはいつもより<ruby data-lemma=\"早い\" data-surface=\"早く\">早<rt>はや</rt></ruby>く<ruby data-lemma=\"起きる\" data-surface=\"起き\">起<rt>お</rt></ruby>きた。<ruby data-lemma=\"起きる\" data-surface=\"起き\">起<rt>お</rt></ruby>きて<ruby data-lemma=\"外\" data-surface=\"外\">外<rt>そと</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見る\">見<rt>み</rt></ruby>ると、<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>がもう<ruby data-lemma=\"明るい\" data-surface=\"明るく\">明<rt>あか</rt></ruby>るくなっていた。"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "さっきまでは雨だったね。でも、もう空が明るいよ。今日は、海岸で遊ぼう！",
+      "html": "さっきまでは<span class=\"word\" data-lemma=\"雨\" data-surface=\"雨\" data-reading=\"あめ\">雨</span>だったね。でも、もう<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>が<span class=\"word\" data-lemma=\"明るい\" data-surface=\"明るい\" data-reading=\"あかるい\">明るい</span>よ。<span class=\"word\" data-lemma=\"今日\" data-surface=\"今日\" data-reading=\"きょう\">今日</span>は、<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>で<span class=\"word\" data-lemma=\"遊ぶ\" data-surface=\"遊ぼう\" data-reading=\"あそぼう\">遊ぼう</span>！",
+      "htmlFull": "さっきまでは<ruby data-lemma=\"雨\" data-surface=\"雨\">雨<rt>あめ</rt></ruby>だったね。でも、もう<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>が<ruby data-lemma=\"明るい\" data-surface=\"明るい\">明<rt>あか</rt></ruby>るいよ。<ruby data-lemma=\"今日\" data-surface=\"今日\">今日<rt>きょう</rt></ruby>は、<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>で<ruby data-lemma=\"遊ぶ\" data-surface=\"遊ぼう\">遊<rt>あそ</rt></ruby>ぼう！"
+    },
+    {
+      "id": "p03",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "うむ、なんだか、気圧が変わっているな。また雨が来るかもしれんぞ。",
+      "html": "うむ、なんだか、<ruby data-lemma=\"気圧\" data-surface=\"気圧\">気圧<rt>きあつ</rt></ruby>が<span class=\"word\" data-lemma=\"変わる\" data-surface=\"変わっ\" data-reading=\"かわっ\">変わっ</span>ているな。また<span class=\"word\" data-lemma=\"雨\" data-surface=\"雨\" data-reading=\"あめ\">雨</span>が<span class=\"word\" data-lemma=\"来る\" data-surface=\"来る\" data-reading=\"くる\">来る</span>かもしれんぞ。",
+      "htmlFull": "うむ、なんだか、<ruby data-lemma=\"気圧\" data-surface=\"気圧\">気圧<rt>きあつ</rt></ruby>が<ruby data-lemma=\"変わる\" data-surface=\"変わっ\">変<rt>か</rt></ruby>わっているな。また<ruby data-lemma=\"雨\" data-surface=\"雨\">雨<rt>あめ</rt></ruby>が<ruby data-lemma=\"来る\" data-surface=\"来る\">来<rt>く</rt></ruby>るかもしれんぞ。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "まあ、いいよ。今のうちに、みんなでかくれんぼしよう！",
+      "html": "まあ、いいよ。<span class=\"word\" data-lemma=\"今\" data-surface=\"今\" data-reading=\"いま\">今</span>のうちに、みんなでかくれんぼしよう！",
+      "htmlFull": "まあ、いいよ。<ruby data-lemma=\"今\" data-surface=\"今\">今<rt>いま</rt></ruby>のうちに、みんなでかくれんぼしよう！"
+    },
+    {
+      "id": "p05",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンが海岸まで行くと、ミムラの姉もちょうどやって来た。手には小さいかみをたくさん持っていた。スニフもさっき起きて、もう来ている。",
+      "html": "ムーミンが<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>まで<span class=\"word\" data-lemma=\"行く\" data-surface=\"行く\" data-reading=\"いく\">行く</span>と、ミムラの<span class=\"word\" data-lemma=\"姉\" data-surface=\"姉\" data-reading=\"あね\">姉</span>もちょうどやって<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>には<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>かみをたくさん<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>ていた。スニフもさっき<span class=\"word\" data-lemma=\"起きる\" data-surface=\"起き\" data-reading=\"おき\">起き</span>て、もう<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>ている。",
+      "htmlFull": "ムーミンが<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>まで<ruby data-lemma=\"行く\" data-surface=\"行く\">行<rt>い</rt></ruby>くと、ミムラの<ruby data-lemma=\"姉\" data-surface=\"姉\">姉<rt>あね</rt></ruby>もちょうどやって<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>には<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいかみをたくさん<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>っていた。スニフもさっき<ruby data-lemma=\"起きる\" data-surface=\"起き\">起<rt>お</rt></ruby>きて、もう<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>ている。"
+    },
+    {
+      "id": "p06",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "あっ、姉さん、来てくれたんだね！みんなで、かくれんぼをするよ。",
+      "html": "あっ、<span class=\"word\" data-lemma=\"姉\" data-surface=\"姉\" data-reading=\"あね\">姉</span>さん、<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>てくれたんだね！みんなで、かくれんぼをするよ。",
+      "htmlFull": "あっ、<ruby data-lemma=\"姉\" data-surface=\"姉\">姉<rt>あね</rt></ruby>さん、<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>てくれたんだね！みんなで、かくれんぼをするよ。"
+    },
+    {
+      "id": "p07",
+      "kind": "dialogue",
+      "speaker": "ミムラ",
+      "text": "まあ、楽しそう！ねえムーミン、このかみに、かくれるところを書いてあげるね。",
+      "html": "まあ、<span class=\"word\" data-lemma=\"楽しい\" data-surface=\"楽し\" data-reading=\"たのし\">楽し</span>そう！ねえムーミン、このかみに、かくれるところを<span class=\"word\" data-lemma=\"書く\" data-surface=\"書い\" data-reading=\"かい\">書い</span>てあげるね。",
+      "htmlFull": "まあ、<ruby data-lemma=\"楽しい\" data-surface=\"楽し\">楽<rt>たの</rt></ruby>しそう！ねえムーミン、このかみに、かくれるところを<ruby data-lemma=\"書く\" data-surface=\"書い\">書<rt>か</rt></ruby>いてあげるね。"
+    },
+    {
+      "id": "p08",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ほんと？じゃあ、ぼくも姉さんのために、ちゃんと書くよ。",
+      "html": "ほんと？じゃあ、ぼくも<span class=\"word\" data-lemma=\"姉\" data-surface=\"姉\" data-reading=\"ねえ\">姉</span>さんのために、ちゃんと<span class=\"word\" data-lemma=\"書く\" data-surface=\"書く\" data-reading=\"かく\">書く</span>よ。",
+      "htmlFull": "ほんと？じゃあ、ぼくも<ruby data-lemma=\"姉\" data-surface=\"姉\">姉<rt>ねえ</rt></ruby>さんのために、ちゃんと<ruby data-lemma=\"書く\" data-surface=\"書く\">書<rt>か</rt></ruby>くよ。"
+    },
+    {
+      "id": "p09",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンは小さいかみに、岩のうしろのところを書いて、姉にあげた。姉はそれを見て、笑いながら自分のかみに、岩のそばのところを書いてくれた。",
+      "html": "ムーミンは<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>かみに、<span class=\"word\" data-lemma=\"岩\" data-surface=\"岩\" data-reading=\"いわ\">岩</span>のうしろのところを<span class=\"word\" data-lemma=\"書く\" data-surface=\"書い\" data-reading=\"かい\">書い</span>て、<span class=\"word\" data-lemma=\"姉\" data-surface=\"姉\" data-reading=\"あね\">姉</span>にあげた。<span class=\"word\" data-lemma=\"姉\" data-surface=\"姉\" data-reading=\"あね\">姉</span>はそれを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>て、<ruby data-lemma=\"笑う\" data-surface=\"笑い\">笑<rt>わら</rt></ruby>いながら<span class=\"word\" data-lemma=\"自分\" data-surface=\"自分\" data-reading=\"じぶん\">自分</span>のかみに、<span class=\"word\" data-lemma=\"岩\" data-surface=\"岩\" data-reading=\"いわ\">岩</span>のそばのところを<span class=\"word\" data-lemma=\"書く\" data-surface=\"書い\" data-reading=\"かい\">書い</span>てくれた。",
+      "htmlFull": "ムーミンは<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいかみに、<ruby data-lemma=\"岩\" data-surface=\"岩\">岩<rt>いわ</rt></ruby>のうしろのところを<ruby data-lemma=\"書く\" data-surface=\"書い\">書<rt>か</rt></ruby>いて、<ruby data-lemma=\"姉\" data-surface=\"姉\">姉<rt>あね</rt></ruby>にあげた。<ruby data-lemma=\"姉\" data-surface=\"姉\">姉<rt>あね</rt></ruby>はそれを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>て、<ruby data-lemma=\"笑う\" data-surface=\"笑い\">笑<rt>わら</rt></ruby>いながら<ruby data-lemma=\"自分\" data-surface=\"自分\">自分<rt>じぶん</rt></ruby>のかみに、<ruby data-lemma=\"岩\" data-surface=\"岩\">岩<rt>いわ</rt></ruby>のそばのところを<ruby data-lemma=\"書く\" data-surface=\"書い\">書<rt>か</rt></ruby>いてくれた。"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "姉さんに書いてもらった！ぼくは、このかみのところにかくれるね。",
+      "html": "<span class=\"word\" data-lemma=\"姉\" data-surface=\"姉\" data-reading=\"あね\">姉</span>さんに<span class=\"word\" data-lemma=\"書く\" data-surface=\"書い\" data-reading=\"かい\">書い</span>てもらった！ぼくは、このかみのところにかくれるね。",
+      "htmlFull": "<ruby data-lemma=\"姉\" data-surface=\"姉\">姉<rt>あね</rt></ruby>さんに<ruby data-lemma=\"書く\" data-surface=\"書い\">書<rt>か</rt></ruby>いてもらった！ぼくは、このかみのところにかくれるね。"
+    },
+    {
+      "id": "p11",
+      "kind": "dialogue",
+      "speaker": "ミムラ",
+      "text": "じゃあ、あたしはムーミンのくれたかみのところにかくれるわ。",
+      "html": "じゃあ、あたしはムーミンのくれたかみのところにかくれるわ。",
+      "htmlFull": "じゃあ、あたしはムーミンのくれたかみのところにかくれるわ。"
+    },
+    {
+      "id": "p12",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "ぼくも、かみがほしい！ぼくにも書いて、姉さん。",
+      "html": "ぼくも、かみがほしい！ぼくにも<span class=\"word\" data-lemma=\"書く\" data-surface=\"書い\" data-reading=\"かい\">書い</span>て、<span class=\"word\" data-lemma=\"姉\" data-surface=\"姉\" data-reading=\"あね\">姉</span>さん。",
+      "htmlFull": "ぼくも、かみがほしい！ぼくにも<ruby data-lemma=\"書く\" data-surface=\"書い\">書<rt>か</rt></ruby>いて、<ruby data-lemma=\"姉\" data-surface=\"姉\">姉<rt>あね</rt></ruby>さん。"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "ミムラ",
+      "text": "うん、スニフにも書いてあげる。ほら、もらってね。",
+      "html": "うん、スニフにも<span class=\"word\" data-lemma=\"書く\" data-surface=\"書い\" data-reading=\"かい\">書い</span>てあげる。ほら、もらってね。",
+      "htmlFull": "うん、スニフにも<ruby data-lemma=\"書く\" data-surface=\"書い\">書<rt>か</rt></ruby>いてあげる。ほら、もらってね。"
+    },
+    {
+      "id": "p14",
+      "kind": "narration",
+      "speaker": null,
+      "text": "さっきまで雨が降っていたから、海岸の砂はまだつめたい。みんなは、もらったかみを見ながら、岩のうしろや、大きい岩のそばに、じぶんでかくれた。",
+      "html": "さっきまで<span class=\"word\" data-lemma=\"雨\" data-surface=\"雨\" data-reading=\"あめ\">雨</span>が<span class=\"word\" data-lemma=\"降る\" data-surface=\"降っ\" data-reading=\"ふっ\">降っ</span>ていたから、<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>の<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>はまだつめたい。みんなは、もらったかみを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ながら、<span class=\"word\" data-lemma=\"岩\" data-surface=\"岩\" data-reading=\"いわ\">岩</span>のうしろや、<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"岩\" data-surface=\"岩\" data-reading=\"いわ\">岩</span>のそばに、じぶんでかくれた。",
+      "htmlFull": "さっきまで<ruby data-lemma=\"雨\" data-surface=\"雨\">雨<rt>あめ</rt></ruby>が<ruby data-lemma=\"降る\" data-surface=\"降っ\">降<rt>ふ</rt></ruby>っていたから、<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>の<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>はまだつめたい。みんなは、もらったかみを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ながら、<ruby data-lemma=\"岩\" data-surface=\"岩\">岩<rt>いわ</rt></ruby>のうしろや、<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"岩\" data-surface=\"岩\">岩<rt>いわ</rt></ruby>のそばに、じぶんでかくれた。"
+    },
+    {
+      "id": "p15",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "さっきここにいたはず。もう、どこかな？姉さん、どこにかくれた？",
+      "html": "さっきここにいたはず。もう、どこかな？<span class=\"word\" data-lemma=\"姉\" data-surface=\"姉\" data-reading=\"あね\">姉</span>さん、どこにかくれた？",
+      "htmlFull": "さっきここにいたはず。もう、どこかな？<ruby data-lemma=\"姉\" data-surface=\"姉\">姉<rt>あね</rt></ruby>さん、どこにかくれた？"
+    },
+    {
+      "id": "p16",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "この気圧は、ほんとうにおかしいな。風も、さっきと違う。",
+      "html": "この<ruby data-lemma=\"気圧\" data-surface=\"気圧\">気圧<rt>きあつ</rt></ruby>は、ほんとうにおかしいな。<span class=\"word\" data-lemma=\"風\" data-surface=\"風\" data-reading=\"かぜ\">風</span>も、さっきと<span class=\"word\" data-lemma=\"違う\" data-surface=\"違う\" data-reading=\"ちがう\">違う</span>。",
+      "htmlFull": "この<ruby data-lemma=\"気圧\" data-surface=\"気圧\">気圧<rt>きあつ</rt></ruby>は、ほんとうにおかしいな。<ruby data-lemma=\"風\" data-surface=\"風\">風<rt>かぜ</rt></ruby>も、さっきと<ruby data-lemma=\"違う\" data-surface=\"違う\">違<rt>ちが</rt></ruby>う。"
+    },
+    {
+      "id": "p17",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンはもらったかみをもう一度見て、岩の向こうへ走った。そこに、ミムラの姉がしずかにかくれていた。",
+      "html": "ムーミンはもらったかみをもう<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いち\">一</span><span class=\"word\" data-lemma=\"度\" data-surface=\"度\" data-reading=\"ど\">度</span><span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>て、<span class=\"word\" data-lemma=\"岩\" data-surface=\"岩\" data-reading=\"いわ\">岩</span>の<span class=\"word\" data-lemma=\"向こう\" data-surface=\"向こう\" data-reading=\"むこう\">向こう</span>へ<span class=\"word\" data-lemma=\"走る\" data-surface=\"走っ\" data-reading=\"はしっ\">走っ</span>た。そこに、ミムラの<span class=\"word\" data-lemma=\"姉\" data-surface=\"姉\" data-reading=\"ねえ\">姉</span>がしずかにかくれていた。",
+      "htmlFull": "ムーミンはもらったかみをもう<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いち</rt></ruby><ruby data-lemma=\"度\" data-surface=\"度\">度<rt>ど</rt></ruby><ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>て、<ruby data-lemma=\"岩\" data-surface=\"岩\">岩<rt>いわ</rt></ruby>の<ruby data-lemma=\"向こう\" data-surface=\"向こう\">向<rt>む</rt></ruby>こうへ<ruby data-lemma=\"走る\" data-surface=\"走っ\">走<rt>はし</rt></ruby>った。そこに、ミムラの<ruby data-lemma=\"姉\" data-surface=\"姉\">姉<rt>ねえ</rt></ruby>がしずかにかくれていた。"
+    },
+    {
+      "id": "p18",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "みつけた！姉さん、かみのとおりのところにいたね。",
+      "html": "みつけた！<span class=\"word\" data-lemma=\"姉\" data-surface=\"姉\" data-reading=\"あね\">姉</span>さん、かみのとおりのところにいたね。",
+      "htmlFull": "みつけた！<ruby data-lemma=\"姉\" data-surface=\"姉\">姉<rt>あね</rt></ruby>さん、かみのとおりのところにいたね。"
+    },
+    {
+      "id": "p19",
+      "kind": "dialogue",
+      "speaker": "ミムラ",
+      "text": "ムーミンはほんとうによく書いてくれたね。あたしも、ムーミンがくれたかみがいちばん好き。",
+      "html": "ムーミンはほんとうによく<span class=\"word\" data-lemma=\"書く\" data-surface=\"書い\" data-reading=\"かい\">書い</span>てくれたね。あたしも、ムーミンがくれたかみがいちばん<ruby data-lemma=\"好き\" data-surface=\"好き\">好<rt>す</rt></ruby>き。",
+      "htmlFull": "ムーミンはほんとうによく<ruby data-lemma=\"書く\" data-surface=\"書い\">書<rt>か</rt></ruby>いてくれたね。あたしも、ムーミンがくれたかみがいちばん<ruby data-lemma=\"好き\" data-surface=\"好き\">好<rt>す</rt></ruby>き。"
+    },
+    {
+      "id": "p20",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ミムラの姉は、ムーミンがくれたかみを大事にしまった。ムーミンは、姉がくれたかみを手にもって、しずかに笑った。まあ、朝のかくれんぼは、本当にいい時間だった。",
+      "html": "ミムラの<span class=\"word\" data-lemma=\"姉\" data-surface=\"姉\" data-reading=\"あね\">姉</span>は、ムーミンがくれたかみを<span class=\"word\" data-lemma=\"大事\" data-surface=\"大事\" data-reading=\"だいじ\">大事</span>にしまった。ムーミンは、<span class=\"word\" data-lemma=\"姉\" data-surface=\"姉\" data-reading=\"あね\">姉</span>がくれたかみを<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>にもって、しずかに<ruby data-lemma=\"笑う\" data-surface=\"笑っ\">笑<rt>わら</rt></ruby>った。まあ、<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>のかくれんぼは、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にいい<span class=\"word\" data-lemma=\"時間\" data-surface=\"時間\" data-reading=\"じかん\">時間</span>だった。",
+      "htmlFull": "ミムラの<ruby data-lemma=\"姉\" data-surface=\"姉\">姉<rt>あね</rt></ruby>は、ムーミンがくれたかみを<ruby data-lemma=\"大事\" data-surface=\"大事\">大事<rt>だいじ</rt></ruby>にしまった。ムーミンは、<ruby data-lemma=\"姉\" data-surface=\"姉\">姉<rt>あね</rt></ruby>がくれたかみを<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>にもって、しずかに<ruby data-lemma=\"笑う\" data-surface=\"笑っ\">笑<rt>わら</rt></ruby>った。まあ、<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>のかくれんぼは、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にいい<ruby data-lemma=\"時間\" data-surface=\"時間\">時間<rt>じかん</rt></ruby>だった。"
+    },
+    {
+      "id": "p21",
+      "kind": "narration",
+      "speaker": null,
+      "text": "パパは、気圧のことをじっと考えていた。「また雨が来るかもしれん。でも今日は、まあ、いい日だな」。",
+      "html": "パパは、<ruby data-lemma=\"気圧\" data-surface=\"気圧\">気圧<rt>きあつ</rt></ruby>のことをじっと<span class=\"word\" data-lemma=\"考える\" data-surface=\"考え\" data-reading=\"かんがえ\">考え</span>ていた。「また<span class=\"word\" data-lemma=\"雨\" data-surface=\"雨\" data-reading=\"あめ\">雨</span>が<span class=\"word\" data-lemma=\"来る\" data-surface=\"来る\" data-reading=\"くる\">来る</span>かもしれん。でも<span class=\"word\" data-lemma=\"今日\" data-surface=\"今日\" data-reading=\"きょう\">今日</span>は、まあ、いい<span class=\"word\" data-lemma=\"日\" data-surface=\"日\" data-reading=\"ひ\">日</span>だな」。",
+      "htmlFull": "パパは、<ruby data-lemma=\"気圧\" data-surface=\"気圧\">気圧<rt>きあつ</rt></ruby>のことをじっと<ruby data-lemma=\"考える\" data-surface=\"考え\">考<rt>かんが</rt></ruby>えていた。「また<ruby data-lemma=\"雨\" data-surface=\"雨\">雨<rt>あめ</rt></ruby>が<ruby data-lemma=\"来る\" data-surface=\"来る\">来<rt>く</rt></ruby>るかもしれん。でも<ruby data-lemma=\"今日\" data-surface=\"今日\">今日<rt>きょう</rt></ruby>は、まあ、いい<ruby data-lemma=\"日\" data-surface=\"日\">日<rt>ひ</rt></ruby>だな」。"
+    },
+    {
+      "id": "p22",
+      "kind": "narration",
+      "speaker": null,
+      "text": "気圧は変わっていたけれど、海岸のそばはしずかだった。みんなの笑い声が、朝の空に広がっていった。",
+      "html": "<ruby data-lemma=\"気圧\" data-surface=\"気圧\">気圧<rt>きあつ</rt></ruby>は<span class=\"word\" data-lemma=\"変わる\" data-surface=\"変わっ\" data-reading=\"かわっ\">変わっ</span>ていたけれど、<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>のそばはしずかだった。みんなの<ruby data-lemma=\"笑い声\" data-surface=\"笑い声\">笑い声<rt>わらいごえ</rt></ruby>が、<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>の<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>に<span class=\"word\" data-lemma=\"広がる\" data-surface=\"広がっ\" data-reading=\"ひろがっ\">広がっ</span>ていった。",
+      "htmlFull": "<ruby data-lemma=\"気圧\" data-surface=\"気圧\">気圧<rt>きあつ</rt></ruby>は<ruby data-lemma=\"変わる\" data-surface=\"変わっ\">変<rt>か</rt></ruby>わっていたけれど、<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>のそばはしずかだった。みんなの<ruby data-lemma=\"笑い声\" data-surface=\"笑い声\">笑い声<rt>わらいごえ</rt></ruby>が、<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>の<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>に<ruby data-lemma=\"広がる\" data-surface=\"広がっ\">広<rt>ひろ</rt></ruby>がっていった。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "起きる",
+      "reading": "おきる",
+      "gloss": "to wake up, to get up",
+      "tier": "focus"
+    },
+    {
+      "lemma": "さっき",
+      "reading": "さっき",
+      "gloss": "a moment ago",
+      "tier": "focus"
+    },
+    {
+      "lemma": "かくれんぼ",
+      "reading": "かくれんぼ",
+      "gloss": "hide-and-seek (a children's game)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "雨",
+      "reading": "あめ",
+      "gloss": "rain",
+      "tier": "focus"
+    },
+    {
+      "lemma": "気圧",
+      "reading": "きあつ",
+      "gloss": "air pressure",
+      "tier": "focus"
+    },
+    {
+      "lemma": "姉",
+      "reading": "あね",
+      "gloss": "older sister",
+      "tier": "focus"
+    },
+    {
+      "lemma": "書く",
+      "reading": "かく",
+      "gloss": "to write",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [
+    {
+      "lemma": "まあ",
+      "reading": "まあ",
+      "gloss": "well then; oh! (mild interjection)",
+      "tier": "stretch"
+    }
+  ],
+  "glossary": [
+    {
+      "lemma": "起きる",
+      "reading": "おきる",
+      "gloss": "to wake up, to get up",
+      "tier": "focus",
+      "first": "ch20"
+    },
+    {
+      "lemma": "さっき",
+      "reading": "さっき",
+      "gloss": "a moment ago",
+      "tier": "focus",
+      "first": "ch20"
+    },
+    {
+      "lemma": "かくれんぼ",
+      "reading": "かくれんぼ",
+      "gloss": "hide-and-seek",
+      "tier": "focus",
+      "first": "ch20"
+    },
+    {
+      "lemma": "雨",
+      "reading": "あめ",
+      "gloss": "rain",
+      "tier": "focus",
+      "first": "ch20"
+    },
+    {
+      "lemma": "気圧",
+      "reading": "きあつ",
+      "gloss": "air pressure",
+      "tier": "focus",
+      "first": "ch20"
+    },
+    {
+      "lemma": "姉",
+      "reading": "あね",
+      "gloss": "older sister",
+      "tier": "focus",
+      "first": "ch20"
+    },
+    {
+      "lemma": "書く",
+      "reading": "かく",
+      "gloss": "to write",
+      "tier": "focus",
+      "first": "ch20"
+    },
+    {
+      "lemma": "まあ",
+      "reading": "まあ",
+      "gloss": "well (mild interjection)",
+      "tier": "stretch",
+      "first": "ch20"
+    }
+  ],
+  "grammarNotes": [
+    "V-て + あげる — \"do V for [someone]\" (outward, from speaker). 書いてあげる = \"write [it] for them.\" Expresses kindness done outward.",
+    "V-て + もらう — \"have [someone] do V for me\" (inward, speaker receives the favor). 書いてもらう = \"have it written for me\" / \"get [them] to write it.\"",
+    "V-て + くれる — \"[someone] does V for me\" (inward, speaker receives). 書いてくれる = \"write [it] for me.\" The subject is the GIVER.",
+    "The three form a triangle: あげる (I give to them), くれる (they give to me), もらう (I receive from them). In Moomin's register, くれる and もらう cover most of the children's exchanges.",
+    "Moominmamma's 下さる (ch14) is the keigo form of くれる — \"to graciously give to me.\""
+  ],
+  "illustration": {
+    "scene_note": "Rocky shore in the morning after rain. A line of puddles; steam rising. Moomintroll and Mymble's sister crouch with small slips of paper passing between them. Sniff looks for hiding places among the rocks. Moominpappa stands on the high tide line with his pipe, looking out to sea considering the weather.",
+    "panel_count": 4,
+    "image_prompt": "Wide shot of a rocky shore in early morning after rain. Small puddles reflect the gray-pink sky. ムーミン and ミムラ crouch close together at left, heads bent over a small slip of paper passed between them. スニフ peers from behind a large rock at right, looking around. パパ stands on the high tideline further back, looking out to sea. Cool post-rain morning palette, pale light, damp stones. Tove Jansson hand-drawn Moomin illustration style, 16:9, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

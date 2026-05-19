@@ -1,0 +1,333 @@
+{
+  "chapter": 12,
+  "title": "スーツケース",
+  "arc": "B",
+  "arcPosition": "3/9",
+  "arcLabel": "Arc B — Companions",
+  "grammarStep": 8,
+  "grammarName": "Conjunctions: でも / だから / から-reason",
+  "grammarPatterns": [
+    "でも、〜 (contrastive \"but\")",
+    "だから、〜 (conclusion \"so\")",
+    "〜から、〜 (reason clause)",
+    "まだ〜 / もう〜 (temporal adverbs in contrast)"
+  ],
+  "lengthTarget": [
+    400,
+    620
+  ],
+  "register": "N5/N4",
+  "plotSummary": "The Mymble (Little My's older sister) arrives at the Moomin house carrying a suitcase. The children want to see what's inside; she says no, not yet. She hides. Moomintroll finds the suitcase anyway; they open it; it's full of beautiful things. Moominmamma steps in — still Mymble's belongings — \"なので、ここに置く\". The conjunctions でも, だから, and から-reason land here: \"I want to see. — No. — But — Because it's Mymble's — So we put it back.\"",
+  "proper_nouns": [
+    "ムーミン",
+    "ミムラ",
+    "スニフ",
+    "ママ",
+    "パパ"
+  ],
+  "scene": {
+    "location": "ムーミンやしきの中",
+    "beat": "Inside the house. A suitcase. Someone is going — or hiding. Reasons start to connect to consequences.",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "スニフ",
+      "ママ",
+      "パパ"
+    ],
+    "mentioned": [
+      "ミムラ"
+    ],
+    "motifs": [
+      "家"
+    ]
+  },
+  "continuity": {
+    "from": "ch11 (the garden, playing)",
+    "to": "ch13 (the mountain, the ruby)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ある日の夕方、ミムラがムーミンの家にやって来た。手には、大きなスーツケースを持っていた。",
+      "html": "ある<span class=\"word\" data-lemma=\"日\" data-surface=\"日\" data-reading=\"ひ\">日</span>の<span class=\"word\" data-lemma=\"夕方\" data-surface=\"夕方\" data-reading=\"ゆうがた\">夕方</span>、ミムラがムーミンの<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>にやって<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>には、<span class=\"word\" data-lemma=\"大きな\" data-surface=\"大きな\" data-reading=\"おおきな\">大きな</span>スーツケースを<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>ていた。",
+      "htmlFull": "ある<ruby data-lemma=\"日\" data-surface=\"日\">日<rt>ひ</rt></ruby>の<ruby data-lemma=\"夕方\" data-surface=\"夕方\">夕方<rt>ゆうがた</rt></ruby>、ミムラがムーミンの<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>にやって<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>には、<ruby data-lemma=\"大きな\" data-surface=\"大きな\">大<rt>おお</rt></ruby>きなスーツケースを<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>っていた。"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ミムラさん、ようこそ！そのスーツケース、なにが入っているの？",
+      "html": "ミムラさん、ようこそ！そのスーツケース、なにが<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>ているの？",
+      "htmlFull": "ミムラさん、ようこそ！そのスーツケース、なにが<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>っているの？"
+    },
+    {
+      "id": "p03",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "中にどんなものがあるのか、見てみたいな。",
+      "html": "<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"ちゅう\">中</span>にどんなものがあるのか、<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>てみたいな。",
+      "htmlFull": "<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>ちゅう</rt></ruby>にどんなものがあるのか、<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>てみたいな。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "ミムラ",
+      "text": "だめよ！まだ、見せないの。",
+      "html": "だめよ！まだ、<span class=\"word\" data-lemma=\"見せる\" data-surface=\"見せ\" data-reading=\"みせ\">見せ</span>ないの。",
+      "htmlFull": "だめよ！まだ、<ruby data-lemma=\"見せる\" data-surface=\"見せ\">見<rt>み</rt></ruby>せないの。"
+    },
+    {
+      "id": "p05",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "え、ちょっとだけ見せて？",
+      "html": "え、ちょっとだけ<span class=\"word\" data-lemma=\"見せる\" data-surface=\"見せ\" data-reading=\"みせ\">見せ</span>て？",
+      "htmlFull": "え、ちょっとだけ<ruby data-lemma=\"見せる\" data-surface=\"見せ\">見<rt>み</rt></ruby>せて？"
+    },
+    {
+      "id": "p06",
+      "kind": "dialogue",
+      "speaker": "ミムラ",
+      "text": "だめだったら、だめ！",
+      "html": "だめだったら、だめ！",
+      "htmlFull": "だめだったら、だめ！"
+    },
+    {
+      "id": "p07",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ミムラは、スーツケースをおいたまま、家の中のどこかにかくれてしまった。ムーミンはあちこち探した。でも、なかなか見つからない。ミムラは、本当にうまくかくれる子だ。",
+      "html": "ミムラは、スーツケースをおいたまま、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>のどこかにかくれてしまった。ムーミンはあちこち<span class=\"word\" data-lemma=\"探す\" data-surface=\"探し\" data-reading=\"さがし\">探し</span>た。でも、なかなか<span class=\"word\" data-lemma=\"見付かる\" data-surface=\"見つから\" data-reading=\"みつから\">見つから</span>ない。ミムラは、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にうまくかくれる<span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>だ。",
+      "htmlFull": "ミムラは、スーツケースをおいたまま、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>のどこかにかくれてしまった。ムーミンはあちこち<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>した。でも、なかなか<ruby data-lemma=\"見付かる\" data-surface=\"見つから\">見<rt>み</rt></ruby>つからない。ミムラは、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にうまくかくれる<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>だ。"
+    },
+    {
+      "id": "p08",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ミムラさん、どこに行ったんだろう？",
+      "html": "ミムラさん、どこに<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>たんだろう？",
+      "htmlFull": "ミムラさん、どこに<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>ったんだろう？"
+    },
+    {
+      "id": "p09",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "ねえ、スーツケース、ここにあるよ。ちょっとだけ、中を見てみようよ。",
+      "html": "ねえ、スーツケース、ここにあるよ。ちょっとだけ、<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>てみようよ。",
+      "htmlFull": "ねえ、スーツケース、ここにあるよ。ちょっとだけ、<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>てみようよ。"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "うん、ほんの少しだけ…スーツケースの中を見てみよう。",
+      "html": "うん、ほんの<span class=\"word\" data-lemma=\"少し\" data-surface=\"少し\" data-reading=\"すこし\">少し</span>だけ…スーツケースの<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>てみよう。",
+      "htmlFull": "うん、ほんの<ruby data-lemma=\"少し\" data-surface=\"少し\">少<rt>すこ</rt></ruby>しだけ…スーツケースの<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>てみよう。"
+    },
+    {
+      "id": "p11",
+      "kind": "narration",
+      "speaker": null,
+      "text": "スーツケースの中には、びっくりするほどきれいなものが、たくさん入っていた。",
+      "html": "スーツケースの<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>には、びっくりするほどきれいなものが、たくさん<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>ていた。",
+      "htmlFull": "スーツケースの<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>には、びっくりするほどきれいなものが、たくさん<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>っていた。"
+    },
+    {
+      "id": "p12",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "わあ、とってもきれいだね！",
+      "html": "わあ、とってもきれいだね！",
+      "htmlFull": "わあ、とってもきれいだね！"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "すごい、きれい！",
+      "html": "すごい、きれい！",
+      "htmlFull": "すごい、きれい！"
+    },
+    {
+      "id": "p14",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "あら、本当にきれいですね。",
+      "html": "あら、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にきれいですね。",
+      "htmlFull": "あら、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にきれいですね。"
+    },
+    {
+      "id": "p15",
+      "kind": "dialogue",
+      "speaker": "パパ",
+      "text": "これはなかなか、いいものばかりだな。",
+      "html": "これはなかなか、いいものばかりだな。",
+      "htmlFull": "これはなかなか、いいものばかりだな。"
+    },
+    {
+      "id": "p16",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "スーツケースって、こんなにいいもの入っているんだね。",
+      "html": "スーツケースって、こんなにいいもの<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>ているんだね。",
+      "htmlFull": "スーツケースって、こんなにいいもの<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>っているんだね。"
+    },
+    {
+      "id": "p17",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "でも、まだミムラさんのものですよ。かってに見てはいけませんね。",
+      "html": "でも、まだミムラさんのものですよ。かってに<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>てはいけませんね。",
+      "htmlFull": "でも、まだミムラさんのものですよ。かってに<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>てはいけませんね。"
+    },
+    {
+      "id": "p18",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "そうか、だから、ちゃんと元のところにおくね。",
+      "html": "そうか、だから、ちゃんと<span class=\"word\" data-lemma=\"元\" data-surface=\"元\" data-reading=\"もと\">元</span>のところにおくね。",
+      "htmlFull": "そうか、だから、ちゃんと<ruby data-lemma=\"元\" data-surface=\"元\">元<rt>もと</rt></ruby>のところにおくね。"
+    },
+    {
+      "id": "p19",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ミムラさん、スーツケース、ここにおいておくよ。",
+      "html": "ミムラさん、スーツケース、ここにおいておくよ。",
+      "htmlFull": "ミムラさん、スーツケース、ここにおいておくよ。"
+    },
+    {
+      "id": "p20",
+      "kind": "dialogue",
+      "speaker": "ミムラ",
+      "text": "まだ、ここにかくれているんだから。でも、もうすぐ出るわよ。",
+      "html": "まだ、ここにかくれているんだから。でも、もうすぐ<span class=\"word\" data-lemma=\"出る\" data-surface=\"出る\" data-reading=\"でる\">出る</span>わよ。",
+      "htmlFull": "まだ、ここにかくれているんだから。でも、もうすぐ<ruby data-lemma=\"出る\" data-surface=\"出る\">出<rt>で</rt></ruby>るわよ。"
+    },
+    {
+      "id": "p21",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "もう、寝る時間ですよ。",
+      "html": "もう、<ruby data-lemma=\"寝る\" data-surface=\"寝る\">寝<rt>ね</rt></ruby>る<span class=\"word\" data-lemma=\"時間\" data-surface=\"時間\" data-reading=\"じかん\">時間</span>ですよ。",
+      "htmlFull": "もう、<ruby data-lemma=\"寝る\" data-surface=\"寝る\">寝<rt>ね</rt></ruby>る<ruby data-lemma=\"時間\" data-surface=\"時間\">時間<rt>じかん</rt></ruby>ですよ。"
+    },
+    {
+      "id": "p22",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "うん、寝るよ。",
+      "html": "うん、<ruby data-lemma=\"寝る\" data-surface=\"寝る\">寝<rt>ね</rt></ruby>るよ。",
+      "htmlFull": "うん、<ruby data-lemma=\"寝る\" data-surface=\"寝る\">寝<rt>ね</rt></ruby>るよ。"
+    },
+    {
+      "id": "p23",
+      "kind": "narration",
+      "speaker": null,
+      "text": "みんな、それぞれ寝る前のしたくをはじめた。ミムラも、やっと出て来て、家の中で寝るところだ。スーツケースは、きれいなままで、元の場所においてあった。",
+      "html": "みんな、それぞれ<ruby data-lemma=\"寝る\" data-surface=\"寝る\">寝<rt>ね</rt></ruby>る<span class=\"word\" data-lemma=\"前\" data-surface=\"前\" data-reading=\"まえ\">前</span>のしたくをはじめた。ミムラも、やっと<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>て、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で<ruby data-lemma=\"寝る\" data-surface=\"寝る\">寝<rt>ね</rt></ruby>るところだ。スーツケースは、きれいなままで、<span class=\"word\" data-lemma=\"元\" data-surface=\"元\" data-reading=\"もと\">元</span>の<span class=\"word\" data-lemma=\"場所\" data-surface=\"場所\" data-reading=\"ばしょ\">場所</span>においてあった。",
+      "htmlFull": "みんな、それぞれ<ruby data-lemma=\"寝る\" data-surface=\"寝る\">寝<rt>ね</rt></ruby>る<ruby data-lemma=\"前\" data-surface=\"前\">前<rt>まえ</rt></ruby>のしたくをはじめた。ミムラも、やっと<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>て<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>て、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で<ruby data-lemma=\"寝る\" data-surface=\"寝る\">寝<rt>ね</rt></ruby>るところだ。スーツケースは、きれいなままで、<ruby data-lemma=\"元\" data-surface=\"元\">元<rt>もと</rt></ruby>の<ruby data-lemma=\"場所\" data-surface=\"場所\">場所<rt>ばしょ</rt></ruby>においてあった。"
+    },
+    {
+      "id": "p24",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ミムラさんがだめって言うなら、見ない。スーツケースは、ミムラさんのものだから、ちゃんとここに、おいておくよ。",
+      "html": "ミムラさんがだめって<span class=\"word\" data-lemma=\"言う\" data-surface=\"言う\" data-reading=\"ゆう\">言う</span>なら、<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ない。スーツケースは、ミムラさんのものだから、ちゃんとここに、おいておくよ。",
+      "htmlFull": "ミムラさんがだめって<ruby data-lemma=\"言う\" data-surface=\"言う\">言<rt>ゆ</rt></ruby>うなら、<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ない。スーツケースは、ミムラさんのものだから、ちゃんとここに、おいておくよ。"
+    },
+    {
+      "id": "p25",
+      "kind": "narration",
+      "speaker": null,
+      "text": "その夜、ムーミンは寝るまえに、もう一度スーツケースを見た。きれいなスーツケース、ミムラさんの大切なもの。まだ、そこにある。家の中は、もう、しずかだった。でも、ムーミンはベッドの中で、きれいなスーツケースのゆめを見ていた。",
+      "html": "その<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>、ムーミンは<ruby data-lemma=\"寝る\" data-surface=\"寝る\">寝<rt>ね</rt></ruby>るまえに、もう<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いち\">一</span><span class=\"word\" data-lemma=\"度\" data-surface=\"度\" data-reading=\"ど\">度</span>スーツケースを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。きれいなスーツケース、ミムラさんの<span class=\"word\" data-lemma=\"大切\" data-surface=\"大切\" data-reading=\"たいせつ\">大切</span>なもの。まだ、そこにある。<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>は、もう、しずかだった。でも、ムーミンはベッドの<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で、きれいなスーツケースのゆめを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ていた。",
+      "htmlFull": "その<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>、ムーミンは<ruby data-lemma=\"寝る\" data-surface=\"寝る\">寝<rt>ね</rt></ruby>るまえに、もう<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いち</rt></ruby><ruby data-lemma=\"度\" data-surface=\"度\">度<rt>ど</rt></ruby>スーツケースを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。きれいなスーツケース、ミムラさんの<ruby data-lemma=\"大切\" data-surface=\"大切\">大切<rt>たいせつ</rt></ruby>なもの。まだ、そこにある。<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>は、もう、しずかだった。でも、ムーミンはベッドの<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で、きれいなスーツケースのゆめを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ていた。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "かくれる",
+      "reading": "かくれる",
+      "gloss": "to hide (oneself) (UniDic 隠れる → learner hiragana かくれる)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "きれい",
+      "reading": "きれい",
+      "gloss": "pretty, clean (na-adjective)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "だめ",
+      "reading": "だめ",
+      "gloss": "no good; not allowed (na-adjective)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "スーツケース",
+      "reading": "スーツケース",
+      "gloss": "suitcase",
+      "tier": "focus"
+    },
+    {
+      "lemma": "寝る",
+      "reading": "ねる",
+      "gloss": "to sleep, to go to bed",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [],
+  "glossary": [
+    {
+      "lemma": "かくれる",
+      "reading": "かくれる",
+      "gloss": "to hide (oneself) (UniDic 隠れる)",
+      "tier": "focus",
+      "first": "ch12"
+    },
+    {
+      "lemma": "きれい",
+      "reading": "きれい",
+      "gloss": "pretty, clean, beautiful (na-adjective)",
+      "tier": "focus",
+      "first": "ch12"
+    },
+    {
+      "lemma": "だめ",
+      "reading": "だめ",
+      "gloss": "no good, not allowed (na-adjective)",
+      "tier": "focus",
+      "first": "ch12"
+    },
+    {
+      "lemma": "スーツケース",
+      "reading": "スーツケース",
+      "gloss": "suitcase",
+      "tier": "focus",
+      "first": "ch12"
+    },
+    {
+      "lemma": "寝る",
+      "reading": "ねる",
+      "gloss": "to sleep, to go to bed",
+      "tier": "focus",
+      "first": "ch12"
+    }
+  ],
+  "grammarNotes": [
+    "でも at the start of a sentence — \"but / however.\" Soft contrast. Sniff says \"でも、みる？\" (\"but… should we look?\") after Mymble says だめ.",
+    "だから at the start of a sentence — \"therefore / so.\" Moomintroll says \"だから、ここにおく\" (\"so we'll put it back here\") after realizing the suitcase is Mymble's.",
+    "〜から at the end of a clause — \"because 〜.\" ミムラが、いいというから、みる = \"because Mymble said it's ok, we look.\" The から attaches to the previous clause and gives its reason.",
+    "まだ vs もう — まだ = \"still\" (continuing) or \"not yet\" (with negative); もう = \"already.\" Ch12 pairs them: ミムラは\"まだ、だめだ\" (still not allowed); ママは\"もう、ねますか？\" (sleeping already?).",
+    "Moominmamma's dialogue is in です/ます — this is a preview of step 18, permitted here by the character_voice_exempt rule (see characters.yaml for her register ceiling)."
+  ],
+  "illustration": {
+    "scene_note": "Moomin house interior, afternoon. A battered leather suitcase on the floor. Mymble peeks from behind a cupboard; Moomintroll and Sniff crouch over the open suitcase, eyes wide. Moominmamma stands in the doorway with hands on hips, gentle smile. Moominpappa watches from an armchair.",
+    "panel_count": 5,
+    "image_prompt": "Medium shot of a warm-lit Moomin house interior in the afternoon. A battered leather suitcase lies open on the wooden floor at center, spilling colorful fabric scraps and small trinkets out. ムーミン and スニフ crouch over it together with wide eyes, one pawing through the contents. ミムラ peers from behind a tall cupboard at left, only half her face visible, watching them. ママ stands in the kitchen doorway at right with hands clasped, a gentle pained look. Warm afternoon light through a round window. Tove Jansson hand-drawn Moomin illustration style, 16:9, warm amber interior palette, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

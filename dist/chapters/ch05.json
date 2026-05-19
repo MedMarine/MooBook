@@ -1,0 +1,238 @@
+{
+  "chapter": 5,
+  "title": "スニフがいた",
+  "arc": "A",
+  "arcPosition": "5/9",
+  "arcLabel": "Arc A — Spring Valley",
+  "grammarStep": 3,
+  "grammarName": "Past: た / だった — simple discovery and report",
+  "grammarPatterns": [
+    "Vた / Nだった",
+    "XがいたX / XがでたX",
+    "あそこにNがいた"
+  ],
+  "lengthTarget": [
+    300,
+    460
+  ],
+  "register": "N5",
+  "plotSummary": "The garden at daybreak. Sniff was missing. Everyone is looking. Someone calls out — there! over there! — and there is Sniff, right where no one checked first. Past-tense た / だった comes home in this chapter: the chapter of discovery. The demonstratives それ/あれ/そこ/あそこ all have their turn.",
+  "proper_nouns": [
+    "ムーミン",
+    "ミイ",
+    "スニフ",
+    "ニンニ",
+    "フローレン",
+    "ママ"
+  ],
+  "scene": {
+    "location": "ムーミンやしきとにわ",
+    "beat": "Garden and yard. Sniff was missing; Sniff is found.",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "フローレン",
+      "スニフ",
+      "ママ"
+    ],
+    "mentioned": [],
+    "motifs": [
+      "庭"
+    ]
+  },
+  "continuity": {
+    "from": "ch04 (inside the house, Ninny arrives)",
+    "to": "ch06 (by the sea, shells)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "narration",
+      "speaker": null,
+      "text": "朝、ムーミンとフローレンの二人は庭にいた。でも、スニフの姿がどこにもなかった。",
+      "html": "<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>、ムーミンとフローレンの<span class=\"word\" data-lemma=\"二人\" data-surface=\"二人\" data-reading=\"ふたり\">二人</span>は<span class=\"word\" data-lemma=\"庭\" data-surface=\"庭\" data-reading=\"にわ\">庭</span>にいた。でも、スニフの<ruby data-lemma=\"姿\" data-surface=\"姿\">姿<rt>すがた</rt></ruby>がどこにもなかった。",
+      "htmlFull": "<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>、ムーミンとフローレンの<ruby data-lemma=\"二人\" data-surface=\"二人\">二人<rt>ふたり</rt></ruby>は<ruby data-lemma=\"庭\" data-surface=\"庭\">庭<rt>にわ</rt></ruby>にいた。でも、スニフの<ruby data-lemma=\"姿\" data-surface=\"姿\">姿<rt>すがた</rt></ruby>がどこにもなかった。"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "スニフ、どこにいるんだろう。家の中かな？",
+      "html": "スニフ、どこにいるんだろう。<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>かな？",
+      "htmlFull": "スニフ、どこにいるんだろう。<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>かな？"
+    },
+    {
+      "id": "p03",
+      "kind": "dialogue",
+      "speaker": "フローレン",
+      "text": "さっき見たけど、家の中にはいなかったわ。",
+      "html": "さっき<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>たけど、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>にはいなかったわ。",
+      "htmlFull": "さっき<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>たけど、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>にはいなかったわ。"
+    },
+    {
+      "id": "p04",
+      "kind": "narration",
+      "speaker": null,
+      "text": "二人は、庭のあちこちを探した。家のそばも、木のそばも、みんな見てまわった。",
+      "html": "<span class=\"word\" data-lemma=\"二人\" data-surface=\"二人\" data-reading=\"ふたり\">二人</span>は、<span class=\"word\" data-lemma=\"庭\" data-surface=\"庭\" data-reading=\"にわ\">庭</span>のあちこちを<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>した。<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>のそばも、<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>のそばも、みんな<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>てまわった。",
+      "htmlFull": "<ruby data-lemma=\"二人\" data-surface=\"二人\">二人<rt>ふたり</rt></ruby>は、<ruby data-lemma=\"庭\" data-surface=\"庭\">庭<rt>にわ</rt></ruby>のあちこちを<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>した。<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>のそばも、<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>のそばも、みんな<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>てまわった。"
+    },
+    {
+      "id": "p05",
+      "kind": "dialogue",
+      "speaker": "フローレン",
+      "text": "ムーミン、見て！あの大きい木のかげに、だれかいる。",
+      "html": "ムーミン、<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>て！あの<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>のかげに、だれかいる。",
+      "htmlFull": "ムーミン、<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>て！あの<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>のかげに、だれかいる。"
+    },
+    {
+      "id": "p06",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "本当？だれだろう。",
+      "html": "<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>？だれだろう。",
+      "htmlFull": "<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>？だれだろう。"
+    },
+    {
+      "id": "p07",
+      "kind": "narration",
+      "speaker": null,
+      "text": "木のかげから、ちいさな人が、そっと出て来た。",
+      "html": "<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>のかげから、ちいさな<span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"ひと\">人</span>が、そっと<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。",
+      "htmlFull": "<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>のかげから、ちいさな<ruby data-lemma=\"人\" data-surface=\"人\">人<rt>ひと</rt></ruby>が、そっと<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>て<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。"
+    },
+    {
+      "id": "p08",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "ぼくだよ、スニフ！ずっと、ここにいたんだ。",
+      "html": "ぼくだよ、スニフ！ずっと、ここにいたんだ。",
+      "htmlFull": "ぼくだよ、スニフ！ずっと、ここにいたんだ。"
+    },
+    {
+      "id": "p09",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "スニフ！本当にスニフだ！みんなで探したんだよ。",
+      "html": "スニフ！<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にスニフだ！みんなで<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>したんだよ。",
+      "htmlFull": "スニフ！<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にスニフだ！みんなで<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>したんだよ。"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "フローレン",
+      "text": "よかった、みつかって。二人で、本当に心配したんだよ。",
+      "html": "よかった、みつかって。<span class=\"word\" data-lemma=\"二人\" data-surface=\"二人\" data-reading=\"ふたり\">二人</span>で、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に<span class=\"word\" data-lemma=\"心配\" data-surface=\"心配\" data-reading=\"しんぱい\">心配</span>したんだよ。",
+      "htmlFull": "よかった、みつかって。<ruby data-lemma=\"二人\" data-surface=\"二人\">二人<rt>ふたり</rt></ruby>で、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に<ruby data-lemma=\"心配\" data-surface=\"心配\">心配<rt>しんぱい</rt></ruby>したんだよ。"
+    },
+    {
+      "id": "p11",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "スニフ、どこにいたの？",
+      "html": "スニフ、どこにいたの？",
+      "htmlFull": "スニフ、どこにいたの？"
+    },
+    {
+      "id": "p12",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "あの木のかげに、ずっとかくれていたんだ。ぼく、みつけてほしかったんだよ。",
+      "html": "あの<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>のかげに、ずっとかくれていたんだ。ぼく、みつけてほしかったんだよ。",
+      "htmlFull": "あの<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>のかげに、ずっとかくれていたんだ。ぼく、みつけてほしかったんだよ。"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "そうか。ぼくたちは、庭に出て、ずっと探していたんだよ。",
+      "html": "そうか。ぼくたちは、<span class=\"word\" data-lemma=\"庭\" data-surface=\"庭\" data-reading=\"にわ\">庭</span>に<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>て、ずっと<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>していたんだよ。",
+      "htmlFull": "そうか。ぼくたちは、<ruby data-lemma=\"庭\" data-surface=\"庭\">庭<rt>にわ</rt></ruby>に<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>て、ずっと<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>していたんだよ。"
+    },
+    {
+      "id": "p14",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミン、フローレン、そしてスニフ。三人は、やっと庭でいっしょになった。",
+      "html": "ムーミン、フローレン、そしてスニフ。<span class=\"word\" data-lemma=\"三\" data-surface=\"三\" data-reading=\"さん\">三</span><span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"にん\">人</span>は、やっと<span class=\"word\" data-lemma=\"庭\" data-surface=\"庭\" data-reading=\"にわ\">庭</span>でいっしょになった。",
+      "htmlFull": "ムーミン、フローレン、そしてスニフ。<ruby data-lemma=\"三\" data-surface=\"三\">三<rt>さん</rt></ruby><ruby data-lemma=\"人\" data-surface=\"人\">人<rt>にん</rt></ruby>は、やっと<ruby data-lemma=\"庭\" data-surface=\"庭\">庭<rt>にわ</rt></ruby>でいっしょになった。"
+    },
+    {
+      "id": "p15",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "みんな、いっしょになってよかったわね。",
+      "html": "みんな、いっしょになってよかったわね。",
+      "htmlFull": "みんな、いっしょになってよかったわね。"
+    },
+    {
+      "id": "p16",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ママ、スニフがさっき出て来たんだ！もう、だいじょうぶ。",
+      "html": "ママ、スニフがさっき<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たんだ！もう、だいじょうぶ。",
+      "htmlFull": "ママ、スニフがさっき<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>て<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たんだ！もう、だいじょうぶ。"
+    },
+    {
+      "id": "p17",
+      "kind": "narration",
+      "speaker": null,
+      "text": "朝の庭には、三人の笑い声がひろがっていた。ムーミンにとって、本当にいい朝だった。",
+      "html": "<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>の<span class=\"word\" data-lemma=\"庭\" data-surface=\"庭\" data-reading=\"にわ\">庭</span>には、<span class=\"word\" data-lemma=\"三\" data-surface=\"三\" data-reading=\"さん\">三</span><span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"にん\">人</span>の<ruby data-lemma=\"笑い声\" data-surface=\"笑い声\">笑い声<rt>わらいごえ</rt></ruby>がひろがっていた。ムーミンにとって、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にいい<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>だった。",
+      "htmlFull": "<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>の<ruby data-lemma=\"庭\" data-surface=\"庭\">庭<rt>にわ</rt></ruby>には、<ruby data-lemma=\"三\" data-surface=\"三\">三<rt>さん</rt></ruby><ruby data-lemma=\"人\" data-surface=\"人\">人<rt>にん</rt></ruby>の<ruby data-lemma=\"笑い声\" data-surface=\"笑い声\">笑い声<rt>わらいごえ</rt></ruby>がひろがっていた。ムーミンにとって、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にいい<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>だった。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "出る",
+      "reading": "でる",
+      "gloss": "to come out, to appear, to leave",
+      "tier": "focus"
+    },
+    {
+      "lemma": "本当",
+      "reading": "ほんとう",
+      "gloss": "really, the truth",
+      "tier": "focus"
+    },
+    {
+      "lemma": "二人",
+      "reading": "ふたり",
+      "gloss": "two people",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [],
+  "glossary": [
+    {
+      "lemma": "出る",
+      "reading": "でる",
+      "gloss": "to come out, to appear, to leave",
+      "tier": "focus",
+      "first": "ch05"
+    },
+    {
+      "lemma": "本当",
+      "reading": "ほんとう",
+      "gloss": "really, truth",
+      "tier": "focus",
+      "first": "ch05"
+    },
+    {
+      "lemma": "二人",
+      "reading": "ふたり",
+      "gloss": "two people",
+      "tier": "focus",
+      "first": "ch05"
+    }
+  ],
+  "grammarNotes": [
+    "Vた / Nだった — the past. いた = \"was there\", 出た = \"came out\", だった = \"was\". The simplest possible past tense, landing in moments of discovery.",
+    "あそこ / そこ — the complete deictic paradigm is now in place: ここ/そこ/あそこ, これ/それ/あれ, この/その/あの.",
+    "本当 (ほんとう) is an N5 adverb meaning \"really, truly\". 本当に + predicate. It often rides with discovery: \"本当にいた！\"."
+  ],
+  "illustration": {
+    "scene_note": "Moomin house garden at morning. Moomintroll and Snork Maiden peer around the shrubs. Sniff appears from behind a tree. Ninny is present only as a faint outline near the door.",
+    "image_prompt": "Medium-wide shot of a sunlit Moomin garden. A large tree stands at center. フローレン stands to the left with one paw raised, mid-call. ムーミン stands a few steps back, head turned toward the tree. From behind the trunk at right, スニフ steps partway out, only his head and one shoulder visible past the bark, looking sheepish. Bright late-morning light, fresh green grass, dappled sun through leaves. Tove Jansson hand-drawn Moomin illustration style, 16:9, warm summer palette, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

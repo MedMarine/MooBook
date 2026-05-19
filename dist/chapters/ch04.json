@@ -1,0 +1,225 @@
+{
+  "chapter": 4,
+  "title": "入る",
+  "arc": "A",
+  "arcPosition": "4/9",
+  "arcLabel": "Arc A — Spring Valley",
+  "grammarStep": 2,
+  "grammarName": "Topic + Copula reprise + demonstratives (この/その/あの)",
+  "grammarPatterns": [
+    "これはNだ",
+    "XはYのもの",
+    "だれがはいる？ / ここにいる"
+  ],
+  "lengthTarget": [
+    260,
+    400
+  ],
+  "register": "N5",
+  "plotSummary": "Evening at the Moomin house. Everyone gathers inside. A small voice — Ninny, the invisible child — asks to come in. The house is full, warm, and for the first time everyone is named. The chapter brings これ (the near-proximate demonstrative) home and introduces もの (thing) for pointing at abstract objects.",
+  "proper_nouns": [
+    "ムーミン",
+    "ニンニ",
+    "ママ",
+    "スナフキン"
+  ],
+  "scene": {
+    "location": "ムーミンやしきの中（夕方）",
+    "beat": "Evening. The Moomin house. A small voice is heard but nothing is seen. Ninny has arrived.",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "ニンニ",
+      "ママ",
+      "スナフキン"
+    ],
+    "mentioned": [],
+    "motifs": [
+      "家"
+    ]
+  },
+  "continuity": {
+    "from": "ch03 (outside, meeting Snork Maiden)",
+    "to": "ch05 (the garden, Sniff's return)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "narration",
+      "speaker": null,
+      "text": "夕方、ムーミンの家のみんなは、居間にあつまっていた。",
+      "html": "<span class=\"word\" data-lemma=\"夕方\" data-surface=\"夕方\" data-reading=\"ゆうがた\">夕方</span>、ムーミンの<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>のみんなは、<ruby data-lemma=\"居間\" data-surface=\"居間\">居間<rt>いま</rt></ruby>にあつまっていた。",
+      "htmlFull": "<ruby data-lemma=\"夕方\" data-surface=\"夕方\">夕方<rt>ゆうがた</rt></ruby>、ムーミンの<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>のみんなは、<ruby data-lemma=\"居間\" data-surface=\"居間\">居間<rt>いま</rt></ruby>にあつまっていた。"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "あれ？だれか、いるの？",
+      "html": "あれ？だれか、いるの？",
+      "htmlFull": "あれ？だれか、いるの？"
+    },
+    {
+      "id": "p03",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ドアがすこし動いて、だれかが家に入って来た。でも、部屋の中には、だれも見えなかった。",
+      "html": "ドアがすこし<span class=\"word\" data-lemma=\"動く\" data-surface=\"動い\" data-reading=\"うごい\">動い</span>て、だれかが<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>に<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。でも、<span class=\"word\" data-lemma=\"部屋\" data-surface=\"部屋\" data-reading=\"へや\">部屋</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>には、だれも<span class=\"word\" data-lemma=\"見える\" data-surface=\"見え\" data-reading=\"みえ\">見え</span>なかった。",
+      "htmlFull": "ドアがすこし<ruby data-lemma=\"動く\" data-surface=\"動い\">動<rt>うご</rt></ruby>いて、だれかが<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>に<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>って<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。でも、<ruby data-lemma=\"部屋\" data-surface=\"部屋\">部屋<rt>へや</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>には、だれも<ruby data-lemma=\"見える\" data-surface=\"見え\">見<rt>み</rt></ruby>えなかった。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "あの子はニンニですよ。目に見えない、ちいさい子なの。",
+      "html": "あの<span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>はニンニですよ。<span class=\"word\" data-lemma=\"目\" data-surface=\"目\" data-reading=\"め\">目</span>に<span class=\"word\" data-lemma=\"見える\" data-surface=\"見え\" data-reading=\"みえ\">見え</span>ない、ちいさい<span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>なの。",
+      "htmlFull": "あの<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>はニンニですよ。<ruby data-lemma=\"目\" data-surface=\"目\">目<rt>め</rt></ruby>に<ruby data-lemma=\"見える\" data-surface=\"見え\">見<rt>み</rt></ruby>えない、ちいさい<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>なの。"
+    },
+    {
+      "id": "p05",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "ニンニ、ここはいい家でしょう？ゆっくりしていってね。",
+      "html": "ニンニ、ここはいい<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>でしょう？ゆっくりしていってね。",
+      "htmlFull": "ニンニ、ここはいい<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>でしょう？ゆっくりしていってね。"
+    },
+    {
+      "id": "p06",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "このうちは、みんなの家。あなたの家でもあるの。",
+      "html": "このうちは、みんなの<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>。あなたの<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>でもあるの。",
+      "htmlFull": "このうちは、みんなの<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>。あなたの<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>でもあるの。"
+    },
+    {
+      "id": "p07",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ニンニ、ぼくのそばに来て。",
+      "html": "ニンニ、ぼくのそばに<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>て。",
+      "htmlFull": "ニンニ、ぼくのそばに<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>て。"
+    },
+    {
+      "id": "p08",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ニンニが入って来たとき、ちいさな音だけが、しずかに聞こえた。",
+      "html": "ニンニが<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たとき、ちいさな<span class=\"word\" data-lemma=\"音\" data-surface=\"音\" data-reading=\"おと\">音</span>だけが、しずかに<span class=\"word\" data-lemma=\"聞こえる\" data-surface=\"聞こえ\" data-reading=\"きこえ\">聞こえ</span>た。",
+      "htmlFull": "ニンニが<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>って<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たとき、ちいさな<ruby data-lemma=\"音\" data-surface=\"音\">音<rt>おと</rt></ruby>だけが、しずかに<ruby data-lemma=\"聞こえる\" data-surface=\"聞こえ\">聞<rt>き</rt></ruby>こえた。"
+    },
+    {
+      "id": "p09",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ニンニ、これ、ぼくのたいせつなものだけど、どうぞ。",
+      "html": "ニンニ、これ、ぼくのたいせつなものだけど、どうぞ。",
+      "htmlFull": "ニンニ、これ、ぼくのたいせつなものだけど、どうぞ。"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "いいものだから、ニンニのものにして。",
+      "html": "いいものだから、ニンニのものにして。",
+      "htmlFull": "いいものだから、ニンニのものにして。"
+    },
+    {
+      "id": "p11",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ねえ、ここ、いいところでしょう？",
+      "html": "ねえ、ここ、いいところでしょう？",
+      "htmlFull": "ねえ、ここ、いいところでしょう？"
+    },
+    {
+      "id": "p12",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ニンニは、なにも言わなかった。でも、しずかにうなずいたようだった。",
+      "html": "ニンニは、なにも<span class=\"word\" data-lemma=\"言う\" data-surface=\"言わ\" data-reading=\"いわ\">言わ</span>なかった。でも、しずかにうなずいたようだった。",
+      "htmlFull": "ニンニは、なにも<ruby data-lemma=\"言う\" data-surface=\"言わ\">言<rt>い</rt></ruby>わなかった。でも、しずかにうなずいたようだった。"
+    },
+    {
+      "id": "p13",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ニンニも、ムーミンも、家の中にいた。みんないっしょに、夕方の時間をすごしていた。",
+      "html": "ニンニも、ムーミンも、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>にいた。みんないっしょに、<span class=\"word\" data-lemma=\"夕方\" data-surface=\"夕方\" data-reading=\"ゆうがた\">夕方</span>の<span class=\"word\" data-lemma=\"時間\" data-surface=\"時間\" data-reading=\"じかん\">時間</span>をすごしていた。",
+      "htmlFull": "ニンニも、ムーミンも、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>にいた。みんないっしょに、<ruby data-lemma=\"夕方\" data-surface=\"夕方\">夕方<rt>ゆうがた</rt></ruby>の<ruby data-lemma=\"時間\" data-surface=\"時間\">時間<rt>じかん</rt></ruby>をすごしていた。"
+    },
+    {
+      "id": "p14",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ニンニ、この家、好き？",
+      "html": "ニンニ、この<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>、<ruby data-lemma=\"好き\" data-surface=\"好き\">好<rt>す</rt></ruby>き？",
+      "htmlFull": "ニンニ、この<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>、<ruby data-lemma=\"好き\" data-surface=\"好き\">好<rt>す</rt></ruby>き？"
+    },
+    {
+      "id": "p15",
+      "kind": "narration",
+      "speaker": null,
+      "text": "家のものは、みんなのもの。そして今、ムーミンの家は、ニンニの家でもあった。",
+      "html": "<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>のものは、みんなのもの。そして<span class=\"word\" data-lemma=\"今\" data-surface=\"今\" data-reading=\"いま\">今</span>、ムーミンの<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>は、ニンニの<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>でもあった。",
+      "htmlFull": "<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>のものは、みんなのもの。そして<ruby data-lemma=\"今\" data-surface=\"今\">今<rt>いま</rt></ruby>、ムーミンの<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>は、ニンニの<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>でもあった。"
+    },
+    {
+      "id": "p16",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "これはニンニのもので、それはぼくのもの。あれはみんなのものだよ。",
+      "html": "これはニンニのもので、それはぼくのもの。あれはみんなのものだよ。",
+      "htmlFull": "これはニンニのもので、それはぼくのもの。あれはみんなのものだよ。"
+    },
+    {
+      "id": "p17",
+      "kind": "narration",
+      "speaker": null,
+      "text": "家に、人が入る。\n\n家のみんなが、ここにいる。\n\nニンニも、ムーミンも、ママも、みんな、ここにいる。\n\nみんなの家、みんなのもの。\n\nここは、いい家だ。ここは、みんなの家だ。",
+      "html": "<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>に、<span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"ひと\">人</span>が<span class=\"word\" data-lemma=\"入る\" data-surface=\"入る\" data-reading=\"はいる\">入る</span>。\n\n<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>のみんなが、ここにいる。\n\nニンニも、ムーミンも、ママも、みんな、ここにいる。\n\nみんなの<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>、みんなのもの。\n\nここは、いい<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>だ。ここは、みんなの<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>だ。",
+      "htmlFull": "<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>に、<ruby data-lemma=\"人\" data-surface=\"人\">人<rt>ひと</rt></ruby>が<ruby data-lemma=\"入る\" data-surface=\"入る\">入<rt>はい</rt></ruby>る。\n\n<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>のみんなが、ここにいる。\n\nニンニも、ムーミンも、ママも、みんな、ここにいる。\n\nみんなの<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>、みんなのもの。\n\nここは、いい<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>だ。ここは、みんなの<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>だ。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "入る",
+      "reading": "はいる",
+      "gloss": "to enter, to come in",
+      "tier": "focus"
+    },
+    {
+      "lemma": "もの",
+      "reading": "もの",
+      "gloss": "thing",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [],
+  "glossary": [
+    {
+      "lemma": "入る",
+      "reading": "はいる",
+      "gloss": "to enter, to come in",
+      "tier": "focus",
+      "first": "ch04"
+    },
+    {
+      "lemma": "もの",
+      "reading": "もの",
+      "gloss": "thing (concrete or abstract)",
+      "tier": "focus",
+      "first": "ch04"
+    }
+  ],
+  "grammarNotes": [
+    "これは N だ — \"This is [N].\" これ is the near-proximate demonstrative: the thing close to the speaker.",
+    "X は Y のもの — \"X is Y's thing / X belongs to Y.\" The の-possessive reappears, now with もの (\"thing\") as the head noun. みんなのもの = \"everybody's thing\".",
+    "入る (はいる) is the first action verb of the book. \"だれか、いる？\" = \"Is anyone there?\" The past-form 入った = \"[someone] has come in\" appears in the narration (preview of step 3).",
+    "Ninny (ニンニ) is invisible and silent in this chapter. She enters the house, takes things offered, nods — all shown through narration and the small sounds her presence makes. She finds her voice only later, in ch35.",
+    "あなた is a polite second-person pronoun. Moominmamma uses it with warmth."
+  ],
+  "illustration": {
+    "scene_note": "Moomin house interior at dusk. The family and friends gather in the living room; Moominmamma holds the door open; Ninny is not visible but indicated by a moved teacup or a chair scooted back on its own. Warm lamplight.",
+    "image_prompt": "Medium interior shot of the Moomin living room at dusk. A single oil lamp on a side table casts warm light; a round window shows deep blue evening sky outside. An armchair sits in the foreground with a small floor-length cushion on it. ママ stands in the doorway at right, mid-gesture of welcome, turned slightly toward the chair. ムーミン stands a step inside, body turned toward the chair, his gaze soft and uncertain. Nothing visible in the chair except a faint shimmer of air and, on the seat cushion, a single small red ribbon lying by itself. Tove Jansson hand-drawn Moomin illustration style, 16:9, warm amber lamp glow against deep blue outside, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

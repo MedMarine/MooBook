@@ -1,0 +1,281 @@
+{
+  "chapter": 13,
+  "title": "ルビー",
+  "arc": "B",
+  "arcPosition": "4/9",
+  "arcLabel": "Arc B — Companions",
+  "grammarStep": 9,
+  "grammarName": "i-adjectives + な-adjectives (predicate + modifier)",
+  "grammarPatterns": [
+    "Adj-い + N (いいルビー, はやい子)",
+    "N は Adj-い (あの子ははやい)",
+    "Adj-な + N (きれいなもの, 絶対なこと)",
+    "〜子 (descriptor suffix — おんなの子, いい子)"
+  ],
+  "lengthTarget": [
+    420,
+    650
+  ],
+  "register": "N4",
+  "plotSummary": "Moomintroll goes to the mountain with Snufkin to look for a ruby. A small sharp-voiced child is already there — Little My (known here as ミイ, Mymble's sister). She calls Moomintroll おまえ, which is rude; she says もちろん before anyone asks; she finds the ruby first. The chapter introduces the i-adjective register in dialogue — 大きい, 小さい, いい, はやい — alongside some na-adjectives (絶対, 大変). Little My's bite is in her adjectives.",
+  "proper_nouns": [
+    "ムーミン",
+    "ミイ",
+    "スナフキン",
+    "スニフ"
+  ],
+  "scene": {
+    "location": "山のそば",
+    "beat": "By the mountain. A ruby is mentioned. Little My appears more fully; her sharp words cut into the soft prose.",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "ミイ",
+      "スナフキン"
+    ],
+    "mentioned": [
+      "スニフ"
+    ],
+    "motifs": [
+      "山"
+    ]
+  },
+  "continuity": {
+    "from": "ch12 (inside, the suitcase)",
+    "to": "ch14 (the valley — Hattifatteners)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンとスナフキンは、ルビーを探しに山へ登った。きらきら光る赤いルビーが、この山のどこかにあるらしい。",
+      "html": "ムーミンとスナフキンは、ルビーを<span class=\"word\" data-lemma=\"探す\" data-surface=\"探し\" data-reading=\"さがし\">探し</span>に<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>へ<span class=\"word\" data-lemma=\"上る\" data-surface=\"登っ\" data-reading=\"のぼっ\">登っ</span>た。きらきら<span class=\"word\" data-lemma=\"光る\" data-surface=\"光る\" data-reading=\"ひかる\">光る</span><span class=\"word\" data-lemma=\"赤い\" data-surface=\"赤い\" data-reading=\"あかい\">赤い</span>ルビーが、この<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>のどこかにあるらしい。",
+      "htmlFull": "ムーミンとスナフキンは、ルビーを<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>しに<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>へ<ruby data-lemma=\"上る\" data-surface=\"登っ\">登<rt>のぼ</rt></ruby>った。きらきら<ruby data-lemma=\"光る\" data-surface=\"光る\">光<rt>ひか</rt></ruby>る<ruby data-lemma=\"赤い\" data-surface=\"赤い\">赤<rt>あか</rt></ruby>いルビーが、この<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>のどこかにあるらしい。"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "あっ、あそこに、だれかいるよ。小さな女の子みたいだ。",
+      "html": "あっ、あそこに、だれかいるよ。<span class=\"word\" data-lemma=\"小さな\" data-surface=\"小さな\" data-reading=\"ちいさな\">小さな</span><span class=\"word\" data-lemma=\"女の子\" data-surface=\"女の子\" data-reading=\"おんなのこ\">女の子</span>みたいだ。",
+      "htmlFull": "あっ、あそこに、だれかいるよ。<ruby data-lemma=\"小さな\" data-surface=\"小さな\">小<rt>ちい</rt></ruby>さな<ruby data-lemma=\"女の子\" data-surface=\"女の子\">女の子<rt>おんなのこ</rt></ruby>みたいだ。"
+    },
+    {
+      "id": "p03",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "きみ、こんなところで何してるの？ぼくたちもルビーを探してるんだ。",
+      "html": "きみ、こんなところで<span class=\"word\" data-lemma=\"何\" data-surface=\"何\" data-reading=\"なん\">何</span>してるの？ぼくたちもルビーを<span class=\"word\" data-lemma=\"探す\" data-surface=\"探し\" data-reading=\"さがし\">探し</span>てるんだ。",
+      "htmlFull": "きみ、こんなところで<ruby data-lemma=\"何\" data-surface=\"何\">何<rt>なん</rt></ruby>してるの？ぼくたちもルビーを<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>してるんだ。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "ミイ",
+      "text": "もちろん、あたしも探してるのよ！おまえたち、絶対ぜんぜん、遅いね。",
+      "html": "もちろん、あたしも<span class=\"word\" data-lemma=\"探す\" data-surface=\"探し\" data-reading=\"さがし\">探し</span>てるのよ！おまえたち、<ruby data-lemma=\"絶対\" data-surface=\"絶対\">絶対<rt>ぜったい</rt></ruby>ぜんぜん、<ruby data-lemma=\"遅い\" data-surface=\"遅い\">遅<rt>おそ</rt></ruby>いね。",
+      "htmlFull": "もちろん、あたしも<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>してるのよ！おまえたち、<ruby data-lemma=\"絶対\" data-surface=\"絶対\">絶対<rt>ぜったい</rt></ruby>ぜんぜん、<ruby data-lemma=\"遅い\" data-surface=\"遅い\">遅<rt>おそ</rt></ruby>いね。"
+    },
+    {
+      "id": "p05",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "そんなことないよ。絶対、ぼくが先にみつけるから！",
+      "html": "そんなことないよ。<ruby data-lemma=\"絶対\" data-surface=\"絶対\">絶対<rt>ぜったい</rt></ruby>、ぼくが<span class=\"word\" data-lemma=\"先\" data-surface=\"先\" data-reading=\"さき\">先</span>にみつけるから！",
+      "htmlFull": "そんなことないよ。<ruby data-lemma=\"絶対\" data-surface=\"絶対\">絶対<rt>ぜったい</rt></ruby>、ぼくが<ruby data-lemma=\"先\" data-surface=\"先\">先<rt>さき</rt></ruby>にみつけるから！"
+    },
+    {
+      "id": "p06",
+      "kind": "dialogue",
+      "speaker": "ミイ",
+      "text": "あっ、ルビーがあった！絶対、あたしのほうが、ずっと速かったじゃない！",
+      "html": "あっ、ルビーがあった！<ruby data-lemma=\"絶対\" data-surface=\"絶対\">絶対<rt>ぜったい</rt></ruby>、あたしのほうが、ずっと<span class=\"word\" data-lemma=\"早い\" data-surface=\"速かっ\" data-reading=\"はやかっ\">速かっ</span>たじゃない！",
+      "htmlFull": "あっ、ルビーがあった！<ruby data-lemma=\"絶対\" data-surface=\"絶対\">絶対<rt>ぜったい</rt></ruby>、あたしのほうが、ずっと<ruby data-lemma=\"早い\" data-surface=\"速かっ\">速<rt>はや</rt></ruby>かったじゃない！"
+    },
+    {
+      "id": "p07",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "えっ、本当に、きみがもうみつけたの？足、速いなあ。",
+      "html": "えっ、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に、きみがもうみつけたの？<span class=\"word\" data-lemma=\"足\" data-surface=\"足\" data-reading=\"あし\">足</span>、<span class=\"word\" data-lemma=\"早い\" data-surface=\"速い\" data-reading=\"はやい\">速い</span>なあ。",
+      "htmlFull": "えっ、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に、きみがもうみつけたの？<ruby data-lemma=\"足\" data-surface=\"足\">足<rt>あし</rt></ruby>、<ruby data-lemma=\"早い\" data-surface=\"速い\">速<rt>はや</rt></ruby>いなあ。"
+    },
+    {
+      "id": "p08",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "あの女の子、先にみつけちゃったね。",
+      "html": "あの<span class=\"word\" data-lemma=\"女の子\" data-surface=\"女の子\" data-reading=\"おんなのこ\">女の子</span>、<span class=\"word\" data-lemma=\"先\" data-surface=\"先\" data-reading=\"さき\">先</span>にみつけちゃったね。",
+      "htmlFull": "あの<ruby data-lemma=\"女の子\" data-surface=\"女の子\">女の子<rt>おんなのこ</rt></ruby>、<ruby data-lemma=\"先\" data-surface=\"先\">先<rt>さき</rt></ruby>にみつけちゃったね。"
+    },
+    {
+      "id": "p09",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "スナフキン、あの女の子、だれか知ってる？",
+      "html": "スナフキン、あの<span class=\"word\" data-lemma=\"女の子\" data-surface=\"女の子\" data-reading=\"おんなのこ\">女の子</span>、だれか<span class=\"word\" data-lemma=\"知る\" data-surface=\"知っ\" data-reading=\"しっ\">知っ</span>てる？",
+      "htmlFull": "スナフキン、あの<ruby data-lemma=\"女の子\" data-surface=\"女の子\">女の子<rt>おんなのこ</rt></ruby>、だれか<ruby data-lemma=\"知る\" data-surface=\"知っ\">知<rt>し</rt></ruby>ってる？"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "ああ、あの子はミイだよ。ミムラの一家の、いちばん小さい女の子なんだ。",
+      "html": "ああ、あの<span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>はミイだよ。ミムラの<span class=\"word\" data-lemma=\"一家\" data-surface=\"一家\" data-reading=\"いっか\">一家</span>の、いちばん<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"女の子\" data-surface=\"女の子\" data-reading=\"おんなのこ\">女の子</span>なんだ。",
+      "htmlFull": "ああ、あの<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>はミイだよ。ミムラの<ruby data-lemma=\"一家\" data-surface=\"一家\">一家<rt>いっか</rt></ruby>の、いちばん<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"女の子\" data-surface=\"女の子\">女の子<rt>おんなのこ</rt></ruby>なんだ。"
+    },
+    {
+      "id": "p11",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ミイは小さいけれど、足がとても速い子だ。ミムラの一家の末っ子で、いつも元気いっぱい。手には、大きくて赤いルビーを、ぎゅっと握りしめていた。",
+      "html": "ミイは<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>けれど、<span class=\"word\" data-lemma=\"足\" data-surface=\"足\" data-reading=\"あし\">足</span>がとても<span class=\"word\" data-lemma=\"早い\" data-surface=\"速い\" data-reading=\"はやい\">速い</span><span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>だ。ミムラの<span class=\"word\" data-lemma=\"一家\" data-surface=\"一家\" data-reading=\"いっか\">一家</span>の<ruby data-lemma=\"末っ子\" data-surface=\"末っ子\">末っ子<rt>すえっこ</rt></ruby>で、いつも<span class=\"word\" data-lemma=\"元気\" data-surface=\"元気\" data-reading=\"げんき\">元気</span>いっぱい。<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>には、<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きく\" data-reading=\"おおきく\">大きく</span>て<span class=\"word\" data-lemma=\"赤い\" data-surface=\"赤い\" data-reading=\"あかい\">赤い</span>ルビーを、ぎゅっと<ruby data-lemma=\"握り締める\" data-surface=\"握りしめ\">握<rt>にぎ</rt></ruby>りしめていた。",
+      "htmlFull": "ミイは<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいけれど、<ruby data-lemma=\"足\" data-surface=\"足\">足<rt>あし</rt></ruby>がとても<ruby data-lemma=\"早い\" data-surface=\"速い\">速<rt>はや</rt></ruby>い<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>だ。ミムラの<ruby data-lemma=\"一家\" data-surface=\"一家\">一家<rt>いっか</rt></ruby>の<ruby data-lemma=\"末っ子\" data-surface=\"末っ子\">末っ子<rt>すえっこ</rt></ruby>で、いつも<ruby data-lemma=\"元気\" data-surface=\"元気\">元気<rt>げんき</rt></ruby>いっぱい。<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>には、<ruby data-lemma=\"大きい\" data-surface=\"大きく\">大<rt>おお</rt></ruby>きくて<ruby data-lemma=\"赤い\" data-surface=\"赤い\">赤<rt>あか</rt></ruby>いルビーを、ぎゅっと<ruby data-lemma=\"握り締める\" data-surface=\"握りしめ\">握<rt>にぎ</rt></ruby>りしめていた。"
+    },
+    {
+      "id": "p12",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ミイって、ミムラの一家の子なんだね。ぼくの一家とミムラの一家、みんなが仲良くできるといいな。",
+      "html": "ミイって、ミムラの<span class=\"word\" data-lemma=\"一家\" data-surface=\"一家\" data-reading=\"いっか\">一家</span>の<span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>なんだね。ぼくの<span class=\"word\" data-lemma=\"一家\" data-surface=\"一家\" data-reading=\"いっか\">一家</span>とミムラの<span class=\"word\" data-lemma=\"一家\" data-surface=\"一家\" data-reading=\"いっか\">一家</span>、みんなが<ruby data-lemma=\"仲良く\" data-surface=\"仲良く\">仲良<rt>なかよ</rt></ruby>くできるといいな。",
+      "htmlFull": "ミイって、ミムラの<ruby data-lemma=\"一家\" data-surface=\"一家\">一家<rt>いっか</rt></ruby>の<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>なんだね。ぼくの<ruby data-lemma=\"一家\" data-surface=\"一家\">一家<rt>いっか</rt></ruby>とミムラの<ruby data-lemma=\"一家\" data-surface=\"一家\">一家<rt>いっか</rt></ruby>、みんなが<ruby data-lemma=\"仲良く\" data-surface=\"仲良く\">仲良<rt>なかよ</rt></ruby>くできるといいな。"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "ミイ",
+      "text": "もちろん、みんな知ってるわよ。ミムラは、あたしのおねえさんだもの。",
+      "html": "もちろん、みんな<span class=\"word\" data-lemma=\"知る\" data-surface=\"知っ\" data-reading=\"しっ\">知っ</span>てるわよ。ミムラは、あたしのおねえさんだもの。",
+      "htmlFull": "もちろん、みんな<ruby data-lemma=\"知る\" data-surface=\"知っ\">知<rt>し</rt></ruby>ってるわよ。ミムラは、あたしのおねえさんだもの。"
+    },
+    {
+      "id": "p14",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "あっ、見て！あそこにも、もう一つルビーがありそうだよ。",
+      "html": "あっ、<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>て！あそこにも、もう<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"ひと\">一</span>つルビーがありそうだよ。",
+      "htmlFull": "あっ、<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>て！あそこにも、もう<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>ひと</rt></ruby>つルビーがありそうだよ。"
+    },
+    {
+      "id": "p15",
+      "kind": "dialogue",
+      "speaker": "ミイ",
+      "text": "もちろん、一つだけじゃないわよ。",
+      "html": "もちろん、<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"ひと\">一</span>つだけじゃないわよ。",
+      "htmlFull": "もちろん、<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>ひと</rt></ruby>つだけじゃないわよ。"
+    },
+    {
+      "id": "p16",
+      "kind": "narration",
+      "speaker": null,
+      "text": "その日、ミイとムーミンとスナフキンの三人は、いっしょに山の中を歩いて、小さな赤いルビーをもう一つ見つけた。ミムラの一家もムーミンの一家も、みんなこの山が好きだった。",
+      "html": "その<span class=\"word\" data-lemma=\"日\" data-surface=\"日\" data-reading=\"ひ\">日</span>、ミイとムーミンとスナフキンの<span class=\"word\" data-lemma=\"三\" data-surface=\"三\" data-reading=\"さん\">三</span><span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"にん\">人</span>は、いっしょに<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>を<span class=\"word\" data-lemma=\"歩く\" data-surface=\"歩い\" data-reading=\"あるい\">歩い</span>て、<span class=\"word\" data-lemma=\"小さな\" data-surface=\"小さな\" data-reading=\"ちいさな\">小さな</span><span class=\"word\" data-lemma=\"赤い\" data-surface=\"赤い\" data-reading=\"あかい\">赤い</span>ルビーをもう<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"ひと\">一</span>つ<span class=\"word\" data-lemma=\"見付ける\" data-surface=\"見つけ\" data-reading=\"みつけ\">見つけ</span>た。ミムラの<span class=\"word\" data-lemma=\"一家\" data-surface=\"一家\" data-reading=\"いっか\">一家</span>もムーミンの<span class=\"word\" data-lemma=\"一家\" data-surface=\"一家\" data-reading=\"いっか\">一家</span>も、みんなこの<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>が<ruby data-lemma=\"好き\" data-surface=\"好き\">好<rt>す</rt></ruby>きだった。",
+      "htmlFull": "その<ruby data-lemma=\"日\" data-surface=\"日\">日<rt>ひ</rt></ruby>、ミイとムーミンとスナフキンの<ruby data-lemma=\"三\" data-surface=\"三\">三<rt>さん</rt></ruby><ruby data-lemma=\"人\" data-surface=\"人\">人<rt>にん</rt></ruby>は、いっしょに<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>を<ruby data-lemma=\"歩く\" data-surface=\"歩い\">歩<rt>ある</rt></ruby>いて、<ruby data-lemma=\"小さな\" data-surface=\"小さな\">小<rt>ちい</rt></ruby>さな<ruby data-lemma=\"赤い\" data-surface=\"赤い\">赤<rt>あか</rt></ruby>いルビーをもう<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>ひと</rt></ruby>つ<ruby data-lemma=\"見付ける\" data-surface=\"見つけ\">見<rt>み</rt></ruby>つけた。ミムラの<ruby data-lemma=\"一家\" data-surface=\"一家\">一家<rt>いっか</rt></ruby>もムーミンの<ruby data-lemma=\"一家\" data-surface=\"一家\">一家<rt>いっか</rt></ruby>も、みんなこの<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>が<ruby data-lemma=\"好き\" data-surface=\"好き\">好<rt>す</rt></ruby>きだった。"
+    },
+    {
+      "id": "p17",
+      "kind": "narration",
+      "speaker": null,
+      "text": "三人は、ルビーを片手に、ゆっくりと山を降りていった。本当に、いい一日だった。",
+      "html": "<span class=\"word\" data-lemma=\"三\" data-surface=\"三\" data-reading=\"さん\">三</span><span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"にん\">人</span>は、ルビーを<ruby data-lemma=\"片手\" data-surface=\"片手\">片手<rt>かたて</rt></ruby>に、ゆっくりと<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>を<ruby data-lemma=\"下りる\" data-surface=\"降り\">降<rt>お</rt></ruby>りていった。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に、いい<span class=\"word\" data-lemma=\"一日\" data-surface=\"一日\" data-reading=\"ついたち\">一日</span>だった。",
+      "htmlFull": "<ruby data-lemma=\"三\" data-surface=\"三\">三<rt>さん</rt></ruby><ruby data-lemma=\"人\" data-surface=\"人\">人<rt>にん</rt></ruby>は、ルビーを<ruby data-lemma=\"片手\" data-surface=\"片手\">片手<rt>かたて</rt></ruby>に、ゆっくりと<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>を<ruby data-lemma=\"下りる\" data-surface=\"降り\">降<rt>お</rt></ruby>りていった。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に、いい<ruby data-lemma=\"一日\" data-surface=\"一日\">一日<rt>ついたち</rt></ruby>だった。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "絶対",
+      "reading": "ぜったい",
+      "gloss": "absolutely, definitely (na-adjective / adverb)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "子",
+      "reading": "こ",
+      "gloss": "child (as suffix: おんなの子 = 'girl', おとこの子 = 'boy')",
+      "tier": "focus"
+    },
+    {
+      "lemma": "いっか",
+      "reading": "いっか",
+      "gloss": "family, household (UniDic 一家 → learner hiragana いっか)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "ルビー",
+      "reading": "ルビー",
+      "gloss": "ruby (the gemstone)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "女",
+      "reading": "おんな",
+      "gloss": "woman, female",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [
+    {
+      "lemma": "あっ",
+      "reading": "あっ",
+      "gloss": "ah! (sudden-realization interjection)",
+      "tier": "stretch"
+    }
+  ],
+  "glossary": [
+    {
+      "lemma": "絶対",
+      "reading": "ぜったい",
+      "gloss": "absolutely, definitely (na-adj / adverb)",
+      "tier": "focus",
+      "first": "ch13"
+    },
+    {
+      "lemma": "子",
+      "reading": "こ",
+      "gloss": "child; suffix: おんなの子 = 'girl', おとこの子 = 'boy'",
+      "tier": "focus",
+      "first": "ch13"
+    },
+    {
+      "lemma": "いっか",
+      "reading": "いっか",
+      "gloss": "family, household (UniDic 一家)",
+      "tier": "focus",
+      "first": "ch13"
+    },
+    {
+      "lemma": "ルビー",
+      "reading": "ルビー",
+      "gloss": "ruby",
+      "tier": "focus",
+      "first": "ch13"
+    },
+    {
+      "lemma": "女",
+      "reading": "おんな",
+      "gloss": "woman, female",
+      "tier": "focus",
+      "first": "ch13"
+    },
+    {
+      "lemma": "あっ",
+      "reading": "あっ",
+      "gloss": "ah! (sudden-realization interjection)",
+      "tier": "stretch",
+      "first": "ch13"
+    }
+  ],
+  "grammarNotes": [
+    "Adj-い + N (prenominal) — basic i-adjective modification. 速い子 = \"a fast child\"; 小さいルビー = \"a small ruby\"; 赤いルビー = \"a red ruby.\"",
+    "Adj-な + N — na-adjective modification uses the particle な. きれいなルビー = \"a pretty ruby\"; 絶対なこと = \"a certain thing.\"",
+    "女の子 literally \"female's child\" → \"girl.\" Parallel with おとこの子 \"boy.\" The suffix 子 attaches very freely — いい子 \"good kid,\" 速い子 \"fast kid.\"",
+    "Little My's register — she says おまえ to peers (where Moomintroll would say きみ or name+さん); she opens with もちろん before anyone asks if she'll help; she never softens with ね or ですね. Her voice is her grammar.",
+    "ルビー in katakana — loanword from English. Loanwords are always in katakana in Moomin prose."
+  ],
+  "illustration": {
+    "scene_note": "Rocky slope at the base of a mountain. Grass, stones, one wild flower. Moomintroll and Snufkin examine the ground; Little My (tiny child with red hair in a topknot) holds up a red ruby triumphantly; she has found it first. Sky is clear, sun bright.",
+    "panel_count": 4,
+    "image_prompt": "Medium shot of a sunny rocky slope at the foot of a mountain. Scattered grass, stones, one wildflower. ミイ stands at center on a small rock, both small hands raised triumphantly, cupping a large red gemstone between them. ムーミン crouches at left peering at the ground, empty-handed. スナフキン stands at right, watching calmly. Clear blue sky, bright midday sun. Tove Jansson hand-drawn Moomin illustration style, 16:9, warm summer palette with the red stone glowing, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

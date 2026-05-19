@@ -1,0 +1,5 @@
+# Resume-state files from the Gemini batch jobs (written by tools/generate_audio.py
+# and tools/generate_images.py into dist/{audio,images}/). They aren't part of
+# the served site; gitignored so they never accidentally land in the deploy.
+dist/audio/.batch-state-*.json
+dist/images/.batch-state-*.json

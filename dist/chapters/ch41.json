@@ -1,0 +1,339 @@
+{
+  "chapter": 41,
+  "title": "色の嘘",
+  "arc": "E",
+  "arcPosition": "5/9",
+  "arcLabel": "Arc E — The Return",
+  "grammarStep": 24,
+  "grammarName": "Concessive: 〜のに (counter-expectation)",
+  "grammarPatterns": [
+    "V/Adj + のに (even though, despite)",
+    "〜なのに (despite being N)",
+    "信じる / 信じられない",
+    "X のせいで (because of X; negative causation)"
+  ],
+  "lengthTarget": [
+    980,
+    1470
+  ],
+  "register": "N4 + N3 flavor",
+  "plotSummary": "Evening inside the Moomin house. Something has happened. A small ceramic bowl from Moominmamma's collection is broken on the floor. Sniff is hiding behind a chair. Moomintroll knows it was Sniff — but Sniff says it wasn't. Snufkin watches quietly. Little My says the truth. Moominmamma, returning, doesn't scold — she says the real question is why Sniff lied. The chapter teaches concessive 〜のに.",
+  "proper_nouns": [
+    "ムーミン",
+    "ママ",
+    "スナフキン",
+    "スニフ",
+    "ミイ"
+  ],
+  "scene": {
+    "location": "ムーミンやしきの中（夜）",
+    "beat": "Inside the house at night. Colors, a lie, something hidden. 〜のに — 'even though I believed you...'. The first real emotional break.",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "スナフキン",
+      "スニフ",
+      "ミイ"
+    ],
+    "mentioned": [
+      "ママ"
+    ],
+    "motifs": [
+      "家",
+      "夜"
+    ]
+  },
+  "continuity": {
+    "from": "ch40 (the bullying at the woodpile)",
+    "to": "ch42 (the storm entrance)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "narration",
+      "speaker": null,
+      "text": "夕方、ママが出掛けたあとだった。居間のまんなかにママの大事な青いちゃわんが、こわれて落ちていた。ちゃわんのきれいな色が、こなごなにゆかにちらばっている。",
+      "html": "<span class=\"word\" data-lemma=\"夕方\" data-surface=\"夕方\" data-reading=\"ゆうがた\">夕方</span>、ママが<ruby data-lemma=\"出掛ける\" data-surface=\"出掛け\">出掛<rt>でか</rt></ruby>けたあとだった。<ruby data-lemma=\"居間\" data-surface=\"居間\">居間<rt>いま</rt></ruby>のまんなかにママの<span class=\"word\" data-lemma=\"大事\" data-surface=\"大事\" data-reading=\"だいじ\">大事</span>な<span class=\"word\" data-lemma=\"青い\" data-surface=\"青い\" data-reading=\"あおい\">青い</span>ちゃわんが、こわれて<span class=\"word\" data-lemma=\"落ちる\" data-surface=\"落ち\" data-reading=\"おち\">落ち</span>ていた。ちゃわんのきれいな<span class=\"word\" data-lemma=\"色\" data-surface=\"色\" data-reading=\"いろ\">色</span>が、こなごなにゆかにちらばっている。",
+      "htmlFull": "<ruby data-lemma=\"夕方\" data-surface=\"夕方\">夕方<rt>ゆうがた</rt></ruby>、ママが<ruby data-lemma=\"出掛ける\" data-surface=\"出掛け\">出掛<rt>でか</rt></ruby>けたあとだった。<ruby data-lemma=\"居間\" data-surface=\"居間\">居間<rt>いま</rt></ruby>のまんなかにママの<ruby data-lemma=\"大事\" data-surface=\"大事\">大事<rt>だいじ</rt></ruby>な<ruby data-lemma=\"青い\" data-surface=\"青い\">青<rt>あお</rt></ruby>いちゃわんが、こわれて<ruby data-lemma=\"落ちる\" data-surface=\"落ち\">落<rt>お</rt></ruby>ちていた。ちゃわんのきれいな<ruby data-lemma=\"色\" data-surface=\"色\">色<rt>いろ</rt></ruby>が、こなごなにゆかにちらばっている。"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "大変だ！ママのちゃわんがこわれた！",
+      "html": "<span class=\"word\" data-lemma=\"大変\" data-surface=\"大変\" data-reading=\"たいへん\">大変</span>だ！ママのちゃわんがこわれた！",
+      "htmlFull": "<ruby data-lemma=\"大変\" data-surface=\"大変\">大変<rt>たいへん</rt></ruby>だ！ママのちゃわんがこわれた！"
+    },
+    {
+      "id": "p03",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ちゃわんのそばにスニフが立っていた。スニフの手がすこしふるえている。スニフは目をあわせない。",
+      "html": "ちゃわんのそばにスニフが<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>ていた。スニフの<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>がすこしふるえている。スニフは<span class=\"word\" data-lemma=\"目\" data-surface=\"目\" data-reading=\"め\">目</span>をあわせない。",
+      "htmlFull": "ちゃわんのそばにスニフが<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>っていた。スニフの<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>がすこしふるえている。スニフは<ruby data-lemma=\"目\" data-surface=\"目\">目<rt>め</rt></ruby>をあわせない。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "スニフ、ねえ、きみがこわしたの？",
+      "html": "スニフ、ねえ、きみがこわしたの？",
+      "htmlFull": "スニフ、ねえ、きみがこわしたの？"
+    },
+    {
+      "id": "p05",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "ぼく？ぼくはこわしてないよ。さっき入ったら、もうこうなっていたんだ。",
+      "html": "ぼく？ぼくはこわしてないよ。さっき<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>たら、もうこうなっていたんだ。",
+      "htmlFull": "ぼく？ぼくはこわしてないよ。さっき<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>ったら、もうこうなっていたんだ。"
+    },
+    {
+      "id": "p06",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンはスニフを見た。ムーミンはスニフを信じたい。でも、信じられない。",
+      "html": "ムーミンはスニフを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。ムーミンはスニフを<span class=\"word\" data-lemma=\"信ずる\" data-surface=\"信じ\" data-reading=\"しんじ\">信じ</span>たい。でも、<span class=\"word\" data-lemma=\"信ずる\" data-surface=\"信じ\" data-reading=\"しんじ\">信じ</span>られない。",
+      "htmlFull": "ムーミンはスニフを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。ムーミンはスニフを<ruby data-lemma=\"信ずる\" data-surface=\"信じ\">信<rt>しん</rt></ruby>じたい。でも、<ruby data-lemma=\"信ずる\" data-surface=\"信じ\">信<rt>しん</rt></ruby>じられない。"
+    },
+    {
+      "id": "p07",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "スニフ、本当のことをいってごらん。",
+      "html": "スニフ、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>のことをいってごらん。",
+      "htmlFull": "スニフ、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>のことをいってごらん。"
+    },
+    {
+      "id": "p08",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "ぼくじゃないって！ぼく、ちゃんと信じてくれないんだね。",
+      "html": "ぼくじゃないって！ぼく、ちゃんと<span class=\"word\" data-lemma=\"信ずる\" data-surface=\"信じ\" data-reading=\"しんじ\">信じ</span>てくれないんだね。",
+      "htmlFull": "ぼくじゃないって！ぼく、ちゃんと<ruby data-lemma=\"信ずる\" data-surface=\"信じ\">信<rt>しん</rt></ruby>じてくれないんだね。"
+    },
+    {
+      "id": "p09",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ドアからミイが入ってきた。ミイはあかい顔でスニフをじろっと見た。",
+      "html": "ドアからミイが<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>てきた。ミイはあかい<span class=\"word\" data-lemma=\"顔\" data-surface=\"顔\" data-reading=\"かお\">顔</span>でスニフをじろっと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。",
+      "htmlFull": "ドアからミイが<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>ってきた。ミイはあかい<ruby data-lemma=\"顔\" data-surface=\"顔\">顔<rt>かお</rt></ruby>でスニフをじろっと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "ミイ",
+      "text": "スニフ、あんた、本当はわかってるでしょ？あんたがこわしたのよ。あたし、見てた。",
+      "html": "スニフ、あんた、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>はわかってるでしょ？あんたがこわしたのよ。あたし、<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>てた。",
+      "htmlFull": "スニフ、あんた、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>はわかってるでしょ？あんたがこわしたのよ。あたし、<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>てた。"
+    },
+    {
+      "id": "p11",
+      "kind": "narration",
+      "speaker": null,
+      "text": "スニフはだまった。ムーミンは大変なさびしい気持ちで、スニフを見た。信じていたのに、スニフは嘘をついていた。",
+      "html": "スニフはだまった。ムーミンは<span class=\"word\" data-lemma=\"大変\" data-surface=\"大変\" data-reading=\"たいへん\">大変</span>なさびしい<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>で、スニフを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。<span class=\"word\" data-lemma=\"信ずる\" data-surface=\"信じ\" data-reading=\"しんじ\">信じ</span>ていたのに、スニフは<ruby data-lemma=\"嘘\" data-surface=\"嘘\">嘘<rt>うそ</rt></ruby>をついていた。",
+      "htmlFull": "スニフはだまった。ムーミンは<ruby data-lemma=\"大変\" data-surface=\"大変\">大変<rt>たいへん</rt></ruby>なさびしい<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちで、スニフを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。<ruby data-lemma=\"信ずる\" data-surface=\"信じ\">信<rt>しん</rt></ruby>じていたのに、スニフは<ruby data-lemma=\"嘘\" data-surface=\"嘘\">嘘<rt>うそ</rt></ruby>をついていた。"
+    },
+    {
+      "id": "p12",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "スニフ、なんで嘘をついたの？ぼくたち、友達なのに。",
+      "html": "スニフ、なんで<ruby data-lemma=\"嘘\" data-surface=\"嘘\">嘘<rt>うそ</rt></ruby>をついたの？ぼくたち、<span class=\"word\" data-lemma=\"友達\" data-surface=\"友達\" data-reading=\"ともだち\">友達</span>なのに。",
+      "htmlFull": "スニフ、なんで<ruby data-lemma=\"嘘\" data-surface=\"嘘\">嘘<rt>うそ</rt></ruby>をついたの？ぼくたち、<ruby data-lemma=\"友達\" data-surface=\"友達\">友達<rt>ともだち</rt></ruby>なのに。"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "…こわかったんだ。ママにおこられるのが、こわかった。だから、嘘をついてしまった。",
+      "html": "…こわかったんだ。ママにおこられるのが、こわかった。だから、<ruby data-lemma=\"嘘\" data-surface=\"嘘\">嘘<rt>うそ</rt></ruby>をついてしまった。",
+      "htmlFull": "…こわかったんだ。ママにおこられるのが、こわかった。だから、<ruby data-lemma=\"嘘\" data-surface=\"嘘\">嘘<rt>うそ</rt></ruby>をついてしまった。"
+    },
+    {
+      "id": "p14",
+      "kind": "narration",
+      "speaker": null,
+      "text": "そのとき、玄関があいた。ママが出掛けから戻ってきた。ママはこわれたちゃわんを見た。スニフの顔を見た。ムーミンの顔も見た。ママの目は、やさしいのにかなしい。",
+      "html": "そのとき、<ruby data-lemma=\"玄関\" data-surface=\"玄関\">玄関<rt>げんかん</rt></ruby>があいた。ママが<ruby data-lemma=\"出掛ける\" data-surface=\"出掛け\">出掛<rt>でか</rt></ruby>けから<span class=\"word\" data-lemma=\"戻る\" data-surface=\"戻っ\" data-reading=\"もどっ\">戻っ</span>てきた。ママはこわれたちゃわんを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。スニフの<span class=\"word\" data-lemma=\"顔\" data-surface=\"顔\" data-reading=\"かお\">顔</span>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。ムーミンの<span class=\"word\" data-lemma=\"顔\" data-surface=\"顔\" data-reading=\"かお\">顔</span>も<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。ママの<span class=\"word\" data-lemma=\"目\" data-surface=\"目\" data-reading=\"め\">目</span>は、やさしいのにかなしい。",
+      "htmlFull": "そのとき、<ruby data-lemma=\"玄関\" data-surface=\"玄関\">玄関<rt>げんかん</rt></ruby>があいた。ママが<ruby data-lemma=\"出掛ける\" data-surface=\"出掛け\">出掛<rt>でか</rt></ruby>けから<ruby data-lemma=\"戻る\" data-surface=\"戻っ\">戻<rt>もど</rt></ruby>ってきた。ママはこわれたちゃわんを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。スニフの<ruby data-lemma=\"顔\" data-surface=\"顔\">顔<rt>かお</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。ムーミンの<ruby data-lemma=\"顔\" data-surface=\"顔\">顔<rt>かお</rt></ruby>も<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。ママの<ruby data-lemma=\"目\" data-surface=\"目\">目<rt>め</rt></ruby>は、やさしいのにかなしい。"
+    },
+    {
+      "id": "p15",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "あら、ちゃわんがこわれたのね。",
+      "html": "あら、ちゃわんがこわれたのね。",
+      "htmlFull": "あら、ちゃわんがこわれたのね。"
+    },
+    {
+      "id": "p16",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "ママ、ごめんなさい。ぼくがこわしたんです。嘘をついて、ごめんなさい。",
+      "html": "ママ、ごめんなさい。ぼくがこわしたんです。<ruby data-lemma=\"嘘\" data-surface=\"嘘\">嘘<rt>うそ</rt></ruby>をついて、ごめんなさい。",
+      "htmlFull": "ママ、ごめんなさい。ぼくがこわしたんです。<ruby data-lemma=\"嘘\" data-surface=\"嘘\">嘘<rt>うそ</rt></ruby>をついて、ごめんなさい。"
+    },
+    {
+      "id": "p17",
+      "kind": "narration",
+      "speaker": null,
+      "text": "スニフは泣いた。ちゃわんの青い色がゆかにまだちらばっていた。ママはゆっくりとスニフのそばにしゃがんだ。",
+      "html": "スニフは<span class=\"word\" data-lemma=\"泣く\" data-surface=\"泣い\" data-reading=\"ない\">泣い</span>た。ちゃわんの<span class=\"word\" data-lemma=\"青い\" data-surface=\"青い\" data-reading=\"あおい\">青い</span><span class=\"word\" data-lemma=\"色\" data-surface=\"色\" data-reading=\"いろ\">色</span>がゆかにまだちらばっていた。ママはゆっくりとスニフのそばにしゃがんだ。",
+      "htmlFull": "スニフは<ruby data-lemma=\"泣く\" data-surface=\"泣い\">泣<rt>な</rt></ruby>いた。ちゃわんの<ruby data-lemma=\"青い\" data-surface=\"青い\">青<rt>あお</rt></ruby>い<ruby data-lemma=\"色\" data-surface=\"色\">色<rt>いろ</rt></ruby>がゆかにまだちらばっていた。ママはゆっくりとスニフのそばにしゃがんだ。"
+    },
+    {
+      "id": "p18",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "ちゃわんがこわれたのは大変だけど、なおせないものじゃない。でも、嘘はこわれた友達の心をなおすのがむずかしいの。ムーミンにごめんなさい、もう一度いってね。",
+      "html": "ちゃわんがこわれたのは<span class=\"word\" data-lemma=\"大変\" data-surface=\"大変\" data-reading=\"たいへん\">大変</span>だけど、なおせないものじゃない。でも、<ruby data-lemma=\"嘘\" data-surface=\"嘘\">嘘<rt>うそ</rt></ruby>はこわれた<span class=\"word\" data-lemma=\"友達\" data-surface=\"友達\" data-reading=\"ともだち\">友達</span>の<span class=\"word\" data-lemma=\"心\" data-surface=\"心\" data-reading=\"こころ\">心</span>をなおすのがむずかしいの。ムーミンにごめんなさい、もう<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いち\">一</span><span class=\"word\" data-lemma=\"度\" data-surface=\"度\" data-reading=\"ど\">度</span>いってね。",
+      "htmlFull": "ちゃわんがこわれたのは<ruby data-lemma=\"大変\" data-surface=\"大変\">大変<rt>たいへん</rt></ruby>だけど、なおせないものじゃない。でも、<ruby data-lemma=\"嘘\" data-surface=\"嘘\">嘘<rt>うそ</rt></ruby>はこわれた<ruby data-lemma=\"友達\" data-surface=\"友達\">友達<rt>ともだち</rt></ruby>の<ruby data-lemma=\"心\" data-surface=\"心\">心<rt>こころ</rt></ruby>をなおすのがむずかしいの。ムーミンにごめんなさい、もう<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いち</rt></ruby><ruby data-lemma=\"度\" data-surface=\"度\">度<rt>ど</rt></ruby>いってね。"
+    },
+    {
+      "id": "p19",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "ムーミン、ごめんなさい。信じてくれたのに嘘をついて、ごめん。",
+      "html": "ムーミン、ごめんなさい。<span class=\"word\" data-lemma=\"信ずる\" data-surface=\"信じ\" data-reading=\"しんじ\">信じ</span>てくれたのに<ruby data-lemma=\"嘘\" data-surface=\"嘘\">嘘<rt>うそ</rt></ruby>をついて、ごめん。",
+      "htmlFull": "ムーミン、ごめんなさい。<ruby data-lemma=\"信ずる\" data-surface=\"信じ\">信<rt>しん</rt></ruby>じてくれたのに<ruby data-lemma=\"嘘\" data-surface=\"嘘\">嘘<rt>うそ</rt></ruby>をついて、ごめん。"
+    },
+    {
+      "id": "p20",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "うん。ぼくもちょっとさびしかった。でも、今、本当のことをいってくれたから大丈夫。",
+      "html": "うん。ぼくもちょっとさびしかった。でも、<span class=\"word\" data-lemma=\"今\" data-surface=\"今\" data-reading=\"いま\">今</span>、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>のことをいってくれたから<span class=\"word\" data-lemma=\"大丈夫\" data-surface=\"大丈夫\" data-reading=\"だいじょうぶ\">大丈夫</span>。",
+      "htmlFull": "うん。ぼくもちょっとさびしかった。でも、<ruby data-lemma=\"今\" data-surface=\"今\">今<rt>いま</rt></ruby>、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>のことをいってくれたから<ruby data-lemma=\"大丈夫\" data-surface=\"大丈夫\">大丈夫<rt>だいじょうぶ</rt></ruby>。"
+    },
+    {
+      "id": "p21",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ミイはすこしうれしそうだった。スナフキンはしずかにうなずいた。ムーミンはこわれたちゃわんのひとつひとつを、ゆっくりひろった。",
+      "html": "ミイはすこしうれしそうだった。スナフキンはしずかにうなずいた。ムーミンはこわれたちゃわんのひとつひとつを、ゆっくりひろった。",
+      "htmlFull": "ミイはすこしうれしそうだった。スナフキンはしずかにうなずいた。ムーミンはこわれたちゃわんのひとつひとつを、ゆっくりひろった。"
+    },
+    {
+      "id": "p22",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "これ、ぼくがのりでくっつけてみる。こわれたのに、きれいな色はまだある。",
+      "html": "これ、ぼくがのりでくっつけてみる。こわれたのに、きれいな<span class=\"word\" data-lemma=\"色\" data-surface=\"色\" data-reading=\"いろ\">色</span>はまだある。",
+      "htmlFull": "これ、ぼくがのりでくっつけてみる。こわれたのに、きれいな<ruby data-lemma=\"色\" data-surface=\"色\">色<rt>いろ</rt></ruby>はまだある。"
+    },
+    {
+      "id": "p23",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "ありがとう、ムーミン。くっつけた色のちゃわん、きっといままでよりたいせつになるわ。",
+      "html": "ありがとう、ムーミン。くっつけた<span class=\"word\" data-lemma=\"色\" data-surface=\"色\" data-reading=\"いろ\">色</span>のちゃわん、きっといままでよりたいせつになるわ。",
+      "htmlFull": "ありがとう、ムーミン。くっつけた<ruby data-lemma=\"色\" data-surface=\"色\">色<rt>いろ</rt></ruby>のちゃわん、きっといままでよりたいせつになるわ。"
+    },
+    {
+      "id": "p24",
+      "kind": "narration",
+      "speaker": null,
+      "text": "その夜、ムーミンはのりでちゃわんをくっつけた。ちゃわんはぜんぶもとどおりにはならなかったのに、きれいに戻った。青い色と、小さな白いすきま。新しいちゃわんだ、とムーミンは思った。信じていたのに嘘をつかれた心も、いつかくっつく。きっとくっつく。明日、みんなでまた出掛けよう。みんなちゃんと、いっしょに出掛けよう。",
+      "html": "その<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>、ムーミンはのりでちゃわんをくっつけた。ちゃわんはぜんぶもとどおりにはならなかったのに、きれいに<span class=\"word\" data-lemma=\"戻る\" data-surface=\"戻っ\" data-reading=\"もどっ\">戻っ</span>た。<span class=\"word\" data-lemma=\"青い\" data-surface=\"青い\" data-reading=\"あおい\">青い</span><span class=\"word\" data-lemma=\"色\" data-surface=\"色\" data-reading=\"いろ\">色</span>と、<span class=\"word\" data-lemma=\"小さな\" data-surface=\"小さな\" data-reading=\"ちいさな\">小さな</span><span class=\"word\" data-lemma=\"白い\" data-surface=\"白い\" data-reading=\"しろい\">白い</span>すきま。<span class=\"word\" data-lemma=\"新しい\" data-surface=\"新しい\" data-reading=\"あたらしい\">新しい</span>ちゃわんだ、とムーミンは<span class=\"word\" data-lemma=\"思う\" data-surface=\"思っ\" data-reading=\"おもっ\">思っ</span>た。<span class=\"word\" data-lemma=\"信ずる\" data-surface=\"信じ\" data-reading=\"しんじ\">信じ</span>ていたのに<ruby data-lemma=\"嘘\" data-surface=\"嘘\">嘘<rt>うそ</rt></ruby>をつかれた<span class=\"word\" data-lemma=\"心\" data-surface=\"心\" data-reading=\"こころ\">心</span>も、いつかくっつく。きっとくっつく。<span class=\"word\" data-lemma=\"明日\" data-surface=\"明日\" data-reading=\"あす\">明日</span>、みんなでまた<ruby data-lemma=\"出掛ける\" data-surface=\"出掛けよう\">出掛<rt>でか</rt></ruby>けよう。みんなちゃんと、いっしょに<ruby data-lemma=\"出掛ける\" data-surface=\"出掛けよう\">出掛<rt>でか</rt></ruby>けよう。",
+      "htmlFull": "その<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>、ムーミンはのりでちゃわんをくっつけた。ちゃわんはぜんぶもとどおりにはならなかったのに、きれいに<ruby data-lemma=\"戻る\" data-surface=\"戻っ\">戻<rt>もど</rt></ruby>った。<ruby data-lemma=\"青い\" data-surface=\"青い\">青<rt>あお</rt></ruby>い<ruby data-lemma=\"色\" data-surface=\"色\">色<rt>いろ</rt></ruby>と、<ruby data-lemma=\"小さな\" data-surface=\"小さな\">小<rt>ちい</rt></ruby>さな<ruby data-lemma=\"白い\" data-surface=\"白い\">白<rt>しろ</rt></ruby>いすきま。<ruby data-lemma=\"新しい\" data-surface=\"新しい\">新<rt>あたら</rt></ruby>しいちゃわんだ、とムーミンは<ruby data-lemma=\"思う\" data-surface=\"思っ\">思<rt>おも</rt></ruby>った。<ruby data-lemma=\"信ずる\" data-surface=\"信じ\">信<rt>しん</rt></ruby>じていたのに<ruby data-lemma=\"嘘\" data-surface=\"嘘\">嘘<rt>うそ</rt></ruby>をつかれた<ruby data-lemma=\"心\" data-surface=\"心\">心<rt>こころ</rt></ruby>も、いつかくっつく。きっとくっつく。<ruby data-lemma=\"明日\" data-surface=\"明日\">明日<rt>あす</rt></ruby>、みんなでまた<ruby data-lemma=\"出掛ける\" data-surface=\"出掛けよう\">出掛<rt>でか</rt></ruby>けよう。みんなちゃんと、いっしょに<ruby data-lemma=\"出掛ける\" data-surface=\"出掛けよう\">出掛<rt>でか</rt></ruby>けよう。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "色",
+      "reading": "いろ",
+      "gloss": "color",
+      "tier": "focus"
+    },
+    {
+      "lemma": "大変",
+      "reading": "たいへん",
+      "gloss": "serious; awful (na-adj / adverb)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "こわす",
+      "reading": "こわす",
+      "gloss": "to break (transitive) (UniDic 壊す)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "信じる",
+      "reading": "しんじる",
+      "gloss": "to believe",
+      "tier": "focus"
+    },
+    {
+      "lemma": "出掛ける",
+      "reading": "でかける",
+      "gloss": "to go out",
+      "tier": "focus"
+    },
+    {
+      "lemma": "嘘",
+      "reading": "うそ",
+      "gloss": "lie, falsehood",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [],
+  "glossary": [
+    {
+      "lemma": "色",
+      "reading": "いろ",
+      "gloss": "color",
+      "tier": "focus",
+      "first": "ch41"
+    },
+    {
+      "lemma": "大変",
+      "reading": "たいへん",
+      "gloss": "serious, awful",
+      "tier": "focus",
+      "first": "ch41"
+    },
+    {
+      "lemma": "こわす",
+      "reading": "こわす",
+      "gloss": "to break (transitive)",
+      "tier": "focus",
+      "first": "ch41"
+    },
+    {
+      "lemma": "信じる",
+      "reading": "しんじる",
+      "gloss": "to believe",
+      "tier": "focus",
+      "first": "ch41"
+    },
+    {
+      "lemma": "出掛ける",
+      "reading": "でかける",
+      "gloss": "to go out",
+      "tier": "focus",
+      "first": "ch41"
+    },
+    {
+      "lemma": "嘘",
+      "reading": "うそ",
+      "gloss": "lie, falsehood",
+      "tier": "focus",
+      "first": "ch41"
+    }
+  ],
+  "grammarNotes": [
+    "V/Adj + のに — \"even though, despite.\" \"信じていたのに、嘘をついていた\" = \"even though [I] believed [him], [he] lied\"; \"こわれたのに、きれいな色は、まだ、ある\" = \"even though it broke, the color is still beautiful.\" Expresses counter-expectation, often with disappointment or surprise.",
+    "N + なのに — concessive with nouns / na-adjectives. \"友達なのに\" = \"even though [we're] friends.\"",
+    "信じる / 信じられない — \"to believe / cannot believe.\" The N4-central verb of trust. \"信じてくれた\" = \"[you] believed [me]\" / \"[you] trusted me\" (kindness received).",
+    "Xのせいで / Xのおかげで — negative / positive causation (\"because of X\"). 嘘のせいで = \"because of the lie\"; not foregrounded here but implicit.",
+    "Moominmamma's 「なおす」 pun — physical repair (ちゃわんをなおす) vs emotional repair (心をなおす). Native Japanese regularly uses なおす for both."
+  ],
+  "illustration": {
+    "scene_note": "Moomin house living room, evening. A blue-patterned ceramic bowl shattered on the floor. Sniff (mouse-like) pressed against a chair looking guilty. Moomintroll standing by the broken pieces. Little My in the doorway. Snufkin quiet by the window. A minute later: Moominmamma kneeling by Sniff, explaining gently.",
+    "panel_count": 5,
+    "image_prompt": "Medium shot of the Moomin living room at evening lamp light. A blue-patterned ceramic bowl lies shattered in many pieces on the wooden floor at center. スニフ presses against a chair at right, shoulders hunched, face down. ムーミン stands at left near the pieces, face lowered. ミイ stands in the doorway at far right with arms crossed. スナフキン stands quiet by the window at far left. ママ just entering through the front door at center-back with her handbag, face soft but sad. Warm amber lamp glow but serious mood. Tove Jansson hand-drawn Moomin illustration style, 16:9, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

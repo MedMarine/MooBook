@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ムーミン谷 per se Illustrata</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif+JP:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css?v=2">
+</head>
+<body>
+
+  <!-- ===== LANDING VIEW ===== -->
+  <div id="landing" class="view active">
+    <header class="landing-header">
+      <h1 class="site-title">ムーミン谷 per se Illustrata</h1>
+      <p class="site-subtitle">Japanese Graded Reader</p>
+    </header>
+
+    <div class="continue-banner" id="continue-banner" style="display:none;">
+      <button class="continue-btn" id="continue-btn">
+        <span class="continue-label">Continue Reading</span>
+        <span class="continue-chapter" id="continue-chapter-label"></span>
+      </button>
+    </div>
+
+    <main class="chapter-list" id="chapter-list">
+      <!-- Rendered dynamically; grouped by arc -->
+    </main>
+  </div>
+
+  <!-- ===== READER VIEW ===== -->
+  <div id="reader" class="view">
+    <header class="reader-header">
+      <button id="back-btn" class="back-button" aria-label="Back to chapters">
+        <span class="back-arrow">&larr;</span> Back
+      </button>
+      <div class="chapter-meta">
+        <span class="chapter-number" id="reader-chapter-num"></span>
+        <h2 class="chapter-title" id="reader-chapter-title"></h2>
+        <span class="grammar-badge" id="reader-grammar-badge"></span>
+      </div>
+      <div class="reader-header-right">
+        <button id="play-chapter-btn" class="reader-ctrl-btn audio-play-all" aria-label="Play whole chapter" title="Play whole chapter">
+          <svg class="play-all-icon" viewBox="0 0 16 16" aria-hidden="true">
+            <polygon points="3,2 13,8 3,14" fill="currentColor"/>
+          </svg>
+          <span class="play-all-label">Play</span>
+        </button>
+        <button id="audio-settings-btn" class="reader-ctrl-btn audio-settings-btn" aria-label="Audio settings" aria-expanded="false" title="Audio settings">
+          <span aria-hidden="true">&#9881;</span>
+        </button>
+        <div id="audio-settings-popover" class="audio-settings-popover" role="dialog" aria-hidden="true" aria-label="Audio settings">
+          <div class="audio-settings-heading">Slow playback speed</div>
+          <div class="audio-settings-options">
+            <label class="audio-speed-option">
+              <input type="radio" name="audio-slow-speed" value="0.7">
+              <span>0.7&times; — Study pace</span>
+            </label>
+            <label class="audio-speed-option">
+              <input type="radio" name="audio-slow-speed" value="0.85">
+              <span>0.85&times; — Comprehension pace</span>
+            </label>
+          </div>
+          <div class="audio-settings-help">
+            The 🐢 button next to each line plays at this speed. The plain ▶ button always plays at 1×.
+          </div>
+        </div>
+        <button id="furigana-toggle" class="reader-ctrl-btn" aria-label="Cycle furigana display">
+          振 <span id="furigana-mode-label">On</span>
+        </button>
+        <button id="notes-toggle" class="notes-toggle" aria-label="Open study panel" aria-expanded="false">
+          <span id="notes-mode-label">Study</span>
+        </button>
+      </div>
+    </header>
+
+    <div class="reader-body">
+      <!-- Left chrome: vertical chapter-number flourish -->
+      <aside class="left-chrome" aria-hidden="true">
+        <div class="left-chrome-inner" id="left-chrome-num"></div>
+      </aside>
+
+      <!-- Main prose column (the hero) -->
+      <main class="prose-scroll" id="prose-scroll">
+        <!-- Rendered dynamically: illustration slot + prose panels -->
+      </main>
+
+      <!-- Right focus strip: clickable lemma chips, always visible on desktop -->
+      <aside class="focus-strip" id="focus-strip" aria-label="Chapter focus vocabulary">
+        <h3 class="focus-strip-heading">Focus</h3>
+        <ul class="focus-strip-chips" id="focus-strip-chips"></ul>
+      </aside>
+    </div>
+
+    <!-- Study Mode overlay: hidden by default, slides in from right (desktop) or up (mobile) -->
+    <aside class="vocab-panel" id="vocab-panel" aria-label="Study panel" aria-hidden="true">
+      <header class="vocab-panel-header">
+        <h2 class="vocab-panel-title">Study</h2>
+        <button id="study-close-btn" class="study-close-btn" aria-label="Close study panel">&times;</button>
+      </header>
+      <div class="vocab-panel-body">
+        <!-- Plot summary (English) — optional, for those new to the Moomin canon -->
+        <section class="panel-section" id="plot-summary-section" style="display:none;">
+          <h3 class="panel-heading">Plot summary (English)</h3>
+          <p class="plot-summary-note">Spoilers for this chapter only.</p>
+          <p class="plot-summary-body" id="plot-summary-body"></p>
+        </section>
+
+        <!-- Scene info -->
+        <section class="panel-section">
+          <h3 class="panel-heading">Scene</h3>
+          <p class="scene-location" id="scene-location"></p>
+          <p class="scene-characters" id="scene-characters"></p>
+          <p class="scene-beat" id="scene-beat"></p>
+        </section>
+
+        <!-- Grammar focus -->
+        <section class="panel-section" id="grammar-section">
+          <h3 class="panel-heading">Grammar</h3>
+          <p class="grammar-name" id="grammar-name"></p>
+          <ul class="grammar-patterns" id="grammar-patterns"></ul>
+        </section>
+
+        <!-- Focus vocab -->
+        <section class="panel-section" id="focus-vocab-section">
+          <h3 class="panel-heading">Focus Vocabulary</h3>
+          <dl class="vocab-list" id="focus-vocab-list"></dl>
+        </section>
+
+        <!-- Stretch vocab -->
+        <section class="panel-section" id="stretch-vocab-section" style="display:none;">
+          <h3 class="panel-heading">Stretch Vocabulary</h3>
+          <dl class="vocab-list" id="stretch-vocab-list"></dl>
+        </section>
+
+        <!-- Grammar notes (longform) -->
+        <section class="panel-section" id="grammar-notes-section" style="display:none;">
+          <h3 class="panel-heading">Grammar Notes</h3>
+          <ul class="grammar-notes" id="grammar-notes-list"></ul>
+        </section>
+      </div>
+    </aside>
+
+    <div class="study-backdrop" id="study-backdrop" aria-hidden="true"></div>
+
+    <!-- Tap/hover-to-gloss popover (P3.1) -->
+    <div id="gloss-popover" class="gloss-popover" role="dialog" aria-hidden="true" aria-labelledby="gloss-lemma"></div>
+
+    <!-- Single shared audio element for the whole reader. -->
+    <audio id="reader-audio" preload="none" aria-hidden="true"></audio>
+
+    <footer class="reader-footer">
+      <button class="chapter-nav-btn" id="prev-chapter-btn" aria-label="Previous chapter" disabled>
+        &larr; Prev
+      </button>
+      <div class="progress-bar">
+        <div class="progress-fill" id="progress-fill"></div>
+      </div>
+      <span class="progress-text" id="progress-text"></span>
+      <button class="chapter-nav-btn" id="next-chapter-btn" aria-label="Next chapter" disabled>
+        Next &rarr;
+      </button>
+    </footer>
+  </div>
+
+  <script src="app.js?v=12"></script>
+</body>
+</html>

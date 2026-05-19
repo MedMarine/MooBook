@@ -1,0 +1,340 @@
+{
+  "chapter": 30,
+  "title": "化け物の夜",
+  "arc": "D",
+  "arcPosition": "3/9",
+  "arcLabel": "Arc D — Quiet Rooms",
+  "grammarStep": 20,
+  "grammarName": "Causative: 〜せる / 〜させる",
+  "grammarPatterns": [
+    "V-せる / V-させる (to make / let someone V)",
+    "X に V-させる (make X do V)",
+    "泣かせる / まかせる / やめさせる",
+    "〜ないで (don't V / without V-ing)"
+  ],
+  "lengthTarget": [
+    760,
+    1140
+  ],
+  "register": "N4",
+  "plotSummary": "Dusk at the edge of the forest. Sniff and Moomintroll have found a tree with heart-shaped carvings. Someone has been here before them. Sniff is frightened — is it a 化け物 (\"bakemono,\" a monster)? A strange sound — a snore — comes from the undergrowth. Sniff wants to run; Moomintroll makes him stay. The chapter teaches the CAUSATIVE — making someone do something, making someone stay, making someone cry — against the soft pressure of fear.",
+  "proper_nouns": [
+    "ムーミン",
+    "スニフ",
+    "スナフキン"
+  ],
+  "scene": {
+    "location": "森のはずれ（夕方）",
+    "beat": "Edge of the forest at dusk. A 化け物. Someone makes Sniff do something. Causative 〜せる/〜させる. The first truly scary chapter.",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "スニフ",
+      "スナフキン"
+    ],
+    "mentioned": [],
+    "motifs": [
+      "森",
+      "夜"
+    ]
+  },
+  "continuity": {
+    "from": "ch29 (the river road)",
+    "to": "ch31 (rowing the boat at river mouth)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "narration",
+      "speaker": null,
+      "text": "夕方の森のはずれを、ムーミンとスニフとスナフキンが歩いていた。空はあかく、木のかげは長くなっていた。",
+      "html": "<span class=\"word\" data-lemma=\"夕方\" data-surface=\"夕方\" data-reading=\"ゆうがた\">夕方</span>の<span class=\"word\" data-lemma=\"森\" data-surface=\"森\" data-reading=\"もり\">森</span>のはずれを、ムーミンとスニフとスナフキンが<span class=\"word\" data-lemma=\"歩く\" data-surface=\"歩い\" data-reading=\"あるい\">歩い</span>ていた。<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>はあかく、<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>のかげは<span class=\"word\" data-lemma=\"長い\" data-surface=\"長く\" data-reading=\"ながく\">長く</span>なっていた。",
+      "htmlFull": "<ruby data-lemma=\"夕方\" data-surface=\"夕方\">夕方<rt>ゆうがた</rt></ruby>の<ruby data-lemma=\"森\" data-surface=\"森\">森<rt>もり</rt></ruby>のはずれを、ムーミンとスニフとスナフキンが<ruby data-lemma=\"歩く\" data-surface=\"歩い\">歩<rt>ある</rt></ruby>いていた。<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>はあかく、<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>のかげは<ruby data-lemma=\"長い\" data-surface=\"長く\">長<rt>なが</rt></ruby>くなっていた。"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "あっ、見て！木に、なにか小さい飾りがかかってる。",
+      "html": "あっ、<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>て！<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>に、なにか<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><ruby data-lemma=\"飾り\" data-surface=\"飾り\">飾<rt>かざ</rt></ruby>りがかかってる。",
+      "htmlFull": "あっ、<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>て！<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>に、なにか<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"飾り\" data-surface=\"飾り\">飾<rt>かざ</rt></ruby>りがかかってる。"
+    },
+    {
+      "id": "p03",
+      "kind": "narration",
+      "speaker": null,
+      "text": "小さいハートのかたちの飾りが、木のえだに、しずかにかかっていた。だれかがここにかけたのだろう。",
+      "html": "<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>ハートのかたちの<ruby data-lemma=\"飾り\" data-surface=\"飾り\">飾<rt>かざ</rt></ruby>りが、<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>のえだに、しずかにかかっていた。だれかがここにかけたのだろう。",
+      "htmlFull": "<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいハートのかたちの<ruby data-lemma=\"飾り\" data-surface=\"飾り\">飾<rt>かざ</rt></ruby>りが、<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>のえだに、しずかにかかっていた。だれかがここにかけたのだろう。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "こ、こわいよ。もしかして、化け物が、かけさせたんじゃない？",
+      "html": "こ、こわいよ。もしかして、<span class=\"word\" data-lemma=\"化け物\" data-surface=\"化け物\" data-reading=\"ばけもの\">化け物</span>が、かけさせたんじゃない？",
+      "htmlFull": "こ、こわいよ。もしかして、<ruby data-lemma=\"化け物\" data-surface=\"化け物\">化け物<rt>ばけもの</rt></ruby>が、かけさせたんじゃない？"
+    },
+    {
+      "id": "p05",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "化け物なんかいないよ、スニフ。でも、きれいなハートの飾りだね。",
+      "html": "<span class=\"word\" data-lemma=\"化け物\" data-surface=\"化け物\" data-reading=\"ばけもの\">化け物</span>なんかいないよ、スニフ。でも、きれいなハートの<ruby data-lemma=\"飾り\" data-surface=\"飾り\">飾<rt>かざ</rt></ruby>りだね。",
+      "htmlFull": "<ruby data-lemma=\"化け物\" data-surface=\"化け物\">化け物<rt>ばけもの</rt></ruby>なんかいないよ、スニフ。でも、きれいなハートの<ruby data-lemma=\"飾り\" data-surface=\"飾り\">飾<rt>かざ</rt></ruby>りだね。"
+    },
+    {
+      "id": "p06",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "ぼく、化け物がこわい！ムーミン、泣きそうだよ。",
+      "html": "ぼく、<span class=\"word\" data-lemma=\"化け物\" data-surface=\"化け物\" data-reading=\"ばけもの\">化け物</span>がこわい！ムーミン、<ruby data-lemma=\"泣く\" data-surface=\"泣き\">泣<rt>な</rt></ruby>きそうだよ。",
+      "htmlFull": "ぼく、<ruby data-lemma=\"化け物\" data-surface=\"化け物\">化け物<rt>ばけもの</rt></ruby>がこわい！ムーミン、<ruby data-lemma=\"泣く\" data-surface=\"泣き\">泣<rt>な</rt></ruby>きそうだよ。"
+    },
+    {
+      "id": "p07",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "泣かないで、スニフ。ぼくがついてるから、大丈夫。",
+      "html": "<ruby data-lemma=\"泣く\" data-surface=\"泣か\">泣<rt>な</rt></ruby>かないで、スニフ。ぼくがついてるから、<span class=\"word\" data-lemma=\"大丈夫\" data-surface=\"大丈夫\" data-reading=\"だいじょうぶ\">大丈夫</span>。",
+      "htmlFull": "<ruby data-lemma=\"泣く\" data-surface=\"泣か\">泣<rt>な</rt></ruby>かないで、スニフ。ぼくがついてるから、<ruby data-lemma=\"大丈夫\" data-surface=\"大丈夫\">大丈夫<rt>だいじょうぶ</rt></ruby>。"
+    },
+    {
+      "id": "p08",
+      "kind": "narration",
+      "speaker": null,
+      "text": "そのとき、森のおくから、すごい鼾が聞こえて来た。スニフはびっくりして、ムーミンのうしろにかくれた。",
+      "html": "そのとき、<span class=\"word\" data-lemma=\"森\" data-surface=\"森\" data-reading=\"もり\">森</span>のおくから、すごい<ruby data-lemma=\"鼾\" data-surface=\"鼾\">鼾<rt>いびき</rt></ruby>が<span class=\"word\" data-lemma=\"聞こえる\" data-surface=\"聞こえ\" data-reading=\"きこえ\">聞こえ</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。スニフはびっくりして、ムーミンのうしろにかくれた。",
+      "htmlFull": "そのとき、<ruby data-lemma=\"森\" data-surface=\"森\">森<rt>もり</rt></ruby>のおくから、すごい<ruby data-lemma=\"鼾\" data-surface=\"鼾\">鼾<rt>いびき</rt></ruby>が<ruby data-lemma=\"聞こえる\" data-surface=\"聞こえ\">聞<rt>き</rt></ruby>こえて<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。スニフはびっくりして、ムーミンのうしろにかくれた。"
+    },
+    {
+      "id": "p09",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "ほら！聞こえた！やっぱり化け物だよ！",
+      "html": "ほら！<span class=\"word\" data-lemma=\"聞こえる\" data-surface=\"聞こえ\" data-reading=\"きこえ\">聞こえ</span>た！やっぱり<span class=\"word\" data-lemma=\"化け物\" data-surface=\"化け物\" data-reading=\"ばけもの\">化け物</span>だよ！",
+      "htmlFull": "ほら！<ruby data-lemma=\"聞こえる\" data-surface=\"聞こえ\">聞<rt>き</rt></ruby>こえた！やっぱり<ruby data-lemma=\"化け物\" data-surface=\"化け物\">化け物<rt>ばけもの</rt></ruby>だよ！"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "いや、これは化け物じゃない。鼾だよ。だれかが、森の中で、ひるねをしてるんだ。",
+      "html": "いや、これは<span class=\"word\" data-lemma=\"化け物\" data-surface=\"化け物\" data-reading=\"ばけもの\">化け物</span>じゃない。<ruby data-lemma=\"鼾\" data-surface=\"鼾\">鼾<rt>いびき</rt></ruby>だよ。だれかが、<span class=\"word\" data-lemma=\"森\" data-surface=\"森\" data-reading=\"もり\">森</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で、ひるねをしてるんだ。",
+      "htmlFull": "いや、これは<ruby data-lemma=\"化け物\" data-surface=\"化け物\">化け物<rt>ばけもの</rt></ruby>じゃない。<ruby data-lemma=\"鼾\" data-surface=\"鼾\">鼾<rt>いびき</rt></ruby>だよ。だれかが、<ruby data-lemma=\"森\" data-surface=\"森\">森<rt>もり</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で、ひるねをしてるんだ。"
+    },
+    {
+      "id": "p11",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "やれやれ、あれはぼくの兄の鼾だよ。森の中で、よく寝ているんだ。",
+      "html": "やれやれ、あれはぼくの<span class=\"word\" data-lemma=\"兄\" data-surface=\"兄\" data-reading=\"あに\">兄</span>の<ruby data-lemma=\"鼾\" data-surface=\"鼾\">鼾<rt>いびき</rt></ruby>だよ。<span class=\"word\" data-lemma=\"森\" data-surface=\"森\" data-reading=\"もり\">森</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で、よく<span class=\"word\" data-lemma=\"寝る\" data-surface=\"寝\" data-reading=\"ね\">寝</span>ているんだ。",
+      "htmlFull": "やれやれ、あれはぼくの<ruby data-lemma=\"兄\" data-surface=\"兄\">兄<rt>あに</rt></ruby>の<ruby data-lemma=\"鼾\" data-surface=\"鼾\">鼾<rt>いびき</rt></ruby>だよ。<ruby data-lemma=\"森\" data-surface=\"森\">森<rt>もり</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で、よく<ruby data-lemma=\"寝る\" data-surface=\"寝\">寝<rt>ね</rt></ruby>ているんだ。"
+    },
+    {
+      "id": "p12",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "えっ、スナフキンに兄がいるの？知らなかった…。",
+      "html": "えっ、スナフキンに<span class=\"word\" data-lemma=\"兄\" data-surface=\"兄\" data-reading=\"あに\">兄</span>がいるの？<span class=\"word\" data-lemma=\"知る\" data-surface=\"知ら\" data-reading=\"しら\">知ら</span>なかった…。",
+      "htmlFull": "えっ、スナフキンに<ruby data-lemma=\"兄\" data-surface=\"兄\">兄<rt>あに</rt></ruby>がいるの？<ruby data-lemma=\"知る\" data-surface=\"知ら\">知<rt>し</rt></ruby>らなかった…。"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "うん、兄さ。兄がここに、ハートの飾りをかけたのかもしれない。きょうだいの、小さいしるしにね。",
+      "html": "うん、<span class=\"word\" data-lemma=\"兄\" data-surface=\"兄\" data-reading=\"あに\">兄</span>さ。<span class=\"word\" data-lemma=\"兄\" data-surface=\"兄\" data-reading=\"あに\">兄</span>がここに、ハートの<ruby data-lemma=\"飾り\" data-surface=\"飾り\">飾<rt>かざ</rt></ruby>りをかけたのかもしれない。きょうだいの、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>しるしにね。",
+      "htmlFull": "うん、<ruby data-lemma=\"兄\" data-surface=\"兄\">兄<rt>あに</rt></ruby>さ。<ruby data-lemma=\"兄\" data-surface=\"兄\">兄<rt>あに</rt></ruby>がここに、ハートの<ruby data-lemma=\"飾り\" data-surface=\"飾り\">飾<rt>かざ</rt></ruby>りをかけたのかもしれない。きょうだいの、<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいしるしにね。"
+    },
+    {
+      "id": "p14",
+      "kind": "narration",
+      "speaker": null,
+      "text": "スニフは、やっと少しおちついた。ムーミンは、スニフを笑わせようと、やさしく声をかけた。スニフを泣かせたくなかったのだ。",
+      "html": "スニフは、やっと<span class=\"word\" data-lemma=\"少し\" data-surface=\"少し\" data-reading=\"すこし\">少し</span>おちついた。ムーミンは、スニフを<ruby data-lemma=\"笑う\" data-surface=\"笑わ\">笑<rt>わら</rt></ruby>わせようと、やさしく<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>をかけた。スニフを<ruby data-lemma=\"泣く\" data-surface=\"泣か\">泣<rt>な</rt></ruby>かせたくなかったのだ。",
+      "htmlFull": "スニフは、やっと<ruby data-lemma=\"少し\" data-surface=\"少し\">少<rt>すこ</rt></ruby>しおちついた。ムーミンは、スニフを<ruby data-lemma=\"笑う\" data-surface=\"笑わ\">笑<rt>わら</rt></ruby>わせようと、やさしく<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>をかけた。スニフを<ruby data-lemma=\"泣く\" data-surface=\"泣か\">泣<rt>な</rt></ruby>かせたくなかったのだ。"
+    },
+    {
+      "id": "p15",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ほら、スニフ。化け物じゃなかったでしょ？鼾は、ちょっとこわかったけどね。",
+      "html": "ほら、スニフ。<span class=\"word\" data-lemma=\"化け物\" data-surface=\"化け物\" data-reading=\"ばけもの\">化け物</span>じゃなかったでしょ？<ruby data-lemma=\"鼾\" data-surface=\"鼾\">鼾<rt>いびき</rt></ruby>は、ちょっとこわかったけどね。",
+      "htmlFull": "ほら、スニフ。<ruby data-lemma=\"化け物\" data-surface=\"化け物\">化け物<rt>ばけもの</rt></ruby>じゃなかったでしょ？<ruby data-lemma=\"鼾\" data-surface=\"鼾\">鼾<rt>いびき</rt></ruby>は、ちょっとこわかったけどね。"
+    },
+    {
+      "id": "p16",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "うん…よかった。ムーミンがいなかったら、ぼく、本当に泣いてた。",
+      "html": "うん…よかった。ムーミンがいなかったら、ぼく、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に<ruby data-lemma=\"泣く\" data-surface=\"泣い\">泣<rt>な</rt></ruby>いてた。",
+      "htmlFull": "うん…よかった。ムーミンがいなかったら、ぼく、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に<ruby data-lemma=\"泣く\" data-surface=\"泣い\">泣<rt>な</rt></ruby>いてた。"
+    },
+    {
+      "id": "p17",
+      "kind": "narration",
+      "speaker": null,
+      "text": "夕方の空が、だんだん暗くなった。ムーミンは、スニフの手をやさしく取って、家のほうへ戻った。",
+      "html": "<span class=\"word\" data-lemma=\"夕方\" data-surface=\"夕方\" data-reading=\"ゆうがた\">夕方</span>の<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>が、だんだん<span class=\"word\" data-lemma=\"暗い\" data-surface=\"暗く\" data-reading=\"くらく\">暗く</span>なった。ムーミンは、スニフの<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>をやさしく<span class=\"word\" data-lemma=\"取る\" data-surface=\"取っ\" data-reading=\"とっ\">取っ</span>て、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>のほうへ<span class=\"word\" data-lemma=\"戻る\" data-surface=\"戻っ\" data-reading=\"もどっ\">戻っ</span>た。",
+      "htmlFull": "<ruby data-lemma=\"夕方\" data-surface=\"夕方\">夕方<rt>ゆうがた</rt></ruby>の<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>が、だんだん<ruby data-lemma=\"暗い\" data-surface=\"暗く\">暗<rt>くら</rt></ruby>くなった。ムーミンは、スニフの<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>をやさしく<ruby data-lemma=\"取る\" data-surface=\"取っ\">取<rt>と</rt></ruby>って、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>のほうへ<ruby data-lemma=\"戻る\" data-surface=\"戻っ\">戻<rt>もど</rt></ruby>った。"
+    },
+    {
+      "id": "p18",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "ねえ、あしたも、森のはずれに来られるかな？",
+      "html": "ねえ、あしたも、<span class=\"word\" data-lemma=\"森\" data-surface=\"森\" data-reading=\"もり\">森</span>のはずれに<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"こ\">来</span>られるかな？",
+      "htmlFull": "ねえ、あしたも、<ruby data-lemma=\"森\" data-surface=\"森\">森<rt>もり</rt></ruby>のはずれに<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>こ</rt></ruby>られるかな？"
+    },
+    {
+      "id": "p19",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "うん、来られるよ。でも、化け物はいないからね、スニフ。",
+      "html": "うん、<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"こ\">来</span>られるよ。でも、<span class=\"word\" data-lemma=\"化け物\" data-surface=\"化け物\" data-reading=\"ばけもの\">化け物</span>はいないからね、スニフ。",
+      "htmlFull": "うん、<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>こ</rt></ruby>られるよ。でも、<ruby data-lemma=\"化け物\" data-surface=\"化け物\">化け物<rt>ばけもの</rt></ruby>はいないからね、スニフ。"
+    },
+    {
+      "id": "p20",
+      "kind": "narration",
+      "speaker": null,
+      "text": "化け物は本当にいなかった。兄の鼾があっただけ。小さいハートの飾りがあっただけ。",
+      "html": "<span class=\"word\" data-lemma=\"化け物\" data-surface=\"化け物\" data-reading=\"ばけもの\">化け物</span>は<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にいなかった。<span class=\"word\" data-lemma=\"兄\" data-surface=\"兄\" data-reading=\"あに\">兄</span>の<ruby data-lemma=\"鼾\" data-surface=\"鼾\">鼾<rt>いびき</rt></ruby>があっただけ。<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>ハートの<ruby data-lemma=\"飾り\" data-surface=\"飾り\">飾<rt>かざ</rt></ruby>りがあっただけ。",
+      "htmlFull": "<ruby data-lemma=\"化け物\" data-surface=\"化け物\">化け物<rt>ばけもの</rt></ruby>は<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にいなかった。<ruby data-lemma=\"兄\" data-surface=\"兄\">兄<rt>あに</rt></ruby>の<ruby data-lemma=\"鼾\" data-surface=\"鼾\">鼾<rt>いびき</rt></ruby>があっただけ。<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいハートの<ruby data-lemma=\"飾り\" data-surface=\"飾り\">飾<rt>かざ</rt></ruby>りがあっただけ。"
+    },
+    {
+      "id": "p21",
+      "kind": "narration",
+      "speaker": null,
+      "text": "でも、ちょっとこわかった夕方だった。ムーミンは、スニフのこわがった顔を、わすれないだろう。",
+      "html": "でも、ちょっとこわかった<span class=\"word\" data-lemma=\"夕方\" data-surface=\"夕方\" data-reading=\"ゆうがた\">夕方</span>だった。ムーミンは、スニフのこわがった<span class=\"word\" data-lemma=\"顔\" data-surface=\"顔\" data-reading=\"かお\">顔</span>を、わすれないだろう。",
+      "htmlFull": "でも、ちょっとこわかった<ruby data-lemma=\"夕方\" data-surface=\"夕方\">夕方<rt>ゆうがた</rt></ruby>だった。ムーミンは、スニフのこわがった<ruby data-lemma=\"顔\" data-surface=\"顔\">顔<rt>かお</rt></ruby>を、わすれないだろう。"
+    },
+    {
+      "id": "p22",
+      "kind": "narration",
+      "speaker": null,
+      "text": "スナフキンの兄は、森の中で、まだ、しずかに鼾をかいている。兄を起こさせないように、三人はそっと帰った。",
+      "html": "スナフキンの<span class=\"word\" data-lemma=\"兄\" data-surface=\"兄\" data-reading=\"あに\">兄</span>は、<span class=\"word\" data-lemma=\"森\" data-surface=\"森\" data-reading=\"もり\">森</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で、まだ、しずかに<ruby data-lemma=\"鼾\" data-surface=\"鼾\">鼾<rt>いびき</rt></ruby>をかいている。<span class=\"word\" data-lemma=\"兄\" data-surface=\"兄\" data-reading=\"あに\">兄</span>を<span class=\"word\" data-lemma=\"起こす\" data-surface=\"起こさ\" data-reading=\"おこさ\">起こさ</span>せないように、<span class=\"word\" data-lemma=\"三\" data-surface=\"三\" data-reading=\"さん\">三</span><span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"にん\">人</span>はそっと<span class=\"word\" data-lemma=\"返る\" data-surface=\"帰っ\" data-reading=\"かえっ\">帰っ</span>た。",
+      "htmlFull": "スナフキンの<ruby data-lemma=\"兄\" data-surface=\"兄\">兄<rt>あに</rt></ruby>は、<ruby data-lemma=\"森\" data-surface=\"森\">森<rt>もり</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で、まだ、しずかに<ruby data-lemma=\"鼾\" data-surface=\"鼾\">鼾<rt>いびき</rt></ruby>をかいている。<ruby data-lemma=\"兄\" data-surface=\"兄\">兄<rt>あに</rt></ruby>を<ruby data-lemma=\"起こす\" data-surface=\"起こさ\">起<rt>お</rt></ruby>こさせないように、<ruby data-lemma=\"三\" data-surface=\"三\">三<rt>さん</rt></ruby><ruby data-lemma=\"人\" data-surface=\"人\">人<rt>にん</rt></ruby>はそっと<ruby data-lemma=\"返る\" data-surface=\"帰っ\">帰<rt>かえ</rt></ruby>った。"
+    },
+    {
+      "id": "p23",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ハートの飾りは、木のえだに、そのまま、かかっていた。化け物はだれも来させないが、兄の鼾だけは、夜も続いているだろう。",
+      "html": "ハートの<ruby data-lemma=\"飾り\" data-surface=\"飾り\">飾<rt>かざ</rt></ruby>りは、<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>のえだに、そのまま、かかっていた。<span class=\"word\" data-lemma=\"化け物\" data-surface=\"化け物\" data-reading=\"ばけもの\">化け物</span>はだれも<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>させないが、<span class=\"word\" data-lemma=\"兄\" data-surface=\"兄\" data-reading=\"あに\">兄</span>の<ruby data-lemma=\"鼾\" data-surface=\"鼾\">鼾<rt>いびき</rt></ruby>だけは、<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>も<ruby data-lemma=\"続く\" data-surface=\"続い\">続<rt>つづ</rt></ruby>いているだろう。",
+      "htmlFull": "ハートの<ruby data-lemma=\"飾り\" data-surface=\"飾り\">飾<rt>かざ</rt></ruby>りは、<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>のえだに、そのまま、かかっていた。<ruby data-lemma=\"化け物\" data-surface=\"化け物\">化け物<rt>ばけもの</rt></ruby>はだれも<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>させないが、<ruby data-lemma=\"兄\" data-surface=\"兄\">兄<rt>あに</rt></ruby>の<ruby data-lemma=\"鼾\" data-surface=\"鼾\">鼾<rt>いびき</rt></ruby>だけは、<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>も<ruby data-lemma=\"続く\" data-surface=\"続い\">続<rt>つづ</rt></ruby>いているだろう。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "飾り",
+      "reading": "かざり",
+      "gloss": "decoration, ornament",
+      "tier": "focus"
+    },
+    {
+      "lemma": "化け物",
+      "reading": "ばけもの",
+      "gloss": "monster, apparition",
+      "tier": "focus"
+    },
+    {
+      "lemma": "ハート",
+      "reading": "ハート",
+      "gloss": "heart (shape / symbol)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "兄",
+      "reading": "あに",
+      "gloss": "older brother",
+      "tier": "focus"
+    },
+    {
+      "lemma": "泣く",
+      "reading": "なく",
+      "gloss": "to cry",
+      "tier": "focus"
+    },
+    {
+      "lemma": "鼾",
+      "reading": "いびき",
+      "gloss": "a snore",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [
+    {
+      "lemma": "やれ",
+      "reading": "やれ",
+      "gloss": "oh dear; well well (interjection of mild concern)",
+      "tier": "stretch"
+    }
+  ],
+  "glossary": [
+    {
+      "lemma": "飾り",
+      "reading": "かざり",
+      "gloss": "decoration, ornament",
+      "tier": "focus",
+      "first": "ch30"
+    },
+    {
+      "lemma": "化け物",
+      "reading": "ばけもの",
+      "gloss": "monster, apparition",
+      "tier": "focus",
+      "first": "ch30"
+    },
+    {
+      "lemma": "ハート",
+      "reading": "ハート",
+      "gloss": "heart (shape / symbol)",
+      "tier": "focus",
+      "first": "ch30"
+    },
+    {
+      "lemma": "兄",
+      "reading": "あに",
+      "gloss": "older brother",
+      "tier": "focus",
+      "first": "ch30"
+    },
+    {
+      "lemma": "泣く",
+      "reading": "なく",
+      "gloss": "to cry",
+      "tier": "focus",
+      "first": "ch30"
+    },
+    {
+      "lemma": "鼾",
+      "reading": "いびき",
+      "gloss": "a snore",
+      "tier": "focus",
+      "first": "ch30"
+    },
+    {
+      "lemma": "やれ",
+      "reading": "やれ",
+      "gloss": "oh dear; well well",
+      "tier": "stretch",
+      "first": "ch30"
+    }
+  ],
+  "grammarNotes": [
+    "Causative 〜せる / 〜させる — making someone do something. V(godan) → V-せる; V(ichidan) → V-させる. 泣く → 泣かせる (\"to make [someone] cry\"); わらう → わらわせる (\"to make [someone] laugh\").",
+    "V-させないで / V-せないで — \"don't make [someone] V.\" \"スニフをこわがらせないで\" = \"without making Sniff afraid.\"",
+    "V-ないで — \"without V-ing\" / \"don't V.\" なかないで = \"don't cry\"; こわがらないで = \"don't be scared.\" The te-form of ない.",
+    "Causative-passive — \"スニフは化け物にかけさせられた\" = \"Sniff was made to put it there by the monster.\" Stacked causative + passive; a glimpse, not foregrounded.",
+    "やれ、やれ — tired / concerned interjection. \"Oh dear.\" Snufkin's register; Moomintroll wouldn't say it."
+  ],
+  "illustration": {
+    "scene_note": "Forest edge at twilight. An ancient tree with heart-shaped carvings. Moomintroll holds Sniff's paw firmly, stopping him from running. Deep shadows among the trees. Somewhere unseen, a snoring sound — a small shape lies sleeping under a bush.",
+    "panel_count": 5,
+    "image_prompt": "Medium shot of the forest's edge at violet twilight. An ancient tree at center has a small heart-shaped wooden decoration tied to one low branch. ムーミン stands at the trunk, one hand on the decoration, body turned toward スニフ. スニフ peeks wide-eyed from behind ムーミン at right, clutching his arm. スナフキン stands a little further back at left, a small calm smile. In the shadows behind the tree, a tiny sleeping shape barely visible in the undergrowth. Deep violet sky behind the trees, warm green forest floor. Tove Jansson hand-drawn Moomin illustration style, 16:9, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}

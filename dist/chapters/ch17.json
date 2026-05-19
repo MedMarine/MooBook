@@ -1,0 +1,347 @@
+{
+  "chapter": 17,
+  "title": "大きい声、小さい声",
+  "arc": "B",
+  "arcPosition": "8/9",
+  "arcLabel": "Arc B — Companions",
+  "grammarStep": 11,
+  "grammarName": "て-form reprise + request 〜てください",
+  "grammarPatterns": [
+    "V-て + verb (sequencing)",
+    "どうぞ V-て / 〜てください",
+    "昨日、今日、また (temporal contrast)",
+    "Adj + 声 (大きい声 / 小さい声)"
+  ],
+  "lengthTarget": [
+    500,
+    750
+  ],
+  "register": "N4",
+  "plotSummary": "A clearing near the forest. Moomintroll hears two voices — one loud, one small. The loud one is Sran, a minor creature who hails them from a tree. The small one is someone they can't see but who is definitely there. Moominmamma arrives with food and gently corrects people. The chapter reprises the て-form and introduces 〜てください as a soft request, along with the social adverbs どうぞ / さあ.",
+  "proper_nouns": [
+    "ムーミン",
+    "スナフキン",
+    "スニフ",
+    "ママ",
+    "スラン"
+  ],
+  "scene": {
+    "location": "森のそばのひろば",
+    "beat": "A clearing. Big voices, small voices. Moominmamma gently corrects; Sran calls out. 〜て + please enters.",
+    "pov": "ムーミン",
+    "characters": [
+      "ムーミン",
+      "スラン",
+      "ママ"
+    ],
+    "mentioned": [
+      "スナフキン",
+      "スニフ"
+    ],
+    "motifs": [
+      "声",
+      "森"
+    ]
+  },
+  "continuity": {
+    "from": "ch16 (windy hill)",
+    "to": "ch18 (river — the living plant)"
+  },
+  "prose": [
+    {
+      "id": "p01",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "さあ、みんな、行くよ！",
+      "html": "さあ、みんな、<span class=\"word\" data-lemma=\"行く\" data-surface=\"行く\" data-reading=\"いく\">行く</span>よ！",
+      "htmlFull": "さあ、みんな、<ruby data-lemma=\"行く\" data-surface=\"行く\">行<rt>い</rt></ruby>くよ！"
+    },
+    {
+      "id": "p02",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "昨日もここに来たね。",
+      "html": "<ruby data-lemma=\"昨日\" data-surface=\"昨日\">昨日<rt>きのう</rt></ruby>もここに<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たね。",
+      "htmlFull": "<ruby data-lemma=\"昨日\" data-surface=\"昨日\">昨日<rt>きのう</rt></ruby>もここに<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たね。"
+    },
+    {
+      "id": "p03",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "うん、また来ちゃった。",
+      "html": "うん、また<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>ちゃった。",
+      "htmlFull": "うん、また<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>ちゃった。"
+    },
+    {
+      "id": "p04",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "だれかの大きい声が、遠くから聞こえるよ。",
+      "html": "だれかの<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>が、<span class=\"word\" data-lemma=\"遠く\" data-surface=\"遠く\" data-reading=\"とおく\">遠く</span>から<span class=\"word\" data-lemma=\"聞こえる\" data-surface=\"聞こえる\" data-reading=\"きこえる\">聞こえる</span>よ。",
+      "htmlFull": "だれかの<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>が、<ruby data-lemma=\"遠く\" data-surface=\"遠く\">遠<rt>とお</rt></ruby>くから<ruby data-lemma=\"聞こえる\" data-surface=\"聞こえる\">聞<rt>き</rt></ruby>こえるよ。"
+    },
+    {
+      "id": "p05",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "それに、小さい声もするね。",
+      "html": "それに、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>もするね。",
+      "htmlFull": "それに、<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>もするね。"
+    },
+    {
+      "id": "p06",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "みんな、よく見て！この声は、いったいだれの声だろう？",
+      "html": "みんな、よく<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>て！この<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>は、いったいだれの<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>だろう？",
+      "htmlFull": "みんな、よく<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>て！この<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>は、いったいだれの<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>だろう？"
+    },
+    {
+      "id": "p07",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "少しだけ待って、もっとよく聞いてみようよ。",
+      "html": "<span class=\"word\" data-lemma=\"少し\" data-surface=\"少し\" data-reading=\"すこし\">少し</span>だけ<span class=\"word\" data-lemma=\"待つ\" data-surface=\"待っ\" data-reading=\"まっ\">待っ</span>て、もっとよく<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>てみようよ。",
+      "htmlFull": "<ruby data-lemma=\"少し\" data-surface=\"少し\">少<rt>すこ</rt></ruby>しだけ<ruby data-lemma=\"待つ\" data-surface=\"待っ\">待<rt>ま</rt></ruby>って、もっとよく<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いてみようよ。"
+    },
+    {
+      "id": "p08",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "あそこに、小さなだれかがいるみたいだ。",
+      "html": "あそこに、<span class=\"word\" data-lemma=\"小さな\" data-surface=\"小さな\" data-reading=\"ちいさな\">小さな</span>だれかがいるみたいだ。",
+      "htmlFull": "あそこに、<ruby data-lemma=\"小さな\" data-surface=\"小さな\">小<rt>ちい</rt></ruby>さなだれかがいるみたいだ。"
+    },
+    {
+      "id": "p09",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "どうぞ、こちらへ来てくださいな。",
+      "html": "どうぞ、こちらへ<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>てくださいな。",
+      "htmlFull": "どうぞ、こちらへ<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>てくださいな。"
+    },
+    {
+      "id": "p10",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "よく来てくれたね！ここにどうぞ、すわってくださいな。",
+      "html": "よく<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>てくれたね！ここにどうぞ、すわってくださいな。",
+      "htmlFull": "よく<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>てくれたね！ここにどうぞ、すわってくださいな。"
+    },
+    {
+      "id": "p11",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "ねえ、きのうも、ここにいたの？",
+      "html": "ねえ、きのうも、ここにいたの？",
+      "htmlFull": "ねえ、きのうも、ここにいたの？"
+    },
+    {
+      "id": "p12",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "いや、昨日はこの子、いなかったよ。",
+      "html": "いや、<ruby data-lemma=\"昨日\" data-surface=\"昨日\">昨日<rt>きのう</rt></ruby>はこの<span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>、いなかったよ。",
+      "htmlFull": "いや、<ruby data-lemma=\"昨日\" data-surface=\"昨日\">昨日<rt>きのう</rt></ruby>はこの<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>、いなかったよ。"
+    },
+    {
+      "id": "p13",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "うん、さあ、みんな集まったね。また、いっしょに遊ぼうよ！",
+      "html": "うん、さあ、みんな<span class=\"word\" data-lemma=\"集まる\" data-surface=\"集まっ\" data-reading=\"あつまっ\">集まっ</span>たね。また、いっしょに<span class=\"word\" data-lemma=\"遊ぶ\" data-surface=\"遊ぼう\" data-reading=\"あそぼう\">遊ぼう</span>よ！",
+      "htmlFull": "うん、さあ、みんな<ruby data-lemma=\"集まる\" data-surface=\"集まっ\">集<rt>あつ</rt></ruby>まったね。また、いっしょに<ruby data-lemma=\"遊ぶ\" data-surface=\"遊ぼう\">遊<rt>あそ</rt></ruby>ぼうよ！"
+    },
+    {
+      "id": "p14",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "スランの声、相変わらず大きいね。",
+      "html": "スランの<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>、<span class=\"word\" data-lemma=\"相\" data-surface=\"相\" data-reading=\"あい\">相</span><span class=\"word\" data-lemma=\"変わる\" data-surface=\"変わら\" data-reading=\"かわら\">変わら</span>ず<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span>ね。",
+      "htmlFull": "スランの<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>、<ruby data-lemma=\"相\" data-surface=\"相\">相<rt>あい</rt></ruby><ruby data-lemma=\"変わる\" data-surface=\"変わら\">変<rt>か</rt></ruby>わらず<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きいね。"
+    },
+    {
+      "id": "p15",
+      "kind": "dialogue",
+      "speaker": "ママ",
+      "text": "はい、みんな、どうぞ、おにぎりを食べてくださいね。",
+      "html": "はい、みんな、どうぞ、おにぎりを<span class=\"word\" data-lemma=\"食べる\" data-surface=\"食べ\" data-reading=\"たべ\">食べ</span>てくださいね。",
+      "htmlFull": "はい、みんな、どうぞ、おにぎりを<ruby data-lemma=\"食べる\" data-surface=\"食べ\">食<rt>た</rt></ruby>べてくださいね。"
+    },
+    {
+      "id": "p16",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "スランは本当によく食べるね。",
+      "html": "スランは<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>によく<span class=\"word\" data-lemma=\"食べる\" data-surface=\"食べる\" data-reading=\"たべる\">食べる</span>ね。",
+      "htmlFull": "スランは<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>によく<ruby data-lemma=\"食べる\" data-surface=\"食べる\">食<rt>た</rt></ruby>べるね。"
+    },
+    {
+      "id": "p17",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "あ、またさっきの小さい声が聞こえるよ。",
+      "html": "あ、またさっきの<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>が<span class=\"word\" data-lemma=\"聞こえる\" data-surface=\"聞こえる\" data-reading=\"きこえる\">聞こえる</span>よ。",
+      "htmlFull": "あ、またさっきの<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>が<ruby data-lemma=\"聞こえる\" data-surface=\"聞こえる\">聞<rt>き</rt></ruby>こえるよ。"
+    },
+    {
+      "id": "p18",
+      "kind": "dialogue",
+      "speaker": "ムーミン",
+      "text": "うん、さあ、いっしょに行って見てみよう。",
+      "html": "うん、さあ、いっしょに<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>て<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>てみよう。",
+      "htmlFull": "うん、さあ、いっしょに<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>って<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>てみよう。"
+    },
+    {
+      "id": "p19",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "また、あの声だね。",
+      "html": "また、あの<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>だね。",
+      "htmlFull": "また、あの<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>だね。"
+    },
+    {
+      "id": "p20",
+      "kind": "dialogue",
+      "speaker": "スニフ",
+      "text": "なんだか、少し怖いよ…",
+      "html": "なんだか、<span class=\"word\" data-lemma=\"少し\" data-surface=\"少し\" data-reading=\"すこし\">少し</span><span class=\"word\" data-lemma=\"怖い\" data-surface=\"怖い\" data-reading=\"こわい\">怖い</span>よ…",
+      "htmlFull": "なんだか、<ruby data-lemma=\"少し\" data-surface=\"少し\">少<rt>すこ</rt></ruby>し<ruby data-lemma=\"怖い\" data-surface=\"怖い\">怖<rt>こわ</rt></ruby>いよ…"
+    },
+    {
+      "id": "p21",
+      "kind": "dialogue",
+      "speaker": "スナフキン",
+      "text": "大したことじゃないよ、大丈夫。",
+      "html": "<span class=\"word\" data-lemma=\"大した\" data-surface=\"大した\" data-reading=\"たいした\">大した</span>ことじゃないよ、<span class=\"word\" data-lemma=\"大丈夫\" data-surface=\"大丈夫\" data-reading=\"だいじょうぶ\">大丈夫</span>。",
+      "htmlFull": "<ruby data-lemma=\"大した\" data-surface=\"大した\">大<rt>たい</rt></ruby>したことじゃないよ、<ruby data-lemma=\"大丈夫\" data-surface=\"大丈夫\">大丈夫<rt>だいじょうぶ</rt></ruby>。"
+    },
+    {
+      "id": "p22",
+      "kind": "narration",
+      "speaker": null,
+      "text": "森のそばのひろばで、ムーミンとスナフキンとスニフが、じっと声を聞いていた。大きい声はスランの声だった。小さい声は、だれのものか、はっきりとはわからない。",
+      "html": "<span class=\"word\" data-lemma=\"森\" data-surface=\"森\" data-reading=\"もり\">森</span>のそばのひろばで、ムーミンとスナフキンとスニフが、じっと<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>を<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>ていた。<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>はスランの<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>だった。<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>は、だれのものか、はっきりとはわからない。",
+      "htmlFull": "<ruby data-lemma=\"森\" data-surface=\"森\">森<rt>もり</rt></ruby>のそばのひろばで、ムーミンとスナフキンとスニフが、じっと<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>を<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いていた。<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>はスランの<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>だった。<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>は、だれのものか、はっきりとはわからない。"
+    },
+    {
+      "id": "p23",
+      "kind": "narration",
+      "speaker": null,
+      "text": "やがてママがやって来て、みんなにおにぎりをくれた。「さあ、みんなでどうぞ、食べてくださいね」。昨日はその小さい声がなかった。でも今日は、たしかにそこにいる。",
+      "html": "やがてママがやって<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>て、みんなにおにぎりをくれた。「さあ、みんなでどうぞ、<span class=\"word\" data-lemma=\"食べる\" data-surface=\"食べ\" data-reading=\"たべ\">食べ</span>てくださいね」。<ruby data-lemma=\"昨日\" data-surface=\"昨日\">昨日<rt>きのう</rt></ruby>はその<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>がなかった。でも<span class=\"word\" data-lemma=\"今日\" data-surface=\"今日\" data-reading=\"きょう\">今日</span>は、たしかにそこにいる。",
+      "htmlFull": "やがてママがやって<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>て、みんなにおにぎりをくれた。「さあ、みんなでどうぞ、<ruby data-lemma=\"食べる\" data-surface=\"食べ\">食<rt>た</rt></ruby>べてくださいね」。<ruby data-lemma=\"昨日\" data-surface=\"昨日\">昨日<rt>きのう</rt></ruby>はその<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>がなかった。でも<ruby data-lemma=\"今日\" data-surface=\"今日\">今日<rt>きょう</rt></ruby>は、たしかにそこにいる。"
+    },
+    {
+      "id": "p24",
+      "kind": "narration",
+      "speaker": null,
+      "text": "ムーミンはよく聞いてよく見ていた。スナフキンも静かに様子を見ていた。スニフはすこし怖そうだったけれど、スナフキンの「大丈夫」の声で、落ちついた。",
+      "html": "ムーミンはよく<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>てよく<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ていた。スナフキンも<ruby data-lemma=\"静か\" data-surface=\"静か\">静<rt>しず</rt></ruby>かに<span class=\"word\" data-lemma=\"様子\" data-surface=\"様子\" data-reading=\"ようす\">様子</span>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ていた。スニフはすこし<span class=\"word\" data-lemma=\"怖い\" data-surface=\"怖\" data-reading=\"こわ\">怖</span>そうだったけれど、スナフキンの「<span class=\"word\" data-lemma=\"大丈夫\" data-surface=\"大丈夫\" data-reading=\"だいじょうぶ\">大丈夫</span>」の<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>で、<span class=\"word\" data-lemma=\"落ち着く\" data-surface=\"落ちつい\" data-reading=\"おちつい\">落ちつい</span>た。",
+      "htmlFull": "ムーミンはよく<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いてよく<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ていた。スナフキンも<ruby data-lemma=\"静か\" data-surface=\"静か\">静<rt>しず</rt></ruby>かに<ruby data-lemma=\"様子\" data-surface=\"様子\">様子<rt>ようす</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ていた。スニフはすこし<ruby data-lemma=\"怖い\" data-surface=\"怖\">怖<rt>こわ</rt></ruby>そうだったけれど、スナフキンの「<ruby data-lemma=\"大丈夫\" data-surface=\"大丈夫\">大丈夫<rt>だいじょうぶ</rt></ruby>」の<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>で、<ruby data-lemma=\"落ち着く\" data-surface=\"落ちつい\">落<rt>お</rt></ruby>ちついた。"
+    },
+    {
+      "id": "p25",
+      "kind": "narration",
+      "speaker": null,
+      "text": "みんなで広場にすわって、ママのおにぎりを分け合った。大きな声と、小さな声と、ママのやさしい声。森のそばで、どれもが一つの音になっていた。",
+      "html": "みんなで<span class=\"word\" data-lemma=\"広場\" data-surface=\"広場\" data-reading=\"ひろば\">広場</span>にすわって、ママのおにぎりを<span class=\"word\" data-lemma=\"分け合う\" data-surface=\"分け合っ\" data-reading=\"わけあっ\">分け合っ</span>た。<span class=\"word\" data-lemma=\"大きな\" data-surface=\"大きな\" data-reading=\"おおきな\">大きな</span><span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>と、<span class=\"word\" data-lemma=\"小さな\" data-surface=\"小さな\" data-reading=\"ちいさな\">小さな</span><span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>と、ママのやさしい<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>。<span class=\"word\" data-lemma=\"森\" data-surface=\"森\" data-reading=\"もり\">森</span>のそばで、どれもが<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"ひと\">一</span>つの<span class=\"word\" data-lemma=\"音\" data-surface=\"音\" data-reading=\"おと\">音</span>になっていた。",
+      "htmlFull": "みんなで<ruby data-lemma=\"広場\" data-surface=\"広場\">広場<rt>ひろば</rt></ruby>にすわって、ママのおにぎりを<ruby data-lemma=\"分け合う\" data-surface=\"分け合っ\">分け合<rt>わけあ</rt></ruby>った。<ruby data-lemma=\"大きな\" data-surface=\"大きな\">大<rt>おお</rt></ruby>きな<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>と、<ruby data-lemma=\"小さな\" data-surface=\"小さな\">小<rt>ちい</rt></ruby>さな<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>と、ママのやさしい<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>。<ruby data-lemma=\"森\" data-surface=\"森\">森<rt>もり</rt></ruby>のそばで、どれもが<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>ひと</rt></ruby>つの<ruby data-lemma=\"音\" data-surface=\"音\">音<rt>おと</rt></ruby>になっていた。"
+    }
+  ],
+  "focusVocab": [
+    {
+      "lemma": "昨日",
+      "reading": "きのう",
+      "gloss": "yesterday",
+      "tier": "focus"
+    },
+    {
+      "lemma": "大きい",
+      "reading": "おおきい",
+      "gloss": "big, large",
+      "tier": "focus"
+    },
+    {
+      "lemma": "声",
+      "reading": "こえ",
+      "gloss": "voice",
+      "tier": "focus"
+    },
+    {
+      "lemma": "どうぞ",
+      "reading": "どうぞ",
+      "gloss": "please (offering); go ahead",
+      "tier": "focus"
+    },
+    {
+      "lemma": "さあ",
+      "reading": "さあ",
+      "gloss": "come on; well then (prompting interjection)",
+      "tier": "focus"
+    },
+    {
+      "lemma": "小さい",
+      "reading": "ちいさい",
+      "gloss": "small, little",
+      "tier": "focus"
+    }
+  ],
+  "stretchVocab": [],
+  "glossary": [
+    {
+      "lemma": "昨日",
+      "reading": "きのう",
+      "gloss": "yesterday",
+      "tier": "focus",
+      "first": "ch17"
+    },
+    {
+      "lemma": "大きい",
+      "reading": "おおきい",
+      "gloss": "big, large",
+      "tier": "focus",
+      "first": "ch17"
+    },
+    {
+      "lemma": "声",
+      "reading": "こえ",
+      "gloss": "voice",
+      "tier": "focus",
+      "first": "ch17"
+    },
+    {
+      "lemma": "どうぞ",
+      "reading": "どうぞ",
+      "gloss": "please (offering / allowing)",
+      "tier": "focus",
+      "first": "ch17"
+    },
+    {
+      "lemma": "さあ",
+      "reading": "さあ",
+      "gloss": "come on, well then (prompting interjection)",
+      "tier": "focus",
+      "first": "ch17"
+    },
+    {
+      "lemma": "小さい",
+      "reading": "ちいさい",
+      "gloss": "small, little",
+      "tier": "focus",
+      "first": "ch17"
+    }
+  ],
+  "grammarNotes": [
+    "V-てください — soft request. \"たべてください\" = \"please eat.\" The polite imperative. Moominmamma uses it naturally; children can also use it with each other.",
+    "どうぞ — \"please (go ahead).\" Used when offering something or inviting someone in. どうぞ、たべてください = \"please, eat up.\" The two words complement each other.",
+    "さあ、〜 — prompting interjection. \"さあ、いくよ！\" = \"Come on, let's go!\" Launches a new action or call.",
+    "よく modifying a verb — \"well\" (よくみる = \"look closely\") or \"often\" (よくきく = \"listens often\"). The context disambiguates.",
+    "昨日 / 今日 / 明日 — the basic temporal triad. Note 昨日 is \"kinou\" — the reading is irregular."
+  ],
+  "illustration": {
+    "scene_note": "A woodland clearing. Sran is visible in a tree fork above, hailing with one hand. Moomintroll cups his ear toward something smaller and unseen on the ground. Snufkin stands to the side, relaxed; Sniff is half-hidden behind a tree; Moominmamma approaches with a basket of onigiri.",
+    "panel_count": 4,
+    "image_prompt": "Medium-wide shot of a sunny woodland clearing. スラン (a small round friendly creature) perches in the fork of a tree up-left, one hand raised waving. ムーミン stands in the grass at center, head cupped toward his ear, leaning slightly toward something small and unseen on the ground. スナフキン stands at his right, relaxed. スニフ peers half-hidden from behind a tree trunk at right. ママ approaches from the path at the right edge, carrying a small basket. Dappled sunlight through leaves. Tove Jansson hand-drawn Moomin illustration style, 16:9, warm summer forest palette, soft painted tones, no text, no speech bubbles, no watermarks."
+  }
+}
