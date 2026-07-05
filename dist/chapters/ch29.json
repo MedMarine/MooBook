@@ -95,9 +95,9 @@
       "id": "p07",
       "kind": "narration",
       "speaker": null,
-      "text": "それを、そっと拾った。手の中で、小さく光っている。",
-      "html": "それを、そっと<span class=\"word\" data-lemma=\"拾う\" data-surface=\"拾っ\" data-reading=\"ひろっ\">拾っ</span>た。<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さく\" data-reading=\"ちいさく\">小さく</span><span class=\"word\" data-lemma=\"光る\" data-surface=\"光っ\" data-reading=\"ひかっ\">光っ</span>ている。",
-      "htmlFull": "それを、そっと<ruby data-lemma=\"拾う\" data-surface=\"拾っ\">拾<rt>ひろ</rt></ruby>った。<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で、<ruby data-lemma=\"小さい\" data-surface=\"小さく\">小<rt>ちい</rt></ruby>さく<ruby data-lemma=\"光る\" data-surface=\"光っ\">光<rt>ひか</rt></ruby>っている。"
+      "text": "そっと拾うと、手の中で、小さく光っている。",
+      "html": "そっと<span class=\"word\" data-lemma=\"拾う\" data-surface=\"拾う\" data-reading=\"ひろう\">拾う</span>と、<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さく\" data-reading=\"ちいさく\">小さく</span><span class=\"word\" data-lemma=\"光る\" data-surface=\"光っ\" data-reading=\"ひかっ\">光っ</span>ている。",
+      "htmlFull": "そっと<ruby data-lemma=\"拾う\" data-surface=\"拾う\">拾<rt>ひろ</rt></ruby>うと、<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で、<ruby data-lemma=\"小さい\" data-surface=\"小さく\">小<rt>ちい</rt></ruby>さく<ruby data-lemma=\"光る\" data-surface=\"光っ\">光<rt>ひか</rt></ruby>っている。"
     },
     {
       "id": "p08",
@@ -167,9 +167,9 @@
       "id": "p16",
       "kind": "narration",
       "speaker": null,
-      "text": "川の通りは、午後の光でしずかだった。二人は、また、ゆっくり歩いた。",
-      "html": "<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>の<span class=\"word\" data-lemma=\"通り\" data-surface=\"通り\" data-reading=\"とおり\">通り</span>は、<span class=\"word\" data-lemma=\"午後\" data-surface=\"午後\" data-reading=\"ごご\">午後</span>の<span class=\"word\" data-lemma=\"光\" data-surface=\"光\" data-reading=\"ひかり\">光</span>でしずかだった。<span class=\"word\" data-lemma=\"二人\" data-surface=\"二人\" data-reading=\"ふたり\">二人</span>は、また、ゆっくり<span class=\"word\" data-lemma=\"歩く\" data-surface=\"歩い\" data-reading=\"あるい\">歩い</span>た。",
-      "htmlFull": "<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>の<ruby data-lemma=\"通り\" data-surface=\"通り\">通<rt>とお</rt></ruby>りは、<ruby data-lemma=\"午後\" data-surface=\"午後\">午後<rt>ごご</rt></ruby>の<ruby data-lemma=\"光\" data-surface=\"光\">光<rt>ひかり</rt></ruby>でしずかだった。<ruby data-lemma=\"二人\" data-surface=\"二人\">二人<rt>ふたり</rt></ruby>は、また、ゆっくり<ruby data-lemma=\"歩く\" data-surface=\"歩い\">歩<rt>ある</rt></ruby>いた。"
+      "text": "川の通りは午後の光でしずかで、二人は、また、ゆっくり歩いた。",
+      "html": "<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>の<span class=\"word\" data-lemma=\"通り\" data-surface=\"通り\" data-reading=\"とおり\">通り</span>は<span class=\"word\" data-lemma=\"午後\" data-surface=\"午後\" data-reading=\"ごご\">午後</span>の<span class=\"word\" data-lemma=\"光\" data-surface=\"光\" data-reading=\"ひかり\">光</span>でしずかで、<span class=\"word\" data-lemma=\"二人\" data-surface=\"二人\" data-reading=\"ふたり\">二人</span>は、また、ゆっくり<span class=\"word\" data-lemma=\"歩く\" data-surface=\"歩い\" data-reading=\"あるい\">歩い</span>た。",
+      "htmlFull": "<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>の<ruby data-lemma=\"通り\" data-surface=\"通り\">通<rt>とお</rt></ruby>りは<ruby data-lemma=\"午後\" data-surface=\"午後\">午後<rt>ごご</rt></ruby>の<ruby data-lemma=\"光\" data-surface=\"光\">光<rt>ひかり</rt></ruby>でしずかで、<ruby data-lemma=\"二人\" data-surface=\"二人\">二人<rt>ふたり</rt></ruby>は、また、ゆっくり<ruby data-lemma=\"歩く\" data-surface=\"歩い\">歩<rt>ある</rt></ruby>いた。"
     },
     {
       "id": "p17",
@@ -215,9 +215,9 @@
       "id": "p22",
       "kind": "narration",
       "speaker": null,
-      "text": "川のそばの通りは、今日もしずかだった。明日、また、いろいろなことが、起こるだろう。",
-      "html": "<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>のそばの<span class=\"word\" data-lemma=\"通り\" data-surface=\"通り\" data-reading=\"とおり\">通り</span>は、<span class=\"word\" data-lemma=\"今日\" data-surface=\"今日\" data-reading=\"きょう\">今日</span>もしずかだった。<span class=\"word\" data-lemma=\"明日\" data-surface=\"明日\" data-reading=\"あす\">明日</span>、また、いろいろなことが、<span class=\"word\" data-lemma=\"起こる\" data-surface=\"起こる\" data-reading=\"おこる\">起こる</span>だろう。",
-      "htmlFull": "<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>のそばの<ruby data-lemma=\"通り\" data-surface=\"通り\">通<rt>とお</rt></ruby>りは、<ruby data-lemma=\"今日\" data-surface=\"今日\">今日<rt>きょう</rt></ruby>もしずかだった。<ruby data-lemma=\"明日\" data-surface=\"明日\">明日<rt>あす</rt></ruby>、また、いろいろなことが、<ruby data-lemma=\"起こる\" data-surface=\"起こる\">起<rt>お</rt></ruby>こるだろう。"
+      "text": "川のそばの通りは今日もしずかだったが、明日はまた、いろいろなことが起こるだろう。",
+      "html": "<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>のそばの<span class=\"word\" data-lemma=\"通り\" data-surface=\"通り\" data-reading=\"とおり\">通り</span>は<span class=\"word\" data-lemma=\"今日\" data-surface=\"今日\" data-reading=\"きょう\">今日</span>もしずかだったが、<span class=\"word\" data-lemma=\"明日\" data-surface=\"明日\" data-reading=\"あす\">明日</span>はまた、いろいろなことが<span class=\"word\" data-lemma=\"起こる\" data-surface=\"起こる\" data-reading=\"おこる\">起こる</span>だろう。",
+      "htmlFull": "<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>のそばの<ruby data-lemma=\"通り\" data-surface=\"通り\">通<rt>とお</rt></ruby>りは<ruby data-lemma=\"今日\" data-surface=\"今日\">今日<rt>きょう</rt></ruby>もしずかだったが、<ruby data-lemma=\"明日\" data-surface=\"明日\">明日<rt>あす</rt></ruby>はまた、いろいろなことが<ruby data-lemma=\"起こる\" data-surface=\"起こる\">起<rt>お</rt></ruby>こるだろう。"
     }
   ],
   "focusVocab": [

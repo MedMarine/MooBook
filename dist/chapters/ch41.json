@@ -115,9 +115,9 @@
       "id": "p09",
       "kind": "narration",
       "speaker": null,
-      "text": "ドアからミイが入ってきた。ミイはあかい顔で、スニフをじっと見た。",
-      "html": "ドアからミイが<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>てきた。ミイはあかい<span class=\"word\" data-lemma=\"顔\" data-surface=\"顔\" data-reading=\"かお\">顔</span>で、スニフをじっと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。",
-      "htmlFull": "ドアからミイが<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>ってきた。ミイはあかい<ruby data-lemma=\"顔\" data-surface=\"顔\">顔<rt>かお</rt></ruby>で、スニフをじっと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。"
+      "text": "ドアから入って来たミイは、あかい顔で、スニフをじっと見た。",
+      "html": "ドアから<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たミイは、あかい<span class=\"word\" data-lemma=\"顔\" data-surface=\"顔\" data-reading=\"かお\">顔</span>で、スニフをじっと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。",
+      "htmlFull": "ドアから<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>って<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たミイは、あかい<ruby data-lemma=\"顔\" data-surface=\"顔\">顔<rt>かお</rt></ruby>で、スニフをじっと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。"
     },
     {
       "id": "p10",
@@ -155,9 +155,9 @@
       "id": "p14",
       "kind": "narration",
       "speaker": null,
-      "text": "そのとき、玄関のドアが開いた。ママが戻ってきた。ママはこわれたちゃわんを見た。スニフの顔を見た。ムーミンの顔も見た。ママの目は、やさしいのにさびしい。",
-      "html": "そのとき、<span class=\"word\" data-lemma=\"玄関\" data-surface=\"玄関\" data-reading=\"げんかん\">玄関</span>のドアが<span class=\"word\" data-lemma=\"開く\" data-surface=\"開い\" data-reading=\"ひらい\">開い</span>た。ママが<span class=\"word\" data-lemma=\"戻る\" data-surface=\"戻っ\" data-reading=\"もどっ\">戻っ</span>てきた。ママはこわれたちゃわんを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。スニフの<span class=\"word\" data-lemma=\"顔\" data-surface=\"顔\" data-reading=\"かお\">顔</span>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。ムーミンの<span class=\"word\" data-lemma=\"顔\" data-surface=\"顔\" data-reading=\"かお\">顔</span>も<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。ママの<span class=\"word\" data-lemma=\"目\" data-surface=\"目\" data-reading=\"め\">目</span>は、やさしいのにさびしい。",
-      "htmlFull": "そのとき、<ruby data-lemma=\"玄関\" data-surface=\"玄関\">玄関<rt>げんかん</rt></ruby>のドアが<ruby data-lemma=\"開く\" data-surface=\"開い\">開<rt>ひら</rt></ruby>いた。ママが<ruby data-lemma=\"戻る\" data-surface=\"戻っ\">戻<rt>もど</rt></ruby>ってきた。ママはこわれたちゃわんを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。スニフの<ruby data-lemma=\"顔\" data-surface=\"顔\">顔<rt>かお</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。ムーミンの<ruby data-lemma=\"顔\" data-surface=\"顔\">顔<rt>かお</rt></ruby>も<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。ママの<ruby data-lemma=\"目\" data-surface=\"目\">目<rt>め</rt></ruby>は、やさしいのにさびしい。"
+      "text": "そのとき、玄関のドアが開いて、ママが戻ってきた。ママはこわれたちゃわんを見た。スニフの顔を見た。ムーミンの顔も見た。ママの目は、やさしいのにさびしい。",
+      "html": "そのとき、<span class=\"word\" data-lemma=\"玄関\" data-surface=\"玄関\" data-reading=\"げんかん\">玄関</span>のドアが<span class=\"word\" data-lemma=\"開く\" data-surface=\"開い\" data-reading=\"ひらい\">開い</span>て、ママが<span class=\"word\" data-lemma=\"戻る\" data-surface=\"戻っ\" data-reading=\"もどっ\">戻っ</span>てきた。ママはこわれたちゃわんを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。スニフの<span class=\"word\" data-lemma=\"顔\" data-surface=\"顔\" data-reading=\"かお\">顔</span>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。ムーミンの<span class=\"word\" data-lemma=\"顔\" data-surface=\"顔\" data-reading=\"かお\">顔</span>も<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。ママの<span class=\"word\" data-lemma=\"目\" data-surface=\"目\" data-reading=\"め\">目</span>は、やさしいのにさびしい。",
+      "htmlFull": "そのとき、<ruby data-lemma=\"玄関\" data-surface=\"玄関\">玄関<rt>げんかん</rt></ruby>のドアが<ruby data-lemma=\"開く\" data-surface=\"開い\">開<rt>ひら</rt></ruby>いて、ママが<ruby data-lemma=\"戻る\" data-surface=\"戻っ\">戻<rt>もど</rt></ruby>ってきた。ママはこわれたちゃわんを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。スニフの<ruby data-lemma=\"顔\" data-surface=\"顔\">顔<rt>かお</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。ムーミンの<ruby data-lemma=\"顔\" data-surface=\"顔\">顔<rt>かお</rt></ruby>も<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。ママの<ruby data-lemma=\"目\" data-surface=\"目\">目<rt>め</rt></ruby>は、やさしいのにさびしい。"
     },
     {
       "id": "p15",

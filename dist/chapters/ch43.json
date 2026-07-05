@@ -55,9 +55,9 @@
       "id": "p01",
       "kind": "narration",
       "speaker": null,
-      "text": "春が来た。雪はもうない。ムーミン谷の朝はあかるくてあたたかい。ムーミンパパとムーミンママは、台所でお茶を飲んでいる。",
-      "html": "<span class=\"word\" data-lemma=\"春\" data-surface=\"春\" data-reading=\"はる\">春</span>が<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。<span class=\"word\" data-lemma=\"雪\" data-surface=\"雪\" data-reading=\"ゆき\">雪</span>はもうない。ムーミン<span class=\"word\" data-lemma=\"谷\" data-surface=\"谷\" data-reading=\"たに\">谷</span>の<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>はあかるくてあたたかい。ムーミンパパとムーミンママは、<span class=\"word\" data-lemma=\"台所\" data-surface=\"台所\" data-reading=\"だいどころ\">台所</span>でお<span class=\"word\" data-lemma=\"茶\" data-surface=\"茶\" data-reading=\"ちゃ\">茶</span>を<span class=\"word\" data-lemma=\"飲む\" data-surface=\"飲ん\" data-reading=\"のん\">飲ん</span>でいる。",
-      "htmlFull": "<ruby data-lemma=\"春\" data-surface=\"春\">春<rt>はる</rt></ruby>が<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。<ruby data-lemma=\"雪\" data-surface=\"雪\">雪<rt>ゆき</rt></ruby>はもうない。ムーミン<ruby data-lemma=\"谷\" data-surface=\"谷\">谷<rt>たに</rt></ruby>の<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>はあかるくてあたたかい。ムーミンパパとムーミンママは、<ruby data-lemma=\"台所\" data-surface=\"台所\">台所<rt>だいどころ</rt></ruby>でお<ruby data-lemma=\"茶\" data-surface=\"茶\">茶<rt>ちゃ</rt></ruby>を<ruby data-lemma=\"飲む\" data-surface=\"飲ん\">飲<rt>の</rt></ruby>んでいる。"
+      "text": "春が来て、雪はもうない。ムーミン谷の朝はあかるくてあたたかい。ムーミンパパとムーミンママは、台所でお茶を飲んでいる。",
+      "html": "<span class=\"word\" data-lemma=\"春\" data-surface=\"春\" data-reading=\"はる\">春</span>が<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>て、<span class=\"word\" data-lemma=\"雪\" data-surface=\"雪\" data-reading=\"ゆき\">雪</span>はもうない。ムーミン<span class=\"word\" data-lemma=\"谷\" data-surface=\"谷\" data-reading=\"たに\">谷</span>の<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>はあかるくてあたたかい。ムーミンパパとムーミンママは、<span class=\"word\" data-lemma=\"台所\" data-surface=\"台所\" data-reading=\"だいどころ\">台所</span>でお<span class=\"word\" data-lemma=\"茶\" data-surface=\"茶\" data-reading=\"ちゃ\">茶</span>を<span class=\"word\" data-lemma=\"飲む\" data-surface=\"飲ん\" data-reading=\"のん\">飲ん</span>でいる。",
+      "htmlFull": "<ruby data-lemma=\"春\" data-surface=\"春\">春<rt>はる</rt></ruby>が<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>て、<ruby data-lemma=\"雪\" data-surface=\"雪\">雪<rt>ゆき</rt></ruby>はもうない。ムーミン<ruby data-lemma=\"谷\" data-surface=\"谷\">谷<rt>たに</rt></ruby>の<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>はあかるくてあたたかい。ムーミンパパとムーミンママは、<ruby data-lemma=\"台所\" data-surface=\"台所\">台所<rt>だいどころ</rt></ruby>でお<ruby data-lemma=\"茶\" data-surface=\"茶\">茶<rt>ちゃ</rt></ruby>を<ruby data-lemma=\"飲む\" data-surface=\"飲ん\">飲<rt>の</rt></ruby>んでいる。"
     },
     {
       "id": "p02",
@@ -215,9 +215,9 @@
       "id": "p21",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンは庭で、すこしのあいだ立っていた。ママがうしろから、あたたかい手をムーミンの頭においた。",
-      "html": "ムーミンは<span class=\"word\" data-lemma=\"庭\" data-surface=\"庭\" data-reading=\"にわ\">庭</span>で、すこしのあいだ<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>ていた。ママがうしろから、あたたかい<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>をムーミンの<span class=\"word\" data-lemma=\"頭\" data-surface=\"頭\" data-reading=\"あたま\">頭</span>においた。",
-      "htmlFull": "ムーミンは<ruby data-lemma=\"庭\" data-surface=\"庭\">庭<rt>にわ</rt></ruby>で、すこしのあいだ<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>っていた。ママがうしろから、あたたかい<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>をムーミンの<ruby data-lemma=\"頭\" data-surface=\"頭\">頭<rt>あたま</rt></ruby>においた。"
+      "text": "ムーミンが庭ですこしのあいだ立っていると、ママがうしろから、あたたかい手を頭においた。",
+      "html": "ムーミンが<span class=\"word\" data-lemma=\"庭\" data-surface=\"庭\" data-reading=\"にわ\">庭</span>ですこしのあいだ<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>ていると、ママがうしろから、あたたかい<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>を<span class=\"word\" data-lemma=\"頭\" data-surface=\"頭\" data-reading=\"あたま\">頭</span>においた。",
+      "htmlFull": "ムーミンが<ruby data-lemma=\"庭\" data-surface=\"庭\">庭<rt>にわ</rt></ruby>ですこしのあいだ<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>っていると、ママがうしろから、あたたかい<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>を<ruby data-lemma=\"頭\" data-surface=\"頭\">頭<rt>あたま</rt></ruby>においた。"
     },
     {
       "id": "p22",
