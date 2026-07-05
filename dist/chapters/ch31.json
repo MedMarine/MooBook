@@ -32,10 +32,10 @@
     "characters": [
       "ムーミン",
       "パパ",
-      "スニフ"
+      "スニフ",
+      "ママ"
     ],
     "mentioned": [
-      "ママ",
       "スナフキン"
     ],
     "motifs": [
@@ -53,17 +53,17 @@
       "id": "p01",
       "kind": "narration",
       "speaker": null,
-      "text": "朝、ムーミン一家は、川の河口に船を出した。パパは張り切っていて、オールをしっかり手にもっていた。",
-      "html": "<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>、ムーミン<span class=\"word\" data-lemma=\"一家\" data-surface=\"一家\" data-reading=\"いっか\">一家</span>は、<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>の<ruby data-lemma=\"河口\" data-surface=\"河口\">河口<rt>かこう</rt></ruby>に<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>を<span class=\"word\" data-lemma=\"出す\" data-surface=\"出し\" data-reading=\"だし\">出し</span>た。パパは<ruby data-lemma=\"張り切る\" data-surface=\"張り切っ\">張り切<rt>はりき</rt></ruby>っていて、オールをしっかり<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>にもっていた。",
-      "htmlFull": "<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>、ムーミン<ruby data-lemma=\"一家\" data-surface=\"一家\">一家<rt>いっか</rt></ruby>は、<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>の<ruby data-lemma=\"河口\" data-surface=\"河口\">河口<rt>かこう</rt></ruby>に<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>を<ruby data-lemma=\"出す\" data-surface=\"出し\">出<rt>だ</rt></ruby>した。パパは<ruby data-lemma=\"張り切る\" data-surface=\"張り切っ\">張り切<rt>はりき</rt></ruby>っていて、オールをしっかり<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>にもっていた。"
+      "text": "朝、ムーミンとパパとスニフは、川の河口に船を出した。パパは、朝からとても元気で、オールを手にもっていた。",
+      "html": "<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>、ムーミンとパパとスニフは、<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>の<ruby data-lemma=\"河口\" data-surface=\"河口\">河口<rt>かこう</rt></ruby>に<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>を<span class=\"word\" data-lemma=\"出す\" data-surface=\"出し\" data-reading=\"だし\">出し</span>た。パパは、<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>からとても<span class=\"word\" data-lemma=\"元気\" data-surface=\"元気\" data-reading=\"げんき\">元気</span>で、オールを<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>にもっていた。",
+      "htmlFull": "<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>、ムーミンとパパとスニフは、<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>の<ruby data-lemma=\"河口\" data-surface=\"河口\">河口<rt>かこう</rt></ruby>に<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>を<ruby data-lemma=\"出す\" data-surface=\"出し\">出<rt>だ</rt></ruby>した。パパは、<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>からとても<ruby data-lemma=\"元気\" data-surface=\"元気\">元気<rt>げんき</rt></ruby>で、オールを<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>にもっていた。"
     },
     {
       "id": "p02",
       "kind": "dialogue",
       "speaker": "パパ",
-      "text": "さあ、みんな、船で行こう！船を漕ぐのは、すごく気持ちがいいぞ。",
-      "html": "さあ、みんな、<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>で<span class=\"word\" data-lemma=\"行く\" data-surface=\"行こう\" data-reading=\"いこう\">行こう</span>！<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>を<ruby data-lemma=\"漕ぐ\" data-surface=\"漕ぐ\">漕<rt>こ</rt></ruby>ぐのは、すごく<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>がいいぞ。",
-      "htmlFull": "さあ、みんな、<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>で<ruby data-lemma=\"行く\" data-surface=\"行こう\">行<rt>い</rt></ruby>こう！<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>を<ruby data-lemma=\"漕ぐ\" data-surface=\"漕ぐ\">漕<rt>こ</rt></ruby>ぐのは、すごく<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちがいいぞ。"
+      "text": "さあ、みんな、船で行こう！今朝は、気圧も見た。いい天気になるぞ。船を漕ぐのは、すごく気持ちがいいぞ。",
+      "html": "さあ、みんな、<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>で<span class=\"word\" data-lemma=\"行く\" data-surface=\"行こう\" data-reading=\"いこう\">行こう</span>！<span class=\"word\" data-lemma=\"今朝\" data-surface=\"今朝\" data-reading=\"けさ\">今朝</span>は、<span class=\"word\" data-lemma=\"気圧\" data-surface=\"気圧\" data-reading=\"きあつ\">気圧</span>も<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。いい<span class=\"word\" data-lemma=\"天気\" data-surface=\"天気\" data-reading=\"てんき\">天気</span>になるぞ。<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>を<ruby data-lemma=\"漕ぐ\" data-surface=\"漕ぐ\">漕<rt>こ</rt></ruby>ぐのは、すごく<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>がいいぞ。",
+      "htmlFull": "さあ、みんな、<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>で<ruby data-lemma=\"行く\" data-surface=\"行こう\">行<rt>い</rt></ruby>こう！<ruby data-lemma=\"今朝\" data-surface=\"今朝\">今朝<rt>けさ</rt></ruby>は、<ruby data-lemma=\"気圧\" data-surface=\"気圧\">気圧<rt>きあつ</rt></ruby>も<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。いい<ruby data-lemma=\"天気\" data-surface=\"天気\">天気<rt>てんき</rt></ruby>になるぞ。<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>を<ruby data-lemma=\"漕ぐ\" data-surface=\"漕ぐ\">漕<rt>こ</rt></ruby>ぐのは、すごく<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちがいいぞ。"
     },
     {
       "id": "p03",
@@ -77,9 +77,9 @@
       "id": "p04",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンは、パパのそばにすわって、いっしょにオールを動かした。パパは大きく漕ぎ、ムーミンも小さく漕いで、手伝った。",
-      "html": "ムーミンは、パパのそばにすわって、いっしょにオールを<span class=\"word\" data-lemma=\"動かす\" data-surface=\"動かし\" data-reading=\"うごかし\">動かし</span>た。パパは<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きく\" data-reading=\"おおきく\">大きく</span><ruby data-lemma=\"漕ぐ\" data-surface=\"漕ぎ\">漕<rt>こ</rt></ruby>ぎ、ムーミンも<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さく\" data-reading=\"ちいさく\">小さく</span><ruby data-lemma=\"漕ぐ\" data-surface=\"漕い\">漕<rt>こ</rt></ruby>いで、<ruby data-lemma=\"手伝う\" data-surface=\"手伝っ\">手伝<rt>てつだ</rt></ruby>った。",
-      "htmlFull": "ムーミンは、パパのそばにすわって、いっしょにオールを<ruby data-lemma=\"動かす\" data-surface=\"動かし\">動<rt>うご</rt></ruby>かした。パパは<ruby data-lemma=\"大きい\" data-surface=\"大きく\">大<rt>おお</rt></ruby>きく<ruby data-lemma=\"漕ぐ\" data-surface=\"漕ぎ\">漕<rt>こ</rt></ruby>ぎ、ムーミンも<ruby data-lemma=\"小さい\" data-surface=\"小さく\">小<rt>ちい</rt></ruby>さく<ruby data-lemma=\"漕ぐ\" data-surface=\"漕い\">漕<rt>こ</rt></ruby>いで、<ruby data-lemma=\"手伝う\" data-surface=\"手伝っ\">手伝<rt>てつだ</rt></ruby>った。"
+      "text": "ムーミンは、パパのそばにすわって、いっしょに漕いだ。パパは大きく漕ぎ、ムーミンも小さく漕いで、手伝った。",
+      "html": "ムーミンは、パパのそばにすわって、いっしょに<ruby data-lemma=\"漕ぐ\" data-surface=\"漕い\">漕<rt>こ</rt></ruby>いだ。パパは<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きく\" data-reading=\"おおきく\">大きく</span><ruby data-lemma=\"漕ぐ\" data-surface=\"漕ぎ\">漕<rt>こ</rt></ruby>ぎ、ムーミンも<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さく\" data-reading=\"ちいさく\">小さく</span><ruby data-lemma=\"漕ぐ\" data-surface=\"漕い\">漕<rt>こ</rt></ruby>いで、<ruby data-lemma=\"手伝う\" data-surface=\"手伝っ\">手伝<rt>てつだ</rt></ruby>った。",
+      "htmlFull": "ムーミンは、パパのそばにすわって、いっしょに<ruby data-lemma=\"漕ぐ\" data-surface=\"漕い\">漕<rt>こ</rt></ruby>いだ。パパは<ruby data-lemma=\"大きい\" data-surface=\"大きく\">大<rt>おお</rt></ruby>きく<ruby data-lemma=\"漕ぐ\" data-surface=\"漕ぎ\">漕<rt>こ</rt></ruby>ぎ、ムーミンも<ruby data-lemma=\"小さい\" data-surface=\"小さく\">小<rt>ちい</rt></ruby>さく<ruby data-lemma=\"漕ぐ\" data-surface=\"漕い\">漕<rt>こ</rt></ruby>いで、<ruby data-lemma=\"手伝う\" data-surface=\"手伝っ\">手伝<rt>てつだ</rt></ruby>った。"
     },
     {
       "id": "p05",
@@ -94,32 +94,32 @@
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "大丈夫だよ、スニフ。ぼくは泳げるから、おちたら助けてあげる。",
-      "html": "<span class=\"word\" data-lemma=\"大丈夫\" data-surface=\"大丈夫\" data-reading=\"だいじょうぶ\">大丈夫</span>だよ、スニフ。ぼくは<span class=\"word\" data-lemma=\"泳ぐ\" data-surface=\"泳げる\" data-reading=\"およげる\">泳げる</span>から、おちたら<span class=\"word\" data-lemma=\"助ける\" data-surface=\"助け\" data-reading=\"たすけ\">助け</span>てあげる。",
+      "html": "<ruby data-lemma=\"大丈夫\" data-surface=\"大丈夫\">大丈夫<rt>だいじょうぶ</rt></ruby>だよ、スニフ。ぼくは<span class=\"word\" data-lemma=\"泳ぐ\" data-surface=\"泳げる\" data-reading=\"およげる\">泳げる</span>から、おちたら<span class=\"word\" data-lemma=\"助ける\" data-surface=\"助け\" data-reading=\"たすけ\">助け</span>てあげる。",
       "htmlFull": "<ruby data-lemma=\"大丈夫\" data-surface=\"大丈夫\">大丈夫<rt>だいじょうぶ</rt></ruby>だよ、スニフ。ぼくは<ruby data-lemma=\"泳ぐ\" data-surface=\"泳げる\">泳<rt>およ</rt></ruby>げるから、おちたら<ruby data-lemma=\"助ける\" data-surface=\"助け\">助<rt>たす</rt></ruby>けてあげる。"
     },
     {
       "id": "p07",
       "kind": "dialogue",
       "speaker": "パパ",
-      "text": "こいつの船は、とにかくよく進むぞ。ムーミン、もっと漕ごう！そろそろ、帆も張ろうか。",
-      "html": "こいつの<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>は、とにかくよく<span class=\"word\" data-lemma=\"進む\" data-surface=\"進む\" data-reading=\"すすむ\">進む</span>ぞ。ムーミン、もっと<ruby data-lemma=\"漕ぐ\" data-surface=\"漕ごう\">漕<rt>こ</rt></ruby>ごう！そろそろ、<ruby data-lemma=\"帆\" data-surface=\"帆\">帆<rt>ほ</rt></ruby>も<ruby data-lemma=\"張る\" data-surface=\"張ろう\">張<rt>は</rt></ruby>ろうか。",
-      "htmlFull": "こいつの<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>は、とにかくよく<ruby data-lemma=\"進む\" data-surface=\"進む\">進<rt>すす</rt></ruby>むぞ。ムーミン、もっと<ruby data-lemma=\"漕ぐ\" data-surface=\"漕ごう\">漕<rt>こ</rt></ruby>ごう！そろそろ、<ruby data-lemma=\"帆\" data-surface=\"帆\">帆<rt>ほ</rt></ruby>も<ruby data-lemma=\"張る\" data-surface=\"張ろう\">張<rt>は</rt></ruby>ろうか。"
+      "text": "こいつは、とにかくよく進むぞ。ムーミン、もっと漕ごう！そろそろ、帆も張ろうか。",
+      "html": "こいつは、とにかくよく<span class=\"word\" data-lemma=\"進む\" data-surface=\"進む\" data-reading=\"すすむ\">進む</span>ぞ。ムーミン、もっと<ruby data-lemma=\"漕ぐ\" data-surface=\"漕ごう\">漕<rt>こ</rt></ruby>ごう！そろそろ、<ruby data-lemma=\"帆\" data-surface=\"帆\">帆<rt>ほ</rt></ruby>も<ruby data-lemma=\"張る\" data-surface=\"張ろう\">張<rt>は</rt></ruby>ろうか。",
+      "htmlFull": "こいつは、とにかくよく<ruby data-lemma=\"進む\" data-surface=\"進む\">進<rt>すす</rt></ruby>むぞ。ムーミン、もっと<ruby data-lemma=\"漕ぐ\" data-surface=\"漕ごう\">漕<rt>こ</rt></ruby>ごう！そろそろ、<ruby data-lemma=\"帆\" data-surface=\"帆\">帆<rt>ほ</rt></ruby>も<ruby data-lemma=\"張る\" data-surface=\"張ろう\">張<rt>は</rt></ruby>ろうか。"
     },
     {
       "id": "p07b",
       "kind": "narration",
       "speaker": null,
-      "text": "パパは、小さい帆をしっかり張った。風がすこし出て来て、張った帆に風が入って、船はもっと速くなった。",
-      "html": "パパは、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><ruby data-lemma=\"帆\" data-surface=\"帆\">帆<rt>ほ</rt></ruby>をしっかり<ruby data-lemma=\"張る\" data-surface=\"張っ\">張<rt>は</rt></ruby>った。<span class=\"word\" data-lemma=\"風\" data-surface=\"風\" data-reading=\"かぜ\">風</span>がすこし<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>て、<ruby data-lemma=\"張る\" data-surface=\"張っ\">張<rt>は</rt></ruby>った<ruby data-lemma=\"帆\" data-surface=\"帆\">帆<rt>ほ</rt></ruby>に<span class=\"word\" data-lemma=\"風\" data-surface=\"風\" data-reading=\"かぜ\">風</span>が<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>て、<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>はもっと<span class=\"word\" data-lemma=\"早い\" data-surface=\"速く\" data-reading=\"はやく\">速く</span>なった。",
-      "htmlFull": "パパは、<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"帆\" data-surface=\"帆\">帆<rt>ほ</rt></ruby>をしっかり<ruby data-lemma=\"張る\" data-surface=\"張っ\">張<rt>は</rt></ruby>った。<ruby data-lemma=\"風\" data-surface=\"風\">風<rt>かぜ</rt></ruby>がすこし<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>て<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>て、<ruby data-lemma=\"張る\" data-surface=\"張っ\">張<rt>は</rt></ruby>った<ruby data-lemma=\"帆\" data-surface=\"帆\">帆<rt>ほ</rt></ruby>に<ruby data-lemma=\"風\" data-surface=\"風\">風<rt>かぜ</rt></ruby>が<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>って、<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>はもっと<ruby data-lemma=\"早い\" data-surface=\"速く\">速<rt>はや</rt></ruby>くなった。"
+      "text": "パパは、小さい帆を張った。風がすこし出て来て、張った帆に風が入って、船はもっと速くなった。",
+      "html": "パパは、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><ruby data-lemma=\"帆\" data-surface=\"帆\">帆<rt>ほ</rt></ruby>を<ruby data-lemma=\"張る\" data-surface=\"張っ\">張<rt>は</rt></ruby>った。<span class=\"word\" data-lemma=\"風\" data-surface=\"風\" data-reading=\"かぜ\">風</span>がすこし<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>て、<ruby data-lemma=\"張る\" data-surface=\"張っ\">張<rt>は</rt></ruby>った<ruby data-lemma=\"帆\" data-surface=\"帆\">帆<rt>ほ</rt></ruby>に<span class=\"word\" data-lemma=\"風\" data-surface=\"風\" data-reading=\"かぜ\">風</span>が<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>て、<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>はもっと<span class=\"word\" data-lemma=\"早い\" data-surface=\"速く\" data-reading=\"はやく\">速く</span>なった。",
+      "htmlFull": "パパは、<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"帆\" data-surface=\"帆\">帆<rt>ほ</rt></ruby>を<ruby data-lemma=\"張る\" data-surface=\"張っ\">張<rt>は</rt></ruby>った。<ruby data-lemma=\"風\" data-surface=\"風\">風<rt>かぜ</rt></ruby>がすこし<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>て<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>て、<ruby data-lemma=\"張る\" data-surface=\"張っ\">張<rt>は</rt></ruby>った<ruby data-lemma=\"帆\" data-surface=\"帆\">帆<rt>ほ</rt></ruby>に<ruby data-lemma=\"風\" data-surface=\"風\">風<rt>かぜ</rt></ruby>が<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>って、<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>はもっと<ruby data-lemma=\"早い\" data-surface=\"速く\">速<rt>はや</rt></ruby>くなった。"
     },
     {
       "id": "p08",
       "kind": "narration",
       "speaker": null,
-      "text": "船は川の水の上を、ゆっくりと進んでいく。ママは河口のそばに立って、みんなに手をふっていた。",
-      "html": "<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>は<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>の<span class=\"word\" data-lemma=\"水\" data-surface=\"水\" data-reading=\"みず\">水</span>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>を、ゆっくりと<span class=\"word\" data-lemma=\"進む\" data-surface=\"進ん\" data-reading=\"すすん\">進ん</span>でいく。ママは<ruby data-lemma=\"河口\" data-surface=\"河口\">河口<rt>かこう</rt></ruby>のそばに<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>て、みんなに<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>をふっていた。",
-      "htmlFull": "<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>は<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>の<ruby data-lemma=\"水\" data-surface=\"水\">水<rt>みず</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>を、ゆっくりと<ruby data-lemma=\"進む\" data-surface=\"進ん\">進<rt>すす</rt></ruby>んでいく。ママは<ruby data-lemma=\"河口\" data-surface=\"河口\">河口<rt>かこう</rt></ruby>のそばに<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>って、みんなに<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>をふっていた。"
+      "text": "船は川の水の上を、ゆっくりと進んでいく。ママは河口のそばに立って、大きい声でみんなを呼んだ。",
+      "html": "<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>は<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>の<span class=\"word\" data-lemma=\"水\" data-surface=\"水\" data-reading=\"みず\">水</span>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>を、ゆっくりと<span class=\"word\" data-lemma=\"進む\" data-surface=\"進ん\" data-reading=\"すすん\">進ん</span>でいく。ママは<ruby data-lemma=\"河口\" data-surface=\"河口\">河口<rt>かこう</rt></ruby>のそばに<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>て、<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>でみんなを<ruby data-lemma=\"呼ぶ\" data-surface=\"呼ん\">呼<rt>よ</rt></ruby>んだ。",
+      "htmlFull": "<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>は<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>の<ruby data-lemma=\"水\" data-surface=\"水\">水<rt>みず</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>を、ゆっくりと<ruby data-lemma=\"進む\" data-surface=\"進ん\">進<rt>すす</rt></ruby>んでいく。ママは<ruby data-lemma=\"河口\" data-surface=\"河口\">河口<rt>かこう</rt></ruby>のそばに<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>って、<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>でみんなを<ruby data-lemma=\"呼ぶ\" data-surface=\"呼ん\">呼<rt>よ</rt></ruby>んだ。"
     },
     {
       "id": "p09",
@@ -133,17 +133,17 @@
       "id": "p10",
       "kind": "dialogue",
       "speaker": "パパ",
-      "text": "わかった！あとで戻るぞ。あと、何秒かで、海だな。",
-      "html": "わかった！あとで<span class=\"word\" data-lemma=\"戻る\" data-surface=\"戻る\" data-reading=\"もどる\">戻る</span>ぞ。あと、<span class=\"word\" data-lemma=\"何\" data-surface=\"何\" data-reading=\"なん\">何</span><span class=\"word\" data-lemma=\"秒\" data-surface=\"秒\" data-reading=\"びょう\">秒</span>かで、<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>だな。",
-      "htmlFull": "わかった！あとで<ruby data-lemma=\"戻る\" data-surface=\"戻る\">戻<rt>もど</rt></ruby>るぞ。あと、<ruby data-lemma=\"何\" data-surface=\"何\">何<rt>なん</rt></ruby><ruby data-lemma=\"秒\" data-surface=\"秒\">秒<rt>びょう</rt></ruby>かで、<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>だな。"
+      "text": "わかった！昼までに戻るぞ。もうすぐ、海だな。",
+      "html": "わかった！<span class=\"word\" data-lemma=\"昼\" data-surface=\"昼\" data-reading=\"ひる\">昼</span>までに<span class=\"word\" data-lemma=\"戻る\" data-surface=\"戻る\" data-reading=\"もどる\">戻る</span>ぞ。もうすぐ、<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>だな。",
+      "htmlFull": "わかった！<ruby data-lemma=\"昼\" data-surface=\"昼\">昼<rt>ひる</rt></ruby>までに<ruby data-lemma=\"戻る\" data-surface=\"戻る\">戻<rt>もど</rt></ruby>るぞ。もうすぐ、<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>だな。"
     },
     {
       "id": "p11",
       "kind": "dialogue",
       "speaker": "ムーミン",
-      "text": "あと、五秒！いそごう、パパ！",
-      "html": "あと、<span class=\"word\" data-lemma=\"五\" data-surface=\"五\" data-reading=\"ご\">五</span><span class=\"word\" data-lemma=\"秒\" data-surface=\"秒\" data-reading=\"びょう\">秒</span>！いそごう、パパ！",
-      "htmlFull": "あと、<ruby data-lemma=\"五\" data-surface=\"五\">五<rt>ご</rt></ruby><ruby data-lemma=\"秒\" data-surface=\"秒\">秒<rt>びょう</rt></ruby>！いそごう、パパ！"
+      "text": "見て、船の先に、海が見えるよ！いそごう、パパ！",
+      "html": "<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>て、<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>の<span class=\"word\" data-lemma=\"先\" data-surface=\"先\" data-reading=\"さき\">先</span>に、<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>が<span class=\"word\" data-lemma=\"見える\" data-surface=\"見える\" data-reading=\"みえる\">見える</span>よ！いそごう、パパ！",
+      "htmlFull": "<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>て、<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>の<ruby data-lemma=\"先\" data-surface=\"先\">先<rt>さき</rt></ruby>に、<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>が<ruby data-lemma=\"見える\" data-surface=\"見える\">見<rt>み</rt></ruby>えるよ！いそごう、パパ！"
     },
     {
       "id": "p12",
@@ -157,9 +157,9 @@
       "id": "p13",
       "kind": "dialogue",
       "speaker": "スニフ",
-      "text": "船に乗るのは、地獄だと思ってたけど、けっこう楽しいね。",
-      "html": "<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>に<span class=\"word\" data-lemma=\"乗る\" data-surface=\"乗る\" data-reading=\"のる\">乗る</span>のは、<ruby data-lemma=\"地獄\" data-surface=\"地獄\">地獄<rt>じごく</rt></ruby>だと<span class=\"word\" data-lemma=\"思う\" data-surface=\"思っ\" data-reading=\"おもっ\">思っ</span>てたけど、けっこう<span class=\"word\" data-lemma=\"楽しい\" data-surface=\"楽しい\" data-reading=\"たのしい\">楽しい</span>ね。",
-      "htmlFull": "<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>に<ruby data-lemma=\"乗る\" data-surface=\"乗る\">乗<rt>の</rt></ruby>るのは、<ruby data-lemma=\"地獄\" data-surface=\"地獄\">地獄<rt>じごく</rt></ruby>だと<ruby data-lemma=\"思う\" data-surface=\"思っ\">思<rt>おも</rt></ruby>ってたけど、けっこう<ruby data-lemma=\"楽しい\" data-surface=\"楽しい\">楽<rt>たの</rt></ruby>しいね。"
+      "text": "船に乗るのは、地獄だと思ってたけど、本当に楽しいね。",
+      "html": "<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>に<span class=\"word\" data-lemma=\"乗る\" data-surface=\"乗る\" data-reading=\"のる\">乗る</span>のは、<ruby data-lemma=\"地獄\" data-surface=\"地獄\">地獄<rt>じごく</rt></ruby>だと<span class=\"word\" data-lemma=\"思う\" data-surface=\"思っ\" data-reading=\"おもっ\">思っ</span>てたけど、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に<span class=\"word\" data-lemma=\"楽しい\" data-surface=\"楽しい\" data-reading=\"たのしい\">楽しい</span>ね。",
+      "htmlFull": "<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>に<ruby data-lemma=\"乗る\" data-surface=\"乗る\">乗<rt>の</rt></ruby>るのは、<ruby data-lemma=\"地獄\" data-surface=\"地獄\">地獄<rt>じごく</rt></ruby>だと<ruby data-lemma=\"思う\" data-surface=\"思っ\">思<rt>おも</rt></ruby>ってたけど、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に<ruby data-lemma=\"楽しい\" data-surface=\"楽しい\">楽<rt>たの</rt></ruby>しいね。"
     },
     {
       "id": "p14",
@@ -173,17 +173,17 @@
       "id": "p15",
       "kind": "dialogue",
       "speaker": "パパ",
-      "text": "はは、スニフは、こいつみたいに、すぐに気持ちが変わるな。",
-      "html": "はは、スニフは、こいつみたいに、すぐに<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>が<span class=\"word\" data-lemma=\"変わる\" data-surface=\"変わる\" data-reading=\"かわる\">変わる</span>な。",
-      "htmlFull": "はは、スニフは、こいつみたいに、すぐに<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちが<ruby data-lemma=\"変わる\" data-surface=\"変わる\">変<rt>か</rt></ruby>わるな。"
+      "text": "はは、スニフは、すぐに気持ちが変わるなあ。",
+      "html": "はは、スニフは、すぐに<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>が<span class=\"word\" data-lemma=\"変わる\" data-surface=\"変わる\" data-reading=\"かわる\">変わる</span>なあ。",
+      "htmlFull": "はは、スニフは、すぐに<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちが<ruby data-lemma=\"変わる\" data-surface=\"変わる\">変<rt>か</rt></ruby>わるなあ。"
     },
     {
       "id": "p16",
       "kind": "narration",
       "speaker": null,
-      "text": "海の近くで、船はしばらく止まった。ムーミンとパパは、オールをおいて、ひとやすみした。",
-      "html": "<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>の<span class=\"word\" data-lemma=\"近く\" data-surface=\"近く\" data-reading=\"ちかく\">近く</span>で、<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>はしばらく<span class=\"word\" data-lemma=\"止まる\" data-surface=\"止まっ\" data-reading=\"とまっ\">止まっ</span>た。ムーミンとパパは、オールをおいて、ひとやすみした。",
-      "htmlFull": "<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>の<ruby data-lemma=\"近く\" data-surface=\"近く\">近<rt>ちか</rt></ruby>くで、<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>はしばらく<ruby data-lemma=\"止まる\" data-surface=\"止まっ\">止<rt>と</rt></ruby>まった。ムーミンとパパは、オールをおいて、ひとやすみした。"
+      "text": "海の近くで、船はしばらく止まった。ムーミンとパパは、オールをおいて、少し休んだ。空は青く、川の上の風は、気持ちよかった。",
+      "html": "<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>の<span class=\"word\" data-lemma=\"近く\" data-surface=\"近く\" data-reading=\"ちかく\">近く</span>で、<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>はしばらく<span class=\"word\" data-lemma=\"止まる\" data-surface=\"止まっ\" data-reading=\"とまっ\">止まっ</span>た。ムーミンとパパは、オールをおいて、<span class=\"word\" data-lemma=\"少し\" data-surface=\"少し\" data-reading=\"すこし\">少し</span><span class=\"word\" data-lemma=\"休む\" data-surface=\"休ん\" data-reading=\"やすん\">休ん</span>だ。<span class=\"word\" data-lemma=\"空\" data-surface=\"空\" data-reading=\"そら\">空</span>は<span class=\"word\" data-lemma=\"青い\" data-surface=\"青く\" data-reading=\"あおく\">青く</span>、<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>の<span class=\"word\" data-lemma=\"風\" data-surface=\"風\" data-reading=\"かぜ\">風</span>は、<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>よかった。",
+      "htmlFull": "<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>の<ruby data-lemma=\"近く\" data-surface=\"近く\">近<rt>ちか</rt></ruby>くで、<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>はしばらく<ruby data-lemma=\"止まる\" data-surface=\"止まっ\">止<rt>と</rt></ruby>まった。ムーミンとパパは、オールをおいて、<ruby data-lemma=\"少し\" data-surface=\"少し\">少<rt>すこ</rt></ruby>し<ruby data-lemma=\"休む\" data-surface=\"休ん\">休<rt>やす</rt></ruby>んだ。<ruby data-lemma=\"空\" data-surface=\"空\">空<rt>そら</rt></ruby>は<ruby data-lemma=\"青い\" data-surface=\"青く\">青<rt>あお</rt></ruby>く、<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>の<ruby data-lemma=\"風\" data-surface=\"風\">風<rt>かぜ</rt></ruby>は、<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちよかった。"
     },
     {
       "id": "p17",
@@ -197,33 +197,33 @@
       "id": "p18",
       "kind": "dialogue",
       "speaker": "パパ",
-      "text": "そうだな、ムーミン。こいつの夏も、とにかく、いい夏になるぞ。",
-      "html": "そうだな、ムーミン。こいつの<span class=\"word\" data-lemma=\"夏\" data-surface=\"夏\" data-reading=\"なつ\">夏</span>も、とにかく、いい<span class=\"word\" data-lemma=\"夏\" data-surface=\"夏\" data-reading=\"なつ\">夏</span>になるぞ。",
-      "htmlFull": "そうだな、ムーミン。こいつの<ruby data-lemma=\"夏\" data-surface=\"夏\">夏<rt>なつ</rt></ruby>も、とにかく、いい<ruby data-lemma=\"夏\" data-surface=\"夏\">夏<rt>なつ</rt></ruby>になるぞ。"
+      "text": "そうだな、ムーミン。今年の夏も、とにかく、いい夏になるぞ。",
+      "html": "そうだな、ムーミン。<span class=\"word\" data-lemma=\"今年\" data-surface=\"今年\" data-reading=\"ことし\">今年</span>の<span class=\"word\" data-lemma=\"夏\" data-surface=\"夏\" data-reading=\"なつ\">夏</span>も、とにかく、いい<span class=\"word\" data-lemma=\"夏\" data-surface=\"夏\" data-reading=\"なつ\">夏</span>になるぞ。",
+      "htmlFull": "そうだな、ムーミン。<ruby data-lemma=\"今年\" data-surface=\"今年\">今年<rt>ことし</rt></ruby>の<ruby data-lemma=\"夏\" data-surface=\"夏\">夏<rt>なつ</rt></ruby>も、とにかく、いい<ruby data-lemma=\"夏\" data-surface=\"夏\">夏<rt>なつ</rt></ruby>になるぞ。"
     },
     {
       "id": "p19",
       "kind": "narration",
       "speaker": null,
-      "text": "スナフキンは、河口のそばにしずかに立って、船をじっと見送っていた。",
-      "html": "スナフキンは、<ruby data-lemma=\"河口\" data-surface=\"河口\">河口<rt>かこう</rt></ruby>のそばにしずかに<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>て、<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>をじっと<span class=\"word\" data-lemma=\"見送る\" data-surface=\"見送っ\" data-reading=\"みおくっ\">見送っ</span>ていた。",
-      "htmlFull": "スナフキンは、<ruby data-lemma=\"河口\" data-surface=\"河口\">河口<rt>かこう</rt></ruby>のそばにしずかに<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>って、<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>をじっと<ruby data-lemma=\"見送る\" data-surface=\"見送っ\">見送<rt>みおく</rt></ruby>っていた。"
+      "text": "スナフキンは、河口のそばにしずかに立って、船をじっと見ていた。",
+      "html": "スナフキンは、<ruby data-lemma=\"河口\" data-surface=\"河口\">河口<rt>かこう</rt></ruby>のそばにしずかに<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>て、<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>をじっと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ていた。",
+      "htmlFull": "スナフキンは、<ruby data-lemma=\"河口\" data-surface=\"河口\">河口<rt>かこう</rt></ruby>のそばにしずかに<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>って、<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>をじっと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ていた。"
     },
     {
       "id": "p20",
       "kind": "narration",
       "speaker": null,
-      "text": "船は海のほうへ、どんどん進んで行った。ムーミンも、パパも、スニフも、みんなで手伝い合って、船を漕いでいた。",
-      "html": "<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>は<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>のほうへ、どんどん<span class=\"word\" data-lemma=\"進む\" data-surface=\"進ん\" data-reading=\"すすん\">進ん</span>で<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>た。ムーミンも、パパも、スニフも、みんなで<ruby data-lemma=\"手伝う\" data-surface=\"手伝い\">手伝<rt>てつだ</rt></ruby>い<span class=\"word\" data-lemma=\"合う\" data-surface=\"合っ\" data-reading=\"あっ\">合っ</span>て、<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>を<ruby data-lemma=\"漕ぐ\" data-surface=\"漕い\">漕<rt>こ</rt></ruby>いでいた。",
-      "htmlFull": "<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>は<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>のほうへ、どんどん<ruby data-lemma=\"進む\" data-surface=\"進ん\">進<rt>すす</rt></ruby>んで<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>った。ムーミンも、パパも、スニフも、みんなで<ruby data-lemma=\"手伝う\" data-surface=\"手伝い\">手伝<rt>てつだ</rt></ruby>い<ruby data-lemma=\"合う\" data-surface=\"合っ\">合<rt>あ</rt></ruby>って、<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>を<ruby data-lemma=\"漕ぐ\" data-surface=\"漕い\">漕<rt>こ</rt></ruby>いでいた。"
+      "text": "そのとき、水の向こうに、にょろにょろの小さい船が、三つ、四つ、見えた。みんなは、そっと手を上げた。「にょろにょろも、船が好きなんだね」と、ムーミンが言った。船は海のほうへ、進んで行った。ムーミンも、パパも、スニフも、みんなで手伝って、船を漕いでいた。",
+      "html": "そのとき、<span class=\"word\" data-lemma=\"水\" data-surface=\"水\" data-reading=\"みず\">水</span>の<span class=\"word\" data-lemma=\"向こう\" data-surface=\"向こう\" data-reading=\"むこう\">向こう</span>に、にょろにょろの<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>が、<span class=\"word\" data-lemma=\"三\" data-surface=\"三\" data-reading=\"みっ\">三</span>つ、<span class=\"word\" data-lemma=\"四\" data-surface=\"四\" data-reading=\"よっ\">四</span>つ、<span class=\"word\" data-lemma=\"見える\" data-surface=\"見え\" data-reading=\"みえ\">見え</span>た。みんなは、そっと<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>を<span class=\"word\" data-lemma=\"上げる\" data-surface=\"上げ\" data-reading=\"あげ\">上げ</span>た。「にょろにょろも、<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>が<ruby data-lemma=\"好き\" data-surface=\"好き\">好<rt>す</rt></ruby>きなんだね」と、ムーミンが<span class=\"word\" data-lemma=\"言う\" data-surface=\"言っ\" data-reading=\"いっ\">言っ</span>た。<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>は<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>のほうへ、<span class=\"word\" data-lemma=\"進む\" data-surface=\"進ん\" data-reading=\"すすん\">進ん</span>で<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>た。ムーミンも、パパも、スニフも、みんなで<ruby data-lemma=\"手伝う\" data-surface=\"手伝っ\">手伝<rt>てつだ</rt></ruby>って、<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>を<ruby data-lemma=\"漕ぐ\" data-surface=\"漕い\">漕<rt>こ</rt></ruby>いでいた。",
+      "htmlFull": "そのとき、<ruby data-lemma=\"水\" data-surface=\"水\">水<rt>みず</rt></ruby>の<ruby data-lemma=\"向こう\" data-surface=\"向こう\">向<rt>む</rt></ruby>こうに、にょろにょろの<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>が、<ruby data-lemma=\"三\" data-surface=\"三\">三<rt>みっ</rt></ruby>つ、<ruby data-lemma=\"四\" data-surface=\"四\">四<rt>よっ</rt></ruby>つ、<ruby data-lemma=\"見える\" data-surface=\"見え\">見<rt>み</rt></ruby>えた。みんなは、そっと<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>を<ruby data-lemma=\"上げる\" data-surface=\"上げ\">上<rt>あ</rt></ruby>げた。「にょろにょろも、<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>が<ruby data-lemma=\"好き\" data-surface=\"好き\">好<rt>す</rt></ruby>きなんだね」と、ムーミンが<ruby data-lemma=\"言う\" data-surface=\"言っ\">言<rt>い</rt></ruby>った。<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>は<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>のほうへ、<ruby data-lemma=\"進む\" data-surface=\"進ん\">進<rt>すす</rt></ruby>んで<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>った。ムーミンも、パパも、スニフも、みんなで<ruby data-lemma=\"手伝う\" data-surface=\"手伝っ\">手伝<rt>てつだ</rt></ruby>って、<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>を<ruby data-lemma=\"漕ぐ\" data-surface=\"漕い\">漕<rt>こ</rt></ruby>いでいた。"
     },
     {
       "id": "p21",
       "kind": "narration",
       "speaker": null,
-      "text": "川の水の上で、船の上で、夏の日はゆっくりながれる。とにかく、いい日だ。",
-      "html": "<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>の<span class=\"word\" data-lemma=\"水\" data-surface=\"水\" data-reading=\"みず\">水</span>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>で、<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>で、<span class=\"word\" data-lemma=\"夏\" data-surface=\"夏\" data-reading=\"なつ\">夏</span>の<span class=\"word\" data-lemma=\"日\" data-surface=\"日\" data-reading=\"ひ\">日</span>はゆっくりながれる。とにかく、いい<span class=\"word\" data-lemma=\"日\" data-surface=\"日\" data-reading=\"ひ\">日</span>だ。",
-      "htmlFull": "<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>の<ruby data-lemma=\"水\" data-surface=\"水\">水<rt>みず</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>で、<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>で、<ruby data-lemma=\"夏\" data-surface=\"夏\">夏<rt>なつ</rt></ruby>の<ruby data-lemma=\"日\" data-surface=\"日\">日<rt>ひ</rt></ruby>はゆっくりながれる。とにかく、いい<ruby data-lemma=\"日\" data-surface=\"日\">日<rt>ひ</rt></ruby>だ。"
+      "text": "川の水の上で、船の上で、夏の日はゆっくりながれる。とにかく、いい気持ちの日だ。",
+      "html": "<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>の<span class=\"word\" data-lemma=\"水\" data-surface=\"水\" data-reading=\"みず\">水</span>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>で、<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>で、<span class=\"word\" data-lemma=\"夏\" data-surface=\"夏\" data-reading=\"なつ\">夏</span>の<span class=\"word\" data-lemma=\"日\" data-surface=\"日\" data-reading=\"ひ\">日</span>はゆっくりながれる。とにかく、いい<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>の<span class=\"word\" data-lemma=\"日\" data-surface=\"日\" data-reading=\"ひ\">日</span>だ。",
+      "htmlFull": "<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>の<ruby data-lemma=\"水\" data-surface=\"水\">水<rt>みず</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>で、<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>で、<ruby data-lemma=\"夏\" data-surface=\"夏\">夏<rt>なつ</rt></ruby>の<ruby data-lemma=\"日\" data-surface=\"日\">日<rt>ひ</rt></ruby>はゆっくりながれる。とにかく、いい<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちの<ruby data-lemma=\"日\" data-surface=\"日\">日<rt>ひ</rt></ruby>だ。"
     },
     {
       "id": "p22",
@@ -242,21 +242,21 @@
       "tier": "focus"
     },
     {
+      "lemma": "進む",
+      "reading": "すすむ",
+      "gloss": "to advance, to move forward",
+      "tier": "focus"
+    },
+    {
       "lemma": "張る",
       "reading": "はる",
-      "gloss": "to stretch, to pitch (a tent)",
+      "gloss": "to stretch, to hoist (a sail), to pitch (a tent)",
       "tier": "focus"
     },
     {
-      "lemma": "手伝う",
-      "reading": "てつだう",
-      "gloss": "to help, to assist",
-      "tier": "focus"
-    },
-    {
-      "lemma": "此奴",
-      "reading": "こいつ",
-      "gloss": "this one (familiar / rude: this guy, this thing)",
+      "lemma": "気持ち",
+      "reading": "きもち",
+      "gloss": "feeling, mood",
       "tier": "focus"
     },
     {
@@ -274,9 +274,21 @@
       "tier": "stretch"
     },
     {
-      "lemma": "秒",
-      "reading": "びょう",
-      "gloss": "second (unit of time)",
+      "lemma": "此奴",
+      "reading": "こいつ",
+      "gloss": "this one (familiar: this guy, this thing)",
+      "tier": "stretch"
+    },
+    {
+      "lemma": "河口",
+      "reading": "かこう",
+      "gloss": "river mouth",
+      "tier": "stretch"
+    },
+    {
+      "lemma": "帆",
+      "reading": "ほ",
+      "gloss": "sail",
       "tier": "stretch"
     }
   ],
@@ -289,23 +301,23 @@
       "first": "ch31"
     },
     {
+      "lemma": "進む",
+      "reading": "すすむ",
+      "gloss": "to advance, to move forward",
+      "tier": "focus",
+      "first": "ch31"
+    },
+    {
       "lemma": "張る",
       "reading": "はる",
-      "gloss": "to stretch, to pitch",
+      "gloss": "to stretch, to hoist, to pitch",
       "tier": "focus",
       "first": "ch31"
     },
     {
-      "lemma": "手伝う",
-      "reading": "てつだう",
-      "gloss": "to help, to assist",
-      "tier": "focus",
-      "first": "ch31"
-    },
-    {
-      "lemma": "此奴",
-      "reading": "こいつ",
-      "gloss": "this one (familiar)",
+      "lemma": "気持ち",
+      "reading": "きもち",
+      "gloss": "feeling, mood",
       "tier": "focus",
       "first": "ch31"
     },
@@ -324,9 +336,23 @@
       "first": "ch31"
     },
     {
-      "lemma": "秒",
-      "reading": "びょう",
-      "gloss": "second",
+      "lemma": "此奴",
+      "reading": "こいつ",
+      "gloss": "this one (familiar)",
+      "tier": "stretch",
+      "first": "ch31"
+    },
+    {
+      "lemma": "河口",
+      "reading": "かこう",
+      "gloss": "river mouth",
+      "tier": "stretch",
+      "first": "ch31"
+    },
+    {
+      "lemma": "帆",
+      "reading": "ほ",
+      "gloss": "sail",
       "tier": "stretch",
       "first": "ch31"
     }

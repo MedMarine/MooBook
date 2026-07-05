@@ -24,7 +24,7 @@
   ],
   "scene": {
     "location": "川のそば",
-    "beat": "River again. An aunt is mentioned. Something happens to Sniff that he does not choose. Passive 〜れる/〜られる land. Snufkin helps.",
+    "beat": "The river road. Moomintroll's aunt is coming tomorrow; a small dropped thing is found on the path. Passive 〜れる/〜られる land — things dropped, found, known. Snufkin walks with him.",
     "pov": "ムーミン",
     "characters": [
       "ムーミン",
@@ -55,25 +55,25 @@
       "id": "p02",
       "kind": "dialogue",
       "speaker": "ムーミン",
-      "text": "明日、伯母が来るんだ。伯母は、都会から来るんだよ。",
-      "html": "<span class=\"word\" data-lemma=\"明日\" data-surface=\"明日\" data-reading=\"あす\">明日</span>、<ruby data-lemma=\"伯母\" data-surface=\"伯母\">伯母<rt>はくぼ</rt></ruby>が<span class=\"word\" data-lemma=\"来る\" data-surface=\"来る\" data-reading=\"くる\">来る</span>んだ。<ruby data-lemma=\"伯母\" data-surface=\"伯母\">伯母<rt>はくぼ</rt></ruby>は、<span class=\"word\" data-lemma=\"都会\" data-surface=\"都会\" data-reading=\"とかい\">都会</span>から<span class=\"word\" data-lemma=\"来る\" data-surface=\"来る\" data-reading=\"くる\">来る</span>んだよ。",
-      "htmlFull": "<ruby data-lemma=\"明日\" data-surface=\"明日\">明日<rt>あす</rt></ruby>、<ruby data-lemma=\"伯母\" data-surface=\"伯母\">伯母<rt>はくぼ</rt></ruby>が<ruby data-lemma=\"来る\" data-surface=\"来る\">来<rt>く</rt></ruby>るんだ。<ruby data-lemma=\"伯母\" data-surface=\"伯母\">伯母<rt>はくぼ</rt></ruby>は、<ruby data-lemma=\"都会\" data-surface=\"都会\">都会<rt>とかい</rt></ruby>から<ruby data-lemma=\"来る\" data-surface=\"来る\">来<rt>く</rt></ruby>るんだよ。"
+      "text": "明日、伯母が来るんだ。伯母は、遠い町から来るんだよ。おもしろい女の人なんだ。",
+      "html": "<span class=\"word\" data-lemma=\"明日\" data-surface=\"明日\" data-reading=\"あす\">明日</span>、<ruby data-lemma=\"伯母\" data-surface=\"伯母\">伯母<rt>はくぼ</rt></ruby>が<span class=\"word\" data-lemma=\"来る\" data-surface=\"来る\" data-reading=\"くる\">来る</span>んだ。<ruby data-lemma=\"伯母\" data-surface=\"伯母\">伯母<rt>はくぼ</rt></ruby>は、<span class=\"word\" data-lemma=\"遠い\" data-surface=\"遠い\" data-reading=\"とおい\">遠い</span><span class=\"word\" data-lemma=\"町\" data-surface=\"町\" data-reading=\"まち\">町</span>から<span class=\"word\" data-lemma=\"来る\" data-surface=\"来る\" data-reading=\"くる\">来る</span>んだよ。おもしろい<span class=\"word\" data-lemma=\"女\" data-surface=\"女\" data-reading=\"おんな\">女</span>の<span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"ひと\">人</span>なんだ。",
+      "htmlFull": "<ruby data-lemma=\"明日\" data-surface=\"明日\">明日<rt>あす</rt></ruby>、<ruby data-lemma=\"伯母\" data-surface=\"伯母\">伯母<rt>はくぼ</rt></ruby>が<ruby data-lemma=\"来る\" data-surface=\"来る\">来<rt>く</rt></ruby>るんだ。<ruby data-lemma=\"伯母\" data-surface=\"伯母\">伯母<rt>はくぼ</rt></ruby>は、<ruby data-lemma=\"遠い\" data-surface=\"遠い\">遠<rt>とお</rt></ruby>い<ruby data-lemma=\"町\" data-surface=\"町\">町<rt>まち</rt></ruby>から<ruby data-lemma=\"来る\" data-surface=\"来る\">来<rt>く</rt></ruby>るんだよ。おもしろい<ruby data-lemma=\"女\" data-surface=\"女\">女<rt>おんな</rt></ruby>の<ruby data-lemma=\"人\" data-surface=\"人\">人<rt>ひと</rt></ruby>なんだ。"
     },
     {
       "id": "p03",
       "kind": "dialogue",
       "speaker": "スナフキン",
-      "text": "へえ、めずらしいお客だね。前にも来たことがあるの？",
-      "html": "へえ、めずらしいお<span class=\"word\" data-lemma=\"客\" data-surface=\"客\" data-reading=\"きゃく\">客</span>だね。<span class=\"word\" data-lemma=\"前\" data-surface=\"前\" data-reading=\"まえ\">前</span>にも<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たことがあるの？",
-      "htmlFull": "へえ、めずらしいお<ruby data-lemma=\"客\" data-surface=\"客\">客<rt>きゃく</rt></ruby>だね。<ruby data-lemma=\"前\" data-surface=\"前\">前<rt>まえ</rt></ruby>にも<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たことがあるの？"
+      "text": "へえ、珍しいお客だね。前にも来たことがあるの？",
+      "html": "へえ、<span class=\"word\" data-lemma=\"珍しい\" data-surface=\"珍しい\" data-reading=\"めずらしい\">珍しい</span>お<span class=\"word\" data-lemma=\"客\" data-surface=\"客\" data-reading=\"きゃく\">客</span>だね。<span class=\"word\" data-lemma=\"前\" data-surface=\"前\" data-reading=\"まえ\">前</span>にも<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たことがあるの？",
+      "htmlFull": "へえ、<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しいお<ruby data-lemma=\"客\" data-surface=\"客\">客<rt>きゃく</rt></ruby>だね。<ruby data-lemma=\"前\" data-surface=\"前\">前<rt>まえ</rt></ruby>にも<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たことがあるの？"
     },
     {
       "id": "p04",
       "kind": "dialogue",
       "speaker": "ムーミン",
-      "text": "うん、去年の夏にね。いろいろお話をしてくれるんだよ。",
-      "html": "うん、<span class=\"word\" data-lemma=\"去年\" data-surface=\"去年\" data-reading=\"きょねん\">去年</span>の<span class=\"word\" data-lemma=\"夏\" data-surface=\"夏\" data-reading=\"なつ\">夏</span>にね。いろいろお<span class=\"word\" data-lemma=\"話\" data-surface=\"話\" data-reading=\"はなし\">話</span>をしてくれるんだよ。",
-      "htmlFull": "うん、<ruby data-lemma=\"去年\" data-surface=\"去年\">去年<rt>きょねん</rt></ruby>の<ruby data-lemma=\"夏\" data-surface=\"夏\">夏<rt>なつ</rt></ruby>にね。いろいろお<ruby data-lemma=\"話\" data-surface=\"話\">話<rt>はなし</rt></ruby>をしてくれるんだよ。"
+      "text": "うん、去年の夏にね。いつも、大きいスーツケースを持って来て、いろいろお話をしてくれるんだよ。",
+      "html": "うん、<span class=\"word\" data-lemma=\"去年\" data-surface=\"去年\" data-reading=\"きょねん\">去年</span>の<span class=\"word\" data-lemma=\"夏\" data-surface=\"夏\" data-reading=\"なつ\">夏</span>にね。いつも、<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span>スーツケースを<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>て、いろいろお<span class=\"word\" data-lemma=\"話\" data-surface=\"話\" data-reading=\"はなし\">話</span>をしてくれるんだよ。",
+      "htmlFull": "うん、<ruby data-lemma=\"去年\" data-surface=\"去年\">去年<rt>きょねん</rt></ruby>の<ruby data-lemma=\"夏\" data-surface=\"夏\">夏<rt>なつ</rt></ruby>にね。いつも、<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きいスーツケースを<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>って<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>て、いろいろお<ruby data-lemma=\"話\" data-surface=\"話\">話<rt>はなし</rt></ruby>をしてくれるんだよ。"
     },
     {
       "id": "p05",
@@ -95,9 +95,9 @@
       "id": "p07",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンは、しゃがんでそれを拾った。手の中で、小さく光っている。",
-      "html": "ムーミンは、しゃがんでそれを<span class=\"word\" data-lemma=\"拾う\" data-surface=\"拾っ\" data-reading=\"ひろっ\">拾っ</span>た。<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さく\" data-reading=\"ちいさく\">小さく</span><span class=\"word\" data-lemma=\"光る\" data-surface=\"光っ\" data-reading=\"ひかっ\">光っ</span>ている。",
-      "htmlFull": "ムーミンは、しゃがんでそれを<ruby data-lemma=\"拾う\" data-surface=\"拾っ\">拾<rt>ひろ</rt></ruby>った。<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で、<ruby data-lemma=\"小さい\" data-surface=\"小さく\">小<rt>ちい</rt></ruby>さく<ruby data-lemma=\"光る\" data-surface=\"光っ\">光<rt>ひか</rt></ruby>っている。"
+      "text": "ムーミンは、それをそっと拾った。手の中で、小さく光っている。",
+      "html": "ムーミンは、それをそっと<span class=\"word\" data-lemma=\"拾う\" data-surface=\"拾っ\" data-reading=\"ひろっ\">拾っ</span>た。<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さく\" data-reading=\"ちいさく\">小さく</span><span class=\"word\" data-lemma=\"光る\" data-surface=\"光っ\" data-reading=\"ひかっ\">光っ</span>ている。",
+      "htmlFull": "ムーミンは、それをそっと<ruby data-lemma=\"拾う\" data-surface=\"拾っ\">拾<rt>ひろ</rt></ruby>った。<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で、<ruby data-lemma=\"小さい\" data-surface=\"小さく\">小<rt>ちい</rt></ruby>さく<ruby data-lemma=\"光る\" data-surface=\"光っ\">光<rt>ひか</rt></ruby>っている。"
     },
     {
       "id": "p08",
@@ -111,9 +111,9 @@
       "id": "p09",
       "kind": "dialogue",
       "speaker": "ムーミン",
-      "text": "天才なんかじゃないよ。ただ、目に入ったんだ。だれかに、大事にされていたものかもしれないね。",
-      "html": "<span class=\"word\" data-lemma=\"天才\" data-surface=\"天才\" data-reading=\"てんさい\">天才</span>なんかじゃないよ。ただ、<span class=\"word\" data-lemma=\"目\" data-surface=\"目\" data-reading=\"め\">目</span>に<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>たんだ。だれかに、<span class=\"word\" data-lemma=\"大事\" data-surface=\"大事\" data-reading=\"だいじ\">大事</span>にされていたものかもしれないね。",
-      "htmlFull": "<ruby data-lemma=\"天才\" data-surface=\"天才\">天才<rt>てんさい</rt></ruby>なんかじゃないよ。ただ、<ruby data-lemma=\"目\" data-surface=\"目\">目<rt>め</rt></ruby>に<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>ったんだ。だれかに、<ruby data-lemma=\"大事\" data-surface=\"大事\">大事<rt>だいじ</rt></ruby>にされていたものかもしれないね。"
+      "text": "天才なんかじゃないよ。ただ、目に入ったんだ。小さくて、赤くて、きれいだね。ルビーかもしれない。だれかに、大事にされていたものかもしれないね。",
+      "html": "<span class=\"word\" data-lemma=\"天才\" data-surface=\"天才\" data-reading=\"てんさい\">天才</span>なんかじゃないよ。ただ、<span class=\"word\" data-lemma=\"目\" data-surface=\"目\" data-reading=\"め\">目</span>に<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>たんだ。<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さく\" data-reading=\"ちいさく\">小さく</span>て、<span class=\"word\" data-lemma=\"赤い\" data-surface=\"赤く\" data-reading=\"あかく\">赤く</span>て、きれいだね。ルビーかもしれない。だれかに、<span class=\"word\" data-lemma=\"大事\" data-surface=\"大事\" data-reading=\"だいじ\">大事</span>にされていたものかもしれないね。",
+      "htmlFull": "<ruby data-lemma=\"天才\" data-surface=\"天才\">天才<rt>てんさい</rt></ruby>なんかじゃないよ。ただ、<ruby data-lemma=\"目\" data-surface=\"目\">目<rt>め</rt></ruby>に<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>ったんだ。<ruby data-lemma=\"小さい\" data-surface=\"小さく\">小<rt>ちい</rt></ruby>さくて、<ruby data-lemma=\"赤い\" data-surface=\"赤く\">赤<rt>あか</rt></ruby>くて、きれいだね。ルビーかもしれない。だれかに、<ruby data-lemma=\"大事\" data-surface=\"大事\">大事<rt>だいじ</rt></ruby>にされていたものかもしれないね。"
     },
     {
       "id": "p10",
@@ -128,7 +128,7 @@
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "もしも、もとの人が探しに来たら、返すつもり。でも、だれにも、知られていないかもしれないね。",
-      "html": "もしも、もとの<span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"ひと\">人</span>が<span class=\"word\" data-lemma=\"探す\" data-surface=\"探し\" data-reading=\"さがし\">探し</span>に<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たら、<span class=\"word\" data-lemma=\"返す\" data-surface=\"返す\" data-reading=\"かえす\">返す</span>つもり。でも、だれにも、<span class=\"word\" data-lemma=\"知る\" data-surface=\"知ら\" data-reading=\"しら\">知ら</span>れていないかもしれないね。",
+      "html": "もしも、もとの<span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"ひと\">人</span>が<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>しに<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たら、<span class=\"word\" data-lemma=\"返す\" data-surface=\"返す\" data-reading=\"かえす\">返す</span>つもり。でも、だれにも、<span class=\"word\" data-lemma=\"知る\" data-surface=\"知ら\" data-reading=\"しら\">知ら</span>れていないかもしれないね。",
       "htmlFull": "もしも、もとの<ruby data-lemma=\"人\" data-surface=\"人\">人<rt>ひと</rt></ruby>が<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>しに<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たら、<ruby data-lemma=\"返す\" data-surface=\"返す\">返<rt>かえ</rt></ruby>すつもり。でも、だれにも、<ruby data-lemma=\"知る\" data-surface=\"知ら\">知<rt>し</rt></ruby>られていないかもしれないね。"
     },
     {
@@ -183,9 +183,9 @@
       "id": "p18",
       "kind": "dialogue",
       "speaker": "スナフキン",
-      "text": "天才の人にも、小さい子にも、みんなに、同じ通りだよ。",
-      "html": "<span class=\"word\" data-lemma=\"天才\" data-surface=\"天才\" data-reading=\"てんさい\">天才</span>の<span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"ひと\">人</span>にも、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>にも、みんなに、<span class=\"word\" data-lemma=\"同じ\" data-surface=\"同じ\" data-reading=\"おなじ\">同じ</span><span class=\"word\" data-lemma=\"通り\" data-surface=\"通り\" data-reading=\"とおり\">通り</span>だよ。",
-      "htmlFull": "<ruby data-lemma=\"天才\" data-surface=\"天才\">天才<rt>てんさい</rt></ruby>の<ruby data-lemma=\"人\" data-surface=\"人\">人<rt>ひと</rt></ruby>にも、<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>にも、みんなに、<ruby data-lemma=\"同じ\" data-surface=\"同じ\">同<rt>おな</rt></ruby>じ<ruby data-lemma=\"通り\" data-surface=\"通り\">通<rt>とお</rt></ruby>りだよ。"
+      "text": "この通りを、ずっと行くと、橋があって、海の浜に出るんだよ。天才の人にも、小さい子にも、みんなに、同じ通りだ。",
+      "html": "この<span class=\"word\" data-lemma=\"通り\" data-surface=\"通り\" data-reading=\"とおり\">通り</span>を、ずっと<span class=\"word\" data-lemma=\"行く\" data-surface=\"行く\" data-reading=\"いく\">行く</span>と、<span class=\"word\" data-lemma=\"橋\" data-surface=\"橋\" data-reading=\"はし\">橋</span>があって、<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>の<span class=\"word\" data-lemma=\"浜\" data-surface=\"浜\" data-reading=\"はま\">浜</span>に<span class=\"word\" data-lemma=\"出る\" data-surface=\"出る\" data-reading=\"でる\">出る</span>んだよ。<span class=\"word\" data-lemma=\"天才\" data-surface=\"天才\" data-reading=\"てんさい\">天才</span>の<span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"ひと\">人</span>にも、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>にも、みんなに、<span class=\"word\" data-lemma=\"同じ\" data-surface=\"同じ\" data-reading=\"おなじ\">同じ</span><span class=\"word\" data-lemma=\"通り\" data-surface=\"通り\" data-reading=\"とおり\">通り</span>だ。",
+      "htmlFull": "この<ruby data-lemma=\"通り\" data-surface=\"通り\">通<rt>とお</rt></ruby>りを、ずっと<ruby data-lemma=\"行く\" data-surface=\"行く\">行<rt>い</rt></ruby>くと、<ruby data-lemma=\"橋\" data-surface=\"橋\">橋<rt>はし</rt></ruby>があって、<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>の<ruby data-lemma=\"浜\" data-surface=\"浜\">浜<rt>はま</rt></ruby>に<ruby data-lemma=\"出る\" data-surface=\"出る\">出<rt>で</rt></ruby>るんだよ。<ruby data-lemma=\"天才\" data-surface=\"天才\">天才<rt>てんさい</rt></ruby>の<ruby data-lemma=\"人\" data-surface=\"人\">人<rt>ひと</rt></ruby>にも、<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>にも、みんなに、<ruby data-lemma=\"同じ\" data-surface=\"同じ\">同<rt>おな</rt></ruby>じ<ruby data-lemma=\"通り\" data-surface=\"通り\">通<rt>とお</rt></ruby>りだ。"
     },
     {
       "id": "p19",
@@ -250,15 +250,28 @@
       "reading": "とおり",
       "gloss": "street, path; the manner",
       "tier": "focus"
-    },
-    {
-      "lemma": "明日",
-      "reading": "あした",
-      "gloss": "tomorrow",
-      "tier": "focus"
     }
   ],
-  "stretchVocab": [],
+  "stretchVocab": [
+    {
+      "lemma": "通る",
+      "reading": "とおる",
+      "gloss": "to pass through, to go along",
+      "tier": "stretch"
+    },
+    {
+      "lemma": "喜ぶ",
+      "reading": "よろこぶ",
+      "gloss": "to be pleased, to be delighted",
+      "tier": "stretch"
+    },
+    {
+      "lemma": "恥ずかしい",
+      "reading": "はずかしい",
+      "gloss": "embarrassing, embarrassed (i-adj)",
+      "tier": "stretch"
+    }
+  ],
   "glossary": [
     {
       "lemma": "伯母",
@@ -296,9 +309,23 @@
       "first": "ch29"
     },
     {
-      "lemma": "明日",
-      "reading": "あした",
-      "gloss": "tomorrow",
+      "lemma": "通る",
+      "reading": "とおる",
+      "gloss": "to pass through, to go along",
+      "tier": "focus",
+      "first": "ch29"
+    },
+    {
+      "lemma": "喜ぶ",
+      "reading": "よろこぶ",
+      "gloss": "to be pleased, to be delighted",
+      "tier": "focus",
+      "first": "ch29"
+    },
+    {
+      "lemma": "恥ずかしい",
+      "reading": "はずかしい",
+      "gloss": "embarrassing, embarrassed",
       "tier": "focus",
       "first": "ch29"
     }
@@ -308,7 +335,8 @@
     "Xに + V-passive — the agent-by-phrase. だれかに、落とされた = \"[was] dropped by someone.\" The agent takes に.",
     "Potential and passive share the same form 〜れる/〜られる — distinguished by context. 落とされる almost always means \"be dropped\" (passive); 食べられる could be either. Moomin leans on context to disambiguate.",
     "起こる — \"to happen.\" Differs from 起きる (\"to wake up\" / \"to happen\") — 起こる is for events, 起きる for people waking + some events.",
-    "伯母 (oba) — aunt. 叔母 (also oba) would be younger aunt; Moomintroll uses 伯母 because she is an older-generation relative."
+    "伯母 (oba) — aunt. 叔母 (also oba) would be younger aunt; Moomintroll uses 伯母 because she is an older-generation relative.",
+    "通る \"to pass through\" → 通り \"street\" — the road is literally \"the passing-place.\" Verb-to-noun pairs like this recur (帰る/帰り, 話す/話)."
   ],
   "illustration": {
     "scene_note": "A quiet river-side road in the afternoon, dappled sun through trees. Moomintroll kneels in the path holding a small bright object. Snufkin stands nearby watching. A sluggish summer river alongside. No other figures — just the two of them and the road.",

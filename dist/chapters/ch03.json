@@ -35,7 +35,8 @@
       "ママ"
     ],
     "motifs": [
-      "山"
+      "山",
+      "谷"
     ]
   },
   "continuity": {
@@ -63,9 +64,9 @@
       "id": "p03",
       "kind": "narration",
       "speaker": null,
-      "text": "山のそばには、大きな木が立っていた。そして、その木のかげに、だれかがいた。",
-      "html": "<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>のそばには、<span class=\"word\" data-lemma=\"大きな\" data-surface=\"大きな\" data-reading=\"おおきな\">大きな</span><span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>が<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>ていた。そして、その<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>のかげに、だれかがいた。",
-      "htmlFull": "<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>のそばには、<ruby data-lemma=\"大きな\" data-surface=\"大きな\">大<rt>おお</rt></ruby>きな<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>が<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>っていた。そして、その<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>のかげに、だれかがいた。"
+      "text": "山のそばには、大きな木が立っていた。そして、その木の陰に、だれかがいた。",
+      "html": "<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>のそばには、<span class=\"word\" data-lemma=\"大きな\" data-surface=\"大きな\" data-reading=\"おおきな\">大きな</span><span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>が<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>ていた。そして、その<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>の<ruby data-lemma=\"陰\" data-surface=\"陰\">陰<rt>かげ</rt></ruby>に、だれかがいた。",
+      "htmlFull": "<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>のそばには、<ruby data-lemma=\"大きな\" data-surface=\"大きな\">大<rt>おお</rt></ruby>きな<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>が<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>っていた。そして、その<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>の<ruby data-lemma=\"陰\" data-surface=\"陰\">陰<rt>かげ</rt></ruby>に、だれかがいた。"
     },
     {
       "id": "p04",
@@ -111,9 +112,9 @@
       "id": "p09",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンとフローレンの二人は、木のそばで、いっしょに山をながめていた。",
-      "html": "ムーミンとフローレンの<span class=\"word\" data-lemma=\"二人\" data-surface=\"二人\" data-reading=\"ふたり\">二人</span>は、<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>のそばで、いっしょに<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>をながめていた。",
-      "htmlFull": "ムーミンとフローレンの<ruby data-lemma=\"二人\" data-surface=\"二人\">二人<rt>ふたり</rt></ruby>は、<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>のそばで、いっしょに<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>をながめていた。"
+      "text": "ムーミンとフローレンは、木の陰で、いっしょに山を見ていた。",
+      "html": "ムーミンとフローレンは、<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>の<ruby data-lemma=\"陰\" data-surface=\"陰\">陰<rt>かげ</rt></ruby>で、いっしょに<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ていた。",
+      "htmlFull": "ムーミンとフローレンは、<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>の<ruby data-lemma=\"陰\" data-surface=\"陰\">陰<rt>かげ</rt></ruby>で、いっしょに<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ていた。"
     },
     {
       "id": "p10",
@@ -127,9 +128,9 @@
       "id": "p11",
       "kind": "dialogue",
       "speaker": "ムーミン",
-      "text": "うん。ぼくの谷は、ここが一番好きな場所なんだ。",
-      "html": "うん。ぼくの<span class=\"word\" data-lemma=\"谷\" data-surface=\"谷\" data-reading=\"たに\">谷</span>は、ここが<span class=\"word\" data-lemma=\"一番\" data-surface=\"一番\" data-reading=\"いちばん\">一番</span><ruby data-lemma=\"好き\" data-surface=\"好き\">好<rt>す</rt></ruby>きな<span class=\"word\" data-lemma=\"場所\" data-surface=\"場所\" data-reading=\"ばしょ\">場所</span>なんだ。",
-      "htmlFull": "うん。ぼくの<ruby data-lemma=\"谷\" data-surface=\"谷\">谷<rt>たに</rt></ruby>は、ここが<ruby data-lemma=\"一番\" data-surface=\"一番\">一番<rt>いちばん</rt></ruby><ruby data-lemma=\"好き\" data-surface=\"好き\">好<rt>す</rt></ruby>きな<ruby data-lemma=\"場所\" data-surface=\"場所\">場所<rt>ばしょ</rt></ruby>なんだ。"
+      "text": "うん。この谷は、ぼくの大好きな場所なんだ。",
+      "html": "うん。この<span class=\"word\" data-lemma=\"谷\" data-surface=\"谷\" data-reading=\"たに\">谷</span>は、ぼくの<ruby data-lemma=\"大好き\" data-surface=\"大好き\">大好<rt>だいす</rt></ruby>きな<span class=\"word\" data-lemma=\"場所\" data-surface=\"場所\" data-reading=\"ばしょ\">場所</span>なんだ。",
+      "htmlFull": "うん。この<ruby data-lemma=\"谷\" data-surface=\"谷\">谷<rt>たに</rt></ruby>は、ぼくの<ruby data-lemma=\"大好き\" data-surface=\"大好き\">大好<rt>だいす</rt></ruby>きな<ruby data-lemma=\"場所\" data-surface=\"場所\">場所<rt>ばしょ</rt></ruby>なんだ。"
     },
     {
       "id": "p12",
@@ -151,46 +152,60 @@
       "id": "p14",
       "kind": "dialogue",
       "speaker": "フローレン",
-      "text": "そう、いい家だね。また二人で、ここに来ましょう。",
-      "html": "そう、いい<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>だね。また<span class=\"word\" data-lemma=\"二人\" data-surface=\"二人\" data-reading=\"ふたり\">二人</span>で、ここに<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>ましょう。",
-      "htmlFull": "そう、いい<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>だね。また<ruby data-lemma=\"二人\" data-surface=\"二人\">二人<rt>ふたり</rt></ruby>で、ここに<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>ましょう。"
+      "text": "そう、いい家だね。また二人で、ここに来たいね。",
+      "html": "そう、いい<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>だね。また<span class=\"word\" data-lemma=\"二人\" data-surface=\"二人\" data-reading=\"ふたり\">二人</span>で、ここに<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たいね。",
+      "htmlFull": "そう、いい<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>だね。また<ruby data-lemma=\"二人\" data-surface=\"二人\">二人<rt>ふたり</rt></ruby>で、ここに<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たいね。"
     },
     {
       "id": "p15",
       "kind": "narration",
       "speaker": null,
-      "text": "山のそばに木があって、その木のそばに、ムーミンとフローレンが立っていた。二人にとって、いい朝だった。",
-      "html": "<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>のそばに<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>があって、その<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>のそばに、ムーミンとフローレンが<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>ていた。<span class=\"word\" data-lemma=\"二人\" data-surface=\"二人\" data-reading=\"ふたり\">二人</span>にとって、いい<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>だった。",
-      "htmlFull": "<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>のそばに<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>があって、その<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>のそばに、ムーミンとフローレンが<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>っていた。<ruby data-lemma=\"二人\" data-surface=\"二人\">二人<rt>ふたり</rt></ruby>にとって、いい<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>だった。"
+      "text": "山のそばに木があって、その木の陰に、ムーミンとフローレンが立っていた。この谷は、二人の大好きな場所になった。いい朝だった。",
+      "html": "<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>のそばに<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>があって、その<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>の<ruby data-lemma=\"陰\" data-surface=\"陰\">陰<rt>かげ</rt></ruby>に、ムーミンとフローレンが<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>ていた。この<span class=\"word\" data-lemma=\"谷\" data-surface=\"谷\" data-reading=\"たに\">谷</span>は、<span class=\"word\" data-lemma=\"二人\" data-surface=\"二人\" data-reading=\"ふたり\">二人</span>の<ruby data-lemma=\"大好き\" data-surface=\"大好き\">大好<rt>だいす</rt></ruby>きな<span class=\"word\" data-lemma=\"場所\" data-surface=\"場所\" data-reading=\"ばしょ\">場所</span>になった。いい<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>だった。",
+      "htmlFull": "<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>のそばに<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>があって、その<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>の<ruby data-lemma=\"陰\" data-surface=\"陰\">陰<rt>かげ</rt></ruby>に、ムーミンとフローレンが<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>っていた。この<ruby data-lemma=\"谷\" data-surface=\"谷\">谷<rt>たに</rt></ruby>は、<ruby data-lemma=\"二人\" data-surface=\"二人\">二人<rt>ふたり</rt></ruby>の<ruby data-lemma=\"大好き\" data-surface=\"大好き\">大好<rt>だいす</rt></ruby>きな<ruby data-lemma=\"場所\" data-surface=\"場所\">場所<rt>ばしょ</rt></ruby>になった。いい<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>だった。"
     }
   ],
   "focusVocab": [
     {
-      "lemma": "山",
-      "reading": "やま",
-      "gloss": "mountain",
-      "tier": "focus"
-    },
-    {
-      "lemma": "二人",
-      "reading": "ふたり",
-      "gloss": "two people",
+      "lemma": "谷",
+      "reading": "たに",
+      "gloss": "valley",
       "tier": "focus"
     }
   ],
-  "stretchVocab": [],
+  "stretchVocab": [
+    {
+      "lemma": "陰",
+      "reading": "かげ",
+      "gloss": "shade; the shadow of (a thing)",
+      "tier": "stretch"
+    },
+    {
+      "lemma": "場所",
+      "reading": "ばしょ",
+      "gloss": "place, spot",
+      "tier": "stretch"
+    }
+  ],
   "glossary": [
     {
-      "lemma": "山",
-      "reading": "やま",
-      "gloss": "mountain",
+      "lemma": "谷",
+      "reading": "たに",
+      "gloss": "valley",
       "tier": "focus",
       "first": "ch03"
     },
     {
-      "lemma": "二人",
-      "reading": "ふたり",
-      "gloss": "two people",
+      "lemma": "陰",
+      "reading": "かげ",
+      "gloss": "shade; the shadow of (a thing)",
+      "tier": "focus",
+      "first": "ch03"
+    },
+    {
+      "lemma": "場所",
+      "reading": "ばしょ",
+      "gloss": "place, spot",
       "tier": "focus",
       "first": "ch03"
     }

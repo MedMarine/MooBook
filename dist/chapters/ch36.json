@@ -50,9 +50,9 @@
       "id": "p01",
       "kind": "narration",
       "speaker": null,
-      "text": "夕方。ムーミンやしきの居間にあたたかい灯がともっていた。パパはいすにすわっている。ママはとなりにすわっている。ムーミン夫婦のしずかな時間だ。",
-      "html": "<span class=\"word\" data-lemma=\"夕方\" data-surface=\"夕方\" data-reading=\"ゆうがた\">夕方</span>。ムーミンやしきの<ruby data-lemma=\"居間\" data-surface=\"居間\">居間<rt>いま</rt></ruby>にあたたかい<ruby data-lemma=\"明かり\" data-surface=\"灯\">灯<rt>あかり</rt></ruby>がともっていた。パパはいすにすわっている。ママはとなりにすわっている。ムーミン<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>のしずかな<span class=\"word\" data-lemma=\"時間\" data-surface=\"時間\" data-reading=\"じかん\">時間</span>だ。",
-      "htmlFull": "<ruby data-lemma=\"夕方\" data-surface=\"夕方\">夕方<rt>ゆうがた</rt></ruby>。ムーミンやしきの<ruby data-lemma=\"居間\" data-surface=\"居間\">居間<rt>いま</rt></ruby>にあたたかい<ruby data-lemma=\"明かり\" data-surface=\"灯\">灯<rt>あかり</rt></ruby>がともっていた。パパはいすにすわっている。ママはとなりにすわっている。ムーミン<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>のしずかな<ruby data-lemma=\"時間\" data-surface=\"時間\">時間<rt>じかん</rt></ruby>だ。"
+      "text": "夕方。ムーミンの家の居間に、あたたかい灯がついていた。パパはいすにすわっている。ママはとなりにすわっている。ムーミン夫婦のしずかな時間だ。",
+      "html": "<span class=\"word\" data-lemma=\"夕方\" data-surface=\"夕方\" data-reading=\"ゆうがた\">夕方</span>。ムーミンの<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"居間\" data-surface=\"居間\" data-reading=\"いま\">居間</span>に、あたたかい<ruby data-lemma=\"明かり\" data-surface=\"灯\">灯<rt>あかり</rt></ruby>がついていた。パパはいすにすわっている。ママはとなりにすわっている。ムーミン<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>のしずかな<span class=\"word\" data-lemma=\"時間\" data-surface=\"時間\" data-reading=\"じかん\">時間</span>だ。",
+      "htmlFull": "<ruby data-lemma=\"夕方\" data-surface=\"夕方\">夕方<rt>ゆうがた</rt></ruby>。ムーミンの<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"居間\" data-surface=\"居間\">居間<rt>いま</rt></ruby>に、あたたかい<ruby data-lemma=\"明かり\" data-surface=\"灯\">灯<rt>あかり</rt></ruby>がついていた。パパはいすにすわっている。ママはとなりにすわっている。ムーミン<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>のしずかな<ruby data-lemma=\"時間\" data-surface=\"時間\">時間<rt>じかん</rt></ruby>だ。"
     },
     {
       "id": "p02",
@@ -90,9 +90,9 @@
       "id": "p06",
       "kind": "dialogue",
       "speaker": "ママ",
-      "text": "ええ。話したいことがあるなら、きくわよ。話さないなら、それでもいいのよ。",
-      "html": "ええ。<span class=\"word\" data-lemma=\"話す\" data-surface=\"話し\" data-reading=\"はなし\">話し</span>たいことがあるなら、きくわよ。<span class=\"word\" data-lemma=\"話す\" data-surface=\"話さ\" data-reading=\"はなさ\">話さ</span>ないなら、それでもいいのよ。",
-      "htmlFull": "ええ。<ruby data-lemma=\"話す\" data-surface=\"話し\">話<rt>はな</rt></ruby>したいことがあるなら、きくわよ。<ruby data-lemma=\"話す\" data-surface=\"話さ\">話<rt>はな</rt></ruby>さないなら、それでもいいのよ。"
+      "text": "ええ。話したいことがあるなら、聞くわよ。話さないなら、それでもいいのよ。",
+      "html": "ええ。<span class=\"word\" data-lemma=\"話す\" data-surface=\"話し\" data-reading=\"はなし\">話し</span>たいことがあるなら、<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞く\" data-reading=\"きく\">聞く</span>わよ。<span class=\"word\" data-lemma=\"話す\" data-surface=\"話さ\" data-reading=\"はなさ\">話さ</span>ないなら、それでもいいのよ。",
+      "htmlFull": "ええ。<ruby data-lemma=\"話す\" data-surface=\"話し\">話<rt>はな</rt></ruby>したいことがあるなら、<ruby data-lemma=\"聞く\" data-surface=\"聞く\">聞<rt>き</rt></ruby>くわよ。<ruby data-lemma=\"話す\" data-surface=\"話さ\">話<rt>はな</rt></ruby>さないなら、それでもいいのよ。"
     },
     {
       "id": "p07",
@@ -130,9 +130,9 @@
       "id": "p11",
       "kind": "dialogue",
       "speaker": "ムーミン",
-      "text": "ぼく、みんなをまもるために、こわい気持ちをかくしていた。スニフが泣かないように、ぼくは笑っていた。",
-      "html": "ぼく、みんなをまもるために、こわい<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>をかくしていた。スニフが<span class=\"word\" data-lemma=\"泣く\" data-surface=\"泣か\" data-reading=\"なか\">泣か</span>ないように、ぼくは<ruby data-lemma=\"笑う\" data-surface=\"笑っ\">笑<rt>わら</rt></ruby>っていた。",
-      "htmlFull": "ぼく、みんなをまもるために、こわい<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちをかくしていた。スニフが<ruby data-lemma=\"泣く\" data-surface=\"泣か\">泣<rt>な</rt></ruby>かないように、ぼくは<ruby data-lemma=\"笑う\" data-surface=\"笑っ\">笑<rt>わら</rt></ruby>っていた。"
+      "text": "ぼく、みんなのために、こわい気持ちを隠していた。スニフが泣かないように、ぼくは笑っていた。",
+      "html": "ぼく、みんなのために、こわい<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>を<ruby data-lemma=\"隠す\" data-surface=\"隠し\">隠<rt>かく</rt></ruby>していた。スニフが<span class=\"word\" data-lemma=\"泣く\" data-surface=\"泣か\" data-reading=\"なか\">泣か</span>ないように、ぼくは<span class=\"word\" data-lemma=\"笑う\" data-surface=\"笑っ\" data-reading=\"わらっ\">笑っ</span>ていた。",
+      "htmlFull": "ぼく、みんなのために、こわい<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちを<ruby data-lemma=\"隠す\" data-surface=\"隠し\">隠<rt>かく</rt></ruby>していた。スニフが<ruby data-lemma=\"泣く\" data-surface=\"泣か\">泣<rt>な</rt></ruby>かないように、ぼくは<ruby data-lemma=\"笑う\" data-surface=\"笑っ\">笑<rt>わら</rt></ruby>っていた。"
     },
     {
       "id": "p12",
@@ -146,9 +146,9 @@
       "id": "p13",
       "kind": "dialogue",
       "speaker": "ママ",
-      "text": "かくしていたのね。気持ちの中身を、あなた一人で持っていたの。",
-      "html": "かくしていたのね。<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>の<span class=\"word\" data-lemma=\"中身\" data-surface=\"中身\" data-reading=\"なかみ\">中身</span>を、あなた<span class=\"word\" data-lemma=\"一人\" data-surface=\"一人\" data-reading=\"ひとり\">一人</span>で<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>ていたの。",
-      "htmlFull": "かくしていたのね。<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちの<ruby data-lemma=\"中身\" data-surface=\"中身\">中身<rt>なかみ</rt></ruby>を、あなた<ruby data-lemma=\"一人\" data-surface=\"一人\">一人<rt>ひとり</rt></ruby>で<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>っていたの。"
+      "text": "隠していたのね。気持ちの中身を、あなた一人で持っていたの。",
+      "html": "<ruby data-lemma=\"隠す\" data-surface=\"隠し\">隠<rt>かく</rt></ruby>していたのね。<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>の<span class=\"word\" data-lemma=\"中身\" data-surface=\"中身\" data-reading=\"なかみ\">中身</span>を、あなた<span class=\"word\" data-lemma=\"一人\" data-surface=\"一人\" data-reading=\"ひとり\">一人</span>で<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>ていたの。",
+      "htmlFull": "<ruby data-lemma=\"隠す\" data-surface=\"隠し\">隠<rt>かく</rt></ruby>していたのね。<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちの<ruby data-lemma=\"中身\" data-surface=\"中身\">中身<rt>なかみ</rt></ruby>を、あなた<ruby data-lemma=\"一人\" data-surface=\"一人\">一人<rt>ひとり</rt></ruby>で<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>っていたの。"
     },
     {
       "id": "p14",
@@ -162,9 +162,9 @@
       "id": "p15",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンは自分の気持ちをことばにして、ゆっくり話した。洞穴のこと、タールのこと、ミイの花のこと、ニンニの声のこと。ママはだまって聞いていた。パパもだまって聞いていた。夫婦はムーミンの話をじゃましないで、さいごまで聞いた。",
-      "html": "ムーミンは<span class=\"word\" data-lemma=\"自分\" data-surface=\"自分\" data-reading=\"じぶん\">自分</span>の<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>をことばにして、ゆっくり<span class=\"word\" data-lemma=\"話す\" data-surface=\"話し\" data-reading=\"はなし\">話し</span>た。<span class=\"word\" data-lemma=\"洞穴\" data-surface=\"洞穴\" data-reading=\"ほらあな\">洞穴</span>のこと、タールのこと、ミイの<span class=\"word\" data-lemma=\"花\" data-surface=\"花\" data-reading=\"はな\">花</span>のこと、ニンニの<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>のこと。ママはだまって<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>ていた。パパもだまって<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>ていた。<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>はムーミンの<span class=\"word\" data-lemma=\"話\" data-surface=\"話\" data-reading=\"はなし\">話</span>をじゃましないで、さいごまで<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>た。",
-      "htmlFull": "ムーミンは<ruby data-lemma=\"自分\" data-surface=\"自分\">自分<rt>じぶん</rt></ruby>の<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちをことばにして、ゆっくり<ruby data-lemma=\"話す\" data-surface=\"話し\">話<rt>はな</rt></ruby>した。<ruby data-lemma=\"洞穴\" data-surface=\"洞穴\">洞穴<rt>ほらあな</rt></ruby>のこと、タールのこと、ミイの<ruby data-lemma=\"花\" data-surface=\"花\">花<rt>はな</rt></ruby>のこと、ニンニの<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>のこと。ママはだまって<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いていた。パパもだまって<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いていた。<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>はムーミンの<ruby data-lemma=\"話\" data-surface=\"話\">話<rt>はなし</rt></ruby>をじゃましないで、さいごまで<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いた。"
+      "text": "ムーミンは自分の気持ちをことばにして、もうなにも隠さないで、ゆっくり話した。洞穴のこと、タールのこと、ミイの花のこと、ニンニの声のこと。ママはだまって聞いていた。パパもだまって聞いていた。夫婦はムーミンの話をじゃましないで、おわりまで聞いた。",
+      "html": "ムーミンは<span class=\"word\" data-lemma=\"自分\" data-surface=\"自分\" data-reading=\"じぶん\">自分</span>の<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>をことばにして、もうなにも<ruby data-lemma=\"隠す\" data-surface=\"隠さ\">隠<rt>かく</rt></ruby>さないで、ゆっくり<span class=\"word\" data-lemma=\"話す\" data-surface=\"話し\" data-reading=\"はなし\">話し</span>た。<span class=\"word\" data-lemma=\"洞穴\" data-surface=\"洞穴\" data-reading=\"ほらあな\">洞穴</span>のこと、タールのこと、ミイの<span class=\"word\" data-lemma=\"花\" data-surface=\"花\" data-reading=\"はな\">花</span>のこと、ニンニの<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>のこと。ママはだまって<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>ていた。パパもだまって<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>ていた。<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>はムーミンの<span class=\"word\" data-lemma=\"話\" data-surface=\"話\" data-reading=\"はなし\">話</span>をじゃましないで、おわりまで<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>た。",
+      "htmlFull": "ムーミンは<ruby data-lemma=\"自分\" data-surface=\"自分\">自分<rt>じぶん</rt></ruby>の<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちをことばにして、もうなにも<ruby data-lemma=\"隠す\" data-surface=\"隠さ\">隠<rt>かく</rt></ruby>さないで、ゆっくり<ruby data-lemma=\"話す\" data-surface=\"話し\">話<rt>はな</rt></ruby>した。<ruby data-lemma=\"洞穴\" data-surface=\"洞穴\">洞穴<rt>ほらあな</rt></ruby>のこと、タールのこと、ミイの<ruby data-lemma=\"花\" data-surface=\"花\">花<rt>はな</rt></ruby>のこと、ニンニの<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>のこと。ママはだまって<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いていた。パパもだまって<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いていた。<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>はムーミンの<ruby data-lemma=\"話\" data-surface=\"話\">話<rt>はなし</rt></ruby>をじゃましないで、おわりまで<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いた。"
     },
     {
       "id": "p16",
@@ -186,26 +186,20 @@
       "id": "p18",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンはちょっとうれしくて、ちょっとはずかしかった。でも、心の中の大きい重いものがすこし小さくなった。ママのやさしい手がムーミンの頭にのった。「よくがんばったね」とママは言った。外はもう夜。でも、居間はあたたかい。ムーミン夫婦とムーミン子。三人のしずかな気持ちの夕方だった。",
-      "html": "ムーミンはちょっとうれしくて、ちょっとはずかしかった。でも、<span class=\"word\" data-lemma=\"心\" data-surface=\"心\" data-reading=\"こころ\">心</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>の<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"重い\" data-surface=\"重い\" data-reading=\"おもい\">重い</span>ものがすこし<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さく\" data-reading=\"ちいさく\">小さく</span>なった。ママのやさしい<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>がムーミンの<span class=\"word\" data-lemma=\"頭\" data-surface=\"頭\" data-reading=\"あたま\">頭</span>にのった。「よくがんばったね」とママは<span class=\"word\" data-lemma=\"言う\" data-surface=\"言っ\" data-reading=\"いっ\">言っ</span>た。<span class=\"word\" data-lemma=\"外\" data-surface=\"外\" data-reading=\"そと\">外</span>はもう<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>。でも、<ruby data-lemma=\"居間\" data-surface=\"居間\">居間<rt>いま</rt></ruby>はあたたかい。ムーミン<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>とムーミン<span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>。<span class=\"word\" data-lemma=\"三\" data-surface=\"三\" data-reading=\"さん\">三</span><span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"にん\">人</span>のしずかな<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>の<span class=\"word\" data-lemma=\"夕方\" data-surface=\"夕方\" data-reading=\"ゆうがた\">夕方</span>だった。",
-      "htmlFull": "ムーミンはちょっとうれしくて、ちょっとはずかしかった。でも、<ruby data-lemma=\"心\" data-surface=\"心\">心<rt>こころ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>の<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"重い\" data-surface=\"重い\">重<rt>おも</rt></ruby>いものがすこし<ruby data-lemma=\"小さい\" data-surface=\"小さく\">小<rt>ちい</rt></ruby>さくなった。ママのやさしい<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>がムーミンの<ruby data-lemma=\"頭\" data-surface=\"頭\">頭<rt>あたま</rt></ruby>にのった。「よくがんばったね」とママは<ruby data-lemma=\"言う\" data-surface=\"言っ\">言<rt>い</rt></ruby>った。<ruby data-lemma=\"外\" data-surface=\"外\">外<rt>そと</rt></ruby>はもう<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>。でも、<ruby data-lemma=\"居間\" data-surface=\"居間\">居間<rt>いま</rt></ruby>はあたたかい。ムーミン<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>とムーミン<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>。<ruby data-lemma=\"三\" data-surface=\"三\">三<rt>さん</rt></ruby><ruby data-lemma=\"人\" data-surface=\"人\">人<rt>にん</rt></ruby>のしずかな<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちの<ruby data-lemma=\"夕方\" data-surface=\"夕方\">夕方<rt>ゆうがた</rt></ruby>だった。"
+      "text": "ムーミンはちょっとうれしくて、ちょっとはずかしかった。でも、心の中の大きい重いものがすこし小さくなった。ママのやさしい手がムーミンの頭にのった。「よくがんばったね」とママは言った。外はもう夜で、雨の音が小さく聞こえる。でも、居間はあたたかい。ムーミン夫婦と、ムーミン。三人のしずかな気持ちの夕方だった。",
+      "html": "ムーミンはちょっとうれしくて、ちょっとはずかしかった。でも、<span class=\"word\" data-lemma=\"心\" data-surface=\"心\" data-reading=\"こころ\">心</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>の<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"重い\" data-surface=\"重い\" data-reading=\"おもい\">重い</span>ものがすこし<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さく\" data-reading=\"ちいさく\">小さく</span>なった。ママのやさしい<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>がムーミンの<span class=\"word\" data-lemma=\"頭\" data-surface=\"頭\" data-reading=\"あたま\">頭</span>にのった。「よくがんばったね」とママは<span class=\"word\" data-lemma=\"言う\" data-surface=\"言っ\" data-reading=\"いっ\">言っ</span>た。<span class=\"word\" data-lemma=\"外\" data-surface=\"外\" data-reading=\"そと\">外</span>はもう<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>で、<span class=\"word\" data-lemma=\"雨\" data-surface=\"雨\" data-reading=\"あめ\">雨</span>の<span class=\"word\" data-lemma=\"音\" data-surface=\"音\" data-reading=\"おと\">音</span>が<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さく\" data-reading=\"ちいさく\">小さく</span><span class=\"word\" data-lemma=\"聞こえる\" data-surface=\"聞こえる\" data-reading=\"きこえる\">聞こえる</span>。でも、<span class=\"word\" data-lemma=\"居間\" data-surface=\"居間\" data-reading=\"いま\">居間</span>はあたたかい。ムーミン<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>と、ムーミン。<span class=\"word\" data-lemma=\"三\" data-surface=\"三\" data-reading=\"さん\">三</span><span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"にん\">人</span>のしずかな<span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>の<span class=\"word\" data-lemma=\"夕方\" data-surface=\"夕方\" data-reading=\"ゆうがた\">夕方</span>だった。",
+      "htmlFull": "ムーミンはちょっとうれしくて、ちょっとはずかしかった。でも、<ruby data-lemma=\"心\" data-surface=\"心\">心<rt>こころ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>の<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"重い\" data-surface=\"重い\">重<rt>おも</rt></ruby>いものがすこし<ruby data-lemma=\"小さい\" data-surface=\"小さく\">小<rt>ちい</rt></ruby>さくなった。ママのやさしい<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>がムーミンの<ruby data-lemma=\"頭\" data-surface=\"頭\">頭<rt>あたま</rt></ruby>にのった。「よくがんばったね」とママは<ruby data-lemma=\"言う\" data-surface=\"言っ\">言<rt>い</rt></ruby>った。<ruby data-lemma=\"外\" data-surface=\"外\">外<rt>そと</rt></ruby>はもう<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>で、<ruby data-lemma=\"雨\" data-surface=\"雨\">雨<rt>あめ</rt></ruby>の<ruby data-lemma=\"音\" data-surface=\"音\">音<rt>おと</rt></ruby>が<ruby data-lemma=\"小さい\" data-surface=\"小さく\">小<rt>ちい</rt></ruby>さく<ruby data-lemma=\"聞こえる\" data-surface=\"聞こえる\">聞<rt>き</rt></ruby>こえる。でも、<ruby data-lemma=\"居間\" data-surface=\"居間\">居間<rt>いま</rt></ruby>はあたたかい。ムーミン<ruby data-lemma=\"夫婦\" data-surface=\"夫婦\">夫婦<rt>ふうふ</rt></ruby>と、ムーミン。<ruby data-lemma=\"三\" data-surface=\"三\">三<rt>さん</rt></ruby><ruby data-lemma=\"人\" data-surface=\"人\">人<rt>にん</rt></ruby>のしずかな<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちの<ruby data-lemma=\"夕方\" data-surface=\"夕方\">夕方<rt>ゆうがた</rt></ruby>だった。"
     },
     {
       "id": "p19",
       "kind": "narration",
       "speaker": null,
-      "text": "この夜、ムーミンはながいあいだママのとなりでじっとすわっていた。話したことが新しい気持ちを作っていた。「あした、ニンニにありがとうって言おう」と、ムーミンは心の中できめた。ムーミンの夏はゆっくりと秋へむかっている。でも、今夜はまだあたたかい。やさしい夜だ。",
-      "html": "この<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>、ムーミンはながいあいだママのとなりでじっとすわっていた。<span class=\"word\" data-lemma=\"話す\" data-surface=\"話し\" data-reading=\"はなし\">話し</span>たことが<span class=\"word\" data-lemma=\"新しい\" data-surface=\"新しい\" data-reading=\"あたらしい\">新しい</span><span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>を<span class=\"word\" data-lemma=\"作る\" data-surface=\"作っ\" data-reading=\"つくっ\">作っ</span>ていた。「あした、ニンニにありがとうって<span class=\"word\" data-lemma=\"言う\" data-surface=\"言おう\" data-reading=\"いおう\">言おう</span>」と、ムーミンは<span class=\"word\" data-lemma=\"心\" data-surface=\"心\" data-reading=\"こころ\">心</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>できめた。ムーミンの<span class=\"word\" data-lemma=\"夏\" data-surface=\"夏\" data-reading=\"なつ\">夏</span>はゆっくりと<span class=\"word\" data-lemma=\"秋\" data-surface=\"秋\" data-reading=\"あき\">秋</span>へむかっている。でも、<span class=\"word\" data-lemma=\"今夜\" data-surface=\"今夜\" data-reading=\"こんや\">今夜</span>はまだあたたかい。やさしい<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>だ。",
-      "htmlFull": "この<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>、ムーミンはながいあいだママのとなりでじっとすわっていた。<ruby data-lemma=\"話す\" data-surface=\"話し\">話<rt>はな</rt></ruby>したことが<ruby data-lemma=\"新しい\" data-surface=\"新しい\">新<rt>あたら</rt></ruby>しい<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちを<ruby data-lemma=\"作る\" data-surface=\"作っ\">作<rt>つく</rt></ruby>っていた。「あした、ニンニにありがとうって<ruby data-lemma=\"言う\" data-surface=\"言おう\">言<rt>い</rt></ruby>おう」と、ムーミンは<ruby data-lemma=\"心\" data-surface=\"心\">心<rt>こころ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>できめた。ムーミンの<ruby data-lemma=\"夏\" data-surface=\"夏\">夏<rt>なつ</rt></ruby>はゆっくりと<ruby data-lemma=\"秋\" data-surface=\"秋\">秋<rt>あき</rt></ruby>へむかっている。でも、<ruby data-lemma=\"今夜\" data-surface=\"今夜\">今夜<rt>こんや</rt></ruby>はまだあたたかい。やさしい<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>だ。"
+      "text": "この夜、ムーミンはながいあいだママのとなりでじっとすわっていた。話したことばが、新しい気持ちを作っていた。「あした、ニンニにありがとうって言おう」と、ムーミンは心の中で思った。ムーミンの夏は、ゆっくりと秋になっていく。でも、今夜はまだあたたかい。やさしい夜だ。",
+      "html": "この<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>、ムーミンはながいあいだママのとなりでじっとすわっていた。<span class=\"word\" data-lemma=\"話す\" data-surface=\"話し\" data-reading=\"はなし\">話し</span>たことばが、<span class=\"word\" data-lemma=\"新しい\" data-surface=\"新しい\" data-reading=\"あたらしい\">新しい</span><span class=\"word\" data-lemma=\"気持ち\" data-surface=\"気持ち\" data-reading=\"きもち\">気持ち</span>を<span class=\"word\" data-lemma=\"作る\" data-surface=\"作っ\" data-reading=\"つくっ\">作っ</span>ていた。「あした、ニンニにありがとうって<span class=\"word\" data-lemma=\"言う\" data-surface=\"言おう\" data-reading=\"いおう\">言おう</span>」と、ムーミンは<span class=\"word\" data-lemma=\"心\" data-surface=\"心\" data-reading=\"こころ\">心</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で<span class=\"word\" data-lemma=\"思う\" data-surface=\"思っ\" data-reading=\"おもっ\">思っ</span>た。ムーミンの<span class=\"word\" data-lemma=\"夏\" data-surface=\"夏\" data-reading=\"なつ\">夏</span>は、ゆっくりと<span class=\"word\" data-lemma=\"秋\" data-surface=\"秋\" data-reading=\"あき\">秋</span>になっていく。でも、<span class=\"word\" data-lemma=\"今夜\" data-surface=\"今夜\" data-reading=\"こんや\">今夜</span>はまだあたたかい。やさしい<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>だ。",
+      "htmlFull": "この<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>、ムーミンはながいあいだママのとなりでじっとすわっていた。<ruby data-lemma=\"話す\" data-surface=\"話し\">話<rt>はな</rt></ruby>したことばが、<ruby data-lemma=\"新しい\" data-surface=\"新しい\">新<rt>あたら</rt></ruby>しい<ruby data-lemma=\"気持ち\" data-surface=\"気持ち\">気持<rt>きも</rt></ruby>ちを<ruby data-lemma=\"作る\" data-surface=\"作っ\">作<rt>つく</rt></ruby>っていた。「あした、ニンニにありがとうって<ruby data-lemma=\"言う\" data-surface=\"言おう\">言<rt>い</rt></ruby>おう」と、ムーミンは<ruby data-lemma=\"心\" data-surface=\"心\">心<rt>こころ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で<ruby data-lemma=\"思う\" data-surface=\"思っ\">思<rt>おも</rt></ruby>った。ムーミンの<ruby data-lemma=\"夏\" data-surface=\"夏\">夏<rt>なつ</rt></ruby>は、ゆっくりと<ruby data-lemma=\"秋\" data-surface=\"秋\">秋<rt>あき</rt></ruby>になっていく。でも、<ruby data-lemma=\"今夜\" data-surface=\"今夜\">今夜<rt>こんや</rt></ruby>はまだあたたかい。やさしい<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>だ。"
     }
   ],
   "focusVocab": [
-    {
-      "lemma": "気持ち",
-      "reading": "きもち",
-      "gloss": "feeling, mood",
-      "tier": "focus"
-    },
     {
       "lemma": "夫婦",
       "reading": "ふうふ",
@@ -213,15 +207,15 @@
       "tier": "focus"
     },
     {
-      "lemma": "話す",
-      "reading": "はなす",
-      "gloss": "to talk, to tell",
+      "lemma": "言葉",
+      "reading": "ことば",
+      "gloss": "word, words, language",
       "tier": "focus"
     },
     {
-      "lemma": "やさしい",
-      "reading": "やさしい",
-      "gloss": "kind, gentle",
+      "lemma": "かくす",
+      "reading": "かくす",
+      "gloss": "to hide (something)",
       "tier": "focus"
     }
   ],
@@ -243,16 +237,15 @@
       "reading": "ききだす",
       "gloss": "to draw out (a story)",
       "tier": "stretch"
+    },
+    {
+      "lemma": "黙る",
+      "reading": "だまる",
+      "gloss": "to be silent, to say nothing",
+      "tier": "stretch"
     }
   ],
   "glossary": [
-    {
-      "lemma": "気持ち",
-      "reading": "きもち",
-      "gloss": "feeling, mood",
-      "tier": "focus",
-      "first": "ch36"
-    },
     {
       "lemma": "夫婦",
       "reading": "ふうふ",
@@ -261,16 +254,16 @@
       "first": "ch36"
     },
     {
-      "lemma": "話す",
-      "reading": "はなす",
-      "gloss": "to talk, to tell",
+      "lemma": "言葉",
+      "reading": "ことば",
+      "gloss": "word, words, language",
       "tier": "focus",
       "first": "ch36"
     },
     {
-      "lemma": "やさしい",
-      "reading": "やさしい",
-      "gloss": "kind, gentle",
+      "lemma": "かくす",
+      "reading": "かくす",
+      "gloss": "to hide (something)",
       "tier": "focus",
       "first": "ch36"
     },
@@ -292,6 +285,13 @@
       "lemma": "聞き出す",
       "reading": "ききだす",
       "gloss": "to draw out (a story)",
+      "tier": "stretch",
+      "first": "ch36"
+    },
+    {
+      "lemma": "黙る",
+      "reading": "だまる",
+      "gloss": "to be silent, to say nothing",
       "tier": "stretch",
       "first": "ch36"
     }

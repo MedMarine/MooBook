@@ -32,10 +32,10 @@
     "characters": [
       "ムーミン",
       "フローレン",
-      "ニンニ"
+      "ニンニ",
+      "飛行鬼"
     ],
     "mentioned": [
-      "飛行鬼",
       "パパ"
     ],
     "motifs": [
@@ -52,17 +52,17 @@
       "id": "p01",
       "kind": "narration",
       "speaker": null,
-      "text": "また、あの山の洞穴にやってきた。昨日と今日はちがう。洞穴の入口の砂があれている。",
-      "html": "また、あの<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>の<span class=\"word\" data-lemma=\"洞穴\" data-surface=\"洞穴\" data-reading=\"ほらあな\">洞穴</span>にやってきた。<span class=\"word\" data-lemma=\"昨日\" data-surface=\"昨日\" data-reading=\"きのう\">昨日</span>と<span class=\"word\" data-lemma=\"今日\" data-surface=\"今日\" data-reading=\"きょう\">今日</span>はちがう。<span class=\"word\" data-lemma=\"洞穴\" data-surface=\"洞穴\" data-reading=\"ほらあな\">洞穴</span>の<span class=\"word\" data-lemma=\"入り口\" data-surface=\"入口\" data-reading=\"いりぐち\">入口</span>の<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>があれている。",
-      "htmlFull": "また、あの<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>の<ruby data-lemma=\"洞穴\" data-surface=\"洞穴\">洞穴<rt>ほらあな</rt></ruby>にやってきた。<ruby data-lemma=\"昨日\" data-surface=\"昨日\">昨日<rt>きのう</rt></ruby>と<ruby data-lemma=\"今日\" data-surface=\"今日\">今日<rt>きょう</rt></ruby>はちがう。<ruby data-lemma=\"洞穴\" data-surface=\"洞穴\">洞穴<rt>ほらあな</rt></ruby>の<ruby data-lemma=\"入り口\" data-surface=\"入口\">入口<rt>いりぐち</rt></ruby>の<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>があれている。"
+      "text": "また、あの山の洞穴にやってきた。でも、昨日と今日はちがう。洞穴の入口の砂が、変になっている。遠くで、雷の小さい音もする。",
+      "html": "また、あの<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>の<span class=\"word\" data-lemma=\"洞穴\" data-surface=\"洞穴\" data-reading=\"ほらあな\">洞穴</span>にやってきた。でも、<ruby data-lemma=\"昨日\" data-surface=\"昨日\">昨日<rt>きのう</rt></ruby>と<span class=\"word\" data-lemma=\"今日\" data-surface=\"今日\" data-reading=\"きょう\">今日</span>はちがう。<span class=\"word\" data-lemma=\"洞穴\" data-surface=\"洞穴\" data-reading=\"ほらあな\">洞穴</span>の<span class=\"word\" data-lemma=\"入り口\" data-surface=\"入口\" data-reading=\"いりぐち\">入口</span>の<span class=\"word\" data-lemma=\"砂\" data-surface=\"砂\" data-reading=\"すな\">砂</span>が、<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>になっている。<span class=\"word\" data-lemma=\"遠く\" data-surface=\"遠く\" data-reading=\"とおく\">遠く</span>で、<span class=\"word\" data-lemma=\"雷\" data-surface=\"雷\" data-reading=\"かみなり\">雷</span>の<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"音\" data-surface=\"音\" data-reading=\"おと\">音</span>もする。",
+      "htmlFull": "また、あの<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>の<ruby data-lemma=\"洞穴\" data-surface=\"洞穴\">洞穴<rt>ほらあな</rt></ruby>にやってきた。でも、<ruby data-lemma=\"昨日\" data-surface=\"昨日\">昨日<rt>きのう</rt></ruby>と<ruby data-lemma=\"今日\" data-surface=\"今日\">今日<rt>きょう</rt></ruby>はちがう。<ruby data-lemma=\"洞穴\" data-surface=\"洞穴\">洞穴<rt>ほらあな</rt></ruby>の<ruby data-lemma=\"入り口\" data-surface=\"入口\">入口<rt>いりぐち</rt></ruby>の<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>が、<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>になっている。<ruby data-lemma=\"遠く\" data-surface=\"遠く\">遠<rt>とお</rt></ruby>くで、<ruby data-lemma=\"雷\" data-surface=\"雷\">雷<rt>かみなり</rt></ruby>の<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"音\" data-surface=\"音\">音<rt>おと</rt></ruby>もする。"
     },
     {
       "id": "p02",
       "kind": "dialogue",
       "speaker": "ムーミン",
-      "text": "砂が変だ。だれかがこの砂の上を歩けば、こうなる。",
-      "html": "<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>が<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>だ。だれかがこの<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>を<span class=\"word\" data-lemma=\"歩く\" data-surface=\"歩け\" data-reading=\"あるけ\">歩け</span>ば、こうなる。",
-      "htmlFull": "<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>が<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>だ。だれかがこの<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>を<ruby data-lemma=\"歩く\" data-surface=\"歩け\">歩<rt>ある</rt></ruby>けば、こうなる。"
+      "text": "砂が変だ。だれかがこの砂の上を歩けば、こうなる。これは、小さい事件だよ。",
+      "html": "<span class=\"word\" data-lemma=\"砂\" data-surface=\"砂\" data-reading=\"すな\">砂</span>が<span class=\"word\" data-lemma=\"変\" data-surface=\"変\" data-reading=\"へん\">変</span>だ。だれかがこの<span class=\"word\" data-lemma=\"砂\" data-surface=\"砂\" data-reading=\"すな\">砂</span>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>を<span class=\"word\" data-lemma=\"歩く\" data-surface=\"歩け\" data-reading=\"あるけ\">歩け</span>ば、こうなる。これは、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>だよ。",
+      "htmlFull": "<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>が<ruby data-lemma=\"変\" data-surface=\"変\">変<rt>へん</rt></ruby>だ。だれかがこの<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>を<ruby data-lemma=\"歩く\" data-surface=\"歩け\">歩<rt>ある</rt></ruby>けば、こうなる。これは、<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>だよ。"
     },
     {
       "id": "p03",
@@ -76,9 +76,9 @@
       "id": "p04",
       "kind": "narration",
       "speaker": null,
-      "text": "砂の中に黒くてねばねばするものがある。タールだ。どこから来たのかわからない。",
-      "html": "<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>に<span class=\"word\" data-lemma=\"黒い\" data-surface=\"黒く\" data-reading=\"くろく\">黒く</span>てねばねばするものがある。タールだ。どこから<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たのかわからない。",
-      "htmlFull": "<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>に<ruby data-lemma=\"黒い\" data-surface=\"黒く\">黒<rt>くろ</rt></ruby>くてねばねばするものがある。タールだ。どこから<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たのかわからない。"
+      "text": "砂の中に、黒くてきたないものがある。タールだ。どこから来たのかわからない。",
+      "html": "<span class=\"word\" data-lemma=\"砂\" data-surface=\"砂\" data-reading=\"すな\">砂</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>に、<span class=\"word\" data-lemma=\"黒い\" data-surface=\"黒く\" data-reading=\"くろく\">黒く</span>てきたないものがある。タールだ。どこから<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>たのかわからない。",
+      "htmlFull": "<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>に、<ruby data-lemma=\"黒い\" data-surface=\"黒く\">黒<rt>くろ</rt></ruby>くてきたないものがある。タールだ。どこから<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>たのかわからない。"
     },
     {
       "id": "p05",
@@ -93,16 +93,16 @@
       "kind": "dialogue",
       "speaker": "フローレン",
       "text": "さわらなければ大丈夫でしょう。",
-      "html": "さわらなければ<span class=\"word\" data-lemma=\"大丈夫\" data-surface=\"大丈夫\" data-reading=\"だいじょうぶ\">大丈夫</span>でしょう。",
+      "html": "さわらなければ<ruby data-lemma=\"大丈夫\" data-surface=\"大丈夫\">大丈夫<rt>だいじょうぶ</rt></ruby>でしょう。",
       "htmlFull": "さわらなければ<ruby data-lemma=\"大丈夫\" data-surface=\"大丈夫\">大丈夫<rt>だいじょうぶ</rt></ruby>でしょう。"
     },
     {
       "id": "p07",
       "kind": "narration",
       "speaker": null,
-      "text": "ニンニがうしろからそっとちかづいた。ニンニの手がちょっと見える。",
-      "html": "ニンニがうしろからそっとちかづいた。ニンニの<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>がちょっと<span class=\"word\" data-lemma=\"見える\" data-surface=\"見える\" data-reading=\"みえる\">見える</span>。",
-      "htmlFull": "ニンニがうしろからそっとちかづいた。ニンニの<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>がちょっと<ruby data-lemma=\"見える\" data-surface=\"見える\">見<rt>み</rt></ruby>える。"
+      "text": "ニンニがうしろからそっと来た。ニンニの手がちょっと見える。",
+      "html": "ニンニがうしろからそっと<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。ニンニの<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>がちょっと<span class=\"word\" data-lemma=\"見える\" data-surface=\"見える\" data-reading=\"みえる\">見える</span>。",
+      "htmlFull": "ニンニがうしろからそっと<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。ニンニの<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>がちょっと<ruby data-lemma=\"見える\" data-surface=\"見える\">見<rt>み</rt></ruby>える。"
     },
     {
       "id": "p08",
@@ -116,16 +116,16 @@
       "id": "p09",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンとフローレンがふりかえった。ニンニがはじめて声を出した。小さいやさしい声だ。",
-      "html": "ムーミンとフローレンがふりかえった。ニンニがはじめて<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>を<span class=\"word\" data-lemma=\"出す\" data-surface=\"出し\" data-reading=\"だし\">出し</span>た。<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>やさしい<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>だ。",
-      "htmlFull": "ムーミンとフローレンがふりかえった。ニンニがはじめて<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>を<ruby data-lemma=\"出す\" data-surface=\"出し\">出<rt>だ</rt></ruby>した。<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいやさしい<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>だ。"
+      "text": "ムーミンとフローレンは、うしろを見た。ニンニがはじめて声を出した。小さいやさしい声だ。",
+      "html": "ムーミンとフローレンは、うしろを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。ニンニがはじめて<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>を<span class=\"word\" data-lemma=\"出す\" data-surface=\"出し\" data-reading=\"だし\">出し</span>た。<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>やさしい<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>だ。",
+      "htmlFull": "ムーミンとフローレンは、うしろを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。ニンニがはじめて<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>を<ruby data-lemma=\"出す\" data-surface=\"出し\">出<rt>だ</rt></ruby>した。<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいやさしい<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>だ。"
     },
     {
       "id": "p10",
       "kind": "dialogue",
       "speaker": "ニンニ",
       "text": "だれかが砂に潜ったと思う。だれかがここにいるかもしれない。",
-      "html": "だれかが<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>に<ruby data-lemma=\"潜る\" data-surface=\"潜っ\">潜<rt>もぐ</rt></ruby>ったと<span class=\"word\" data-lemma=\"思う\" data-surface=\"思う\" data-reading=\"おもう\">思う</span>。だれかがここにいるかもしれない。",
+      "html": "だれかが<span class=\"word\" data-lemma=\"砂\" data-surface=\"砂\" data-reading=\"すな\">砂</span>に<ruby data-lemma=\"潜る\" data-surface=\"潜っ\">潜<rt>もぐ</rt></ruby>ったと<span class=\"word\" data-lemma=\"思う\" data-surface=\"思う\" data-reading=\"おもう\">思う</span>。だれかがここにいるかもしれない。",
       "htmlFull": "だれかが<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>に<ruby data-lemma=\"潜る\" data-surface=\"潜っ\">潜<rt>もぐ</rt></ruby>ったと<ruby data-lemma=\"思う\" data-surface=\"思う\">思<rt>おも</rt></ruby>う。だれかがここにいるかもしれない。"
     },
     {
@@ -148,16 +148,16 @@
       "id": "p13",
       "kind": "narration",
       "speaker": null,
-      "text": "ニンニはうれしそうにうなずいた。いままでより頭がずっとよく見える。",
-      "html": "ニンニはうれしそうにうなずいた。いままでより<span class=\"word\" data-lemma=\"頭\" data-surface=\"頭\" data-reading=\"あたま\">頭</span>がずっとよく<span class=\"word\" data-lemma=\"見える\" data-surface=\"見える\" data-reading=\"みえる\">見える</span>。",
-      "htmlFull": "ニンニはうれしそうにうなずいた。いままでより<ruby data-lemma=\"頭\" data-surface=\"頭\">頭<rt>あたま</rt></ruby>がずっとよく<ruby data-lemma=\"見える\" data-surface=\"見える\">見<rt>み</rt></ruby>える。"
+      "text": "ニンニはうれしそうにうなずいた。いままでより頭がずっとよく見える。声が出れば、ニンニはもっと見えるようになるのかもしれない。",
+      "html": "ニンニはうれしそうにうなずいた。いままでより<span class=\"word\" data-lemma=\"頭\" data-surface=\"頭\" data-reading=\"あたま\">頭</span>がずっとよく<span class=\"word\" data-lemma=\"見える\" data-surface=\"見える\" data-reading=\"みえる\">見える</span>。<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>が<span class=\"word\" data-lemma=\"出る\" data-surface=\"出れ\" data-reading=\"でれ\">出れ</span>ば、ニンニはもっと<span class=\"word\" data-lemma=\"見える\" data-surface=\"見える\" data-reading=\"みえる\">見える</span>ようになるのかもしれない。",
+      "htmlFull": "ニンニはうれしそうにうなずいた。いままでより<ruby data-lemma=\"頭\" data-surface=\"頭\">頭<rt>あたま</rt></ruby>がずっとよく<ruby data-lemma=\"見える\" data-surface=\"見える\">見<rt>み</rt></ruby>える。<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>が<ruby data-lemma=\"出る\" data-surface=\"出れ\">出<rt>で</rt></ruby>れば、ニンニはもっと<ruby data-lemma=\"見える\" data-surface=\"見える\">見<rt>み</rt></ruby>えるようになるのかもしれない。"
     },
     {
       "id": "p14",
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "砂にもぐったなら、まだいるかもしれない。どうすればいい？",
-      "html": "<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>にもぐったなら、まだいるかもしれない。どうすればいい？",
+      "html": "<span class=\"word\" data-lemma=\"砂\" data-surface=\"砂\" data-reading=\"すな\">砂</span>にもぐったなら、まだいるかもしれない。どうすればいい？",
       "htmlFull": "<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>にもぐったなら、まだいるかもしれない。どうすればいい？"
     },
     {
@@ -188,9 +188,9 @@
       "id": "p18",
       "kind": "narration",
       "speaker": null,
-      "text": "飛行鬼だった。ちょっとタールの匂いがする。飛行鬼は洞穴の中でなにか仕事をしていた。",
-      "html": "<span class=\"word\" data-lemma=\"飛行\" data-surface=\"飛行\" data-reading=\"ひこう\">飛行</span><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>だった。ちょっとタールの<ruby data-lemma=\"匂い\" data-surface=\"匂い\">匂<rt>にお</rt></ruby>いがする。<span class=\"word\" data-lemma=\"飛行\" data-surface=\"飛行\" data-reading=\"ひこう\">飛行</span><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>は<span class=\"word\" data-lemma=\"洞穴\" data-surface=\"洞穴\" data-reading=\"ほらあな\">洞穴</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>でなにか<span class=\"word\" data-lemma=\"仕事\" data-surface=\"仕事\" data-reading=\"しごと\">仕事</span>をしていた。",
-      "htmlFull": "<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>だった。ちょっとタールの<ruby data-lemma=\"匂い\" data-surface=\"匂い\">匂<rt>にお</rt></ruby>いがする。<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>は<ruby data-lemma=\"洞穴\" data-surface=\"洞穴\">洞穴<rt>ほらあな</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>でなにか<ruby data-lemma=\"仕事\" data-surface=\"仕事\">仕事<rt>しごと</rt></ruby>をしていた。"
+      "text": "飛行鬼だった。ちょっとタールの匂いがする。飛行鬼は洞穴の中でなにか仕事をしていた。奥のほうに、小さい電気の光が見える。",
+      "html": "<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><span class=\"word\" data-lemma=\"鬼\" data-surface=\"鬼\" data-reading=\"き\">鬼</span>だった。ちょっとタールの<span class=\"word\" data-lemma=\"匂い\" data-surface=\"匂い\" data-reading=\"におい\">匂い</span>がする。<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><span class=\"word\" data-lemma=\"鬼\" data-surface=\"鬼\" data-reading=\"き\">鬼</span>は<span class=\"word\" data-lemma=\"洞穴\" data-surface=\"洞穴\" data-reading=\"ほらあな\">洞穴</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>でなにか<span class=\"word\" data-lemma=\"仕事\" data-surface=\"仕事\" data-reading=\"しごと\">仕事</span>をしていた。<span class=\"word\" data-lemma=\"奥\" data-surface=\"奥\" data-reading=\"おく\">奥</span>のほうに、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"電気\" data-surface=\"電気\" data-reading=\"でんき\">電気</span>の<span class=\"word\" data-lemma=\"光\" data-surface=\"光\" data-reading=\"ひかり\">光</span>が<span class=\"word\" data-lemma=\"見える\" data-surface=\"見える\" data-reading=\"みえる\">見える</span>。",
+      "htmlFull": "<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>だった。ちょっとタールの<ruby data-lemma=\"匂い\" data-surface=\"匂い\">匂<rt>にお</rt></ruby>いがする。<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>は<ruby data-lemma=\"洞穴\" data-surface=\"洞穴\">洞穴<rt>ほらあな</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>でなにか<ruby data-lemma=\"仕事\" data-surface=\"仕事\">仕事<rt>しごと</rt></ruby>をしていた。<ruby data-lemma=\"奥\" data-surface=\"奥\">奥<rt>おく</rt></ruby>のほうに、<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"電気\" data-surface=\"電気\">電気<rt>でんき</rt></ruby>の<ruby data-lemma=\"光\" data-surface=\"光\">光<rt>ひかり</rt></ruby>が<ruby data-lemma=\"見える\" data-surface=\"見える\">見<rt>み</rt></ruby>える。"
     },
     {
       "id": "p19",
@@ -204,9 +204,9 @@
       "id": "p20",
       "kind": "dialogue",
       "speaker": "ムーミン",
-      "text": "でも、ぼくたちのひみつの場所でもある！",
-      "html": "でも、ぼくたちのひみつの<span class=\"word\" data-lemma=\"場所\" data-surface=\"場所\" data-reading=\"ばしょ\">場所</span>でもある！",
-      "htmlFull": "でも、ぼくたちのひみつの<ruby data-lemma=\"場所\" data-surface=\"場所\">場所<rt>ばしょ</rt></ruby>でもある！"
+      "text": "でも、ぼくたちのひみつの場所でもある！昨日、みんなで見つけたんです！",
+      "html": "でも、ぼくたちのひみつの<span class=\"word\" data-lemma=\"場所\" data-surface=\"場所\" data-reading=\"ばしょ\">場所</span>でもある！<ruby data-lemma=\"昨日\" data-surface=\"昨日\">昨日<rt>きのう</rt></ruby>、みんなで<span class=\"word\" data-lemma=\"見付ける\" data-surface=\"見つけ\" data-reading=\"みつけ\">見つけ</span>たんです！",
+      "htmlFull": "でも、ぼくたちのひみつの<ruby data-lemma=\"場所\" data-surface=\"場所\">場所<rt>ばしょ</rt></ruby>でもある！<ruby data-lemma=\"昨日\" data-surface=\"昨日\">昨日<rt>きのう</rt></ruby>、みんなで<ruby data-lemma=\"見付ける\" data-surface=\"見つけ\">見<rt>み</rt></ruby>つけたんです！"
     },
     {
       "id": "p21",
@@ -220,50 +220,32 @@
       "id": "p22",
       "kind": "dialogue",
       "speaker": "フローレン",
-      "text": "タールはどうすればいいですか？",
-      "html": "タールはどうすればいいですか？",
-      "htmlFull": "タールはどうすればいいですか？"
+      "text": "あの、タールは、どうすればいいですか？",
+      "html": "あの、タールは、どうすればいいですか？",
+      "htmlFull": "あの、タールは、どうすればいいですか？"
     },
     {
       "id": "p23",
       "kind": "dialogue",
       "speaker": "飛行鬼",
-      "text": "さわらなければ大丈夫だ。砂でふたをすれば消える。",
-      "html": "さわらなければ<span class=\"word\" data-lemma=\"大丈夫\" data-surface=\"大丈夫\" data-reading=\"だいじょうぶ\">大丈夫</span>だ。<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>でふたをすれば<span class=\"word\" data-lemma=\"消える\" data-surface=\"消える\" data-reading=\"きえる\">消える</span>。",
-      "htmlFull": "さわらなければ<ruby data-lemma=\"大丈夫\" data-surface=\"大丈夫\">大丈夫<rt>だいじょうぶ</rt></ruby>だ。<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>でふたをすれば<ruby data-lemma=\"消える\" data-surface=\"消える\">消<rt>き</rt></ruby>える。"
+      "text": "さわらなければ大丈夫だ。砂をかければ、消える。",
+      "html": "さわらなければ<ruby data-lemma=\"大丈夫\" data-surface=\"大丈夫\">大丈夫<rt>だいじょうぶ</rt></ruby>だ。<span class=\"word\" data-lemma=\"砂\" data-surface=\"砂\" data-reading=\"すな\">砂</span>をかければ、<span class=\"word\" data-lemma=\"消える\" data-surface=\"消える\" data-reading=\"きえる\">消える</span>。",
+      "htmlFull": "さわらなければ<ruby data-lemma=\"大丈夫\" data-surface=\"大丈夫\">大丈夫<rt>だいじょうぶ</rt></ruby>だ。<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>をかければ、<ruby data-lemma=\"消える\" data-surface=\"消える\">消<rt>き</rt></ruby>える。"
     },
     {
       "id": "p24",
       "kind": "narration",
       "speaker": null,
-      "text": "三人は飛行鬼がいうとおりに、砂でタールの上にふたをした。ニンニも手で小さい砂をかけた。ニンニの手はもうぜんぶ見える。事件は大きくなかった。でも、ニンニの声とムーミンの心にはのこった。「砂の事件」とムーミンは頭の中でなづけた。あしたはフローレンとニンニと、またここに来よう。タールがなければ、また小さい王国のひみつの場所になる。飛行鬼は砂の中にまた潜った。ムーミンはびっくりした。「砂の下に仕事場があるんですか？危なくないですか？」とムーミンが聞いた。飛行鬼は笑った。「危ないのは砂じゃない。事件はまだはじまっていないんだ」。ムーミンはちょっと怖くなった。この事件はこれからもつづくのかもしれない。",
-      "html": "<span class=\"word\" data-lemma=\"三\" data-surface=\"三\" data-reading=\"さん\">三</span><span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"にん\">人</span>は<span class=\"word\" data-lemma=\"飛行\" data-surface=\"飛行\" data-reading=\"ひこう\">飛行</span><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>がいうとおりに、<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>でタールの<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>にふたをした。ニンニも<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>で<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>をかけた。ニンニの<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>はもうぜんぶ<span class=\"word\" data-lemma=\"見える\" data-surface=\"見える\" data-reading=\"みえる\">見える</span>。<ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>は<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きく\" data-reading=\"おおきく\">大きく</span>なかった。でも、ニンニの<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>とムーミンの<span class=\"word\" data-lemma=\"心\" data-surface=\"心\" data-reading=\"こころ\">心</span>にはのこった。「<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>」とムーミンは<span class=\"word\" data-lemma=\"頭\" data-surface=\"頭\" data-reading=\"あたま\">頭</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>でなづけた。あしたはフローレンとニンニと、またここに<span class=\"word\" data-lemma=\"来る\" data-surface=\"来よう\" data-reading=\"こよう\">来よう</span>。タールがなければ、また<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"王国\" data-surface=\"王国\" data-reading=\"おうこく\">王国</span>のひみつの<span class=\"word\" data-lemma=\"場所\" data-surface=\"場所\" data-reading=\"ばしょ\">場所</span>になる。<span class=\"word\" data-lemma=\"飛行\" data-surface=\"飛行\" data-reading=\"ひこう\">飛行</span><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>は<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>にまた<ruby data-lemma=\"潜る\" data-surface=\"潜っ\">潜<rt>もぐ</rt></ruby>った。ムーミンはびっくりした。「<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<span class=\"word\" data-lemma=\"下\" data-surface=\"下\" data-reading=\"した\">下</span>に<span class=\"word\" data-lemma=\"仕事場\" data-surface=\"仕事場\" data-reading=\"しごとば\">仕事場</span>があるんですか？<ruby data-lemma=\"危ない\" data-surface=\"危なく\">危<rt>あぶ</rt></ruby>なくないですか？」とムーミンが<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>た。<span class=\"word\" data-lemma=\"飛行\" data-surface=\"飛行\" data-reading=\"ひこう\">飛行</span><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>は<ruby data-lemma=\"笑う\" data-surface=\"笑っ\">笑<rt>わら</rt></ruby>った。「<ruby data-lemma=\"危ない\" data-surface=\"危ない\">危<rt>あぶ</rt></ruby>ないのは<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>じゃない。<ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>はまだはじまっていないんだ」。ムーミンはちょっと<span class=\"word\" data-lemma=\"怖い\" data-surface=\"怖く\" data-reading=\"こわく\">怖く</span>なった。この<ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>はこれからもつづくのかもしれない。",
-      "htmlFull": "<ruby data-lemma=\"三\" data-surface=\"三\">三<rt>さん</rt></ruby><ruby data-lemma=\"人\" data-surface=\"人\">人<rt>にん</rt></ruby>は<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>がいうとおりに、<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>でタールの<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>にふたをした。ニンニも<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>で<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>をかけた。ニンニの<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>はもうぜんぶ<ruby data-lemma=\"見える\" data-surface=\"見える\">見<rt>み</rt></ruby>える。<ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>は<ruby data-lemma=\"大きい\" data-surface=\"大きく\">大<rt>おお</rt></ruby>きくなかった。でも、ニンニの<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>とムーミンの<ruby data-lemma=\"心\" data-surface=\"心\">心<rt>こころ</rt></ruby>にはのこった。「<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>」とムーミンは<ruby data-lemma=\"頭\" data-surface=\"頭\">頭<rt>あたま</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>でなづけた。あしたはフローレンとニンニと、またここに<ruby data-lemma=\"来る\" data-surface=\"来よう\">来<rt>こ</rt></ruby>よう。タールがなければ、また<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"王国\" data-surface=\"王国\">王国<rt>おうこく</rt></ruby>のひみつの<ruby data-lemma=\"場所\" data-surface=\"場所\">場所<rt>ばしょ</rt></ruby>になる。<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>は<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>にまた<ruby data-lemma=\"潜る\" data-surface=\"潜っ\">潜<rt>もぐ</rt></ruby>った。ムーミンはびっくりした。「<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<ruby data-lemma=\"下\" data-surface=\"下\">下<rt>した</rt></ruby>に<ruby data-lemma=\"仕事場\" data-surface=\"仕事場\">仕事場<rt>しごとば</rt></ruby>があるんですか？<ruby data-lemma=\"危ない\" data-surface=\"危なく\">危<rt>あぶ</rt></ruby>なくないですか？」とムーミンが<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いた。<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>は<ruby data-lemma=\"笑う\" data-surface=\"笑っ\">笑<rt>わら</rt></ruby>った。「<ruby data-lemma=\"危ない\" data-surface=\"危ない\">危<rt>あぶ</rt></ruby>ないのは<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>じゃない。<ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>はまだはじまっていないんだ」。ムーミンはちょっと<ruby data-lemma=\"怖い\" data-surface=\"怖く\">怖<rt>こわ</rt></ruby>くなった。この<ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>はこれからもつづくのかもしれない。"
+      "text": "三人は飛行鬼がいうとおりに、タールの上に砂をかけた。ニンニも手で小さい砂をかけた。ニンニの手はもうぜんぶ見える。事件は大きくなかった。でも、ニンニの声とムーミンの心にはのこった。「砂の事件」とムーミンは頭の中で呼んだ。あしたはフローレンとニンニと、またここに来よう。タールがなければ、また小さい王国のひみつの場所になる。飛行鬼は砂の中にまた潜った。ムーミンはびっくりした。「砂の下に仕事場があるんですか？危なくないですか？」とムーミンが聞いた。飛行鬼は笑った。「危ないのは砂じゃない。事件はまだはじまっていないんだ」。ムーミンはちょっと怖くなった。大きい事件は、もしかして、これからはじまるのかもしれない。",
+      "html": "<span class=\"word\" data-lemma=\"三\" data-surface=\"三\" data-reading=\"さん\">三</span><span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"にん\">人</span>は<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><span class=\"word\" data-lemma=\"鬼\" data-surface=\"鬼\" data-reading=\"き\">鬼</span>がいうとおりに、タールの<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>に<span class=\"word\" data-lemma=\"砂\" data-surface=\"砂\" data-reading=\"すな\">砂</span>をかけた。ニンニも<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>で<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"砂\" data-surface=\"砂\" data-reading=\"すな\">砂</span>をかけた。ニンニの<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>はもうぜんぶ<span class=\"word\" data-lemma=\"見える\" data-surface=\"見える\" data-reading=\"みえる\">見える</span>。<ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>は<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きく\" data-reading=\"おおきく\">大きく</span>なかった。でも、ニンニの<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>とムーミンの<span class=\"word\" data-lemma=\"心\" data-surface=\"心\" data-reading=\"こころ\">心</span>にはのこった。「<span class=\"word\" data-lemma=\"砂\" data-surface=\"砂\" data-reading=\"すな\">砂</span>の<ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>」とムーミンは<span class=\"word\" data-lemma=\"頭\" data-surface=\"頭\" data-reading=\"あたま\">頭</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で<ruby data-lemma=\"呼ぶ\" data-surface=\"呼ん\">呼<rt>よ</rt></ruby>んだ。あしたはフローレンとニンニと、またここに<span class=\"word\" data-lemma=\"来る\" data-surface=\"来よう\" data-reading=\"こよう\">来よう</span>。タールがなければ、また<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"王国\" data-surface=\"王国\" data-reading=\"おうこく\">王国</span>のひみつの<span class=\"word\" data-lemma=\"場所\" data-surface=\"場所\" data-reading=\"ばしょ\">場所</span>になる。<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><span class=\"word\" data-lemma=\"鬼\" data-surface=\"鬼\" data-reading=\"き\">鬼</span>は<span class=\"word\" data-lemma=\"砂\" data-surface=\"砂\" data-reading=\"すな\">砂</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>にまた<ruby data-lemma=\"潜る\" data-surface=\"潜っ\">潜<rt>もぐ</rt></ruby>った。ムーミンはびっくりした。「<span class=\"word\" data-lemma=\"砂\" data-surface=\"砂\" data-reading=\"すな\">砂</span>の<span class=\"word\" data-lemma=\"下\" data-surface=\"下\" data-reading=\"した\">下</span>に<span class=\"word\" data-lemma=\"仕事場\" data-surface=\"仕事場\" data-reading=\"しごとば\">仕事場</span>があるんですか？<ruby data-lemma=\"危ない\" data-surface=\"危なく\">危<rt>あぶ</rt></ruby>なくないですか？」とムーミンが<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>た。<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><span class=\"word\" data-lemma=\"鬼\" data-surface=\"鬼\" data-reading=\"き\">鬼</span>は<span class=\"word\" data-lemma=\"笑う\" data-surface=\"笑っ\" data-reading=\"わらっ\">笑っ</span>た。「<ruby data-lemma=\"危ない\" data-surface=\"危ない\">危<rt>あぶ</rt></ruby>ないのは<span class=\"word\" data-lemma=\"砂\" data-surface=\"砂\" data-reading=\"すな\">砂</span>じゃない。<ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>はまだはじまっていないんだ」。ムーミンはちょっと<span class=\"word\" data-lemma=\"怖い\" data-surface=\"怖く\" data-reading=\"こわく\">怖く</span>なった。<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>は、もしかして、これからはじまるのかもしれない。",
+      "htmlFull": "<ruby data-lemma=\"三\" data-surface=\"三\">三<rt>さん</rt></ruby><ruby data-lemma=\"人\" data-surface=\"人\">人<rt>にん</rt></ruby>は<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>がいうとおりに、タールの<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>に<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>をかけた。ニンニも<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>で<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>をかけた。ニンニの<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>はもうぜんぶ<ruby data-lemma=\"見える\" data-surface=\"見える\">見<rt>み</rt></ruby>える。<ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>は<ruby data-lemma=\"大きい\" data-surface=\"大きく\">大<rt>おお</rt></ruby>きくなかった。でも、ニンニの<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>とムーミンの<ruby data-lemma=\"心\" data-surface=\"心\">心<rt>こころ</rt></ruby>にはのこった。「<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>」とムーミンは<ruby data-lemma=\"頭\" data-surface=\"頭\">頭<rt>あたま</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で<ruby data-lemma=\"呼ぶ\" data-surface=\"呼ん\">呼<rt>よ</rt></ruby>んだ。あしたはフローレンとニンニと、またここに<ruby data-lemma=\"来る\" data-surface=\"来よう\">来<rt>こ</rt></ruby>よう。タールがなければ、また<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"王国\" data-surface=\"王国\">王国<rt>おうこく</rt></ruby>のひみつの<ruby data-lemma=\"場所\" data-surface=\"場所\">場所<rt>ばしょ</rt></ruby>になる。<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>は<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>にまた<ruby data-lemma=\"潜る\" data-surface=\"潜っ\">潜<rt>もぐ</rt></ruby>った。ムーミンはびっくりした。「<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>の<ruby data-lemma=\"下\" data-surface=\"下\">下<rt>した</rt></ruby>に<ruby data-lemma=\"仕事場\" data-surface=\"仕事場\">仕事場<rt>しごとば</rt></ruby>があるんですか？<ruby data-lemma=\"危ない\" data-surface=\"危なく\">危<rt>あぶ</rt></ruby>なくないですか？」とムーミンが<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いた。<ruby data-lemma=\"飛行\" data-surface=\"飛行\">飛行<rt>ひこう</rt></ruby><ruby data-lemma=\"鬼\" data-surface=\"鬼\">鬼<rt>き</rt></ruby>は<ruby data-lemma=\"笑う\" data-surface=\"笑っ\">笑<rt>わら</rt></ruby>った。「<ruby data-lemma=\"危ない\" data-surface=\"危ない\">危<rt>あぶ</rt></ruby>ないのは<ruby data-lemma=\"砂\" data-surface=\"砂\">砂<rt>すな</rt></ruby>じゃない。<ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>はまだはじまっていないんだ」。ムーミンはちょっと<ruby data-lemma=\"怖い\" data-surface=\"怖く\">怖<rt>こわ</rt></ruby>くなった。<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"事件\" data-surface=\"事件\">事件<rt>じけん</rt></ruby>は、もしかして、これからはじまるのかもしれない。"
     }
   ],
   "focusVocab": [
     {
-      "lemma": "砂",
-      "reading": "すな",
-      "gloss": "sand",
-      "tier": "focus"
-    },
-    {
-      "lemma": "俺",
-      "reading": "おれ",
-      "gloss": "I, me (rough-masculine pronoun; the 飛行鬼's register)",
-      "tier": "focus"
-    },
-    {
       "lemma": "潜る",
       "reading": "もぐる",
       "gloss": "to dive, to duck under",
-      "tier": "focus"
-    },
-    {
-      "lemma": "危ない",
-      "reading": "あぶない",
-      "gloss": "dangerous",
       "tier": "focus"
     },
     {
@@ -275,9 +257,9 @@
   ],
   "stretchVocab": [
     {
-      "lemma": "タール",
-      "reading": "タール",
-      "gloss": "tar (substance — dark, sticky; the Hobgoblin's trace)",
+      "lemma": "俺",
+      "reading": "おれ",
+      "gloss": "I, me (rough-masculine pronoun; the 飛行鬼's register)",
       "tier": "stretch"
     },
     {
@@ -285,34 +267,19 @@
       "reading": "のこぎり",
       "gloss": "saw (tool)",
       "tier": "stretch"
+    },
+    {
+      "lemma": "仕事場",
+      "reading": "しごとば",
+      "gloss": "workplace, workshop",
+      "tier": "stretch"
     }
   ],
   "glossary": [
     {
-      "lemma": "砂",
-      "reading": "すな",
-      "gloss": "sand",
-      "tier": "focus",
-      "first": "ch35"
-    },
-    {
-      "lemma": "俺",
-      "reading": "おれ",
-      "gloss": "I, me (rough-masculine pronoun)",
-      "tier": "focus",
-      "first": "ch35"
-    },
-    {
       "lemma": "潜る",
       "reading": "もぐる",
       "gloss": "to dive, to duck under",
-      "tier": "focus",
-      "first": "ch35"
-    },
-    {
-      "lemma": "危ない",
-      "reading": "あぶない",
-      "gloss": "dangerous",
       "tier": "focus",
       "first": "ch35"
     },
@@ -324,9 +291,9 @@
       "first": "ch35"
     },
     {
-      "lemma": "タール",
-      "reading": "タール",
-      "gloss": "tar",
+      "lemma": "俺",
+      "reading": "おれ",
+      "gloss": "I, me (rough-masculine pronoun)",
       "tier": "stretch",
       "first": "ch35"
     },
@@ -334,6 +301,13 @@
       "lemma": "鋸",
       "reading": "のこぎり",
       "gloss": "saw (tool)",
+      "tier": "stretch",
+      "first": "ch35"
+    },
+    {
+      "lemma": "仕事場",
+      "reading": "しごとば",
+      "gloss": "workplace, workshop",
       "tier": "stretch",
       "first": "ch35"
     }

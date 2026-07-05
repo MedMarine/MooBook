@@ -104,9 +104,9 @@
       "id": "p08",
       "kind": "narration",
       "speaker": null,
-      "text": "その時、強い風が来て、パパの帽子が飛んだ。\n\nそして帽子は、大きい木の上に乗ってしまった。",
-      "html": "その<span class=\"word\" data-lemma=\"時\" data-surface=\"時\" data-reading=\"とき\">時</span>、<span class=\"word\" data-lemma=\"強い\" data-surface=\"強い\" data-reading=\"つよい\">強い</span><span class=\"word\" data-lemma=\"風\" data-surface=\"風\" data-reading=\"かぜ\">風</span>が<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>て、パパの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>が<ruby data-lemma=\"飛ぶ\" data-surface=\"飛ん\">飛<rt>と</rt></ruby>んだ。\n\nそして<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>は、<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>に<span class=\"word\" data-lemma=\"乗る\" data-surface=\"乗っ\" data-reading=\"のっ\">乗っ</span>てしまった。",
-      "htmlFull": "その<ruby data-lemma=\"時\" data-surface=\"時\">時<rt>とき</rt></ruby>、<ruby data-lemma=\"強い\" data-surface=\"強い\">強<rt>つよ</rt></ruby>い<ruby data-lemma=\"風\" data-surface=\"風\">風<rt>かぜ</rt></ruby>が<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>て、パパの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>が<ruby data-lemma=\"飛ぶ\" data-surface=\"飛ん\">飛<rt>と</rt></ruby>んだ。\n\nそして<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>は、<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>に<ruby data-lemma=\"乗る\" data-surface=\"乗っ\">乗<rt>の</rt></ruby>ってしまった。"
+      "text": "その時、強い風が来て、パパの帽子が飛んだ。\n\nそして帽子は、大きい木の上に乗った。",
+      "html": "その<span class=\"word\" data-lemma=\"時\" data-surface=\"時\" data-reading=\"とき\">時</span>、<span class=\"word\" data-lemma=\"強い\" data-surface=\"強い\" data-reading=\"つよい\">強い</span><span class=\"word\" data-lemma=\"風\" data-surface=\"風\" data-reading=\"かぜ\">風</span>が<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>て、パパの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>が<ruby data-lemma=\"飛ぶ\" data-surface=\"飛ん\">飛<rt>と</rt></ruby>んだ。\n\nそして<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>は、<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きい\" data-reading=\"おおきい\">大きい</span><span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>に<span class=\"word\" data-lemma=\"乗る\" data-surface=\"乗っ\" data-reading=\"のっ\">乗っ</span>た。",
+      "htmlFull": "その<ruby data-lemma=\"時\" data-surface=\"時\">時<rt>とき</rt></ruby>、<ruby data-lemma=\"強い\" data-surface=\"強い\">強<rt>つよ</rt></ruby>い<ruby data-lemma=\"風\" data-surface=\"風\">風<rt>かぜ</rt></ruby>が<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>て、パパの<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>が<ruby data-lemma=\"飛ぶ\" data-surface=\"飛ん\">飛<rt>と</rt></ruby>んだ。\n\nそして<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>は、<ruby data-lemma=\"大きい\" data-surface=\"大きい\">大<rt>おお</rt></ruby>きい<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>に<ruby data-lemma=\"乗る\" data-surface=\"乗っ\">乗<rt>の</rt></ruby>った。"
     },
     {
       "id": "p09",
@@ -179,18 +179,6 @@
       "reading": "ふね",
       "gloss": "boat, ship",
       "tier": "focus"
-    },
-    {
-      "lemma": "帽子",
-      "reading": "ぼうし",
-      "gloss": "hat",
-      "tier": "focus"
-    },
-    {
-      "lemma": "木",
-      "reading": "き",
-      "gloss": "tree",
-      "tier": "focus"
     }
   ],
   "stretchVocab": [],
@@ -199,20 +187,6 @@
       "lemma": "船",
       "reading": "ふね",
       "gloss": "boat, ship",
-      "tier": "focus",
-      "first": "ch01"
-    },
-    {
-      "lemma": "帽子",
-      "reading": "ぼうし",
-      "gloss": "hat",
-      "tier": "focus",
-      "first": "ch01"
-    },
-    {
-      "lemma": "木",
-      "reading": "き",
-      "gloss": "tree",
       "tier": "focus",
       "first": "ch01"
     }

@@ -32,11 +32,11 @@
     "characters": [
       "ムーミン",
       "ママ",
-      "スニフ"
+      "スニフ",
+      "スナフキン"
     ],
     "mentioned": [
-      "ビフ",
-      "スナフキン"
+      "ビフ"
     ],
     "motifs": [
       "花",
@@ -76,9 +76,9 @@
       "id": "p04",
       "kind": "narration",
       "speaker": null,
-      "text": "そのとき、花のあいだから、小さい影が走って来た。ビフだ。ビフはママのそばまで来ると、ハンドバッグをそっと取って、花の中へ走って行ってしまった。",
-      "html": "そのとき、<span class=\"word\" data-lemma=\"花\" data-surface=\"花\" data-reading=\"はな\">花</span>のあいだから、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><ruby data-lemma=\"影\" data-surface=\"影\">影<rt>かげ</rt></ruby>が<span class=\"word\" data-lemma=\"走る\" data-surface=\"走っ\" data-reading=\"はしっ\">走っ</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。ビフだ。ビフはママのそばまで<span class=\"word\" data-lemma=\"来る\" data-surface=\"来る\" data-reading=\"くる\">来る</span>と、ハンドバッグをそっと<span class=\"word\" data-lemma=\"取る\" data-surface=\"取っ\" data-reading=\"とっ\">取っ</span>て、<span class=\"word\" data-lemma=\"花\" data-surface=\"花\" data-reading=\"はな\">花</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>へ<span class=\"word\" data-lemma=\"走る\" data-surface=\"走っ\" data-reading=\"はしっ\">走っ</span>て<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>てしまった。",
-      "htmlFull": "そのとき、<ruby data-lemma=\"花\" data-surface=\"花\">花<rt>はな</rt></ruby>のあいだから、<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"影\" data-surface=\"影\">影<rt>かげ</rt></ruby>が<ruby data-lemma=\"走る\" data-surface=\"走っ\">走<rt>はし</rt></ruby>って<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。ビフだ。ビフはママのそばまで<ruby data-lemma=\"来る\" data-surface=\"来る\">来<rt>く</rt></ruby>ると、ハンドバッグをそっと<ruby data-lemma=\"取る\" data-surface=\"取っ\">取<rt>と</rt></ruby>って、<ruby data-lemma=\"花\" data-surface=\"花\">花<rt>はな</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>へ<ruby data-lemma=\"走る\" data-surface=\"走っ\">走<rt>はし</rt></ruby>って<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>ってしまった。"
+      "text": "そのとき、花のあいだから、小さいすがたが走って来た。ビフだ。ビフはママのそばまで来ると、ハンドバッグをそっと取って、花の中へ走って行ってしまった。",
+      "html": "そのとき、<span class=\"word\" data-lemma=\"花\" data-surface=\"花\" data-reading=\"はな\">花</span>のあいだから、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>すがたが<span class=\"word\" data-lemma=\"走る\" data-surface=\"走っ\" data-reading=\"はしっ\">走っ</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。ビフだ。ビフはママのそばまで<span class=\"word\" data-lemma=\"来る\" data-surface=\"来る\" data-reading=\"くる\">来る</span>と、ハンドバッグをそっと<span class=\"word\" data-lemma=\"取る\" data-surface=\"取っ\" data-reading=\"とっ\">取っ</span>て、<span class=\"word\" data-lemma=\"花\" data-surface=\"花\" data-reading=\"はな\">花</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>へ<span class=\"word\" data-lemma=\"走る\" data-surface=\"走っ\" data-reading=\"はしっ\">走っ</span>て<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>てしまった。",
+      "htmlFull": "そのとき、<ruby data-lemma=\"花\" data-surface=\"花\">花<rt>はな</rt></ruby>のあいだから、<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいすがたが<ruby data-lemma=\"走る\" data-surface=\"走っ\">走<rt>はし</rt></ruby>って<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。ビフだ。ビフはママのそばまで<ruby data-lemma=\"来る\" data-surface=\"来る\">来<rt>く</rt></ruby>ると、ハンドバッグをそっと<ruby data-lemma=\"取る\" data-surface=\"取っ\">取<rt>と</rt></ruby>って、<ruby data-lemma=\"花\" data-surface=\"花\">花<rt>はな</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>へ<ruby data-lemma=\"走る\" data-surface=\"走っ\">走<rt>はし</rt></ruby>って<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>ってしまった。"
     },
     {
       "id": "p05",
@@ -100,9 +100,9 @@
       "id": "p07",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンはビフを追って、花の中を走った。でも、ビフは本当に速くて、なかなか追えない。",
-      "html": "ムーミンはビフを<span class=\"word\" data-lemma=\"追う\" data-surface=\"追っ\" data-reading=\"おっ\">追っ</span>て、<span class=\"word\" data-lemma=\"花\" data-surface=\"花\" data-reading=\"はな\">花</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>を<span class=\"word\" data-lemma=\"走る\" data-surface=\"走っ\" data-reading=\"はしっ\">走っ</span>た。でも、ビフは<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に<span class=\"word\" data-lemma=\"早い\" data-surface=\"速く\" data-reading=\"はやく\">速く</span>て、なかなか<span class=\"word\" data-lemma=\"追う\" data-surface=\"追え\" data-reading=\"おえ\">追え</span>ない。",
-      "htmlFull": "ムーミンはビフを<ruby data-lemma=\"追う\" data-surface=\"追っ\">追<rt>お</rt></ruby>って、<ruby data-lemma=\"花\" data-surface=\"花\">花<rt>はな</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>を<ruby data-lemma=\"走る\" data-surface=\"走っ\">走<rt>はし</rt></ruby>った。でも、ビフは<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に<ruby data-lemma=\"早い\" data-surface=\"速く\">速<rt>はや</rt></ruby>くて、なかなか<ruby data-lemma=\"追う\" data-surface=\"追え\">追<rt>お</rt></ruby>えない。"
+      "text": "ムーミンはビフを追って、花畑の中を走った。でも、ビフは本当に速くて、ぜんぜん追えない。",
+      "html": "ムーミンはビフを<span class=\"word\" data-lemma=\"追う\" data-surface=\"追っ\" data-reading=\"おっ\">追っ</span>て、<span class=\"word\" data-lemma=\"花畑\" data-surface=\"花畑\" data-reading=\"はなばたけ\">花畑</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>を<span class=\"word\" data-lemma=\"走る\" data-surface=\"走っ\" data-reading=\"はしっ\">走っ</span>た。でも、ビフは<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に<span class=\"word\" data-lemma=\"早い\" data-surface=\"速く\" data-reading=\"はやく\">速く</span>て、ぜんぜん<span class=\"word\" data-lemma=\"追う\" data-surface=\"追え\" data-reading=\"おえ\">追え</span>ない。",
+      "htmlFull": "ムーミンはビフを<ruby data-lemma=\"追う\" data-surface=\"追っ\">追<rt>お</rt></ruby>って、<ruby data-lemma=\"花畑\" data-surface=\"花畑\">花畑<rt>はなばたけ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>を<ruby data-lemma=\"走る\" data-surface=\"走っ\">走<rt>はし</rt></ruby>った。でも、ビフは<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に<ruby data-lemma=\"早い\" data-surface=\"速く\">速<rt>はや</rt></ruby>くて、ぜんぜん<ruby data-lemma=\"追う\" data-surface=\"追え\">追<rt>お</rt></ruby>えない。"
     },
     {
       "id": "p08",
@@ -124,17 +124,17 @@
       "id": "p10",
       "kind": "dialogue",
       "speaker": "スナフキン",
-      "text": "ほら、ムーミン。追うだけじゃなくて、ビフの行きそうな花の場所を、ちゃんと考えてみて。",
-      "html": "ほら、ムーミン。<span class=\"word\" data-lemma=\"追う\" data-surface=\"追う\" data-reading=\"おう\">追う</span>だけじゃなくて、ビフの<span class=\"word\" data-lemma=\"行く\" data-surface=\"行き\" data-reading=\"いき\">行き</span>そうな<span class=\"word\" data-lemma=\"花\" data-surface=\"花\" data-reading=\"はな\">花</span>の<span class=\"word\" data-lemma=\"場所\" data-surface=\"場所\" data-reading=\"ばしょ\">場所</span>を、ちゃんと<span class=\"word\" data-lemma=\"考える\" data-surface=\"考え\" data-reading=\"かんがえ\">考え</span>てみて。",
-      "htmlFull": "ほら、ムーミン。<ruby data-lemma=\"追う\" data-surface=\"追う\">追<rt>お</rt></ruby>うだけじゃなくて、ビフの<ruby data-lemma=\"行く\" data-surface=\"行き\">行<rt>い</rt></ruby>きそうな<ruby data-lemma=\"花\" data-surface=\"花\">花<rt>はな</rt></ruby>の<ruby data-lemma=\"場所\" data-surface=\"場所\">場所<rt>ばしょ</rt></ruby>を、ちゃんと<ruby data-lemma=\"考える\" data-surface=\"考え\">考<rt>かんが</rt></ruby>えてみて。"
+      "text": "ほら、ムーミン。追うだけじゃなくて、ビフの行く場所を、ちゃんと考えてみて。",
+      "html": "ほら、ムーミン。<span class=\"word\" data-lemma=\"追う\" data-surface=\"追う\" data-reading=\"おう\">追う</span>だけじゃなくて、ビフの<span class=\"word\" data-lemma=\"行く\" data-surface=\"行く\" data-reading=\"いく\">行く</span><span class=\"word\" data-lemma=\"場所\" data-surface=\"場所\" data-reading=\"ばしょ\">場所</span>を、ちゃんと<span class=\"word\" data-lemma=\"考える\" data-surface=\"考え\" data-reading=\"かんがえ\">考え</span>てみて。",
+      "htmlFull": "ほら、ムーミン。<ruby data-lemma=\"追う\" data-surface=\"追う\">追<rt>お</rt></ruby>うだけじゃなくて、ビフの<ruby data-lemma=\"行く\" data-surface=\"行く\">行<rt>い</rt></ruby>く<ruby data-lemma=\"場所\" data-surface=\"場所\">場所<rt>ばしょ</rt></ruby>を、ちゃんと<ruby data-lemma=\"考える\" data-surface=\"考え\">考<rt>かんが</rt></ruby>えてみて。"
     },
     {
       "id": "p11",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンは立ち止まって、花の向こうをじっと見た。ビフは、ハンドバッグが重くて、速く走れなくなっていた。",
-      "html": "ムーミンは<span class=\"word\" data-lemma=\"立ち止まる\" data-surface=\"立ち止まっ\" data-reading=\"たちどまっ\">立ち止まっ</span>て、<span class=\"word\" data-lemma=\"花\" data-surface=\"花\" data-reading=\"はな\">花</span>の<span class=\"word\" data-lemma=\"向こう\" data-surface=\"向こう\" data-reading=\"むこう\">向こう</span>をじっと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。ビフは、ハンドバッグが<span class=\"word\" data-lemma=\"重い\" data-surface=\"重く\" data-reading=\"おもく\">重く</span>て、<span class=\"word\" data-lemma=\"早い\" data-surface=\"速く\" data-reading=\"はやく\">速く</span><span class=\"word\" data-lemma=\"走る\" data-surface=\"走れ\" data-reading=\"はしれ\">走れ</span>なくなっていた。",
-      "htmlFull": "ムーミンは<ruby data-lemma=\"立ち止まる\" data-surface=\"立ち止まっ\">立ち止<rt>たちど</rt></ruby>まって、<ruby data-lemma=\"花\" data-surface=\"花\">花<rt>はな</rt></ruby>の<ruby data-lemma=\"向こう\" data-surface=\"向こう\">向<rt>む</rt></ruby>こうをじっと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。ビフは、ハンドバッグが<ruby data-lemma=\"重い\" data-surface=\"重く\">重<rt>おも</rt></ruby>くて、<ruby data-lemma=\"早い\" data-surface=\"速く\">速<rt>はや</rt></ruby>く<ruby data-lemma=\"走る\" data-surface=\"走れ\">走<rt>はし</rt></ruby>れなくなっていた。"
+      "text": "ムーミンは、走るのをやめて、花の向こうをじっと見た。ビフは、ハンドバッグが重くて、もう速く走れない。",
+      "html": "ムーミンは、<span class=\"word\" data-lemma=\"走る\" data-surface=\"走る\" data-reading=\"はしる\">走る</span>のをやめて、<span class=\"word\" data-lemma=\"花\" data-surface=\"花\" data-reading=\"はな\">花</span>の<span class=\"word\" data-lemma=\"向こう\" data-surface=\"向こう\" data-reading=\"むこう\">向こう</span>をじっと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。ビフは、ハンドバッグが<span class=\"word\" data-lemma=\"重い\" data-surface=\"重く\" data-reading=\"おもく\">重く</span>て、もう<span class=\"word\" data-lemma=\"早い\" data-surface=\"速く\" data-reading=\"はやく\">速く</span><span class=\"word\" data-lemma=\"走る\" data-surface=\"走れ\" data-reading=\"はしれ\">走れ</span>ない。",
+      "htmlFull": "ムーミンは、<ruby data-lemma=\"走る\" data-surface=\"走る\">走<rt>はし</rt></ruby>るのをやめて、<ruby data-lemma=\"花\" data-surface=\"花\">花<rt>はな</rt></ruby>の<ruby data-lemma=\"向こう\" data-surface=\"向こう\">向<rt>む</rt></ruby>こうをじっと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。ビフは、ハンドバッグが<ruby data-lemma=\"重い\" data-surface=\"重く\">重<rt>おも</rt></ruby>くて、もう<ruby data-lemma=\"早い\" data-surface=\"速く\">速<rt>はや</rt></ruby>く<ruby data-lemma=\"走る\" data-surface=\"走れ\">走<rt>はし</rt></ruby>れない。"
     },
     {
       "id": "p12",
@@ -148,9 +148,9 @@
       "id": "p13",
       "kind": "dialogue",
       "speaker": "ママ",
-      "text": "ビフ、ハンドバッグの中のコレクションは、わたしにとって、他のものとは違うんです。どうか、返してください。",
-      "html": "ビフ、ハンドバッグの<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>のコレクションは、わたしにとって、<span class=\"word\" data-lemma=\"他\" data-surface=\"他\" data-reading=\"た\">他</span>のものとは<span class=\"word\" data-lemma=\"違う\" data-surface=\"違う\" data-reading=\"ちがう\">違う</span>んです。どうか、<span class=\"word\" data-lemma=\"返す\" data-surface=\"返し\" data-reading=\"かえし\">返し</span>てください。",
-      "htmlFull": "ビフ、ハンドバッグの<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>のコレクションは、わたしにとって、<ruby data-lemma=\"他\" data-surface=\"他\">他<rt>た</rt></ruby>のものとは<ruby data-lemma=\"違う\" data-surface=\"違う\">違<rt>ちが</rt></ruby>うんです。どうか、<ruby data-lemma=\"返す\" data-surface=\"返し\">返<rt>かえ</rt></ruby>してください。"
+      "text": "ビフ、ハンドバッグの中のコレクションは、他のものとは違うんです。とても大事なんです。どうか、返してください。",
+      "html": "ビフ、ハンドバッグの<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>のコレクションは、<span class=\"word\" data-lemma=\"他\" data-surface=\"他\" data-reading=\"た\">他</span>のものとは<ruby data-lemma=\"違う\" data-surface=\"違う\">違<rt>ちが</rt></ruby>うんです。とても<span class=\"word\" data-lemma=\"大事\" data-surface=\"大事\" data-reading=\"だいじ\">大事</span>なんです。どうか、<span class=\"word\" data-lemma=\"返す\" data-surface=\"返し\" data-reading=\"かえし\">返し</span>てください。",
+      "htmlFull": "ビフ、ハンドバッグの<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>のコレクションは、<ruby data-lemma=\"他\" data-surface=\"他\">他<rt>た</rt></ruby>のものとは<ruby data-lemma=\"違う\" data-surface=\"違う\">違<rt>ちが</rt></ruby>うんです。とても<ruby data-lemma=\"大事\" data-surface=\"大事\">大事<rt>だいじ</rt></ruby>なんです。どうか、<ruby data-lemma=\"返す\" data-surface=\"返し\">返<rt>かえ</rt></ruby>してください。"
     },
     {
       "id": "p14",
@@ -165,7 +165,7 @@
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "ママ、中は、大丈夫？コレクションは、ぜんぶある？",
-      "html": "ママ、<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>は、<span class=\"word\" data-lemma=\"大丈夫\" data-surface=\"大丈夫\" data-reading=\"だいじょうぶ\">大丈夫</span>？コレクションは、ぜんぶある？",
+      "html": "ママ、<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>は、<ruby data-lemma=\"大丈夫\" data-surface=\"大丈夫\">大丈夫<rt>だいじょうぶ</rt></ruby>？コレクションは、ぜんぶある？",
       "htmlFull": "ママ、<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>は、<ruby data-lemma=\"大丈夫\" data-surface=\"大丈夫\">大丈夫<rt>だいじょうぶ</rt></ruby>？コレクションは、ぜんぶある？"
     },
     {
@@ -204,16 +204,16 @@
       "id": "p20",
       "kind": "narration",
       "speaker": null,
-      "text": "花畑のしずかな午後。ママのコレクションが手の中で、そっと光っていた。他の人は知らないけれど、ママにとってはとても大事なものたちだ。",
-      "html": "<span class=\"word\" data-lemma=\"花畑\" data-surface=\"花畑\" data-reading=\"はなばたけ\">花畑</span>のしずかな<span class=\"word\" data-lemma=\"午後\" data-surface=\"午後\" data-reading=\"ごご\">午後</span>。ママのコレクションが<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で、そっと<span class=\"word\" data-lemma=\"光る\" data-surface=\"光っ\" data-reading=\"ひかっ\">光っ</span>ていた。<span class=\"word\" data-lemma=\"他\" data-surface=\"他\" data-reading=\"た\">他</span>の<span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"ひと\">人</span>は<span class=\"word\" data-lemma=\"知る\" data-surface=\"知ら\" data-reading=\"しら\">知ら</span>ないけれど、ママにとってはとても<span class=\"word\" data-lemma=\"大事\" data-surface=\"大事\" data-reading=\"だいじ\">大事</span>なものたちだ。",
-      "htmlFull": "<ruby data-lemma=\"花畑\" data-surface=\"花畑\">花畑<rt>はなばたけ</rt></ruby>のしずかな<ruby data-lemma=\"午後\" data-surface=\"午後\">午後<rt>ごご</rt></ruby>。ママのコレクションが<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で、そっと<ruby data-lemma=\"光る\" data-surface=\"光っ\">光<rt>ひか</rt></ruby>っていた。<ruby data-lemma=\"他\" data-surface=\"他\">他<rt>た</rt></ruby>の<ruby data-lemma=\"人\" data-surface=\"人\">人<rt>ひと</rt></ruby>は<ruby data-lemma=\"知る\" data-surface=\"知ら\">知<rt>し</rt></ruby>らないけれど、ママにとってはとても<ruby data-lemma=\"大事\" data-surface=\"大事\">大事<rt>だいじ</rt></ruby>なものたちだ。"
+      "text": "花畑のしずかな午後。ママのコレクションが手の中で、そっと光っていた。他の人は知らないけれど、ママには、とても大事なものたちだ。",
+      "html": "<span class=\"word\" data-lemma=\"花畑\" data-surface=\"花畑\" data-reading=\"はなばたけ\">花畑</span>のしずかな<span class=\"word\" data-lemma=\"午後\" data-surface=\"午後\" data-reading=\"ごご\">午後</span>。ママのコレクションが<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で、そっと<span class=\"word\" data-lemma=\"光る\" data-surface=\"光っ\" data-reading=\"ひかっ\">光っ</span>ていた。<span class=\"word\" data-lemma=\"他\" data-surface=\"他\" data-reading=\"た\">他</span>の<span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"ひと\">人</span>は<span class=\"word\" data-lemma=\"知る\" data-surface=\"知ら\" data-reading=\"しら\">知ら</span>ないけれど、ママには、とても<span class=\"word\" data-lemma=\"大事\" data-surface=\"大事\" data-reading=\"だいじ\">大事</span>なものたちだ。",
+      "htmlFull": "<ruby data-lemma=\"花畑\" data-surface=\"花畑\">花畑<rt>はなばたけ</rt></ruby>のしずかな<ruby data-lemma=\"午後\" data-surface=\"午後\">午後<rt>ごご</rt></ruby>。ママのコレクションが<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で、そっと<ruby data-lemma=\"光る\" data-surface=\"光っ\">光<rt>ひか</rt></ruby>っていた。<ruby data-lemma=\"他\" data-surface=\"他\">他<rt>た</rt></ruby>の<ruby data-lemma=\"人\" data-surface=\"人\">人<rt>ひと</rt></ruby>は<ruby data-lemma=\"知る\" data-surface=\"知ら\">知<rt>し</rt></ruby>らないけれど、ママには、とても<ruby data-lemma=\"大事\" data-surface=\"大事\">大事<rt>だいじ</rt></ruby>なものたちだ。"
     },
     {
       "id": "p21",
       "kind": "narration",
       "speaker": null,
       "text": "ムーミンは、花のあいだに立って、ママをじっと見ていた。ママは、笑っていた。「返してくれたから、もうひどいことじゃないわ」と、ママはしずかに言った。",
-      "html": "ムーミンは、<span class=\"word\" data-lemma=\"花\" data-surface=\"花\" data-reading=\"はな\">花</span>のあいだに<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>て、ママをじっと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ていた。ママは、<ruby data-lemma=\"笑う\" data-surface=\"笑っ\">笑<rt>わら</rt></ruby>っていた。「<span class=\"word\" data-lemma=\"返す\" data-surface=\"返し\" data-reading=\"かえし\">返し</span>てくれたから、もうひどいことじゃないわ」と、ママはしずかに<span class=\"word\" data-lemma=\"言う\" data-surface=\"言っ\" data-reading=\"いっ\">言っ</span>た。",
+      "html": "ムーミンは、<span class=\"word\" data-lemma=\"花\" data-surface=\"花\" data-reading=\"はな\">花</span>のあいだに<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>て、ママをじっと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ていた。ママは、<span class=\"word\" data-lemma=\"笑う\" data-surface=\"笑っ\" data-reading=\"わらっ\">笑っ</span>ていた。「<span class=\"word\" data-lemma=\"返す\" data-surface=\"返し\" data-reading=\"かえし\">返し</span>てくれたから、もうひどいことじゃないわ」と、ママはしずかに<span class=\"word\" data-lemma=\"言う\" data-surface=\"言っ\" data-reading=\"いっ\">言っ</span>た。",
       "htmlFull": "ムーミンは、<ruby data-lemma=\"花\" data-surface=\"花\">花<rt>はな</rt></ruby>のあいだに<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>って、ママをじっと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ていた。ママは、<ruby data-lemma=\"笑う\" data-surface=\"笑っ\">笑<rt>わら</rt></ruby>っていた。「<ruby data-lemma=\"返す\" data-surface=\"返し\">返<rt>かえ</rt></ruby>してくれたから、もうひどいことじゃないわ」と、ママはしずかに<ruby data-lemma=\"言う\" data-surface=\"言っ\">言<rt>い</rt></ruby>った。"
     },
     {
@@ -235,21 +235,9 @@
   ],
   "focusVocab": [
     {
-      "lemma": "追う",
-      "reading": "おう",
-      "gloss": "to chase, to pursue",
-      "tier": "focus"
-    },
-    {
-      "lemma": "花",
-      "reading": "はな",
-      "gloss": "flower",
-      "tier": "focus"
-    },
-    {
-      "lemma": "ハンドバッグ",
-      "reading": "ハンドバッグ",
-      "gloss": "handbag",
+      "lemma": "返す",
+      "reading": "かえす",
+      "gloss": "to return (something), to give back",
       "tier": "focus"
     },
     {
@@ -259,44 +247,24 @@
       "tier": "focus"
     },
     {
-      "lemma": "他",
-      "reading": "ほか",
-      "gloss": "other, else",
+      "lemma": "花畑",
+      "reading": "はなばたけ",
+      "gloss": "flower meadow, flower field",
       "tier": "focus"
     },
     {
-      "lemma": "返す",
-      "reading": "かえす",
-      "gloss": "to return (something)",
-      "tier": "focus"
-    },
-    {
-      "lemma": "コレクション",
-      "reading": "コレクション",
-      "gloss": "collection",
+      "lemma": "大事",
+      "reading": "だいじ",
+      "gloss": "precious, important (na-adj)",
       "tier": "focus"
     }
   ],
   "stretchVocab": [],
   "glossary": [
     {
-      "lemma": "追う",
-      "reading": "おう",
-      "gloss": "to chase, to pursue",
-      "tier": "focus",
-      "first": "ch26"
-    },
-    {
-      "lemma": "花",
-      "reading": "はな",
-      "gloss": "flower",
-      "tier": "focus",
-      "first": "ch26"
-    },
-    {
-      "lemma": "ハンドバッグ",
-      "reading": "ハンドバッグ",
-      "gloss": "handbag",
+      "lemma": "返す",
+      "reading": "かえす",
+      "gloss": "to return (something), to give back",
       "tier": "focus",
       "first": "ch26"
     },
@@ -308,23 +276,16 @@
       "first": "ch26"
     },
     {
-      "lemma": "他",
-      "reading": "ほか",
-      "gloss": "other, else",
+      "lemma": "花畑",
+      "reading": "はなばたけ",
+      "gloss": "flower meadow, flower field",
       "tier": "focus",
       "first": "ch26"
     },
     {
-      "lemma": "返す",
-      "reading": "かえす",
-      "gloss": "to return (something)",
-      "tier": "focus",
-      "first": "ch26"
-    },
-    {
-      "lemma": "コレクション",
-      "reading": "コレクション",
-      "gloss": "collection",
+      "lemma": "大事",
+      "reading": "だいじ",
+      "gloss": "precious, important",
       "tier": "focus",
       "first": "ch26"
     }

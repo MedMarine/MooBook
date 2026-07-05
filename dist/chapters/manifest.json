@@ -11,7 +11,7 @@
       "grammarStep": 0,
       "grammarName": "Foundation: names and pointing",
       "proseCount": 16,
-      "vocabCount": 3,
+      "vocabCount": 1,
       "characters": [
         "ムーミン",
         "パパ",
@@ -30,9 +30,7 @@
       "proseCount": 13,
       "vocabCount": 4,
       "characters": [
-        "ムーミン",
-        "スナフキン",
-        "スニフ"
+        "ムーミン"
       ],
       "sceneLocation": "小さな島の浜"
     },
@@ -45,7 +43,7 @@
       "grammarStep": 2,
       "grammarName": "Topic + Copula: は / だ",
       "proseCount": 15,
-      "vocabCount": 2,
+      "vocabCount": 3,
       "characters": [
         "ムーミン",
         "フローレン"
@@ -60,13 +58,12 @@
       "arcLabel": "Arc A — Spring Valley",
       "grammarStep": 2,
       "grammarName": "Topic + Copula reprise + demonstratives (この/その/あの)",
-      "proseCount": 17,
-      "vocabCount": 2,
+      "proseCount": 19,
+      "vocabCount": 5,
       "characters": [
         "ムーミン",
         "ニンニ",
-        "ママ",
-        "スナフキン"
+        "ママ"
       ],
       "sceneLocation": "ムーミンやしきの中（夕方）"
     },
@@ -79,7 +76,7 @@
       "grammarStep": 3,
       "grammarName": "Past: た / だった — simple discovery and report",
       "proseCount": 17,
-      "vocabCount": 3,
+      "vocabCount": 4,
       "characters": [
         "ムーミン",
         "フローレン",
@@ -96,12 +93,13 @@
       "arcLabel": "Arc A — Spring Valley",
       "grammarStep": 4,
       "grammarName": "は vs が — known topic vs new information",
-      "proseCount": 18,
+      "proseCount": 19,
       "vocabCount": 4,
       "characters": [
         "ムーミン",
         "スニフ",
-        "フローレン"
+        "フローレン",
+        "スナフキン"
       ],
       "sceneLocation": "海のそば"
     },
@@ -133,11 +131,12 @@
       "grammarStep": 5,
       "grammarName": "Motion: いく / くる + に/へ + first V-て sequencing",
       "proseCount": 24,
-      "vocabCount": 4,
+      "vocabCount": 3,
       "characters": [
         "ムーミン",
         "スナフキン",
-        "スニフ"
+        "スニフ",
+        "ママ"
       ],
       "sceneLocation": "はしとかわ"
     },
@@ -154,7 +153,8 @@
       "characters": [
         "ムーミン",
         "スナフキン",
-        "パパ"
+        "パパ",
+        "スニフ"
       ],
       "sceneLocation": "森のそばのキャンプ"
     },
@@ -185,7 +185,7 @@
       "grammarStep": 7,
       "grammarName": "Sentence particles: ね / よ + ている progressive",
       "proseCount": 20,
-      "vocabCount": 7,
+      "vocabCount": 5,
       "characters": [
         "ムーミン",
         "スニフ",
@@ -203,12 +203,13 @@
       "grammarStep": 8,
       "grammarName": "Conjunctions: でも / だから / から-reason",
       "proseCount": 25,
-      "vocabCount": 5,
+      "vocabCount": 2,
       "characters": [
         "ムーミン",
         "スニフ",
         "ママ",
-        "パパ"
+        "パパ",
+        "ミムラ"
       ],
       "sceneLocation": "ムーミンやしきの中"
     },
@@ -221,7 +222,7 @@
       "grammarStep": 9,
       "grammarName": "i-adjectives + な-adjectives (predicate + modifier)",
       "proseCount": 17,
-      "vocabCount": 6,
+      "vocabCount": 3,
       "characters": [
         "ムーミン",
         "ミイ",
@@ -238,7 +239,7 @@
       "grammarStep": 9,
       "grammarName": "Adjective reprise + colors and sizes",
       "proseCount": 18,
-      "vocabCount": 8,
+      "vocabCount": 6,
       "characters": [
         "ムーミン",
         "スナフキン",
@@ -261,7 +262,8 @@
         "ムーミン",
         "ママ",
         "スニフ",
-        "フローレン"
+        "フローレン",
+        "パパ"
       ],
       "sceneLocation": "ムーミンやしきの中（夜）"
     },
@@ -273,8 +275,8 @@
       "arcLabel": "Arc B — Companions",
       "grammarStep": 11,
       "grammarName": "て-form sequencing (foregrounded)",
-      "proseCount": 20,
-      "vocabCount": 7,
+      "proseCount": 19,
+      "vocabCount": 4,
       "characters": [
         "ムーミン",
         "スナフキン",
@@ -290,12 +292,14 @@
       "arcLabel": "Arc B — Companions",
       "grammarStep": 11,
       "grammarName": "て-form reprise + request 〜てください",
-      "proseCount": 25,
-      "vocabCount": 6,
+      "proseCount": 20,
+      "vocabCount": 2,
       "characters": [
         "ムーミン",
         "スラン",
-        "ママ"
+        "ママ",
+        "スナフキン",
+        "スニフ"
       ],
       "sceneLocation": "森のそばのひろば"
     },
@@ -308,11 +312,13 @@
       "grammarStep": 12,
       "grammarName": "ている foregrounded + と-consequence",
       "proseCount": 23,
-      "vocabCount": 6,
+      "vocabCount": 3,
       "characters": [
         "ムーミン",
         "スナフキン",
-        "パパ"
+        "パパ",
+        "スラン",
+        "スニフ"
       ],
       "sceneLocation": "かわのそば"
     },
@@ -325,11 +331,12 @@
       "grammarStep": 13,
       "grammarName": "Desire: たい",
       "proseCount": 23,
-      "vocabCount": 8,
+      "vocabCount": 10,
       "characters": [
         "ムーミン",
         "フローレン",
-        "スニフ"
+        "スニフ",
+        "スナフキン"
       ],
       "sceneLocation": "ムーミンやしきの中（雨の日）"
     },
@@ -342,7 +349,7 @@
       "grammarStep": 14,
       "grammarName": "Giving / receiving: あげる / もらう / くれる",
       "proseCount": 22,
-      "vocabCount": 8,
+      "vocabCount": 5,
       "characters": [
         "ムーミン",
         "ミムラ",
@@ -360,11 +367,13 @@
       "grammarStep": 15,
       "grammarName": "Quotation: という / とおもう + nominalizer の",
       "proseCount": 22,
-      "vocabCount": 7,
+      "vocabCount": 1,
       "characters": [
         "ムーミン",
         "スニフ",
-        "フローレン"
+        "フローレン",
+        "パパ",
+        "ママ"
       ],
       "sceneLocation": "海のそば"
     },
@@ -377,11 +386,12 @@
       "grammarStep": 16,
       "grammarName": "Conditional: たら (if / when)",
       "proseCount": 22,
-      "vocabCount": 7,
+      "vocabCount": 5,
       "characters": [
         "ムーミン",
         "ママ",
-        "パパ"
+        "パパ",
+        "スニフ"
       ],
       "sceneLocation": "ムーミンやしきの台所"
     },
@@ -394,11 +404,12 @@
       "grammarStep": 17,
       "grammarName": "Relative clauses: V + N prenominal",
       "proseCount": 22,
-      "vocabCount": 5,
+      "vocabCount": 3,
       "characters": [
         "ムーミン",
         "パパ",
-        "スニフ"
+        "スニフ",
+        "ママ"
       ],
       "sceneLocation": "ムーミンやしきの外"
     },
@@ -409,7 +420,7 @@
       "arcPosition": "6/9",
       "arcLabel": "Arc C — Strange Shadows",
       "grammarStep": 17,
-      "grammarName": "Relative clauses reprise + complex modifiers",
+      "grammarName": "Relative clauses reprise + speculation かもしれない",
       "proseCount": 23,
       "vocabCount": 8,
       "characters": [
@@ -428,7 +439,7 @@
       "grammarStep": 18,
       "grammarName": "Polite forms: ます / です (narration-home)",
       "proseCount": 23,
-      "vocabCount": 6,
+      "vocabCount": 4,
       "characters": [
         "ムーミン",
         "ママ",
@@ -446,11 +457,12 @@
       "grammarStep": 19,
       "grammarName": "Nominalizers: の / こと + ところ",
       "proseCount": 23,
-      "vocabCount": 7,
+      "vocabCount": 4,
       "characters": [
         "ムーミン",
         "ママ",
-        "スニフ"
+        "スニフ",
+        "スナフキン"
       ],
       "sceneLocation": "ムーミン谷の花畑"
     },
@@ -463,7 +475,7 @@
       "grammarStep": 19,
       "grammarName": "Nominalizers reprise + introspective register",
       "proseCount": 22,
-      "vocabCount": 8,
+      "vocabCount": 4,
       "characters": [
         "ムーミン",
         "スナフキン",
@@ -484,7 +496,8 @@
       "characters": [
         "ムーミン",
         "ママ",
-        "飛行鬼"
+        "飛行鬼",
+        "パパ"
       ],
       "sceneLocation": "ムーミンやしきのだいどころ"
     },
@@ -497,7 +510,7 @@
       "grammarStep": 20,
       "grammarName": "Passive: 〜れる / 〜られる (context-disambiguated)",
       "proseCount": 22,
-      "vocabCount": 6,
+      "vocabCount": 8,
       "characters": [
         "ムーミン",
         "スナフキン"
@@ -513,13 +526,13 @@
       "grammarStep": 20,
       "grammarName": "Causative: 〜せる / 〜させる",
       "proseCount": 23,
-      "vocabCount": 7,
+      "vocabCount": 6,
       "characters": [
         "ムーミン",
         "スニフ",
         "スナフキン"
       ],
-      "sceneLocation": "森のはずれ（夕方）"
+      "sceneLocation": "森の入り口（夕方）"
     },
     {
       "chapter": 31,
@@ -530,11 +543,12 @@
       "grammarStep": 21,
       "grammarName": "Volitional: 〜よう / だろう (intent + conjecture)",
       "proseCount": 23,
-      "vocabCount": 7,
+      "vocabCount": 9,
       "characters": [
         "ムーミン",
         "パパ",
-        "スニフ"
+        "スニフ",
+        "ママ"
       ],
       "sceneLocation": "川の河口（朝）"
     },
@@ -564,7 +578,7 @@
       "grammarStep": 21,
       "grammarName": "Volitional reprise + planning register",
       "proseCount": 23,
-      "vocabCount": 7,
+      "vocabCount": 6,
       "characters": [
         "ムーミン",
         "フローレン",
@@ -598,11 +612,12 @@
       "grammarStep": 22,
       "grammarName": "Conditional: 〜ば (logical prerequisite)",
       "proseCount": 24,
-      "vocabCount": 7,
+      "vocabCount": 5,
       "characters": [
         "ムーミン",
         "フローレン",
-        "ニンニ"
+        "ニンニ",
+        "飛行鬼"
       ],
       "sceneLocation": "山腹の洞穴"
     },
@@ -632,7 +647,7 @@
       "grammarStep": 23,
       "grammarName": "Epistemic: 〜そう (appearance / hearsay)",
       "proseCount": 22,
-      "vocabCount": 7,
+      "vocabCount": 2,
       "characters": [
         "ムーミン",
         "ママ",
@@ -650,12 +665,14 @@
       "grammarStep": 23,
       "grammarName": "Epistemic: 〜らしい (inference from evidence)",
       "proseCount": 24,
-      "vocabCount": 7,
+      "vocabCount": 4,
       "characters": [
         "ムーミン",
         "ママ",
         "スニフ",
-        "フローレン"
+        "フローレン",
+        "パパ",
+        "スナフキン"
       ],
       "sceneLocation": "ムーミンやしきの台所（パーティー準備）"
     },
@@ -668,7 +685,7 @@
       "grammarStep": 23,
       "grammarName": "Epistemic: 〜みたい / 〜ようだ (resemblance / inference)",
       "proseCount": 23,
-      "vocabCount": 7,
+      "vocabCount": 6,
       "characters": [
         "ムーミン",
         "パパ",
@@ -685,11 +702,11 @@
       "grammarStep": 23,
       "grammarName": "Epistemic reprise + はず / つもり (expectation / intention)",
       "proseCount": 22,
-      "vocabCount": 7,
+      "vocabCount": 8,
       "characters": [
         "ムーミン",
-        "スニフ",
-        "ミイ"
+        "ミイ",
+        "パパ"
       ],
       "sceneLocation": "ムーミンやしきの外（夜）"
     },
@@ -702,12 +719,13 @@
       "grammarStep": 24,
       "grammarName": "Concessive: 〜のに (counter-expectation)",
       "proseCount": 24,
-      "vocabCount": 6,
+      "vocabCount": 8,
       "characters": [
         "ムーミン",
         "スナフキン",
         "スニフ",
-        "ミイ"
+        "ミイ",
+        "ママ"
       ],
       "sceneLocation": "ムーミンやしきの中（夜）"
     },
@@ -720,12 +738,13 @@
       "grammarStep": 24,
       "grammarName": "Concessive: 〜ても / 〜でも (even if)",
       "proseCount": 23,
-      "vocabCount": 7,
+      "vocabCount": 8,
       "characters": [
         "ムーミン",
         "パパ",
         "ママ",
-        "スニフ"
+        "スニフ",
+        "ヘムレンのおじさん"
       ],
       "sceneLocation": "ムーミンやしきの中（嵐の夜）"
     },
@@ -738,11 +757,12 @@
       "grammarStep": 24,
       "grammarName": "Seasonal reflection — concessive/purpose register (〜ても / 〜ために)",
       "proseCount": 25,
-      "vocabCount": 8,
+      "vocabCount": 9,
       "characters": [
         "ムーミン",
         "パパ",
-        "ママ"
+        "ママ",
+        "スナフキン"
       ],
       "sceneLocation": "ムーミン谷（春の朝）"
     },
@@ -755,7 +775,7 @@
       "grammarStep": 24,
       "grammarName": "Return / Snufkin reprise — epistemic + concessive, full register",
       "proseCount": 25,
-      "vocabCount": 7,
+      "vocabCount": 4,
       "characters": [
         "ムーミン",
         "スナフキン",
@@ -772,7 +792,7 @@
       "grammarStep": 24,
       "grammarName": "Synthesis — no new focus; callback to ch1 (船)",
       "proseCount": 24,
-      "vocabCount": 8,
+      "vocabCount": 3,
       "characters": [
         "ムーミン",
         "スナフキン",
