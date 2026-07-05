@@ -177,9 +177,9 @@
       "id": "p17",
       "kind": "narration",
       "speaker": null,
-      "text": "三人は、ルビーを手に持って、ゆっくりと山を降りていった。本当に、いい一日だった。",
-      "html": "<span class=\"word\" data-lemma=\"三\" data-surface=\"三\" data-reading=\"さん\">三</span><span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"にん\">人</span>は、ルビーを<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>に<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>て、ゆっくりと<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>を<ruby data-lemma=\"下りる\" data-surface=\"降り\">降<rt>お</rt></ruby>りていった。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に、いい<span class=\"word\" data-lemma=\"一日\" data-surface=\"一日\" data-reading=\"ついたち\">一日</span>だった。",
-      "htmlFull": "<ruby data-lemma=\"三\" data-surface=\"三\">三<rt>さん</rt></ruby><ruby data-lemma=\"人\" data-surface=\"人\">人<rt>にん</rt></ruby>は、ルビーを<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>に<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>って、ゆっくりと<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>を<ruby data-lemma=\"下りる\" data-surface=\"降り\">降<rt>お</rt></ruby>りていった。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に、いい<ruby data-lemma=\"一日\" data-surface=\"一日\">一日<rt>ついたち</rt></ruby>だった。"
+      "text": "そして、ルビーを手に持って、ゆっくりと山を降りていった。本当に、いい一日だった。",
+      "html": "そして、ルビーを<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>に<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>て、ゆっくりと<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>を<ruby data-lemma=\"下りる\" data-surface=\"降り\">降<rt>お</rt></ruby>りていった。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に、いい<span class=\"word\" data-lemma=\"一日\" data-surface=\"一日\" data-reading=\"ついたち\">一日</span>だった。",
+      "htmlFull": "そして、ルビーを<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>に<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>って、ゆっくりと<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>を<ruby data-lemma=\"下りる\" data-surface=\"降り\">降<rt>お</rt></ruby>りていった。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に、いい<ruby data-lemma=\"一日\" data-surface=\"一日\">一日<rt>ついたち</rt></ruby>だった。"
     }
   ],
   "focusVocab": [

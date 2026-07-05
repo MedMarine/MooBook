@@ -67,9 +67,9 @@
       "id": "p03",
       "kind": "narration",
       "speaker": null,
-      "text": "ちゃわんのそばにスニフが立っていた。スニフの手がすこしふるえている。スニフは、ムーミンの目を見ない。",
-      "html": "ちゃわんのそばにスニフが<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>ていた。スニフの<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>がすこしふるえている。スニフは、ムーミンの<span class=\"word\" data-lemma=\"目\" data-surface=\"目\" data-reading=\"め\">目</span>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ない。",
-      "htmlFull": "ちゃわんのそばにスニフが<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>っていた。スニフの<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>がすこしふるえている。スニフは、ムーミンの<ruby data-lemma=\"目\" data-surface=\"目\">目<rt>め</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ない。"
+      "text": "ちゃわんのそばにスニフが立っていた。手が、すこしふるえている。ムーミンの目を、見ない。",
+      "html": "ちゃわんのそばにスニフが<span class=\"word\" data-lemma=\"立つ\" data-surface=\"立っ\" data-reading=\"たっ\">立っ</span>ていた。<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>が、すこしふるえている。ムーミンの<span class=\"word\" data-lemma=\"目\" data-surface=\"目\" data-reading=\"め\">目</span>を、<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ない。",
+      "htmlFull": "ちゃわんのそばにスニフが<ruby data-lemma=\"立つ\" data-surface=\"立っ\">立<rt>た</rt></ruby>っていた。<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>が、すこしふるえている。ムーミンの<ruby data-lemma=\"目\" data-surface=\"目\">目<rt>め</rt></ruby>を、<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ない。"
     },
     {
       "id": "p04",
@@ -91,9 +91,9 @@
       "id": "p06",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンはスニフを見た。ムーミンはスニフを信じたい。でも、信じられない。",
-      "html": "ムーミンはスニフを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。ムーミンはスニフを<span class=\"word\" data-lemma=\"信ずる\" data-surface=\"信じ\" data-reading=\"しんじ\">信じ</span>たい。でも、<span class=\"word\" data-lemma=\"信ずる\" data-surface=\"信じ\" data-reading=\"しんじ\">信じ</span>られない。",
-      "htmlFull": "ムーミンはスニフを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。ムーミンはスニフを<ruby data-lemma=\"信ずる\" data-surface=\"信じ\">信<rt>しん</rt></ruby>じたい。でも、<ruby data-lemma=\"信ずる\" data-surface=\"信じ\">信<rt>しん</rt></ruby>じられない。"
+      "text": "ムーミンはスニフを見た。信じたい。でも、信じられない。",
+      "html": "ムーミンはスニフを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。<span class=\"word\" data-lemma=\"信ずる\" data-surface=\"信じ\" data-reading=\"しんじ\">信じ</span>たい。でも、<span class=\"word\" data-lemma=\"信ずる\" data-surface=\"信じ\" data-reading=\"しんじ\">信じ</span>られない。",
+      "htmlFull": "ムーミンはスニフを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。<ruby data-lemma=\"信ずる\" data-surface=\"信じ\">信<rt>しん</rt></ruby>じたい。でも、<ruby data-lemma=\"信ずる\" data-surface=\"信じ\">信<rt>しん</rt></ruby>じられない。"
     },
     {
       "id": "p07",

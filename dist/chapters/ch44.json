@@ -197,9 +197,9 @@
       "id": "p19",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンは、じっと沖を見た。たしかに、のこった二つの船はまだうかんでいる。しずんだように見えたのは、海の光のせいだったらしい。",
-      "html": "ムーミンは、じっと<ruby data-lemma=\"沖\" data-surface=\"沖\">沖<rt>おき</rt></ruby>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。たしかに、のこった<span class=\"word\" data-lemma=\"二\" data-surface=\"二\" data-reading=\"ふた\">二</span>つの<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>はまだうかんでいる。しずんだように<span class=\"word\" data-lemma=\"見える\" data-surface=\"見え\" data-reading=\"みえ\">見え</span>たのは、<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>の<span class=\"word\" data-lemma=\"光\" data-surface=\"光\" data-reading=\"ひかり\">光</span>のせいだったらしい。",
-      "htmlFull": "ムーミンは、じっと<ruby data-lemma=\"沖\" data-surface=\"沖\">沖<rt>おき</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。たしかに、のこった<ruby data-lemma=\"二\" data-surface=\"二\">二<rt>ふた</rt></ruby>つの<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>はまだうかんでいる。しずんだように<ruby data-lemma=\"見える\" data-surface=\"見え\">見<rt>み</rt></ruby>えたのは、<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>の<ruby data-lemma=\"光\" data-surface=\"光\">光<rt>ひかり</rt></ruby>のせいだったらしい。"
+      "text": "じっと、沖を見た。たしかに、のこった二つの船はまだうかんでいる。しずんだように見えたのは、海の光のせいだったらしい。",
+      "html": "じっと、<ruby data-lemma=\"沖\" data-surface=\"沖\">沖<rt>おき</rt></ruby>を<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。たしかに、のこった<span class=\"word\" data-lemma=\"二\" data-surface=\"二\" data-reading=\"ふた\">二</span>つの<span class=\"word\" data-lemma=\"船\" data-surface=\"船\" data-reading=\"ふね\">船</span>はまだうかんでいる。しずんだように<span class=\"word\" data-lemma=\"見える\" data-surface=\"見え\" data-reading=\"みえ\">見え</span>たのは、<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>の<span class=\"word\" data-lemma=\"光\" data-surface=\"光\" data-reading=\"ひかり\">光</span>のせいだったらしい。",
+      "htmlFull": "じっと、<ruby data-lemma=\"沖\" data-surface=\"沖\">沖<rt>おき</rt></ruby>を<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。たしかに、のこった<ruby data-lemma=\"二\" data-surface=\"二\">二<rt>ふた</rt></ruby>つの<ruby data-lemma=\"船\" data-surface=\"船\">船<rt>ふね</rt></ruby>はまだうかんでいる。しずんだように<ruby data-lemma=\"見える\" data-surface=\"見え\">見<rt>み</rt></ruby>えたのは、<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>の<ruby data-lemma=\"光\" data-surface=\"光\">光<rt>ひかり</rt></ruby>のせいだったらしい。"
     },
     {
       "id": "p20",

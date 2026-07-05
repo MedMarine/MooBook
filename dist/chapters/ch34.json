@@ -148,9 +148,9 @@
       "id": "p13",
       "kind": "narration",
       "speaker": null,
-      "text": "水に毒が入っているかもしれない。ムーミンは、少し泣きたくなった。ジャムをつくるための水がない。",
-      "html": "<span class=\"word\" data-lemma=\"水\" data-surface=\"水\" data-reading=\"みず\">水</span>に<ruby data-lemma=\"毒\" data-surface=\"毒\">毒<rt>どく</rt></ruby>が<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>ているかもしれない。ムーミンは、<span class=\"word\" data-lemma=\"少し\" data-surface=\"少し\" data-reading=\"すこし\">少し</span><span class=\"word\" data-lemma=\"泣く\" data-surface=\"泣き\" data-reading=\"なき\">泣き</span>たくなった。ジャムをつくるための<span class=\"word\" data-lemma=\"水\" data-surface=\"水\" data-reading=\"みず\">水</span>がない。",
-      "htmlFull": "<ruby data-lemma=\"水\" data-surface=\"水\">水<rt>みず</rt></ruby>に<ruby data-lemma=\"毒\" data-surface=\"毒\">毒<rt>どく</rt></ruby>が<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>っているかもしれない。ムーミンは、<ruby data-lemma=\"少し\" data-surface=\"少し\">少<rt>すこ</rt></ruby>し<ruby data-lemma=\"泣く\" data-surface=\"泣き\">泣<rt>な</rt></ruby>きたくなった。ジャムをつくるための<ruby data-lemma=\"水\" data-surface=\"水\">水<rt>みず</rt></ruby>がない。"
+      "text": "水に毒が入っているかもしれない。少し、泣きたくなった。ジャムをつくるための水がないのだ。",
+      "html": "<span class=\"word\" data-lemma=\"水\" data-surface=\"水\" data-reading=\"みず\">水</span>に<ruby data-lemma=\"毒\" data-surface=\"毒\">毒<rt>どく</rt></ruby>が<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>ているかもしれない。<span class=\"word\" data-lemma=\"少し\" data-surface=\"少し\" data-reading=\"すこし\">少し</span>、<span class=\"word\" data-lemma=\"泣く\" data-surface=\"泣き\" data-reading=\"なき\">泣き</span>たくなった。ジャムをつくるための<span class=\"word\" data-lemma=\"水\" data-surface=\"水\" data-reading=\"みず\">水</span>がないのだ。",
+      "htmlFull": "<ruby data-lemma=\"水\" data-surface=\"水\">水<rt>みず</rt></ruby>に<ruby data-lemma=\"毒\" data-surface=\"毒\">毒<rt>どく</rt></ruby>が<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>っているかもしれない。<ruby data-lemma=\"少し\" data-surface=\"少し\">少<rt>すこ</rt></ruby>し、<ruby data-lemma=\"泣く\" data-surface=\"泣き\">泣<rt>な</rt></ruby>きたくなった。ジャムをつくるための<ruby data-lemma=\"水\" data-surface=\"水\">水<rt>みず</rt></ruby>がないのだ。"
     },
     {
       "id": "p14",

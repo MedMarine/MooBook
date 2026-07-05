@@ -111,9 +111,9 @@
       "id": "p08",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンは、いそいで庭へ走って行った。スナフキンはテントをていねいにたたんで、小さなふくろに入れようとしていた。",
-      "html": "ムーミンは、いそいで<span class=\"word\" data-lemma=\"庭\" data-surface=\"庭\" data-reading=\"にわ\">庭</span>へ<span class=\"word\" data-lemma=\"走る\" data-surface=\"走っ\" data-reading=\"はしっ\">走っ</span>て<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>た。スナフキンはテントをていねいにたたんで、<span class=\"word\" data-lemma=\"小さな\" data-surface=\"小さな\" data-reading=\"ちいさな\">小さな</span>ふくろに<span class=\"word\" data-lemma=\"入れる\" data-surface=\"入れよう\" data-reading=\"いれよう\">入れよう</span>としていた。",
-      "htmlFull": "ムーミンは、いそいで<ruby data-lemma=\"庭\" data-surface=\"庭\">庭<rt>にわ</rt></ruby>へ<ruby data-lemma=\"走る\" data-surface=\"走っ\">走<rt>はし</rt></ruby>って<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>った。スナフキンはテントをていねいにたたんで、<ruby data-lemma=\"小さな\" data-surface=\"小さな\">小<rt>ちい</rt></ruby>さなふくろに<ruby data-lemma=\"入れる\" data-surface=\"入れよう\">入<rt>い</rt></ruby>れようとしていた。"
+      "text": "いそいで、庭へ走って行った。スナフキンはテントをていねいにたたんで、小さなふくろに入れようとしていた。",
+      "html": "いそいで、<span class=\"word\" data-lemma=\"庭\" data-surface=\"庭\" data-reading=\"にわ\">庭</span>へ<span class=\"word\" data-lemma=\"走る\" data-surface=\"走っ\" data-reading=\"はしっ\">走っ</span>て<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>た。スナフキンはテントをていねいにたたんで、<span class=\"word\" data-lemma=\"小さな\" data-surface=\"小さな\" data-reading=\"ちいさな\">小さな</span>ふくろに<span class=\"word\" data-lemma=\"入れる\" data-surface=\"入れよう\" data-reading=\"いれよう\">入れよう</span>としていた。",
+      "htmlFull": "いそいで、<ruby data-lemma=\"庭\" data-surface=\"庭\">庭<rt>にわ</rt></ruby>へ<ruby data-lemma=\"走る\" data-surface=\"走っ\">走<rt>はし</rt></ruby>って<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>った。スナフキンはテントをていねいにたたんで、<ruby data-lemma=\"小さな\" data-surface=\"小さな\">小<rt>ちい</rt></ruby>さなふくろに<ruby data-lemma=\"入れる\" data-surface=\"入れよう\">入<rt>い</rt></ruby>れようとしていた。"
     },
     {
       "id": "p09",

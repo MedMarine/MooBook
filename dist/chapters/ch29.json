@@ -95,9 +95,9 @@
       "id": "p07",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンは、それをそっと拾った。手の中で、小さく光っている。",
-      "html": "ムーミンは、それをそっと<span class=\"word\" data-lemma=\"拾う\" data-surface=\"拾っ\" data-reading=\"ひろっ\">拾っ</span>た。<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さく\" data-reading=\"ちいさく\">小さく</span><span class=\"word\" data-lemma=\"光る\" data-surface=\"光っ\" data-reading=\"ひかっ\">光っ</span>ている。",
-      "htmlFull": "ムーミンは、それをそっと<ruby data-lemma=\"拾う\" data-surface=\"拾っ\">拾<rt>ひろ</rt></ruby>った。<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で、<ruby data-lemma=\"小さい\" data-surface=\"小さく\">小<rt>ちい</rt></ruby>さく<ruby data-lemma=\"光る\" data-surface=\"光っ\">光<rt>ひか</rt></ruby>っている。"
+      "text": "それを、そっと拾った。手の中で、小さく光っている。",
+      "html": "それを、そっと<span class=\"word\" data-lemma=\"拾う\" data-surface=\"拾っ\" data-reading=\"ひろっ\">拾っ</span>た。<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さく\" data-reading=\"ちいさく\">小さく</span><span class=\"word\" data-lemma=\"光る\" data-surface=\"光っ\" data-reading=\"ひかっ\">光っ</span>ている。",
+      "htmlFull": "それを、そっと<ruby data-lemma=\"拾う\" data-surface=\"拾っ\">拾<rt>ひろ</rt></ruby>った。<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で、<ruby data-lemma=\"小さい\" data-surface=\"小さく\">小<rt>ちい</rt></ruby>さく<ruby data-lemma=\"光る\" data-surface=\"光っ\">光<rt>ひか</rt></ruby>っている。"
     },
     {
       "id": "p08",
@@ -135,9 +135,9 @@
       "id": "p12",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンはその小さいものを、ポケットにそっと入れた。川の水は、そばでしずかにながれている。",
-      "html": "ムーミンはその<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>ものを、ポケットにそっと<span class=\"word\" data-lemma=\"入れる\" data-surface=\"入れ\" data-reading=\"いれ\">入れ</span>た。<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>の<span class=\"word\" data-lemma=\"水\" data-surface=\"水\" data-reading=\"みず\">水</span>は、そばでしずかにながれている。",
-      "htmlFull": "ムーミンはその<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいものを、ポケットにそっと<ruby data-lemma=\"入れる\" data-surface=\"入れ\">入<rt>い</rt></ruby>れた。<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>の<ruby data-lemma=\"水\" data-surface=\"水\">水<rt>みず</rt></ruby>は、そばでしずかにながれている。"
+      "text": "その小さいものを、ポケットにそっと入れた。川の水は、そばでしずかにながれている。",
+      "html": "その<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>ものを、ポケットにそっと<span class=\"word\" data-lemma=\"入れる\" data-surface=\"入れ\" data-reading=\"いれ\">入れ</span>た。<span class=\"word\" data-lemma=\"川\" data-surface=\"川\" data-reading=\"がわ\">川</span>の<span class=\"word\" data-lemma=\"水\" data-surface=\"水\" data-reading=\"みず\">水</span>は、そばでしずかにながれている。",
+      "htmlFull": "その<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいものを、ポケットにそっと<ruby data-lemma=\"入れる\" data-surface=\"入れ\">入<rt>い</rt></ruby>れた。<ruby data-lemma=\"川\" data-surface=\"川\">川<rt>がわ</rt></ruby>の<ruby data-lemma=\"水\" data-surface=\"水\">水<rt>みず</rt></ruby>は、そばでしずかにながれている。"
     },
     {
       "id": "p13",
@@ -191,9 +191,9 @@
       "id": "p19",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンは、拾った小さいものを、もう一度ポケットの中でさわった。明日、伯母に見せるつもりだ。",
-      "html": "ムーミンは、<span class=\"word\" data-lemma=\"拾う\" data-surface=\"拾っ\" data-reading=\"ひろっ\">拾っ</span>た<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>ものを、もう<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いち\">一</span><span class=\"word\" data-lemma=\"度\" data-surface=\"度\" data-reading=\"ど\">度</span>ポケットの<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>でさわった。<span class=\"word\" data-lemma=\"明日\" data-surface=\"明日\" data-reading=\"あす\">明日</span>、<ruby data-lemma=\"伯母\" data-surface=\"伯母\">伯母<rt>はくぼ</rt></ruby>に<span class=\"word\" data-lemma=\"見せる\" data-surface=\"見せる\" data-reading=\"みせる\">見せる</span>つもりだ。",
-      "htmlFull": "ムーミンは、<ruby data-lemma=\"拾う\" data-surface=\"拾っ\">拾<rt>ひろ</rt></ruby>った<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいものを、もう<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いち</rt></ruby><ruby data-lemma=\"度\" data-surface=\"度\">度<rt>ど</rt></ruby>ポケットの<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>でさわった。<ruby data-lemma=\"明日\" data-surface=\"明日\">明日<rt>あす</rt></ruby>、<ruby data-lemma=\"伯母\" data-surface=\"伯母\">伯母<rt>はくぼ</rt></ruby>に<ruby data-lemma=\"見せる\" data-surface=\"見せる\">見<rt>み</rt></ruby>せるつもりだ。"
+      "text": "拾った小さいものを、もう一度ポケットの中でさわった。明日、伯母に見せるつもりだ。",
+      "html": "<span class=\"word\" data-lemma=\"拾う\" data-surface=\"拾っ\" data-reading=\"ひろっ\">拾っ</span>た<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>ものを、もう<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いち\">一</span><span class=\"word\" data-lemma=\"度\" data-surface=\"度\" data-reading=\"ど\">度</span>ポケットの<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>でさわった。<span class=\"word\" data-lemma=\"明日\" data-surface=\"明日\" data-reading=\"あす\">明日</span>、<ruby data-lemma=\"伯母\" data-surface=\"伯母\">伯母<rt>はくぼ</rt></ruby>に<span class=\"word\" data-lemma=\"見せる\" data-surface=\"見せる\" data-reading=\"みせる\">見せる</span>つもりだ。",
+      "htmlFull": "<ruby data-lemma=\"拾う\" data-surface=\"拾っ\">拾<rt>ひろ</rt></ruby>った<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいものを、もう<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いち</rt></ruby><ruby data-lemma=\"度\" data-surface=\"度\">度<rt>ど</rt></ruby>ポケットの<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>でさわった。<ruby data-lemma=\"明日\" data-surface=\"明日\">明日<rt>あす</rt></ruby>、<ruby data-lemma=\"伯母\" data-surface=\"伯母\">伯母<rt>はくぼ</rt></ruby>に<ruby data-lemma=\"見せる\" data-surface=\"見せる\">見<rt>み</rt></ruby>せるつもりだ。"
     },
     {
       "id": "p20",

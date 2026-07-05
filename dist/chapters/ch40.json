@@ -64,9 +64,9 @@
       "id": "p03",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンはしずかに家のうしろへ歩いて行った。月が、薪のかげに、小さなかげをおとしている。",
-      "html": "ムーミンはしずかに<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>のうしろへ<span class=\"word\" data-lemma=\"歩く\" data-surface=\"歩い\" data-reading=\"あるい\">歩い</span>て<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>た。<span class=\"word\" data-lemma=\"月\" data-surface=\"月\" data-reading=\"つき\">月</span>が、<ruby data-lemma=\"薪\" data-surface=\"薪\">薪<rt>たきぎ</rt></ruby>のかげに、<span class=\"word\" data-lemma=\"小さな\" data-surface=\"小さな\" data-reading=\"ちいさな\">小さな</span>かげをおとしている。",
-      "htmlFull": "ムーミンはしずかに<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>のうしろへ<ruby data-lemma=\"歩く\" data-surface=\"歩い\">歩<rt>ある</rt></ruby>いて<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>った。<ruby data-lemma=\"月\" data-surface=\"月\">月<rt>つき</rt></ruby>が、<ruby data-lemma=\"薪\" data-surface=\"薪\">薪<rt>たきぎ</rt></ruby>のかげに、<ruby data-lemma=\"小さな\" data-surface=\"小さな\">小<rt>ちい</rt></ruby>さなかげをおとしている。"
+      "text": "しずかに、家のうしろへ歩いて行った。月が、薪のかげに、小さなかげをおとしている。",
+      "html": "しずかに、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>のうしろへ<span class=\"word\" data-lemma=\"歩く\" data-surface=\"歩い\" data-reading=\"あるい\">歩い</span>て<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>た。<span class=\"word\" data-lemma=\"月\" data-surface=\"月\" data-reading=\"つき\">月</span>が、<ruby data-lemma=\"薪\" data-surface=\"薪\">薪<rt>たきぎ</rt></ruby>のかげに、<span class=\"word\" data-lemma=\"小さな\" data-surface=\"小さな\" data-reading=\"ちいさな\">小さな</span>かげをおとしている。",
+      "htmlFull": "しずかに、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>のうしろへ<ruby data-lemma=\"歩く\" data-surface=\"歩い\">歩<rt>ある</rt></ruby>いて<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>った。<ruby data-lemma=\"月\" data-surface=\"月\">月<rt>つき</rt></ruby>が、<ruby data-lemma=\"薪\" data-surface=\"薪\">薪<rt>たきぎ</rt></ruby>のかげに、<ruby data-lemma=\"小さな\" data-surface=\"小さな\">小<rt>ちい</rt></ruby>さなかげをおとしている。"
     },
     {
       "id": "p04",
@@ -152,9 +152,9 @@
       "id": "p14",
       "kind": "narration",
       "speaker": null,
-      "text": "そのとき、パパが家から出て来た。パパはムーミンとミイと、薪のかげの小さなかげを見た。",
-      "html": "そのとき、パパが<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>から<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。パパはムーミンとミイと、<ruby data-lemma=\"薪\" data-surface=\"薪\">薪<rt>たきぎ</rt></ruby>のかげの<span class=\"word\" data-lemma=\"小さな\" data-surface=\"小さな\" data-reading=\"ちいさな\">小さな</span>かげを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。",
-      "htmlFull": "そのとき、パパが<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>から<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>て<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。パパはムーミンとミイと、<ruby data-lemma=\"薪\" data-surface=\"薪\">薪<rt>たきぎ</rt></ruby>のかげの<ruby data-lemma=\"小さな\" data-surface=\"小さな\">小<rt>ちい</rt></ruby>さなかげを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。"
+      "text": "そのとき、パパが家から出て来た。そして、ムーミンとミイと、薪のかげの小さなかげを見た。",
+      "html": "そのとき、パパが<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>から<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>た。そして、ムーミンとミイと、<ruby data-lemma=\"薪\" data-surface=\"薪\">薪<rt>たきぎ</rt></ruby>のかげの<span class=\"word\" data-lemma=\"小さな\" data-surface=\"小さな\" data-reading=\"ちいさな\">小さな</span>かげを<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。",
+      "htmlFull": "そのとき、パパが<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>から<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>て<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>た。そして、ムーミンとミイと、<ruby data-lemma=\"薪\" data-surface=\"薪\">薪<rt>たきぎ</rt></ruby>のかげの<ruby data-lemma=\"小さな\" data-surface=\"小さな\">小<rt>ちい</rt></ruby>さなかげを<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。"
     },
     {
       "id": "p15",

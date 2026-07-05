@@ -145,9 +145,9 @@
       "id": "p13",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンは、家の中をぜんぶ見た。忘れたものがないか、ひとつひとつ、ちゃんと見た。",
-      "html": "ムーミンは、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>をぜんぶ<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。<ruby data-lemma=\"忘れる\" data-surface=\"忘れ\">忘<rt>わす</rt></ruby>れたものがないか、ひとつひとつ、ちゃんと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。",
-      "htmlFull": "ムーミンは、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>をぜんぶ<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。<ruby data-lemma=\"忘れる\" data-surface=\"忘れ\">忘<rt>わす</rt></ruby>れたものがないか、ひとつひとつ、ちゃんと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。"
+      "text": "ムーミンは、忘れたものがないか、家の中をひとつひとつ、ちゃんと見た。",
+      "html": "ムーミンは、<ruby data-lemma=\"忘れる\" data-surface=\"忘れ\">忘<rt>わす</rt></ruby>れたものがないか、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>をひとつひとつ、ちゃんと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>た。",
+      "htmlFull": "ムーミンは、<ruby data-lemma=\"忘れる\" data-surface=\"忘れ\">忘<rt>わす</rt></ruby>れたものがないか、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>をひとつひとつ、ちゃんと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>た。"
     },
     {
       "id": "p14",
@@ -201,9 +201,9 @@
       "id": "p20",
       "kind": "narration",
       "speaker": null,
-      "text": "すごい嵐の中で、みんなは家の中にいた。飛んだもの、落ちたもの、忘れたもの。嵐は、たくさんのものを連れていった。",
-      "html": "すごい<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>で、みんなは<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>にいた。<ruby data-lemma=\"飛ぶ\" data-surface=\"飛ん\">飛<rt>と</rt></ruby>んだもの、<span class=\"word\" data-lemma=\"落ちる\" data-surface=\"落ち\" data-reading=\"おち\">落ち</span>たもの、<ruby data-lemma=\"忘れる\" data-surface=\"忘れ\">忘<rt>わす</rt></ruby>れたもの。<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>は、たくさんのものを<span class=\"word\" data-lemma=\"連れる\" data-surface=\"連れ\" data-reading=\"つれ\">連れ</span>ていった。",
-      "htmlFull": "すごい<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>で、みんなは<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>にいた。<ruby data-lemma=\"飛ぶ\" data-surface=\"飛ん\">飛<rt>と</rt></ruby>んだもの、<ruby data-lemma=\"落ちる\" data-surface=\"落ち\">落<rt>お</rt></ruby>ちたもの、<ruby data-lemma=\"忘れる\" data-surface=\"忘れ\">忘<rt>わす</rt></ruby>れたもの。<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>は、たくさんのものを<ruby data-lemma=\"連れる\" data-surface=\"連れ\">連<rt>つ</rt></ruby>れていった。"
+      "text": "嵐のあいだ、みんなは家の中にいた。飛んだもの、落ちたもの、忘れたもの。嵐は、たくさんのものを連れていった。",
+      "html": "<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>のあいだ、みんなは<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>にいた。<ruby data-lemma=\"飛ぶ\" data-surface=\"飛ん\">飛<rt>と</rt></ruby>んだもの、<span class=\"word\" data-lemma=\"落ちる\" data-surface=\"落ち\" data-reading=\"おち\">落ち</span>たもの、<ruby data-lemma=\"忘れる\" data-surface=\"忘れ\">忘<rt>わす</rt></ruby>れたもの。<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>は、たくさんのものを<span class=\"word\" data-lemma=\"連れる\" data-surface=\"連れ\" data-reading=\"つれ\">連れ</span>ていった。",
+      "htmlFull": "<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>のあいだ、みんなは<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>にいた。<ruby data-lemma=\"飛ぶ\" data-surface=\"飛ん\">飛<rt>と</rt></ruby>んだもの、<ruby data-lemma=\"落ちる\" data-surface=\"落ち\">落<rt>お</rt></ruby>ちたもの、<ruby data-lemma=\"忘れる\" data-surface=\"忘れ\">忘<rt>わす</rt></ruby>れたもの。<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>は、たくさんのものを<ruby data-lemma=\"連れる\" data-surface=\"連れ\">連<rt>つ</rt></ruby>れていった。"
     },
     {
       "id": "p21",

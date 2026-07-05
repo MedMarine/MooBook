@@ -195,9 +195,9 @@
       "id": "p19",
       "kind": "narration",
       "speaker": null,
-      "text": "パパは、帽子を、ちゃんと元のところに置いた。",
-      "html": "パパは、<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>を、ちゃんと<span class=\"word\" data-lemma=\"元\" data-surface=\"元\" data-reading=\"もと\">元</span>のところに<ruby data-lemma=\"置く\" data-surface=\"置い\">置<rt>お</rt></ruby>いた。",
-      "htmlFull": "パパは、<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>を、ちゃんと<ruby data-lemma=\"元\" data-surface=\"元\">元<rt>もと</rt></ruby>のところに<ruby data-lemma=\"置く\" data-surface=\"置い\">置<rt>お</rt></ruby>いた。"
+      "text": "そして、帽子を、ちゃんと元のところに置いた。",
+      "html": "そして、<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>を、ちゃんと<span class=\"word\" data-lemma=\"元\" data-surface=\"元\" data-reading=\"もと\">元</span>のところに<ruby data-lemma=\"置く\" data-surface=\"置い\">置<rt>お</rt></ruby>いた。",
+      "htmlFull": "そして、<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>を、ちゃんと<ruby data-lemma=\"元\" data-surface=\"元\">元<rt>もと</rt></ruby>のところに<ruby data-lemma=\"置く\" data-surface=\"置い\">置<rt>お</rt></ruby>いた。"
     },
     {
       "id": "p20",

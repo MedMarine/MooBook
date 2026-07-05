@@ -49,9 +49,9 @@
       "id": "p01",
       "kind": "narration",
       "speaker": null,
-      "text": "朝、ムーミンとフローレンの二人は庭にいた。でも、スニフだけが、どこにもいなかった。",
-      "html": "<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>、ムーミンとフローレンの<span class=\"word\" data-lemma=\"二人\" data-surface=\"二人\" data-reading=\"ふたり\">二人</span>は<span class=\"word\" data-lemma=\"庭\" data-surface=\"庭\" data-reading=\"にわ\">庭</span>にいた。でも、スニフだけが、どこにもいなかった。",
-      "htmlFull": "<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>、ムーミンとフローレンの<ruby data-lemma=\"二人\" data-surface=\"二人\">二人<rt>ふたり</rt></ruby>は<ruby data-lemma=\"庭\" data-surface=\"庭\">庭<rt>にわ</rt></ruby>にいた。でも、スニフだけが、どこにもいなかった。"
+      "text": "朝、ムーミンとフローレンは庭にいた。でも、スニフだけが、どこにもいなかった。",
+      "html": "<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>、ムーミンとフローレンは<span class=\"word\" data-lemma=\"庭\" data-surface=\"庭\" data-reading=\"にわ\">庭</span>にいた。でも、スニフだけが、どこにもいなかった。",
+      "htmlFull": "<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>、ムーミンとフローレンは<ruby data-lemma=\"庭\" data-surface=\"庭\">庭<rt>にわ</rt></ruby>にいた。でも、スニフだけが、どこにもいなかった。"
     },
     {
       "id": "p02",

@@ -222,9 +222,9 @@
       "id": "p22",
       "kind": "narration",
       "speaker": null,
-      "text": "パパの話は、本当にいい話だった。ムーミンも、スニフも、スナフキンも、夜の森のそばで、じっと、パパの話を聞いていた。",
-      "html": "パパの<span class=\"word\" data-lemma=\"話\" data-surface=\"話\" data-reading=\"はなし\">話</span>は、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にいい<span class=\"word\" data-lemma=\"話\" data-surface=\"話\" data-reading=\"はなし\">話</span>だった。ムーミンも、スニフも、スナフキンも、<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>の<span class=\"word\" data-lemma=\"森\" data-surface=\"森\" data-reading=\"もり\">森</span>のそばで、じっと、パパの<span class=\"word\" data-lemma=\"話\" data-surface=\"話\" data-reading=\"はなし\">話</span>を<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>ていた。",
-      "htmlFull": "パパの<ruby data-lemma=\"話\" data-surface=\"話\">話<rt>はなし</rt></ruby>は、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にいい<ruby data-lemma=\"話\" data-surface=\"話\">話<rt>はなし</rt></ruby>だった。ムーミンも、スニフも、スナフキンも、<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>の<ruby data-lemma=\"森\" data-surface=\"森\">森<rt>もり</rt></ruby>のそばで、じっと、パパの<ruby data-lemma=\"話\" data-surface=\"話\">話<rt>はなし</rt></ruby>を<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いていた。"
+      "text": "パパの話は、本当にいい話だった。ムーミンも、スニフも、スナフキンも、夜の森のそばで、じっと聞いていた。",
+      "html": "パパの<span class=\"word\" data-lemma=\"話\" data-surface=\"話\" data-reading=\"はなし\">話</span>は、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にいい<span class=\"word\" data-lemma=\"話\" data-surface=\"話\" data-reading=\"はなし\">話</span>だった。ムーミンも、スニフも、スナフキンも、<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>の<span class=\"word\" data-lemma=\"森\" data-surface=\"森\" data-reading=\"もり\">森</span>のそばで、じっと<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>ていた。",
+      "htmlFull": "パパの<ruby data-lemma=\"話\" data-surface=\"話\">話<rt>はなし</rt></ruby>は、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にいい<ruby data-lemma=\"話\" data-surface=\"話\">話<rt>はなし</rt></ruby>だった。ムーミンも、スニフも、スナフキンも、<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>の<ruby data-lemma=\"森\" data-surface=\"森\">森<rt>もり</rt></ruby>のそばで、じっと<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いていた。"
     },
     {
       "id": "p23",

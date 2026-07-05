@@ -188,9 +188,9 @@
       "id": "p18",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンはロープをゆっくりと結んだ。はじめはできなかったけれど、もう一度やってできた。",
-      "html": "ムーミンはロープをゆっくりと<ruby data-lemma=\"結ぶ\" data-surface=\"結ん\">結<rt>むす</rt></ruby>んだ。はじめはできなかったけれど、もう<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いち\">一</span><span class=\"word\" data-lemma=\"度\" data-surface=\"度\" data-reading=\"ど\">度</span>やってできた。",
-      "htmlFull": "ムーミンはロープをゆっくりと<ruby data-lemma=\"結ぶ\" data-surface=\"結ん\">結<rt>むす</rt></ruby>んだ。はじめはできなかったけれど、もう<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いち</rt></ruby><ruby data-lemma=\"度\" data-surface=\"度\">度<rt>ど</rt></ruby>やってできた。"
+      "text": "ロープを、ゆっくりと結んだ。はじめはできなかったけれど、もう一度やってできた。",
+      "html": "ロープを、ゆっくりと<ruby data-lemma=\"結ぶ\" data-surface=\"結ん\">結<rt>むす</rt></ruby>んだ。はじめはできなかったけれど、もう<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いち\">一</span><span class=\"word\" data-lemma=\"度\" data-surface=\"度\" data-reading=\"ど\">度</span>やってできた。",
+      "htmlFull": "ロープを、ゆっくりと<ruby data-lemma=\"結ぶ\" data-surface=\"結ん\">結<rt>むす</rt></ruby>んだ。はじめはできなかったけれど、もう<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いち</rt></ruby><ruby data-lemma=\"度\" data-surface=\"度\">度<rt>ど</rt></ruby>やってできた。"
     },
     {
       "id": "p19",
@@ -220,9 +220,9 @@
       "id": "p22",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンはスニフを岩の上に連れて行った。「ほら、あそこ、見える？」とムーミンが聞いた。",
-      "html": "ムーミンはスニフを<span class=\"word\" data-lemma=\"岩\" data-surface=\"岩\" data-reading=\"いわ\">岩</span>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>に<span class=\"word\" data-lemma=\"連れる\" data-surface=\"連れ\" data-reading=\"つれ\">連れ</span>て<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>た。「ほら、あそこ、<span class=\"word\" data-lemma=\"見える\" data-surface=\"見える\" data-reading=\"みえる\">見える</span>？」とムーミンが<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>た。",
-      "htmlFull": "ムーミンはスニフを<ruby data-lemma=\"岩\" data-surface=\"岩\">岩<rt>いわ</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>に<ruby data-lemma=\"連れる\" data-surface=\"連れ\">連<rt>つ</rt></ruby>れて<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>った。「ほら、あそこ、<ruby data-lemma=\"見える\" data-surface=\"見える\">見<rt>み</rt></ruby>える？」とムーミンが<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いた。"
+      "text": "スニフを岩の上に連れて行った。「ほら、あそこ、見える？」とムーミンが聞いた。",
+      "html": "スニフを<span class=\"word\" data-lemma=\"岩\" data-surface=\"岩\" data-reading=\"いわ\">岩</span>の<span class=\"word\" data-lemma=\"上\" data-surface=\"上\" data-reading=\"うえ\">上</span>に<span class=\"word\" data-lemma=\"連れる\" data-surface=\"連れ\" data-reading=\"つれ\">連れ</span>て<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>た。「ほら、あそこ、<span class=\"word\" data-lemma=\"見える\" data-surface=\"見える\" data-reading=\"みえる\">見える</span>？」とムーミンが<span class=\"word\" data-lemma=\"聞く\" data-surface=\"聞い\" data-reading=\"きい\">聞い</span>た。",
+      "htmlFull": "スニフを<ruby data-lemma=\"岩\" data-surface=\"岩\">岩<rt>いわ</rt></ruby>の<ruby data-lemma=\"上\" data-surface=\"上\">上<rt>うえ</rt></ruby>に<ruby data-lemma=\"連れる\" data-surface=\"連れ\">連<rt>つ</rt></ruby>れて<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>った。「ほら、あそこ、<ruby data-lemma=\"見える\" data-surface=\"見える\">見<rt>み</rt></ruby>える？」とムーミンが<ruby data-lemma=\"聞く\" data-surface=\"聞い\">聞<rt>き</rt></ruby>いた。"
     },
     {
       "id": "p23",

@@ -64,9 +64,9 @@
       "id": "p03",
       "kind": "narration",
       "speaker": null,
-      "text": "ムーミンは、浜をゆっくり歩いた。広い浜には、だれもいなかった。",
-      "html": "ムーミンは、<ruby data-lemma=\"浜\" data-surface=\"浜\">浜<rt>はま</rt></ruby>をゆっくり<span class=\"word\" data-lemma=\"歩く\" data-surface=\"歩い\" data-reading=\"あるい\">歩い</span>た。<span class=\"word\" data-lemma=\"広い\" data-surface=\"広い\" data-reading=\"ひろい\">広い</span><ruby data-lemma=\"浜\" data-surface=\"浜\">浜<rt>はま</rt></ruby>には、だれもいなかった。",
-      "htmlFull": "ムーミンは、<ruby data-lemma=\"浜\" data-surface=\"浜\">浜<rt>はま</rt></ruby>をゆっくり<ruby data-lemma=\"歩く\" data-surface=\"歩い\">歩<rt>ある</rt></ruby>いた。<ruby data-lemma=\"広い\" data-surface=\"広い\">広<rt>ひろ</rt></ruby>い<ruby data-lemma=\"浜\" data-surface=\"浜\">浜<rt>はま</rt></ruby>には、だれもいなかった。"
+      "text": "浜を、ゆっくり歩いた。広い浜には、だれもいなかった。",
+      "html": "<ruby data-lemma=\"浜\" data-surface=\"浜\">浜<rt>はま</rt></ruby>を、ゆっくり<span class=\"word\" data-lemma=\"歩く\" data-surface=\"歩い\" data-reading=\"あるい\">歩い</span>た。<span class=\"word\" data-lemma=\"広い\" data-surface=\"広い\" data-reading=\"ひろい\">広い</span><ruby data-lemma=\"浜\" data-surface=\"浜\">浜<rt>はま</rt></ruby>には、だれもいなかった。",
+      "htmlFull": "<ruby data-lemma=\"浜\" data-surface=\"浜\">浜<rt>はま</rt></ruby>を、ゆっくり<ruby data-lemma=\"歩く\" data-surface=\"歩い\">歩<rt>ある</rt></ruby>いた。<ruby data-lemma=\"広い\" data-surface=\"広い\">広<rt>ひろ</rt></ruby>い<ruby data-lemma=\"浜\" data-surface=\"浜\">浜<rt>はま</rt></ruby>には、だれもいなかった。"
     },
     {
       "id": "p04",
@@ -96,9 +96,9 @@
       "id": "p07",
       "kind": "narration",
       "speaker": null,
-      "text": "でも、だれも出て来ない。この島の家には、人がいなかった。",
-      "html": "でも、だれも<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"こ\">来</span>ない。この<span class=\"word\" data-lemma=\"島\" data-surface=\"島\" data-reading=\"しま\">島</span>の<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>には、<span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"ひと\">人</span>がいなかった。",
-      "htmlFull": "でも、だれも<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>て<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>こ</rt></ruby>ない。この<ruby data-lemma=\"島\" data-surface=\"島\">島<rt>しま</rt></ruby>の<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>には、<ruby data-lemma=\"人\" data-surface=\"人\">人<rt>ひと</rt></ruby>がいなかった。"
+      "text": "でも、だれも出て来ない。",
+      "html": "でも、だれも<span class=\"word\" data-lemma=\"出る\" data-surface=\"出\" data-reading=\"で\">出</span>て<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"こ\">来</span>ない。",
+      "htmlFull": "でも、だれも<ruby data-lemma=\"出る\" data-surface=\"出\">出<rt>で</rt></ruby>て<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>こ</rt></ruby>ない。"
     },
     {
       "id": "p08",
@@ -144,9 +144,9 @@
       "id": "p13",
       "kind": "narration",
       "speaker": null,
-      "text": "海の真ん中の、小さな島。\n\n浜には、一軒の家と、一人のムーミンがいた。それだけだった。でも、ムーミンには、それでよかった。",
-      "html": "<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>の<span class=\"word\" data-lemma=\"真ん中\" data-surface=\"真ん中\" data-reading=\"まんなか\">真ん中</span>の、<span class=\"word\" data-lemma=\"小さな\" data-surface=\"小さな\" data-reading=\"ちいさな\">小さな</span><span class=\"word\" data-lemma=\"島\" data-surface=\"島\" data-reading=\"しま\">島</span>。\n\n<ruby data-lemma=\"浜\" data-surface=\"浜\">浜<rt>はま</rt></ruby>には、<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いっ\">一</span><ruby data-lemma=\"軒\" data-surface=\"軒\">軒<rt>けん</rt></ruby>の<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>と、<span class=\"word\" data-lemma=\"一人\" data-surface=\"一人\" data-reading=\"ひとり\">一人</span>のムーミンがいた。それだけだった。でも、ムーミンには、それでよかった。",
-      "htmlFull": "<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>の<ruby data-lemma=\"真ん中\" data-surface=\"真ん中\">真ん中<rt>まんなか</rt></ruby>の、<ruby data-lemma=\"小さな\" data-surface=\"小さな\">小<rt>ちい</rt></ruby>さな<ruby data-lemma=\"島\" data-surface=\"島\">島<rt>しま</rt></ruby>。\n\n<ruby data-lemma=\"浜\" data-surface=\"浜\">浜<rt>はま</rt></ruby>には、<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いっ</rt></ruby><ruby data-lemma=\"軒\" data-surface=\"軒\">軒<rt>けん</rt></ruby>の<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>と、<ruby data-lemma=\"一人\" data-surface=\"一人\">一人<rt>ひとり</rt></ruby>のムーミンがいた。それだけだった。でも、ムーミンには、それでよかった。"
+      "text": "海の真ん中の、小さな島。\n\n浜には、一軒の家と、一人のムーミン。それだけだった。でも、それでよかった。",
+      "html": "<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>の<span class=\"word\" data-lemma=\"真ん中\" data-surface=\"真ん中\" data-reading=\"まんなか\">真ん中</span>の、<span class=\"word\" data-lemma=\"小さな\" data-surface=\"小さな\" data-reading=\"ちいさな\">小さな</span><span class=\"word\" data-lemma=\"島\" data-surface=\"島\" data-reading=\"しま\">島</span>。\n\n<ruby data-lemma=\"浜\" data-surface=\"浜\">浜<rt>はま</rt></ruby>には、<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いっ\">一</span><ruby data-lemma=\"軒\" data-surface=\"軒\">軒<rt>けん</rt></ruby>の<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>と、<span class=\"word\" data-lemma=\"一人\" data-surface=\"一人\" data-reading=\"ひとり\">一人</span>のムーミン。それだけだった。でも、それでよかった。",
+      "htmlFull": "<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>の<ruby data-lemma=\"真ん中\" data-surface=\"真ん中\">真ん中<rt>まんなか</rt></ruby>の、<ruby data-lemma=\"小さな\" data-surface=\"小さな\">小<rt>ちい</rt></ruby>さな<ruby data-lemma=\"島\" data-surface=\"島\">島<rt>しま</rt></ruby>。\n\n<ruby data-lemma=\"浜\" data-surface=\"浜\">浜<rt>はま</rt></ruby>には、<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いっ</rt></ruby><ruby data-lemma=\"軒\" data-surface=\"軒\">軒<rt>けん</rt></ruby>の<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>と、<ruby data-lemma=\"一人\" data-surface=\"一人\">一人<rt>ひとり</rt></ruby>のムーミン。それだけだった。でも、それでよかった。"
     }
   ],
   "focusVocab": [
