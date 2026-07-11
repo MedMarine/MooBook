@@ -61,8 +61,8 @@
       "kind": "dialogue",
       "speaker": "ヘムレン",
       "text": "ああ、ムーミンさん、本当にすみません。こんな時間に、来てしまって。",
-      "html": "ああ、ムーミンさん、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にすみません。こんな<span class=\"word\" data-lemma=\"時間\" data-surface=\"時間\" data-reading=\"じかん\">時間</span>に、<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>てしまって。",
-      "htmlFull": "ああ、ムーミンさん、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にすみません。こんな<ruby data-lemma=\"時間\" data-surface=\"時間\">時間<rt>じかん</rt></ruby>に、<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>てしまって。"
+      "html": "ああ、ムーミンさん、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>にすみません。こんな<span class=\"word\" data-lemma=\"時間\" data-surface=\"時間\" data-reading=\"じかん\">時間</span>に、<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>てしまって。",
+      "htmlFull": "ああ、ムーミンさん、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>にすみません。こんな<ruby data-lemma=\"時間\" data-surface=\"時間\">時間<rt>じかん</rt></ruby>に、<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>てしまって。"
     },
     {
       "id": "p03",
@@ -125,8 +125,8 @@
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "モラン？本当に？ちょっと、こわいね。",
-      "html": "モラン？<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に？ちょっと、こわいね。",
-      "htmlFull": "モラン？<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に？ちょっと、こわいね。"
+      "html": "モラン？<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>に？ちょっと、こわいね。",
+      "htmlFull": "モラン？<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>に？ちょっと、こわいね。"
     },
     {
       "id": "p11",
@@ -141,8 +141,8 @@
       "kind": "narration",
       "speaker": null,
       "text": "ママは、お客さんに、ていねいにお茶を入れた。ヘムレンは、ゆっくりお茶を飲んで、何度も「本当にすみません」と言った。",
-      "html": "ママは、お<span class=\"word\" data-lemma=\"客\" data-surface=\"客\" data-reading=\"きゃく\">客</span>さんに、ていねいにお<span class=\"word\" data-lemma=\"茶\" data-surface=\"茶\" data-reading=\"ちゃ\">茶</span>を<span class=\"word\" data-lemma=\"入れる\" data-surface=\"入れ\" data-reading=\"いれ\">入れ</span>た。ヘムレンは、ゆっくりお<span class=\"word\" data-lemma=\"茶\" data-surface=\"茶\" data-reading=\"ちゃ\">茶</span>を<span class=\"word\" data-lemma=\"飲む\" data-surface=\"飲ん\" data-reading=\"のん\">飲ん</span>で、<span class=\"word\" data-lemma=\"何\" data-surface=\"何\" data-reading=\"なん\">何</span><span class=\"word\" data-lemma=\"度\" data-surface=\"度\" data-reading=\"ど\">度</span>も「<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にすみません」と<span class=\"word\" data-lemma=\"言う\" data-surface=\"言っ\" data-reading=\"いっ\">言っ</span>た。",
-      "htmlFull": "ママは、お<ruby data-lemma=\"客\" data-surface=\"客\">客<rt>きゃく</rt></ruby>さんに、ていねいにお<ruby data-lemma=\"茶\" data-surface=\"茶\">茶<rt>ちゃ</rt></ruby>を<ruby data-lemma=\"入れる\" data-surface=\"入れ\">入<rt>い</rt></ruby>れた。ヘムレンは、ゆっくりお<ruby data-lemma=\"茶\" data-surface=\"茶\">茶<rt>ちゃ</rt></ruby>を<ruby data-lemma=\"飲む\" data-surface=\"飲ん\">飲<rt>の</rt></ruby>んで、<ruby data-lemma=\"何\" data-surface=\"何\">何<rt>なん</rt></ruby><ruby data-lemma=\"度\" data-surface=\"度\">度<rt>ど</rt></ruby>も「<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にすみません」と<ruby data-lemma=\"言う\" data-surface=\"言っ\">言<rt>い</rt></ruby>った。"
+      "html": "ママは、お<span class=\"word\" data-lemma=\"客\" data-surface=\"客\" data-reading=\"きゃく\">客</span>さんに、ていねいにお<span class=\"word\" data-lemma=\"茶\" data-surface=\"茶\" data-reading=\"ちゃ\">茶</span>を<span class=\"word\" data-lemma=\"入れる\" data-surface=\"入れ\" data-reading=\"いれ\">入れ</span>た。ヘムレンは、ゆっくりお<span class=\"word\" data-lemma=\"茶\" data-surface=\"茶\" data-reading=\"ちゃ\">茶</span>を<span class=\"word\" data-lemma=\"飲む\" data-surface=\"飲ん\" data-reading=\"のん\">飲ん</span>で、<span class=\"word\" data-lemma=\"何\" data-surface=\"何\" data-reading=\"なん\">何</span><span class=\"word\" data-lemma=\"度\" data-surface=\"度\" data-reading=\"ど\">度</span>も「<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>にすみません」と<span class=\"word\" data-lemma=\"言う\" data-surface=\"言っ\" data-reading=\"いっ\">言っ</span>た。",
+      "htmlFull": "ママは、お<ruby data-lemma=\"客\" data-surface=\"客\">客<rt>きゃく</rt></ruby>さんに、ていねいにお<ruby data-lemma=\"茶\" data-surface=\"茶\">茶<rt>ちゃ</rt></ruby>を<ruby data-lemma=\"入れる\" data-surface=\"入れ\">入<rt>い</rt></ruby>れた。ヘムレンは、ゆっくりお<ruby data-lemma=\"茶\" data-surface=\"茶\">茶<rt>ちゃ</rt></ruby>を<ruby data-lemma=\"飲む\" data-surface=\"飲ん\">飲<rt>の</rt></ruby>んで、<ruby data-lemma=\"何\" data-surface=\"何\">何<rt>なん</rt></ruby><ruby data-lemma=\"度\" data-surface=\"度\">度<rt>ど</rt></ruby>も「<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>にすみません」と<ruby data-lemma=\"言う\" data-surface=\"言っ\">言<rt>い</rt></ruby>った。"
     },
     {
       "id": "p13",
@@ -165,8 +165,8 @@
       "kind": "dialogue",
       "speaker": "パパ",
       "text": "モランのことは、本当に見たのかね？嵐のときは、色々なものが見えるからな。",
-      "html": "モランのことは、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>たのかね？<span class=\"word\" data-lemma=\"嵐\" data-surface=\"嵐\" data-reading=\"あらし\">嵐</span>のときは、<span class=\"word\" data-lemma=\"色々\" data-surface=\"色々\" data-reading=\"いろいろ\">色々</span>なものが<span class=\"word\" data-lemma=\"見える\" data-surface=\"見える\" data-reading=\"みえる\">見える</span>からな。",
-      "htmlFull": "モランのことは、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>たのかね？<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>のときは、<ruby data-lemma=\"色々\" data-surface=\"色々\">色々<rt>いろいろ</rt></ruby>なものが<ruby data-lemma=\"見える\" data-surface=\"見える\">見<rt>み</rt></ruby>えるからな。"
+      "html": "モランのことは、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>に<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>たのかね？<span class=\"word\" data-lemma=\"嵐\" data-surface=\"嵐\" data-reading=\"あらし\">嵐</span>のときは、<span class=\"word\" data-lemma=\"色々\" data-surface=\"色々\" data-reading=\"いろいろ\">色々</span>なものが<span class=\"word\" data-lemma=\"見える\" data-surface=\"見える\" data-reading=\"みえる\">見える</span>からな。",
+      "htmlFull": "モランのことは、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>に<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>たのかね？<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>のときは、<ruby data-lemma=\"色々\" data-surface=\"色々\">色々<rt>いろいろ</rt></ruby>なものが<ruby data-lemma=\"見える\" data-surface=\"見える\">見<rt>み</rt></ruby>えるからな。"
     },
     {
       "id": "p16",
@@ -189,8 +189,8 @@
       "kind": "dialogue",
       "speaker": "ヘムレン",
       "text": "では、そろそろ帰ります。本当に、ありがとうございました。",
-      "html": "では、そろそろ<span class=\"word\" data-lemma=\"返る\" data-surface=\"帰り\" data-reading=\"かえり\">帰り</span>ます。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に、ありがとうございました。",
-      "htmlFull": "では、そろそろ<ruby data-lemma=\"返る\" data-surface=\"帰り\">帰<rt>かえ</rt></ruby>ります。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に、ありがとうございました。"
+      "html": "では、そろそろ<span class=\"word\" data-lemma=\"返る\" data-surface=\"帰り\" data-reading=\"かえり\">帰り</span>ます。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>に、ありがとうございました。",
+      "htmlFull": "では、そろそろ<ruby data-lemma=\"返る\" data-surface=\"帰り\">帰<rt>かえ</rt></ruby>ります。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>に、ありがとうございました。"
     },
     {
       "id": "p19",
@@ -229,8 +229,8 @@
       "kind": "narration",
       "speaker": null,
       "text": "モランは、本当にそこにいたのでしょうか。いなかったのでしょうか。嵐のときのことは、もう、だれにもわかりません。",
-      "html": "モランは、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にそこにいたのでしょうか。いなかったのでしょうか。<span class=\"word\" data-lemma=\"嵐\" data-surface=\"嵐\" data-reading=\"あらし\">嵐</span>のときのことは、もう、だれにもわかりません。",
-      "htmlFull": "モランは、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にそこにいたのでしょうか。いなかったのでしょうか。<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>のときのことは、もう、だれにもわかりません。"
+      "html": "モランは、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>にそこにいたのでしょうか。いなかったのでしょうか。<span class=\"word\" data-lemma=\"嵐\" data-surface=\"嵐\" data-reading=\"あらし\">嵐</span>のときのことは、もう、だれにもわかりません。",
+      "htmlFull": "モランは、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>にそこにいたのでしょうか。いなかったのでしょうか。<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>のときのことは、もう、だれにもわかりません。"
     }
   ],
   "focusVocab": [

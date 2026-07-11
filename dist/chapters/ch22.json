@@ -106,8 +106,8 @@
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "ママ、パンもちょうだい！ママのパンは、本当に素晴らしいから。",
-      "html": "ママ、パンもちょうだい！ママのパンは、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に<ruby data-lemma=\"素晴らしい\" data-surface=\"素晴らしい\">素晴<rt>すば</rt></ruby>らしいから。",
-      "htmlFull": "ママ、パンもちょうだい！ママのパンは、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に<ruby data-lemma=\"素晴らしい\" data-surface=\"素晴らしい\">素晴<rt>すば</rt></ruby>らしいから。"
+      "html": "ママ、パンもちょうだい！ママのパンは、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>に<ruby data-lemma=\"素晴らしい\" data-surface=\"素晴らしい\">素晴<rt>すば</rt></ruby>らしいから。",
+      "htmlFull": "ママ、パンもちょうだい！ママのパンは、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>に<ruby data-lemma=\"素晴らしい\" data-surface=\"素晴らしい\">素晴<rt>すば</rt></ruby>らしいから。"
     },
     {
       "id": "p09",
@@ -130,8 +130,8 @@
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "海岸に行ったら、きっと素晴らしい一日になるよ。本当に、楽しみだな！",
-      "html": "<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>に<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>たら、きっと<ruby data-lemma=\"素晴らしい\" data-surface=\"素晴らしい\">素晴<rt>すば</rt></ruby>らしい<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いち\">一</span><span class=\"word\" data-lemma=\"日\" data-surface=\"日\" data-reading=\"にち\">日</span>になるよ。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に、<span class=\"word\" data-lemma=\"楽しみ\" data-surface=\"楽しみ\" data-reading=\"たのしみ\">楽しみ</span>だな！",
-      "htmlFull": "<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>に<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>ったら、きっと<ruby data-lemma=\"素晴らしい\" data-surface=\"素晴らしい\">素晴<rt>すば</rt></ruby>らしい<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いち</rt></ruby><ruby data-lemma=\"日\" data-surface=\"日\">日<rt>にち</rt></ruby>になるよ。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に、<ruby data-lemma=\"楽しみ\" data-surface=\"楽しみ\">楽<rt>たの</rt></ruby>しみだな！"
+      "html": "<span class=\"word\" data-lemma=\"海岸\" data-surface=\"海岸\" data-reading=\"かいがん\">海岸</span>に<span class=\"word\" data-lemma=\"行く\" data-surface=\"行っ\" data-reading=\"いっ\">行っ</span>たら、きっと<ruby data-lemma=\"素晴らしい\" data-surface=\"素晴らしい\">素晴<rt>すば</rt></ruby>らしい<span class=\"word\" data-lemma=\"一\" data-surface=\"一\" data-reading=\"いち\">一</span><span class=\"word\" data-lemma=\"日\" data-surface=\"日\" data-reading=\"にち\">日</span>になるよ。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>に、<span class=\"word\" data-lemma=\"楽しみ\" data-surface=\"楽しみ\" data-reading=\"たのしみ\">楽しみ</span>だな！",
+      "htmlFull": "<ruby data-lemma=\"海岸\" data-surface=\"海岸\">海岸<rt>かいがん</rt></ruby>に<ruby data-lemma=\"行く\" data-surface=\"行っ\">行<rt>い</rt></ruby>ったら、きっと<ruby data-lemma=\"素晴らしい\" data-surface=\"素晴らしい\">素晴<rt>すば</rt></ruby>らしい<ruby data-lemma=\"一\" data-surface=\"一\">一<rt>いち</rt></ruby><ruby data-lemma=\"日\" data-surface=\"日\">日<rt>にち</rt></ruby>になるよ。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>に、<ruby data-lemma=\"楽しみ\" data-surface=\"楽しみ\">楽<rt>たの</rt></ruby>しみだな！"
     },
     {
       "id": "p12",

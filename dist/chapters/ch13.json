@@ -98,8 +98,8 @@
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "えっ、本当に、きみがもうみつけたの？足、速いなあ。",
-      "html": "えっ、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に、きみがもうみつけたの？<span class=\"word\" data-lemma=\"足\" data-surface=\"足\" data-reading=\"あし\">足</span>、<span class=\"word\" data-lemma=\"早い\" data-surface=\"速い\" data-reading=\"はやい\">速い</span>なあ。",
-      "htmlFull": "えっ、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に、きみがもうみつけたの？<ruby data-lemma=\"足\" data-surface=\"足\">足<rt>あし</rt></ruby>、<ruby data-lemma=\"早い\" data-surface=\"速い\">速<rt>はや</rt></ruby>いなあ。"
+      "html": "えっ、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>に、きみがもうみつけたの？<span class=\"word\" data-lemma=\"足\" data-surface=\"足\" data-reading=\"あし\">足</span>、<span class=\"word\" data-lemma=\"早い\" data-surface=\"速い\" data-reading=\"はやい\">速い</span>なあ。",
+      "htmlFull": "えっ、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>に、きみがもうみつけたの？<ruby data-lemma=\"足\" data-surface=\"足\">足<rt>あし</rt></ruby>、<ruby data-lemma=\"早い\" data-surface=\"速い\">速<rt>はや</rt></ruby>いなあ。"
     },
     {
       "id": "p08",
@@ -178,8 +178,8 @@
       "kind": "narration",
       "speaker": null,
       "text": "そして、ルビーを手に持って、ゆっくりと山を降りていった。本当に、いい一日だった。",
-      "html": "そして、ルビーを<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>に<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>て、ゆっくりと<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>を<ruby data-lemma=\"下りる\" data-surface=\"降り\">降<rt>お</rt></ruby>りていった。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に、いい<span class=\"word\" data-lemma=\"一日\" data-surface=\"一日\" data-reading=\"ついたち\">一日</span>だった。",
-      "htmlFull": "そして、ルビーを<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>に<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>って、ゆっくりと<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>を<ruby data-lemma=\"下りる\" data-surface=\"降り\">降<rt>お</rt></ruby>りていった。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に、いい<ruby data-lemma=\"一日\" data-surface=\"一日\">一日<rt>ついたち</rt></ruby>だった。"
+      "html": "そして、ルビーを<span class=\"word\" data-lemma=\"手\" data-surface=\"手\" data-reading=\"て\">手</span>に<span class=\"word\" data-lemma=\"持つ\" data-surface=\"持っ\" data-reading=\"もっ\">持っ</span>て、ゆっくりと<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>を<ruby data-lemma=\"下りる\" data-surface=\"降り\">降<rt>お</rt></ruby>りていった。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>に、いい<span class=\"word\" data-lemma=\"一日\" data-surface=\"一日\" data-reading=\"ついたち\">一日</span>だった。",
+      "htmlFull": "そして、ルビーを<ruby data-lemma=\"手\" data-surface=\"手\">手<rt>て</rt></ruby>に<ruby data-lemma=\"持つ\" data-surface=\"持っ\">持<rt>も</rt></ruby>って、ゆっくりと<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>を<ruby data-lemma=\"下りる\" data-surface=\"降り\">降<rt>お</rt></ruby>りていった。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>に、いい<ruby data-lemma=\"一日\" data-surface=\"一日\">一日<rt>ついたち</rt></ruby>だった。"
     }
   ],
   "focusVocab": [

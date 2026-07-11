@@ -156,8 +156,8 @@
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "パパ！やっぱり、いっしょがいい。一人の夜は、本当に怖かった。",
-      "html": "パパ！やっぱり、いっしょがいい。<span class=\"word\" data-lemma=\"一人\" data-surface=\"一人\" data-reading=\"ひとり\">一人</span>の<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>は、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に<span class=\"word\" data-lemma=\"怖い\" data-surface=\"怖かっ\" data-reading=\"こわかっ\">怖かっ</span>た。",
-      "htmlFull": "パパ！やっぱり、いっしょがいい。<ruby data-lemma=\"一人\" data-surface=\"一人\">一人<rt>ひとり</rt></ruby>の<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>は、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に<ruby data-lemma=\"怖い\" data-surface=\"怖かっ\">怖<rt>こわ</rt></ruby>かった。"
+      "html": "パパ！やっぱり、いっしょがいい。<span class=\"word\" data-lemma=\"一人\" data-surface=\"一人\" data-reading=\"ひとり\">一人</span>の<span class=\"word\" data-lemma=\"夜\" data-surface=\"夜\" data-reading=\"よる\">夜</span>は、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>に<span class=\"word\" data-lemma=\"怖い\" data-surface=\"怖かっ\" data-reading=\"こわかっ\">怖かっ</span>た。",
+      "htmlFull": "パパ！やっぱり、いっしょがいい。<ruby data-lemma=\"一人\" data-surface=\"一人\">一人<rt>ひとり</rt></ruby>の<ruby data-lemma=\"夜\" data-surface=\"夜\">夜<rt>よる</rt></ruby>は、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>に<ruby data-lemma=\"怖い\" data-surface=\"怖かっ\">怖<rt>こわ</rt></ruby>かった。"
     },
     {
       "id": "p15",

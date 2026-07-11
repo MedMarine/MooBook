@@ -112,8 +112,8 @@
       "kind": "narration",
       "speaker": null,
       "text": "スニフの顔はちょっと赤いけれど、本当にまだ飲んではいないらしい。",
-      "html": "スニフの<span class=\"word\" data-lemma=\"顔\" data-surface=\"顔\" data-reading=\"かお\">顔</span>はちょっと<span class=\"word\" data-lemma=\"赤い\" data-surface=\"赤い\" data-reading=\"あかい\">赤い</span>けれど、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にまだ<span class=\"word\" data-lemma=\"飲む\" data-surface=\"飲ん\" data-reading=\"のん\">飲ん</span>ではいないらしい。",
-      "htmlFull": "スニフの<ruby data-lemma=\"顔\" data-surface=\"顔\">顔<rt>かお</rt></ruby>はちょっと<ruby data-lemma=\"赤い\" data-surface=\"赤い\">赤<rt>あか</rt></ruby>いけれど、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にまだ<ruby data-lemma=\"飲む\" data-surface=\"飲ん\">飲<rt>の</rt></ruby>んではいないらしい。"
+      "html": "スニフの<span class=\"word\" data-lemma=\"顔\" data-surface=\"顔\" data-reading=\"かお\">顔</span>はちょっと<span class=\"word\" data-lemma=\"赤い\" data-surface=\"赤い\" data-reading=\"あかい\">赤い</span>けれど、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>にまだ<span class=\"word\" data-lemma=\"飲む\" data-surface=\"飲ん\" data-reading=\"のん\">飲ん</span>ではいないらしい。",
+      "htmlFull": "スニフの<ruby data-lemma=\"顔\" data-surface=\"顔\">顔<rt>かお</rt></ruby>はちょっと<ruby data-lemma=\"赤い\" data-surface=\"赤い\">赤<rt>あか</rt></ruby>いけれど、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>にまだ<ruby data-lemma=\"飲む\" data-surface=\"飲ん\">飲<rt>の</rt></ruby>んではいないらしい。"
     },
     {
       "id": "p09",

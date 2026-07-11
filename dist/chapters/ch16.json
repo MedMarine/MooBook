@@ -104,8 +104,8 @@
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "風船？本当だ！大きくて、白い風船だ！",
-      "html": "<span class=\"word\" data-lemma=\"風船\" data-surface=\"風船\" data-reading=\"ふうせん\">風船</span>？<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>だ！<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きく\" data-reading=\"おおきく\">大きく</span>て、<span class=\"word\" data-lemma=\"白い\" data-surface=\"白い\" data-reading=\"しろい\">白い</span><span class=\"word\" data-lemma=\"風船\" data-surface=\"風船\" data-reading=\"ふうせん\">風船</span>だ！",
-      "htmlFull": "<ruby data-lemma=\"風船\" data-surface=\"風船\">風船<rt>ふうせん</rt></ruby>？<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>だ！<ruby data-lemma=\"大きい\" data-surface=\"大きく\">大<rt>おお</rt></ruby>きくて、<ruby data-lemma=\"白い\" data-surface=\"白い\">白<rt>しろ</rt></ruby>い<ruby data-lemma=\"風船\" data-surface=\"風船\">風船<rt>ふうせん</rt></ruby>だ！"
+      "html": "<span class=\"word\" data-lemma=\"風船\" data-surface=\"風船\" data-reading=\"ふうせん\">風船</span>？<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>だ！<span class=\"word\" data-lemma=\"大きい\" data-surface=\"大きく\" data-reading=\"おおきく\">大きく</span>て、<span class=\"word\" data-lemma=\"白い\" data-surface=\"白い\" data-reading=\"しろい\">白い</span><span class=\"word\" data-lemma=\"風船\" data-surface=\"風船\" data-reading=\"ふうせん\">風船</span>だ！",
+      "htmlFull": "<ruby data-lemma=\"風船\" data-surface=\"風船\">風船<rt>ふうせん</rt></ruby>？<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>だ！<ruby data-lemma=\"大きい\" data-surface=\"大きく\">大<rt>おお</rt></ruby>きくて、<ruby data-lemma=\"白い\" data-surface=\"白い\">白<rt>しろ</rt></ruby>い<ruby data-lemma=\"風船\" data-surface=\"風船\">風船<rt>ふうせん</rt></ruby>だ！"
     },
     {
       "id": "p09",
@@ -128,8 +128,8 @@
       "kind": "dialogue",
       "speaker": "スニフ",
       "text": "うーん、でも、本当にこわくないの？",
-      "html": "うーん、でも、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にこわくないの？",
-      "htmlFull": "うーん、でも、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にこわくないの？"
+      "html": "うーん、でも、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>にこわくないの？",
+      "htmlFull": "うーん、でも、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>にこわくないの？"
     },
     {
       "id": "p12",

@@ -148,8 +148,8 @@
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "スニフ、本当にみつけたの？",
-      "html": "スニフ、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にみつけたの？",
-      "htmlFull": "スニフ、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にみつけたの？"
+      "html": "スニフ、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>にみつけたの？",
+      "htmlFull": "スニフ、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>にみつけたの？"
     },
     {
       "id": "p14",
@@ -212,16 +212,16 @@
       "kind": "dialogue",
       "speaker": "パパ",
       "text": "わしもそう思うよ。スニフは本当にえらい。",
-      "html": "わしもそう<span class=\"word\" data-lemma=\"思う\" data-surface=\"思う\" data-reading=\"おもう\">思う</span>よ。スニフは<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にえらい。",
-      "htmlFull": "わしもそう<ruby data-lemma=\"思う\" data-surface=\"思う\">思<rt>おも</rt></ruby>うよ。スニフは<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にえらい。"
+      "html": "わしもそう<span class=\"word\" data-lemma=\"思う\" data-surface=\"思う\" data-reading=\"おもう\">思う</span>よ。スニフは<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>にえらい。",
+      "htmlFull": "わしもそう<ruby data-lemma=\"思う\" data-surface=\"思う\">思<rt>おも</rt></ruby>うよ。スニフは<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>にえらい。"
     },
     {
       "id": "p22",
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "ぼくもそう思う。本当によかった。",
-      "html": "ぼくもそう<span class=\"word\" data-lemma=\"思う\" data-surface=\"思う\" data-reading=\"おもう\">思う</span>。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>によかった。",
-      "htmlFull": "ぼくもそう<ruby data-lemma=\"思う\" data-surface=\"思う\">思<rt>おも</rt></ruby>う。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>によかった。"
+      "html": "ぼくもそう<span class=\"word\" data-lemma=\"思う\" data-surface=\"思う\" data-reading=\"おもう\">思う</span>。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>によかった。",
+      "htmlFull": "ぼくもそう<ruby data-lemma=\"思う\" data-surface=\"思う\">思<rt>おも</rt></ruby>う。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>によかった。"
     },
     {
       "id": "p23",

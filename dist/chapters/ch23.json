@@ -98,8 +98,8 @@
       "kind": "dialogue",
       "speaker": "パパ",
       "text": "うむ、前にみた嵐と、本当に違うな。こんなに帽子が飛ぶのは、はじめてだ。",
-      "html": "うむ、<span class=\"word\" data-lemma=\"前\" data-surface=\"前\" data-reading=\"まえ\">前</span>にみた<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>と、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に<ruby data-lemma=\"違う\" data-surface=\"違う\">違<rt>ちが</rt></ruby>うな。こんなに<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>が<ruby data-lemma=\"飛ぶ\" data-surface=\"飛ぶ\">飛<rt>と</rt></ruby>ぶのは、はじめてだ。",
-      "htmlFull": "うむ、<ruby data-lemma=\"前\" data-surface=\"前\">前<rt>まえ</rt></ruby>にみた<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>と、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に<ruby data-lemma=\"違う\" data-surface=\"違う\">違<rt>ちが</rt></ruby>うな。こんなに<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>が<ruby data-lemma=\"飛ぶ\" data-surface=\"飛ぶ\">飛<rt>と</rt></ruby>ぶのは、はじめてだ。"
+      "html": "うむ、<span class=\"word\" data-lemma=\"前\" data-surface=\"前\" data-reading=\"まえ\">前</span>にみた<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>と、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>に<ruby data-lemma=\"違う\" data-surface=\"違う\">違<rt>ちが</rt></ruby>うな。こんなに<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>が<ruby data-lemma=\"飛ぶ\" data-surface=\"飛ぶ\">飛<rt>と</rt></ruby>ぶのは、はじめてだ。",
+      "htmlFull": "うむ、<ruby data-lemma=\"前\" data-surface=\"前\">前<rt>まえ</rt></ruby>にみた<ruby data-lemma=\"嵐\" data-surface=\"嵐\">嵐<rt>あらし</rt></ruby>と、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>に<ruby data-lemma=\"違う\" data-surface=\"違う\">違<rt>ちが</rt></ruby>うな。こんなに<ruby data-lemma=\"帽子\" data-surface=\"帽子\">帽子<rt>ぼうし</rt></ruby>が<ruby data-lemma=\"飛ぶ\" data-surface=\"飛ぶ\">飛<rt>と</rt></ruby>ぶのは、はじめてだ。"
     },
     {
       "id": "p08",
@@ -122,8 +122,8 @@
       "kind": "dialogue",
       "speaker": "ママ",
       "text": "あら、本当ね。みんな、家に入って。忘れたものがないか、ちゃんと見ましょう。",
-      "html": "あら、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>ね。みんな、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>に<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>て。<ruby data-lemma=\"忘れる\" data-surface=\"忘れ\">忘<rt>わす</rt></ruby>れたものがないか、ちゃんと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ましょう。",
-      "htmlFull": "あら、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>ね。みんな、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>に<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>って。<ruby data-lemma=\"忘れる\" data-surface=\"忘れ\">忘<rt>わす</rt></ruby>れたものがないか、ちゃんと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ましょう。"
+      "html": "あら、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>ね。みんな、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>に<span class=\"word\" data-lemma=\"入る\" data-surface=\"入っ\" data-reading=\"はいっ\">入っ</span>て。<ruby data-lemma=\"忘れる\" data-surface=\"忘れ\">忘<rt>わす</rt></ruby>れたものがないか、ちゃんと<span class=\"word\" data-lemma=\"見る\" data-surface=\"見\" data-reading=\"み\">見</span>ましょう。",
+      "htmlFull": "あら、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>ね。みんな、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>に<ruby data-lemma=\"入る\" data-surface=\"入っ\">入<rt>はい</rt></ruby>って。<ruby data-lemma=\"忘れる\" data-surface=\"忘れ\">忘<rt>わす</rt></ruby>れたものがないか、ちゃんと<ruby data-lemma=\"見る\" data-surface=\"見\">見<rt>み</rt></ruby>ましょう。"
     },
     {
       "id": "p11",

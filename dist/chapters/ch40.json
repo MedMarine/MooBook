@@ -129,8 +129,8 @@
       "kind": "narration",
       "speaker": null,
       "text": "でも、ミイがちょっと疲れているのが、ムーミンにはわかった。疲れている子はときどき、ほかの子をいじめる。本当はいじめるつもりじゃなくても、そうなる。",
-      "html": "でも、ミイがちょっと<ruby data-lemma=\"疲れる\" data-surface=\"疲れ\">疲<rt>つか</rt></ruby>れているのが、ムーミンにはわかった。<ruby data-lemma=\"疲れる\" data-surface=\"疲れ\">疲<rt>つか</rt></ruby>れている<span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>はときどき、ほかの<span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>をいじめる。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>はいじめるつもりじゃなくても、そうなる。",
-      "htmlFull": "でも、ミイがちょっと<ruby data-lemma=\"疲れる\" data-surface=\"疲れ\">疲<rt>つか</rt></ruby>れているのが、ムーミンにはわかった。<ruby data-lemma=\"疲れる\" data-surface=\"疲れ\">疲<rt>つか</rt></ruby>れている<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>はときどき、ほかの<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>をいじめる。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>はいじめるつもりじゃなくても、そうなる。"
+      "html": "でも、ミイがちょっと<ruby data-lemma=\"疲れる\" data-surface=\"疲れ\">疲<rt>つか</rt></ruby>れているのが、ムーミンにはわかった。<ruby data-lemma=\"疲れる\" data-surface=\"疲れ\">疲<rt>つか</rt></ruby>れている<span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>はときどき、ほかの<span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>をいじめる。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>はいじめるつもりじゃなくても、そうなる。",
+      "htmlFull": "でも、ミイがちょっと<ruby data-lemma=\"疲れる\" data-surface=\"疲れ\">疲<rt>つか</rt></ruby>れているのが、ムーミンにはわかった。<ruby data-lemma=\"疲れる\" data-surface=\"疲れ\">疲<rt>つか</rt></ruby>れている<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>はときどき、ほかの<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>をいじめる。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>はいじめるつもりじゃなくても、そうなる。"
     },
     {
       "id": "p12",
@@ -145,8 +145,8 @@
       "kind": "narration",
       "speaker": null,
       "text": "ミイはちょっとだまって、それから小さくうなずいた。「本当はいじめるつもりじゃなかった」とミイは小さな声でいった。",
-      "html": "ミイはちょっとだまって、それから<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さく\" data-reading=\"ちいさく\">小さく</span>うなずいた。「<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>はいじめるつもりじゃなかった」とミイは<span class=\"word\" data-lemma=\"小さな\" data-surface=\"小さな\" data-reading=\"ちいさな\">小さな</span><span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>でいった。",
-      "htmlFull": "ミイはちょっとだまって、それから<ruby data-lemma=\"小さい\" data-surface=\"小さく\">小<rt>ちい</rt></ruby>さくうなずいた。「<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>はいじめるつもりじゃなかった」とミイは<ruby data-lemma=\"小さな\" data-surface=\"小さな\">小<rt>ちい</rt></ruby>さな<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>でいった。"
+      "html": "ミイはちょっとだまって、それから<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さく\" data-reading=\"ちいさく\">小さく</span>うなずいた。「<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>はいじめるつもりじゃなかった」とミイは<span class=\"word\" data-lemma=\"小さな\" data-surface=\"小さな\" data-reading=\"ちいさな\">小さな</span><span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>でいった。",
+      "htmlFull": "ミイはちょっとだまって、それから<ruby data-lemma=\"小さい\" data-surface=\"小さく\">小<rt>ちい</rt></ruby>さくうなずいた。「<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>はいじめるつもりじゃなかった」とミイは<ruby data-lemma=\"小さな\" data-surface=\"小さな\">小<rt>ちい</rt></ruby>さな<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>でいった。"
     },
     {
       "id": "p14",

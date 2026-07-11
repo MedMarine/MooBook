@@ -99,8 +99,8 @@
       "kind": "narration",
       "speaker": null,
       "text": "ミムラは、スーツケースをそこにおいて、家の中のどこかにかくれた。ムーミンはあちこち探した。でも、ぜんぜん見つからない。本当に、かくれるのが上手な子だ。",
-      "html": "ミムラは、スーツケースをそこにおいて、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>のどこかにかくれた。ムーミンはあちこち<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>した。でも、ぜんぜん<span class=\"word\" data-lemma=\"見付かる\" data-surface=\"見つから\" data-reading=\"みつから\">見つから</span>ない。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に、かくれるのが<span class=\"word\" data-lemma=\"上手\" data-surface=\"上手\" data-reading=\"じょうず\">上手</span>な<span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>だ。",
-      "htmlFull": "ミムラは、スーツケースをそこにおいて、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>のどこかにかくれた。ムーミンはあちこち<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>した。でも、ぜんぜん<ruby data-lemma=\"見付かる\" data-surface=\"見つから\">見<rt>み</rt></ruby>つからない。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に、かくれるのが<ruby data-lemma=\"上手\" data-surface=\"上手\">上手<rt>じょうず</rt></ruby>な<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>だ。"
+      "html": "ミムラは、スーツケースをそこにおいて、<span class=\"word\" data-lemma=\"家\" data-surface=\"家\" data-reading=\"いえ\">家</span>の<span class=\"word\" data-lemma=\"中\" data-surface=\"中\" data-reading=\"なか\">中</span>のどこかにかくれた。ムーミンはあちこち<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>した。でも、ぜんぜん<span class=\"word\" data-lemma=\"見付かる\" data-surface=\"見つから\" data-reading=\"みつから\">見つから</span>ない。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>に、かくれるのが<span class=\"word\" data-lemma=\"上手\" data-surface=\"上手\" data-reading=\"じょうず\">上手</span>な<span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>だ。",
+      "htmlFull": "ミムラは、スーツケースをそこにおいて、<ruby data-lemma=\"家\" data-surface=\"家\">家<rt>いえ</rt></ruby>の<ruby data-lemma=\"中\" data-surface=\"中\">中<rt>なか</rt></ruby>のどこかにかくれた。ムーミンはあちこち<ruby data-lemma=\"探す\" data-surface=\"探し\">探<rt>さが</rt></ruby>した。でも、ぜんぜん<ruby data-lemma=\"見付かる\" data-surface=\"見つから\">見<rt>み</rt></ruby>つからない。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>に、かくれるのが<ruby data-lemma=\"上手\" data-surface=\"上手\">上手<rt>じょうず</rt></ruby>な<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>だ。"
     },
     {
       "id": "p08",
@@ -155,8 +155,8 @@
       "kind": "dialogue",
       "speaker": "ママ",
       "text": "あら、本当にきれいですね。",
-      "html": "あら、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にきれいですね。",
-      "htmlFull": "あら、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にきれいですね。"
+      "html": "あら、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>にきれいですね。",
+      "htmlFull": "あら、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>にきれいですね。"
     },
     {
       "id": "p15",

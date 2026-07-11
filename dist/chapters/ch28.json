@@ -149,8 +149,8 @@
       "kind": "dialogue",
       "speaker": "飛行鬼",
       "text": "ああ、つかまえられない！本当に、珍しいほど速いアリだ。",
-      "html": "ああ、つかまえられない！<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に、<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しいほど<span class=\"word\" data-lemma=\"早い\" data-surface=\"速い\" data-reading=\"はやい\">速い</span>アリだ。",
-      "htmlFull": "ああ、つかまえられない！<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に、<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しいほど<ruby data-lemma=\"早い\" data-surface=\"速い\">速<rt>はや</rt></ruby>いアリだ。"
+      "html": "ああ、つかまえられない！<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>に、<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しいほど<span class=\"word\" data-lemma=\"早い\" data-surface=\"速い\" data-reading=\"はやい\">速い</span>アリだ。",
+      "htmlFull": "ああ、つかまえられない！<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>に、<ruby data-lemma=\"珍しい\" data-surface=\"珍しい\">珍<rt>めずら</rt></ruby>しいほど<ruby data-lemma=\"早い\" data-surface=\"速い\">速<rt>はや</rt></ruby>いアリだ。"
     },
     {
       "id": "p14",

@@ -121,8 +121,8 @@
       "kind": "dialogue",
       "speaker": "フローレン",
       "text": "山も木も、本当にきれいね。",
-      "html": "<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>も<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>も、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にきれいね。",
-      "htmlFull": "<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>も<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>も、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にきれいね。"
+      "html": "<span class=\"word\" data-lemma=\"山\" data-surface=\"山\" data-reading=\"やま\">山</span>も<span class=\"word\" data-lemma=\"木\" data-surface=\"木\" data-reading=\"き\">木</span>も、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>にきれいね。",
+      "htmlFull": "<ruby data-lemma=\"山\" data-surface=\"山\">山<rt>やま</rt></ruby>も<ruby data-lemma=\"木\" data-surface=\"木\">木<rt>き</rt></ruby>も、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>にきれいね。"
     },
     {
       "id": "p11",

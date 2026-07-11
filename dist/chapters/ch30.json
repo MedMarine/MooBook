@@ -168,8 +168,8 @@
       "kind": "dialogue",
       "speaker": "スニフ",
       "text": "うん…よかった。もう、だれも、ぼくをびっくりさせないでね。ムーミンがいなかったら、ぼく、本当に泣いてた。",
-      "html": "うん…よかった。もう、だれも、ぼくをびっくりさせないでね。ムーミンがいなかったら、ぼく、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に<ruby data-lemma=\"泣く\" data-surface=\"泣い\">泣<rt>な</rt></ruby>いてた。",
-      "htmlFull": "うん…よかった。もう、だれも、ぼくをびっくりさせないでね。ムーミンがいなかったら、ぼく、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に<ruby data-lemma=\"泣く\" data-surface=\"泣い\">泣<rt>な</rt></ruby>いてた。"
+      "html": "うん…よかった。もう、だれも、ぼくをびっくりさせないでね。ムーミンがいなかったら、ぼく、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>に<ruby data-lemma=\"泣く\" data-surface=\"泣い\">泣<rt>な</rt></ruby>いてた。",
+      "htmlFull": "うん…よかった。もう、だれも、ぼくをびっくりさせないでね。ムーミンがいなかったら、ぼく、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>に<ruby data-lemma=\"泣く\" data-surface=\"泣い\">泣<rt>な</rt></ruby>いてた。"
     },
     {
       "id": "p17",
@@ -200,8 +200,8 @@
       "kind": "narration",
       "speaker": null,
       "text": "化け物は本当にいなかった。兄のいびきがあっただけ。小さいハートの飾りがあっただけ。",
-      "html": "<span class=\"word\" data-lemma=\"化け物\" data-surface=\"化け物\" data-reading=\"ばけもの\">化け物</span>は<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にいなかった。<span class=\"word\" data-lemma=\"兄\" data-surface=\"兄\" data-reading=\"あに\">兄</span>のいびきがあっただけ。<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>ハートの<ruby data-lemma=\"飾り\" data-surface=\"飾り\">飾<rt>かざ</rt></ruby>りがあっただけ。",
-      "htmlFull": "<ruby data-lemma=\"化け物\" data-surface=\"化け物\">化け物<rt>ばけもの</rt></ruby>は<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にいなかった。<ruby data-lemma=\"兄\" data-surface=\"兄\">兄<rt>あに</rt></ruby>のいびきがあっただけ。<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいハートの<ruby data-lemma=\"飾り\" data-surface=\"飾り\">飾<rt>かざ</rt></ruby>りがあっただけ。"
+      "html": "<span class=\"word\" data-lemma=\"化け物\" data-surface=\"化け物\" data-reading=\"ばけもの\">化け物</span>は<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>にいなかった。<span class=\"word\" data-lemma=\"兄\" data-surface=\"兄\" data-reading=\"あに\">兄</span>のいびきがあっただけ。<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>ハートの<ruby data-lemma=\"飾り\" data-surface=\"飾り\">飾<rt>かざ</rt></ruby>りがあっただけ。",
+      "htmlFull": "<ruby data-lemma=\"化け物\" data-surface=\"化け物\">化け物<rt>ばけもの</rt></ruby>は<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>にいなかった。<ruby data-lemma=\"兄\" data-surface=\"兄\">兄<rt>あに</rt></ruby>のいびきがあっただけ。<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さいハートの<ruby data-lemma=\"飾り\" data-surface=\"飾り\">飾<rt>かざ</rt></ruby>りがあっただけ。"
     },
     {
       "id": "p21",

@@ -116,8 +116,8 @@
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "本当だ。小さい、小さい声だ。だれの声だろう？どうぞ、こちらへ来てください。",
-      "html": "<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>だ。<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>だ。だれの<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>だろう？どうぞ、こちらへ<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>てください。",
-      "htmlFull": "<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>だ。<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい、<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>だ。だれの<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>だろう？どうぞ、こちらへ<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>てください。"
+      "html": "<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>だ。<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span>、<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>だ。だれの<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>だろう？どうぞ、こちらへ<span class=\"word\" data-lemma=\"来る\" data-surface=\"来\" data-reading=\"き\">来</span>てください。",
+      "htmlFull": "<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>だ。<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい、<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>だ。だれの<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>だろう？どうぞ、こちらへ<ruby data-lemma=\"来る\" data-surface=\"来\">来<rt>き</rt></ruby>てください。"
     },
     {
       "id": "p10",

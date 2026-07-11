@@ -149,8 +149,8 @@
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "本当？ありがとう、スナフキン！",
-      "html": "<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>？ありがとう、スナフキン！",
-      "htmlFull": "<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>？ありがとう、スナフキン！"
+      "html": "<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>？ありがとう、スナフキン！",
+      "htmlFull": "<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>？ありがとう、スナフキン！"
     },
     {
       "id": "p14",
@@ -173,8 +173,8 @@
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "わあ、本当にきれいな海だ！",
-      "html": "わあ、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にきれいな<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>だ！",
-      "htmlFull": "わあ、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にきれいな<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>だ！"
+      "html": "わあ、<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>にきれいな<span class=\"word\" data-lemma=\"海\" data-surface=\"海\" data-reading=\"うみ\">海</span>だ！",
+      "htmlFull": "わあ、<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>にきれいな<ruby data-lemma=\"海\" data-surface=\"海\">海<rt>うみ</rt></ruby>だ！"
     },
     {
       "id": "p17",

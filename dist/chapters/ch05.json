@@ -90,8 +90,8 @@
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "本当？だれだろう。",
-      "html": "<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>？だれだろう。",
-      "htmlFull": "<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>？だれだろう。"
+      "html": "<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>？だれだろう。",
+      "htmlFull": "<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>？だれだろう。"
     },
     {
       "id": "p07",
@@ -122,8 +122,8 @@
       "kind": "dialogue",
       "speaker": "フローレン",
       "text": "よかった。やっと、みんないっしょね。本当に心配したのよ。",
-      "html": "よかった。やっと、みんないっしょね。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に<span class=\"word\" data-lemma=\"心配\" data-surface=\"心配\" data-reading=\"しんぱい\">心配</span>したのよ。",
-      "htmlFull": "よかった。やっと、みんないっしょね。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に<ruby data-lemma=\"心配\" data-surface=\"心配\">心配<rt>しんぱい</rt></ruby>したのよ。"
+      "html": "よかった。やっと、みんないっしょね。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>に<span class=\"word\" data-lemma=\"心配\" data-surface=\"心配\" data-reading=\"しんぱい\">心配</span>したのよ。",
+      "htmlFull": "よかった。やっと、みんないっしょね。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>に<ruby data-lemma=\"心配\" data-surface=\"心配\">心配<rt>しんぱい</rt></ruby>したのよ。"
     },
     {
       "id": "p11",
@@ -178,8 +178,8 @@
       "kind": "narration",
       "speaker": null,
       "text": "朝の庭は、三人の声で、いっぱいになった。ドアのそばでは、あかいリボンが、そっと動いた。ニンニも、ここにいたのだ。本当にいい朝だった。",
-      "html": "<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>の<span class=\"word\" data-lemma=\"庭\" data-surface=\"庭\" data-reading=\"にわ\">庭</span>は、<span class=\"word\" data-lemma=\"三\" data-surface=\"三\" data-reading=\"さん\">三</span><span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"にん\">人</span>の<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>で、いっぱいになった。ドアのそばでは、あかいリボンが、そっと<span class=\"word\" data-lemma=\"動く\" data-surface=\"動い\" data-reading=\"うごい\">動い</span>た。ニンニも、ここにいたのだ。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>にいい<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>だった。",
-      "htmlFull": "<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>の<ruby data-lemma=\"庭\" data-surface=\"庭\">庭<rt>にわ</rt></ruby>は、<ruby data-lemma=\"三\" data-surface=\"三\">三<rt>さん</rt></ruby><ruby data-lemma=\"人\" data-surface=\"人\">人<rt>にん</rt></ruby>の<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>で、いっぱいになった。ドアのそばでは、あかいリボンが、そっと<ruby data-lemma=\"動く\" data-surface=\"動い\">動<rt>うご</rt></ruby>いた。ニンニも、ここにいたのだ。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>にいい<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>だった。"
+      "html": "<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>の<span class=\"word\" data-lemma=\"庭\" data-surface=\"庭\" data-reading=\"にわ\">庭</span>は、<span class=\"word\" data-lemma=\"三\" data-surface=\"三\" data-reading=\"さん\">三</span><span class=\"word\" data-lemma=\"人\" data-surface=\"人\" data-reading=\"にん\">人</span>の<span class=\"word\" data-lemma=\"声\" data-surface=\"声\" data-reading=\"こえ\">声</span>で、いっぱいになった。ドアのそばでは、あかいリボンが、そっと<span class=\"word\" data-lemma=\"動く\" data-surface=\"動い\" data-reading=\"うごい\">動い</span>た。ニンニも、ここにいたのだ。<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>にいい<span class=\"word\" data-lemma=\"朝\" data-surface=\"朝\" data-reading=\"あさ\">朝</span>だった。",
+      "htmlFull": "<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>の<ruby data-lemma=\"庭\" data-surface=\"庭\">庭<rt>にわ</rt></ruby>は、<ruby data-lemma=\"三\" data-surface=\"三\">三<rt>さん</rt></ruby><ruby data-lemma=\"人\" data-surface=\"人\">人<rt>にん</rt></ruby>の<ruby data-lemma=\"声\" data-surface=\"声\">声<rt>こえ</rt></ruby>で、いっぱいになった。ドアのそばでは、あかいリボンが、そっと<ruby data-lemma=\"動く\" data-surface=\"動い\">動<rt>うご</rt></ruby>いた。ニンニも、ここにいたのだ。<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>にいい<ruby data-lemma=\"朝\" data-surface=\"朝\">朝<rt>あさ</rt></ruby>だった。"
     }
   ],
   "focusVocab": [

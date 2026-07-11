@@ -93,8 +93,8 @@
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "本当だ！前にはなかった。だれが作ったんだろう。",
-      "html": "<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>だ！<span class=\"word\" data-lemma=\"前\" data-surface=\"前\" data-reading=\"まえ\">前</span>にはなかった。だれが<span class=\"word\" data-lemma=\"作る\" data-surface=\"作っ\" data-reading=\"つくっ\">作っ</span>たんだろう。",
-      "htmlFull": "<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>だ！<ruby data-lemma=\"前\" data-surface=\"前\">前<rt>まえ</rt></ruby>にはなかった。だれが<ruby data-lemma=\"作る\" data-surface=\"作っ\">作<rt>つく</rt></ruby>ったんだろう。"
+      "html": "<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>だ！<span class=\"word\" data-lemma=\"前\" data-surface=\"前\" data-reading=\"まえ\">前</span>にはなかった。だれが<span class=\"word\" data-lemma=\"作る\" data-surface=\"作っ\" data-reading=\"つくっ\">作っ</span>たんだろう。",
+      "htmlFull": "<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>だ！<ruby data-lemma=\"前\" data-surface=\"前\">前<rt>まえ</rt></ruby>にはなかった。だれが<ruby data-lemma=\"作る\" data-surface=\"作っ\">作<rt>つく</rt></ruby>ったんだろう。"
     },
     {
       "id": "p07",

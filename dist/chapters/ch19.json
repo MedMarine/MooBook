@@ -171,8 +171,8 @@
       "kind": "dialogue",
       "speaker": "ムーミン",
       "text": "本当に、助けたい。ぼくが助けるんだ。",
-      "html": "<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に、<span class=\"word\" data-lemma=\"助ける\" data-surface=\"助け\" data-reading=\"たすけ\">助け</span>たい。ぼくが<span class=\"word\" data-lemma=\"助ける\" data-surface=\"助ける\" data-reading=\"たすける\">助ける</span>んだ。",
-      "htmlFull": "<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に、<ruby data-lemma=\"助ける\" data-surface=\"助け\">助<rt>たす</rt></ruby>けたい。ぼくが<ruby data-lemma=\"助ける\" data-surface=\"助ける\">助<rt>たす</rt></ruby>けるんだ。"
+      "html": "<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>に、<span class=\"word\" data-lemma=\"助ける\" data-surface=\"助け\" data-reading=\"たすけ\">助け</span>たい。ぼくが<span class=\"word\" data-lemma=\"助ける\" data-surface=\"助ける\" data-reading=\"たすける\">助ける</span>んだ。",
+      "htmlFull": "<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>に、<ruby data-lemma=\"助ける\" data-surface=\"助け\">助<rt>たす</rt></ruby>けたい。ぼくが<ruby data-lemma=\"助ける\" data-surface=\"助ける\">助<rt>たす</rt></ruby>けるんだ。"
     },
     {
       "id": "p17",
@@ -219,8 +219,8 @@
       "kind": "narration",
       "speaker": null,
       "text": "フローレンはあったかいお茶をあげて、スニフも小さい子に笑った。「本当に、自信がついたな」と、ムーミンは思った。",
-      "html": "フローレンはあったかいお<span class=\"word\" data-lemma=\"茶\" data-surface=\"茶\" data-reading=\"ちゃ\">茶</span>をあげて、スニフも<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>に<ruby data-lemma=\"笑う\" data-surface=\"笑っ\">笑<rt>わら</rt></ruby>った。「<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんと\">本当</span>に、<ruby data-lemma=\"自信\" data-surface=\"自信\">自信<rt>じしん</rt></ruby>がついたな」と、ムーミンは<span class=\"word\" data-lemma=\"思う\" data-surface=\"思っ\" data-reading=\"おもっ\">思っ</span>た。",
-      "htmlFull": "フローレンはあったかいお<ruby data-lemma=\"茶\" data-surface=\"茶\">茶<rt>ちゃ</rt></ruby>をあげて、スニフも<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>に<ruby data-lemma=\"笑う\" data-surface=\"笑っ\">笑<rt>わら</rt></ruby>った。「<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんと</rt></ruby>に、<ruby data-lemma=\"自信\" data-surface=\"自信\">自信<rt>じしん</rt></ruby>がついたな」と、ムーミンは<ruby data-lemma=\"思う\" data-surface=\"思っ\">思<rt>おも</rt></ruby>った。"
+      "html": "フローレンはあったかいお<span class=\"word\" data-lemma=\"茶\" data-surface=\"茶\" data-reading=\"ちゃ\">茶</span>をあげて、スニフも<span class=\"word\" data-lemma=\"小さい\" data-surface=\"小さい\" data-reading=\"ちいさい\">小さい</span><span class=\"word\" data-lemma=\"子\" data-surface=\"子\" data-reading=\"こ\">子</span>に<ruby data-lemma=\"笑う\" data-surface=\"笑っ\">笑<rt>わら</rt></ruby>った。「<span class=\"word\" data-lemma=\"本当\" data-surface=\"本当\" data-reading=\"ほんとう\">本当</span>に、<ruby data-lemma=\"自信\" data-surface=\"自信\">自信<rt>じしん</rt></ruby>がついたな」と、ムーミンは<span class=\"word\" data-lemma=\"思う\" data-surface=\"思っ\" data-reading=\"おもっ\">思っ</span>た。",
+      "htmlFull": "フローレンはあったかいお<ruby data-lemma=\"茶\" data-surface=\"茶\">茶<rt>ちゃ</rt></ruby>をあげて、スニフも<ruby data-lemma=\"小さい\" data-surface=\"小さい\">小<rt>ちい</rt></ruby>さい<ruby data-lemma=\"子\" data-surface=\"子\">子<rt>こ</rt></ruby>に<ruby data-lemma=\"笑う\" data-surface=\"笑っ\">笑<rt>わら</rt></ruby>った。「<ruby data-lemma=\"本当\" data-surface=\"本当\">本当<rt>ほんとう</rt></ruby>に、<ruby data-lemma=\"自信\" data-surface=\"自信\">自信<rt>じしん</rt></ruby>がついたな」と、ムーミンは<ruby data-lemma=\"思う\" data-surface=\"思っ\">思<rt>おも</rt></ruby>った。"
     },
     {
       "id": "p23",
